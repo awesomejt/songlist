@@ -1,0 +1,355 @@
+songs:
+  - rank: 1
+    title: "Maneater"
+    artist: "Daryl Hall & John Oates"
+    year: 1982
+    album: "H2O"
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Million Seller
+      - Cultural Icon
+  - rank: 2
+    title: "I Can't Go for That (No Can Do)"
+    artist: "Daryl Hall & John Oates"
+    year: 1981
+    album: "Private Eyes"
+    genres:
+      - Rock
+      - Soul
+      - R&B
+    tags:
+      - Billboard #1
+      - R&B #1
+      - Dance #1
+      - Cultural Icon
+  - rank: 3
+    title: "Rich Girl"
+    artist: "Daryl Hall & John Oates"
+    year: 1976
+    album: "Bigger Than Both of Us"
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - Cultural Icon
+  - rank: 4
+    title: "Kiss on My List"
+    artist: "Daryl Hall & John Oates"
+    year: 1980
+    album: "Voices"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 5
+    title: "Private Eyes"
+    artist: "Daryl Hall & John Oates"
+    year: 1981
+    album: "Private Eyes"
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 6
+    title: "Out of Touch"
+    artist: "Daryl Hall & John Oates"
+    year: 1984
+    album: "Big Bam Boom"
+    genres:
+      - Pop
+      - Rock
+      - Dance
+    tags:
+      - Billboard #1
+      - Dance #1
+      - UK Top 40
+  - rank: 7
+    title: "Sara Smile"
+    artist: "Daryl Hall & John Oates"
+    year: 1975
+    album: "Daryl Hall & John Oates"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "She's Gone"
+    artist: "Daryl Hall & John Oates"
+    year: 1973
+    album: "Abandoned Luncheonette"
+    genres:
+      - Soul
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 9
+    title: "Say It Isn't So"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    album: "Rock 'n Soul Part 1"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 10
+      - Dance #1
+      - UK Top 100
+  - rank: 10
+    title: "You Make My Dreams"
+    artist: "Daryl Hall & John Oates"
+    year: 1980
+    album: "Voices"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 11
+    title: "Family Man"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    album: "H2O"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Cover
+      - UK Top 20
+  - rank: 12
+    title: "Adult Education"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    album: "Rock 'n Soul Part 1"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+  - rank: 13
+    title: "Method of Modern Love"
+    artist: "Daryl Hall & John Oates"
+    year: 1984
+    album: "Big Bam Boom"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 14
+    title: "One on One"
+    artist: "Daryl Hall & John Oates"
+    year: 1982
+    album: "H2O"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Adult Contemporary #2
+  - rank: 15
+    title: "You've Lost That Lovin' Feelin'"
+    artist: "Daryl Hall & John Oates"
+    year: 1980
+    album: "Voices"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+    tags:
+      - Billboard Top 20
+      - Cover
+  - rank: 16
+    title: "Everytime You Go Away"
+    artist: "Daryl Hall & John Oates"
+    year: 1980
+    album: "Voices"
+    genres:
+      - Pop
+      - Soul
+      - Ballad
+    tags:
+      - Cultural Icon
+      - Cover
+  - rank: 17
+    title: "Everything Your Heart Desires"
+    artist: "Daryl Hall & John Oates"
+    year: 1988
+    album: "Ooh Yeah!"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 10
+  - rank: 18
+    title: "Did It in a Minute"
+    artist: "Daryl Hall & John Oates"
+    year: 1981
+    album: "Private Eyes"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+  - rank: 19
+    title: "Wait for Me"
+    artist: "Daryl Hall & John Oates"
+    year: 1979
+    album: "X-Static"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 20
+  - rank: 20
+    title: "So Close"
+    artist: "Daryl Hall & John Oates"
+    year: 1990
+    album: "Change of Season"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 20
+      - Adult Contemporary #1
+  - rank: 21
+    title: "Back Together Again"
+    artist: "Daryl Hall & John Oates"
+    year: 1977
+    album: "Bigger Than Both of Us"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+    tags:
+      - Billboard Top 40
+  - rank: 22
+    title: "How Does It Feel to Be Back"
+    artist: "Daryl Hall & John Oates"
+    year: 1980
+    album: "Voices"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+  - rank: 23
+    title: "Your Imagination"
+    artist: "Daryl Hall & John Oates"
+    year: 1981
+    album: "Private Eyes"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 40
+  - rank: 24
+    title: "Some Things Are Better Left Unsaid"
+    artist: "Daryl Hall & John Oates"
+    year: 1984
+    album: "Big Bam Boom"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 20
+  - rank: 25
+    title: "Possession Obsession"
+    artist: "Daryl Hall & John Oates"
+    year: 1984
+    album: "Big Bam Boom"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 40
+  - rank: 26
+    title: "Jingle Bell Rock"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    single: true
+    genres:
+      - Pop
+      - Holiday
+    tags:
+      - Billboard Top 40
+      - Cover
+      - Holiday Song
+  - rank: 27
+    title: "Camellia"
+    artist: "Daryl Hall & John Oates"
+    year: 1975
+    album: "Daryl Hall & John Oates"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+    tags:
+      - Deep Cut
+  - rank: 28
+    title: "Lady Rain"
+    artist: "Daryl Hall & John Oates"
+    year: 1972
+    album: "Whole Oats"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+    tags:
+      - Deep Cut
+  - rank: 29
+    title: "Do It for Love"
+    artist: "Daryl Hall & John Oates"
+    year: 2002
+    album: "Do It for Love"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Adult Contemporary #1
+  - rank: 30
+    title: "Miss DJ"
+    artist: "Daryl Hall & John Oates"
+    year: 2002
+    album: "Do It for Love"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Deep Cut

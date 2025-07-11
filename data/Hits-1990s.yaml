@@ -1,0 +1,631 @@
+songs:
+  - rank: 1
+    title: "Smells Like Teen Spirit"
+    artist: "Nirvana"
+    year: 1991
+    album: "Nevermind"
+    genres:
+      - Grunge
+      - Alternative Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 2
+    title: "I Will Always Love You"
+    artist: "Whitney Houston"
+    year: 1992
+    album: "The Bodyguard"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Soundtrack
+      - Cover
+      - Grammy Winner
+  - rank: 3
+    title: "Baby One More Time"
+    artist: "Britney Spears"
+    year: 1998
+    album: "...Baby One More Time"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 4
+    title: "My Heart Will Go On"
+    artist: "Celine Dion"
+    year: 1997
+    album: "Let's Talk About Love"
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Soundtrack
+      - Grammy Winner
+  - rank: 5
+    title: "Nothing Compares 2 U"
+    artist: "Sinead O'Connor"
+    year: 1990
+    album: "I Do Not Want What I Haven't Got"
+    genres:
+      - Pop
+      - Alternative Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 6
+    title: "Macarena (Bayside Boys Mix)"
+    artist: "Los Del Rio"
+    year: 1995
+    single: true
+    genres:
+      - Pop
+      - Latin Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 7
+    title: "U Can't Touch This"
+    artist: "MC Hammer"
+    year: 1990
+    album: "Please Hammer, Don't Hurt 'Em"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "Ice Ice Baby"
+    artist: "Vanilla Ice"
+    year: 1990
+    album: "To the Extreme"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 9
+    title: "I'm Too Sexy"
+    artist: "Right Said Fred"
+    year: 1991
+    single: true
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 10
+    title: "Vogue"
+    artist: "Madonna"
+    year: 1990
+    album: "I'm Breathless"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 11
+    title: "Wannabe"
+    artist: "Spice Girls"
+    year: 1996
+    album: "Spice"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 12
+    title: "Torn"
+    artist: "Natalie Imbruglia"
+    year: 1997
+    album: "Left of the Middle"
+    genres:
+      - Pop
+      - Alternative Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 13
+    title: "Creep"
+    artist: "Radiohead"
+    year: 1992
+    album: "Pablo Honey"
+    genres:
+      - Alternative Rock
+      - Grunge
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+  - rank: 14
+    title: "Baby Got Back"
+    artist: "Sir Mix-a-Lot"
+    year: 1992
+    album: "Mack Daddy"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 15
+    title: "Under the Bridge"
+    artist: "Red Hot Chili Peppers"
+    year: 1992
+    album: "Blood Sugar Sex Magik"
+    genres:
+      - Alternative Rock
+      - Funk Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+  - rank: 16
+    title: "Losing My Religion"
+    artist: "R.E.M."
+    year: 1991
+    album: "Out of Time"
+    genres:
+      - Alternative Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+  - rank: 17
+    title: "No Scrubs"
+    artist: "TLC"
+    year: 1999
+    album: "FanMail"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 18
+    title: "Waterfalls"
+    artist: "TLC"
+    year: 1995
+    album: "CrazySexyCool"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 19
+    title: "Gangsta's Paradise"
+    artist: "Coolio featuring L.V."
+    year: 1995
+    album: "Gangsta's Paradise"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Soundtrack
+      - Bottled Lightning
+  - rank: 20
+    title: "Jump Around"
+    artist: "House of Pain"
+    year: 1992
+    album: "House of Pain"
+    genres:
+      - Hip-Hop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 21
+    title: "What Is Love"
+    artist: "Haddaway"
+    year: 1993
+    album: "The Album"
+    genres:
+      - Dance-Pop
+      - Eurodance
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 22
+    title: "Tubthumping"
+    artist: "Chumbawamba"
+    year: 1997
+    album: "Tubthumper"
+    genres:
+      - Alternative Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 23
+    title: "How Bizarre"
+    artist: "OMC"
+    year: 1996
+    album: "How Bizarre"
+    genres:
+      - Pop
+      - Hip-Hop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 24
+    title: "What's Up"
+    artist: "4 Non Blondes"
+    year: 1993
+    album: "Bigger, Better, Faster, More!"
+    genres:
+      - Alternative Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 25
+    title: "Unbelievable"
+    artist: "EMF"
+    year: 1990
+    album: "Schubert Dip"
+    genres:
+      - Alternative Rock
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 26
+    title: "One of Us"
+    artist: "Joan Osborne"
+    year: 1995
+    album: "Relish"
+    genres:
+      - Alternative Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 27
+    title: "Wild Wild West"
+    artist: "Will Smith featuring Dru Hill & Kool Moe Dee"
+    year: 1999
+    album: "Will 2K"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 28
+    title: "Baby, I Love Your Way"
+    artist: "Big Mountain"
+    year: 1994
+    single: true
+    genres:
+      - Reggae
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+      - Cover
+      - Bottled Lightning
+  - rank: 29
+    title: "I've Been Thinking About You"
+    artist: "Londonbeat"
+    year: 1990
+    album: "In the Blood"
+    genres:
+      - Dance-Pop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 30
+    title: "End of the Road"
+    artist: "Boyz II Men"
+    year: 1992
+    album: "Cooleyhighharmony"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 31
+    title: "I Want It That Way"
+    artist: "Backstreet Boys"
+    year: 1999
+    album: "Millennium"
+    genres:
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 32
+    title: "I'll Be Missing You"
+    artist: "Puff Daddy & Faith Evans featuring 112"
+    year: 1997
+    single: true
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Cover
+  - rank: 33
+    title: "All I Wanna Do"
+    artist: "Sheryl Crow"
+    year: 1994
+    album: "Tuesday Night Music Club"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 34
+    title: "Kiss from a Rose"
+    artist: "Seal"
+    year: 1994
+    album: "Seal"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 35
+    title: "Black or White"
+    artist: "Michael Jackson"
+    year: 1991
+    album: "Dangerous"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 36
+    title: "Mmmbop"
+    artist: "Hanson"
+    year: 1997
+    album: "Middle of Nowhere"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 37
+    title: "Livin' la Vida Loca"
+    artist: "Ricky Martin"
+    year: 1999
+    album: "Ricky Martin"
+    genres:
+      - Pop
+      - Latin Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 38
+    title: "Smooth"
+    artist: "Santana featuring Rob Thomas"
+    year: 1999
+    album: "Supernatural"
+    genres:
+      - Rock
+      - Latin Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 39
+    title: "I Believe I Can Fly"
+    artist: "R. Kelly"
+    year: 1996
+    album: "Space Jam"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #2
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+      - Grammy Winner
+  - rank: 40
+    title: "No Diggity"
+    artist: "Blackstreet featuring Dr. Dre"
+    year: 1996
+    album: "Another Level"
+    genres:
+      - Rhythm and Blues
+      - Hip-Hop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 41
+    title: "Believe"
+    artist: "Cher"
+    year: 1998
+    album: "Believe"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 42
+    title: "All the Small Things"
+    artist: "Blink-182"
+    year: 1999
+    album: "Enema of the State"
+    genres:
+      - Pop Punk
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 43
+    title: "Genie in a Bottle"
+    artist: "Christina Aguilera"
+    year: 1999
+    album: "Christina Aguilera"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 44
+    title: "Wonderwall"
+    artist: "Oasis"
+    year: 1995
+    album: "(What's the Story) Morning Glory?"
+    genres:
+      - Rock
+      - Britpop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 45
+    title: "Bittersweet Symphony"
+    artist: "The Verve"
+    year: 1997
+    album: "Urban Hymns"
+    genres:
+      - Alternative Rock
+      - Britpop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 46
+    title: "I Don't Want to Miss a Thing"
+    artist: "Aerosmith"
+    year: 1998
+    album: "Armageddon"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 47
+    title: "Everybody (Backstreet's Back)"
+    artist: "Backstreet Boys"
+    year: 1997
+    album: "Backstreet Boys"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 48
+    title: "Truly Madly Deeply"
+    artist: "Savage Garden"
+    year: 1997
+    album: "Savage Garden"
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 49
+    title: "You Get What You Give"
+    artist: "New Radicals"
+    year: 1998
+    album: "Maybe You've Been Brainwashed Too"
+    genres:
+      - Pop
+      - Alternative Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 50
+    title: "Closing Time"
+    artist: "Semisonic"
+    year: 1998
+    album: "Feeling Strangely Fine"
+    genres:
+      - Alternative Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+      - Bottled Lightning

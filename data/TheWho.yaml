@@ -1,0 +1,453 @@
+songs:
+  - rank: 1
+    title: "My Generation"
+    artist: "The Who"
+    year: 1965
+    album: "My Generation"
+    genres:
+      - Rock
+      - Proto-Punk
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Cultural Icon
+  - rank: 2
+    title: "Baba O'Riley"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Hard Rock
+      - Synth Rock
+    tags:
+      - Cultural Icon
+  - rank: 3
+    title: "Won't Get Fooled Again"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Hard Rock
+      - Synth Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "Pinball Wizard"
+    artist: "The Who"
+    year: 1969
+    album: "Tommy"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - Film Song
+  - rank: 5
+    title: "I Can See for Miles"
+    artist: "The Who"
+    year: 1967
+    album: "The Who Sell Out"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "Who Are You"
+    artist: "The Who"
+    year: 1978
+    album: "Who Are You"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+      - Cultural Icon
+  - rank: 7
+    title: "Behind Blue Eyes"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 8
+    title: "I Can't Explain"
+    artist: "The Who"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Power Pop
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Cultural Icon
+  - rank: 9
+    title: "Substitute"
+    artist: "The Who"
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Power Pop
+    tags:
+      - UK Top 10
+      - Cultural Icon
+  - rank: 10
+    title: "I'm Free"
+    artist: "The Who"
+    year: 1969
+    album: "Tommy"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Film Song
+  - rank: 11
+    title: "The Kids Are Alright"
+    artist: "The Who"
+    year: 1965
+    album: "My Generation"
+    genres:
+      - Rock
+      - Power Pop
+    tags:
+      - UK Top 100
+      - Cultural Icon
+  - rank: 12
+    title: "Happy Jack"
+    artist: "The Who"
+    year: 1966
+    album: "A Quick One"
+    genres:
+      - Rock
+      - Pop Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+  - rank: 13
+    title: "See Me, Feel Me"
+    artist: "The Who"
+    year: 1969
+    album: "Tommy"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+      - Film Song
+  - rank: 14
+    title: "Magic Bus"
+    artist: "The Who"
+    year: 1968
+    album: "Magic Bus: The Who on Tour"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+  - rank: 15
+    title: "Squeeze Box"
+    artist: "The Who"
+    year: 1975
+    album: "The Who by Numbers"
+    genres:
+      - Rock
+      - Pop Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 16
+    title: "You Better You Bet"
+    artist: "The Who"
+    year: 1981
+    album: "Face Dances"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 17
+    title: "The Seeker"
+    artist: "The Who"
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 100
+      - UK Top 40
+  - rank: 18
+    title: "Anyway, Anyhow, Anywhere"
+    artist: "The Who"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Proto-Punk
+    tags:
+      - UK Top 10
+  - rank: 19
+    title: "Pictures of Lily"
+    artist: "The Who"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Power Pop
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+  - rank: 20
+    title: "5:15"
+    artist: "The Who"
+    year: 1973
+    album: "Quadrophenia"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - UK Top 40
+      - Cultural Icon
+      - Film Song
+  - rank: 21
+    title: "Love, Reign O'er Me"
+    artist: "The Who"
+    year: 1973
+    album: "Quadrophenia"
+    genres:
+      - Rock
+      - Hard Rock
+      - Ballad
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+      - Film Song
+  - rank: 22
+    title: "Bargain"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Deep Cut
+      - Cultural Icon
+  - rank: 23
+    title: "The Real Me"
+    artist: "The Who"
+    year: 1973
+    album: "Quadrophenia"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+      - Film Song
+  - rank: 24
+    title: "Eminence Front"
+    artist: "The Who"
+    year: 1982
+    album: "It's Hard"
+    genres:
+      - Rock
+      - Synth Rock
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+  - rank: 25
+    title: "I'm a Boy"
+    artist: "The Who"
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop Rock
+    tags:
+      - UK Top 10
+  - rank: 26
+    title: "Join Together"
+    artist: "The Who"
+    year: 1972
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 27
+    title: "Summertime Blues"
+    artist: "The Who"
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Cover
+      - Live Recording
+  - rank: 28
+    title: "A Quick One, While He's Away"
+    artist: "The Who"
+    year: 1966
+    album: "A Quick One"
+    genres:
+      - Rock
+      - Proto-Punk
+    tags:
+      - Cultural Icon
+      - Deep Cut
+  - rank: 29
+    title: "The Song Is Over"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Deep Cut
+  - rank: 30
+    title: "We're Not Gonna Take It"
+    artist: "The Who"
+    year: 1969
+    album: "Tommy"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Deep Cut
+      - Film Song
+  - rank: 31
+    title: "I Can See for Miles (Live)"
+    artist: "The Who"
+    year: 1984
+    album: "Who's Last"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Live Recording
+      - Deep Cut
+  - rank: 32
+    title: "Pure and Easy"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Deep Cut
+  - rank: 33
+    title: "Getting in Tune"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Deep Cut
+  - rank: 34
+    title: "Sparks"
+    artist: "The Who"
+    year: 1969
+    album: "Tommy"
+    genres:
+      - Rock
+      - Hard Rock
+      - Instrumental
+    tags:
+      - Deep Cut
+      - Film Song
+  - rank: 35
+    title: "I'm One"
+    artist: "The Who"
+    year: 1973
+    album: "Quadrophenia"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Deep Cut
+      - Film Song
+  - rank: 36
+    title: "Athena"
+    artist: "The Who"
+    year: 1982
+    album: "It's Hard"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+  - rank: 37
+    title: "Call Me Lightning"
+    artist: "The Who"
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop Rock
+    tags:
+      - Billboard Top 100
+      - UK Top 40
+  - rank: 38
+    title: "Relay"
+    artist: "The Who"
+    year: 1972
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+  - rank: 39
+    title: "Long Live Rock"
+    artist: "The Who"
+    year: 1974
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - UK Top 100
+      - Cultural Icon
+  - rank: 40
+    title: "Real Good Looking Boy"
+    artist: "The Who"
+    year: 2004
+    single: true
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Deep Cut

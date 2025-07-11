@@ -1,0 +1,681 @@
+songs:
+  - rank: 1
+    title: "I Will Always Love You"
+    artist: "Whitney Houston"
+    year: 1992
+    album: "The Bodyguard"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Soundtrack
+      - Grammy Winner
+      - More Popular Than Original
+  - rank: 2
+    title: "Hallelujah"
+    artist: "Jeff Buckley"
+    year: 1994
+    album: "Grace"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 3
+    title: "Respect"
+    artist: "Aretha Franklin"
+    year: 1967
+    album: "I Never Loved a Man the Way I Love You"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - Grammy Winner
+      - More Popular Than Original
+  - rank: 4
+    title: "Tainted Love"
+    artist: "Soft Cell"
+    year: 1981
+    single: true
+    genres:
+      - Synth-Pop
+      - Pop
+    tags:
+      - Cover
+      - Billboard #8
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+      - More Popular Than Original
+  - rank: 5
+    title: "Smooth Criminal"
+    artist: "Alien Ant Farm"
+    year: 2001
+    album: "Anthology"
+    genres:
+      - Rock
+      - Nu Metal
+    tags:
+      - Cover
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+      - More Popular Than Original
+  - rank: 6
+    title: "I Shot the Sheriff"
+    artist: "Eric Clapton"
+    year: 1974
+    album: "461 Ocean Boulevard"
+    genres:
+      - Rock
+      - Reggae
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 7
+    title: "Killing Me Softly with His Song"
+    artist: "Fugees"
+    year: 1996
+    album: "The Score"
+    genres:
+      - Rhythm and Blues
+      - Hip-Hop
+    tags:
+      - Cover
+      - Billboard #2
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+      - More Popular Than Original
+  - rank: 8
+    title: "All Along the Watchtower"
+    artist: "Jimi Hendrix"
+    year: 1968
+    album: "Electric Ladyland"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Cover
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 9
+    title: "Ain't No Mountain High Enough"
+    artist: "Diana Ross"
+    year: 1970
+    album: "Diana Ross"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 10
+    title: "Hound Dog"
+    artist: "Elvis Presley"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 11
+    title: "Valerie"
+    artist: "Amy Winehouse"
+    year: 2007
+    album: "Back to Black (Deluxe Edition)"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - UK Top 10
+      - Cultural Icon
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 12
+    title: "The House of the Rising Sun"
+    artist: "The Animals"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+      - More Popular Than Original
+  - rank: 13
+    title: "I Put a Spell on You"
+    artist: "Creedence Clearwater Revival"
+    year: 1968
+    album: "Creedence Clearwater Revival"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 14
+    title: "Me and Bobby McGee"
+    artist: "Janis Joplin"
+    year: 1971
+    album: "Pearl"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 15
+    title: "Piece of My Heart"
+    artist: "Big Brother and the Holding Company"
+    year: 1968
+    album: "Cheap Thrills"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cover
+      - Billboard Top 20
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 16
+    title: "Proud Mary"
+    artist: "Ike & Tina Turner"
+    year: 1971
+    album: "Workin' Together"
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - Cover
+      - Billboard Top 10
+      - Cultural Icon
+      - Grammy Winner
+      - More Popular Than Original
+  - rank: 17
+    title: "Nothing Compares 2 U"
+    artist: "Sinéad O'Connor"
+    year: 1990
+    album: "I Do Not Want What I Haven't Got"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+      - More Popular Than Original
+  - rank: 18
+    title: "Turn! Turn! Turn!"
+    artist: "The Byrds"
+    year: 1965
+    album: "Turn! Turn! Turn!"
+    genres:
+      - Rock
+      - Folk Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 19
+    title: "Gloria"
+    artist: "Patti Smith"
+    year: 1975
+    album: "Horses"
+    genres:
+      - Rock
+      - Punk Rock
+    tags:
+      - Cover
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 20
+    title: "The First Cut Is the Deepest"
+    artist: "Sheryl Crow"
+    year: 2003
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 21
+    title: "You Really Got Me"
+    artist: "Van Halen"
+    year: 1978
+    album: "Van Halen"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 22
+    title: "Higher Ground"
+    artist: "Red Hot Chili Peppers"
+    year: 1989
+    album: "Mother's Milk"
+    genres:
+      - Rock
+      - Funk Rock
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 23
+    title: "I Fought the Law"
+    artist: "The Clash"
+    year: 1979
+    album: "The Cost of Living"
+    genres:
+      - Rock
+      - Punk Rock
+    tags:
+      - Cover
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 24
+    title: "Hazy Shade of Winter"
+    artist: "The Bangles"
+    year: 1987
+    album: "Less Than Zero"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cover
+      - Billboard Top 10
+      - Cultural Icon
+      - Soundtrack
+      - More Popular Than Original
+  - rank: 25
+    title: "Because the Night"
+    artist: "Patti Smith Group"
+    year: 1978
+    album: "Easter"
+    genres:
+      - Rock
+      - Punk Rock
+    tags:
+      - Cover
+      - Billboard Top 20
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 26
+    title: "A Thousand Years"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - Soundtrack
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 27
+    title: "Let It Go"
+    artist: "The Piano Guys"
+    year: 2014
+    album: "Wonders"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - Soundtrack
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 28
+    title: "I Heard It Through the Grapevine"
+    artist: "Marvin Gaye"
+    year: 1968
+    album: "In the Groove"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 29
+    title: "Mr. Tambourine Man"
+    artist: "The Byrds"
+    year: 1965
+    album: "Mr. Tambourine Man"
+    genres:
+      - Rock
+      - Folk Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 30
+    title: "My Way"
+    artist: "Frank Sinatra"
+    year: 1969
+    album: "My Way"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 31
+    title: "The Sound of Silence"
+    artist: "Disturbed"
+    year: 2015
+    album: "Immortalized"
+    genres:
+      - Rock
+      - Heavy Metal
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 32
+    title: "Cupid"
+    artist: "Sam Cooke"
+    year: 1961
+    album: "The Best of Sam Cooke"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard Top 20
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 33
+    title: "Walk This Way"
+    artist: "Run-D.M.C."
+    year: 1986
+    album: "Raising Hell"
+    genres:
+      - Hip-Hop
+      - Rock
+    tags:
+      - Cover
+      - Billboard Top 10
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 34
+    title: "I'm a Believer"
+    artist: "Smash Mouth"
+    year: 2001
+    album: "Shrek"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - Soundtrack
+      - More Popular Than Original
+  - rank: 35
+    title: "Feeling Good"
+    artist: "Nina Simone"
+    year: 1965
+    album: "I Put a Spell on You"
+    genres:
+      - Jazz
+      - Rhythm and Blues
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 36
+    title: "Hurt"
+    artist: "Johnny Cash"
+    year: 2002
+    album: "American IV: The Man Comes Around"
+    genres:
+      - Country
+      - Rock
+    tags:
+      - Cover
+      - Cultural Icon
+      - Grammy Winner
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 37
+    title: "Please Mr. Postman"
+    artist: "The Marvelettes"
+    year: 1961
+    album: "Please Mr. Postman"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 38
+    title: "You've Really Got a Hold on Me"
+    artist: "Smokey Robinson & The Miracles"
+    year: 1962
+    album: "The Fabulous Miracles"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard Top 10
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 39
+    title: "I Love Rock 'n' Roll"
+    artist: "Joan Jett & The Blackhearts"
+    year: 1982
+    album: "I Love Rock 'n' Roll"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 40
+    title: "Mony Mony"
+    artist: "Billy Idol"
+    year: 1987
+    album: "Vital Idol"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 41
+    title: "Dancing in the Street"
+    artist: "David Bowie & Mick Jagger"
+    year: 1985
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cover
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+      - More Popular Than Original
+  - rank: 42
+    title: "La Bamba"
+    artist: "Los Lobos"
+    year: 1987
+    album: "La Bamba"
+    genres:
+      - Rock
+      - Latin Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - Soundtrack
+      - More Popular Than Original
+  - rank: 43
+    title: "Try a Little Tenderness"
+    artist: "Otis Redding"
+    year: 1966
+    album: "Complete & Unbelievable: The Otis Redding Dictionary of Soul"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard Top 40
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 44
+    title: "Red Red Wine"
+    artist: "UB40"
+    year: 1983
+    album: "Labour of Love"
+    genres:
+      - Reggae
+      - Pop
+    tags:
+      - Cover
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 45
+    title: "The Loco-Motion"
+    artist: "Grand Funk Railroad"
+    year: 1974
+    album: "Shinin' On"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 46
+    title: "The Twist"
+    artist: "Chubby Checker"
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Cover
+      - Billboard #1
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 47
+    title: "I Got You (I Feel Good)"
+    artist: "James Brown"
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Cover
+      - Billboard Top 10
+      - Cultural Icon
+      - More Popular Than Original
+  - rank: 48
+    title: "Blinding Lights"
+    artist: "The Weeknd"
+    year: 2020
+    album: "After Hours (Deluxe Edition)"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Cover
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - YouTube Hit
+      - More Popular Than Original
+  - rank: 49
+    title: "Torn"
+    artist: "Natalie Imbruglia"
+    year: 1997
+    album: "Left of the Middle"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Cover
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+      - More Popular Than Original
+  - rank: 50
+    title: "With a Little Help from My Friends"
+    artist: "Joe Cocker"
+    year: 1968
+    album: "With a Little Help from My Friends"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cover
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - More Popular Than Original

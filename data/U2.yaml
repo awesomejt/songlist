@@ -1,0 +1,252 @@
+songs:
+  - rank: 1
+    title: "With or Without You"
+    artist: "U2"
+    year: 1987
+    album: "The Joshua Tree"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 2
+    title: "I Still Haven't Found What I'm Looking For"
+    artist: "U2"
+    year: 1987
+    album: "The Joshua Tree"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Nominee
+  - rank: 3
+    title: "Pride (In the Name of Love)"
+    artist: "U2"
+    year: 1984
+    album: "The Unforgettable Fire"
+    genres:
+      - Rock
+      - Post-Punk
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "Sunday Bloody Sunday"
+    artist: "U2"
+    year: 1983
+    album: "War"
+    genres:
+      - Rock
+      - Post-Punk
+    tags:
+      - UK Top 10
+      - Cultural Icon
+  - rank: 5
+    title: "Where the Streets Have No Name"
+    artist: "U2"
+    year: 1987
+    album: "The Joshua Tree"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+      - Cultural Icon
+  - rank: 6
+    title: "One"
+    artist: "U2"
+    year: 1992
+    album: "Achtung Baby"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 7
+    title: "Beautiful Day"
+    artist: "U2"
+    year: 2000
+    album: "All That You Can't Leave Behind"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK #1
+      - Grammy Winner
+  - rank: 8
+    title: "New Year's Day"
+    artist: "U2"
+    year: 1983
+    album: "War"
+    genres:
+      - Rock
+      - Post-Punk
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Cultural Icon
+  - rank: 9
+    title: "Desire"
+    artist: "U2"
+    year: 1988
+    album: "Rattle and Hum"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Grammy Winner
+  - rank: 10
+    title: "Mysterious Ways"
+    artist: "U2"
+    year: 1991
+    album: "Achtung Baby"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 11
+    title: "Hold Me, Thrill Me, Kiss Me, Kill Me"
+    artist: "U2"
+    year: 1995
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK #1
+      - Soundtrack
+  - rank: 12
+    title: "Sweetest Thing"
+    artist: "U2"
+    year: 1998
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+  - rank: 13
+    title: "Angel of Harlem"
+    artist: "U2"
+    year: 1988
+    album: "Rattle and Hum"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 20
+  - rank: 14
+    title: "Discothèque"
+    artist: "U2"
+    year: 1997
+    album: "Pop"
+    genres:
+      - Rock
+      - Pop
+      - Dance-Rock
+    tags:
+      - Billboard Top 20
+      - UK #1
+  - rank: 15
+    title: "The Fly"
+    artist: "U2"
+    year: 1991
+    album: "Achtung Baby"
+    genres:
+      - Rock
+      - Alternative Rock
+    tags:
+      - UK #1
+  - rank: 16
+    title: "Even Better Than the Real Thing"
+    artist: "U2"
+    year: 1992
+    album: "Achtung Baby"
+    genres:
+      - Rock
+      - Alternative Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 20
+  - rank: 17
+    title: "Vertigo"
+    artist: "U2"
+    year: 2004
+    album: "How to Dismantle an Atomic Bomb"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Grammy Winner
+  - rank: 18
+    title: "Bad"
+    artist: "U2"
+    year: 1984
+    album: "The Unforgettable Fire"
+    genres:
+      - Rock
+      - Post-Punk
+    tags:
+      - Cultural Icon
+  - rank: 19
+    title: "I Will Follow"
+    artist: "U2"
+    year: 1980
+    album: "Boy"
+    genres:
+      - Rock
+      - Post-Punk
+    tags:
+      - Cultural Icon
+  - rank: 20
+    title: "Who's Gonna Ride Your Wild Horses"
+    artist: "U2"
+    year: 1992
+    album: "Achtung Baby"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 20
+  - rank: 21
+    title: "All I Want Is You"
+    artist: "U2"
+    year: 1988
+    album: "Rattle and Hum"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+  - rank: 22
+    title: "Staring at the Sun"
+    artist: "U2"
+    year: 1997
+    album: "Pop"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 10

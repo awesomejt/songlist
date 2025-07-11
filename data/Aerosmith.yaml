@@ -1,0 +1,228 @@
+songs:
+  - rank: 1
+    title: "I Don't Want to Miss a Thing"
+    artist: "Aerosmith"
+    year: 1998
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Grammy Nominee
+      - Soundtrack
+      - Cultural Icon
+  - rank: 2
+    title: "Sweet Emotion"
+    artist: "Aerosmith"
+    year: 1975
+    album: "Toys in the Attic"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 3
+    title: "Dream On"
+    artist: "Aerosmith"
+    year: 1973
+    album: "Aerosmith"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "Walk This Way"
+    artist: "Aerosmith"
+    year: 1975
+    album: "Toys in the Attic"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 5
+    title: "Walk This Way"
+    artist: "Aerosmith with Run-D.M.C."
+    year: 1986
+    single: true
+    genres:
+      - Rock
+      - Rap Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Collaboration
+      - Cultural Icon
+      - Cover
+  - rank: 6
+    title: "Janie's Got a Gun"
+    artist: "Aerosmith"
+    year: 1989
+    album: "Pump"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+      - Grammy Winner
+  - rank: 7
+    title: "Cryin'"
+    artist: "Aerosmith"
+    year: 1993
+    album: "Get a Grip"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+      - Grammy Nominee
+  - rank: 8
+    title: "Crazy"
+    artist: "Aerosmith"
+    year: 1994
+    album: "Get a Grip"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+      - Grammy Nominee
+  - rank: 9
+    title: "Love in an Elevator"
+    artist: "Aerosmith"
+    year: 1989
+    album: "Pump"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 10
+    title: "Dude (Looks Like a Lady)"
+    artist: "Aerosmith"
+    year: 1987
+    album: "Permanent Vacation"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+      - Cultural Icon
+  - rank: 11
+    title: "Livin' on the Edge"
+    artist: "Aerosmith"
+    year: 1993
+    album: "Get a Grip"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+      - Grammy Winner
+  - rank: 12
+    title: "Rag Doll"
+    artist: "Aerosmith"
+    year: 1987
+    album: "Permanent Vacation"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+  - rank: 13
+    title: "What It Takes"
+    artist: "Aerosmith"
+    year: 1989
+    album: "Pump"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 14
+    title: "Angel"
+    artist: "Aerosmith"
+    year: 1988
+    album: "Permanent Vacation"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 15
+    title: "Back in the Saddle"
+    artist: "Aerosmith"
+    year: 1976
+    album: "Rocks"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 16
+    title: "Last Child"
+    artist: "Aerosmith"
+    year: 1976
+    album: "Rocks"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+  - rank: 17
+    title: "Jaded"
+    artist: "Aerosmith"
+    year: 2001
+    album: "Just Push Play"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 18
+    title: "The Other Side"
+    artist: "Aerosmith"
+    year: 1990
+    album: "Pump"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+  - rank: 19
+    title: "Come Together"
+    artist: "Aerosmith"
+    year: 1978
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - Cover
+      - Soundtrack
+  - rank: 20
+    title: "Draw the Line"
+    artist: "Aerosmith"
+    year: 1977
+    album: "Draw the Line"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40

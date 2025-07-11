@@ -1,0 +1,301 @@
+songs:
+  - rank: 1
+    title: "My Way"
+    artist: "Frank Sinatra"
+    year: 1969
+    album: "My Way"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+  - rank: 2
+    title: "Theme from New York, New York"
+    artist: "Frank Sinatra"
+    year: 1980
+    album: "Trilogy: Past Present Future"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+      - Cover
+      - Soundtrack
+  - rank: 3
+    title: "Strangers in the Night"
+    artist: "Frank Sinatra"
+    year: 1966
+    album: "Strangers in the Night"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard #1
+      - UK #1
+      - Grammy Winner
+      - Cultural Icon
+      - Cover
+  - rank: 4
+    title: "I've Got You Under My Skin"
+    artist: "Frank Sinatra"
+    year: 1956
+    album: "Songs for Swingin' Lovers!"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cultural Icon
+      - Cover
+  - rank: 5
+    title: "Come Fly with Me"
+    artist: "Frank Sinatra"
+    year: 1958
+    album: "Come Fly with Me"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cultural Icon
+      - Cover
+  - rank: 6
+    title: "That's Life"
+    artist: "Frank Sinatra"
+    year: 1966
+    album: "That's Life"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Cover
+  - rank: 7
+    title: "Young at Heart"
+    artist: "Frank Sinatra"
+    year: 1953
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Cover
+      - Soundtrack
+  - rank: 8
+    title: "Love and Marriage"
+    artist: "Frank Sinatra"
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 9
+    title: "All the Way"
+    artist: "Frank Sinatra"
+    year: 1957
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 20
+      - Grammy Winner
+      - Soundtrack
+      - Cover
+  - rank: 10
+    title: "The Lady Is a Tramp"
+    artist: "Frank Sinatra"
+    year: 1957
+    album: "Pal Joey"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cultural Icon
+      - Cover
+      - Soundtrack
+  - rank: 11
+    title: "Witchcraft"
+    artist: "Frank Sinatra"
+    year: 1957
+    album: "Close to You"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 12
+    title: "Somethin' Stupid"
+    artist: "Frank Sinatra with Nancy Sinatra"
+    year: 1967
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard #1
+      - UK #1
+      - Collaboration
+      - Cover
+  - rank: 13
+    title: "One for My Baby (and One More for the Road)"
+    artist: "Frank Sinatra"
+    year: 1958
+    album: "Only the Lonely"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cultural Icon
+      - Cover
+  - rank: 14
+    title: "Three Coins in the Fountain"
+    artist: "Frank Sinatra"
+    year: 1954
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Soundtrack
+      - Cover
+  - rank: 15
+    title: "Learnin' the Blues"
+    artist: "Frank Sinatra"
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+  - rank: 16
+    title: "High Hopes"
+    artist: "Frank Sinatra"
+    year: 1959
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 40
+      - Grammy Nominee
+      - Soundtrack
+  - rank: 17
+    title: "All of Me"
+    artist: "Frank Sinatra"
+    year: 1948
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+      - Cover
+  - rank: 18
+    title: "Night and Day"
+    artist: "Frank Sinatra"
+    year: 1942
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+      - Cover
+  - rank: 19
+    title: "Five Minutes More"
+    artist: "Frank Sinatra"
+    year: 1946
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+      - Cover
+  - rank: 20
+    title: "South of the Border"
+    artist: "Frank Sinatra"
+    year: 1953
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 20
+      - Cover
+  - rank: 21
+    title: "(Love Is) The Tender Trap"
+    artist: "Frank Sinatra"
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 40
+      - Soundtrack
+  - rank: 22
+    title: "Chicago"
+    artist: "Frank Sinatra"
+    year: 1957
+    album: "Come Fly with Me"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+      - Cover
+  - rank: 23
+    title: "It Was a Very Good Year"
+    artist: "Frank Sinatra"
+    year: 1965
+    album: "September of My Years"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 40
+      - Grammy Winner
+      - Cultural Icon
+      - Cover
+  - rank: 24
+    title: "I'll Never Smile Again"
+    artist: "Frank Sinatra with Tommy Dorsey"
+    year: 1940
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard #1
+      - Cultural Icon
+      - Collaboration
+      - Cover
+  - rank: 25
+    title: "Nancy (With the Laughing Face)"
+    artist: "Frank Sinatra"
+    year: 1945
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 10
+      - Cultural Icon

@@ -1,0 +1,234 @@
+songs:
+  - rank: 1
+    title: "There Goes My Baby"
+    artist: "The Drifters"
+    year: 1959
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - Cultural Icon
+  - rank: 2
+    title: "Under the Boardwalk"
+    artist: "The Drifters"
+    year: 1964
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 3
+    title: "Save the Last Dance for Me"
+    artist: "The Drifters"
+    year: 1960
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - R&B #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "This Magic Moment"
+    artist: "The Drifters"
+    year: 1960
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 20
+      - R&B #4
+      - Cultural Icon
+  - rank: 5
+    title: "Up on the Roof"
+    artist: "The Drifters"
+    year: 1962
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 10
+      - R&B #4
+      - Cultural Icon
+  - rank: 6
+    title: "On Broadway"
+    artist: "The Drifters"
+    year: 1963
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 10
+      - R&B #7
+      - Cultural Icon
+      - Cover
+  - rank: 7
+    title: "Money Honey"
+    artist: "The Drifters"
+    year: 1953
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+    tags:
+      - R&B #1
+      - Cultural Icon
+  - rank: 8
+    title: "Dance with Me"
+    artist: "The Drifters"
+    year: 1959
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+      - Rock
+    tags:
+      - Billboard Top 20
+      - R&B #2
+      - UK Top 20
+  - rank: 9
+    title: "Honey Love"
+    artist: "The Drifters"
+    year: 1954
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+    tags:
+      - Billboard Top 40
+      - R&B #1
+  - rank: 10
+    title: "Please Stay"
+    artist: "The Drifters"
+    year: 1961
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 20
+      - R&B #13
+  - rank: 11
+    title: "Some Kind of Wonderful"
+    artist: "The Drifters"
+    year: 1961
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 40
+      - R&B #6
+  - rank: 12
+    title: "White Christmas"
+    artist: "The Drifters"
+    year: 1954
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+      - Holiday
+    tags:
+      - Billboard Top 100
+      - R&B #2
+      - Cultural Icon
+      - Cover
+  - rank: 13
+    title: "Fools Fall in Love"
+    artist: "The Drifters"
+    year: 1957
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+    tags:
+      - Billboard Top 100
+      - R&B #10
+  - rank: 14
+    title: "Such a Night"
+    artist: "The Drifters"
+    year: 1954
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+    tags:
+      - R&B #2
+  - rank: 15
+    title: "Ruby Baby"
+    artist: "The Drifters"
+    year: 1956
+    single: true
+    genres:
+      - R&B
+      - Doo-Wop
+    tags:
+      - Billboard Top 100
+      - R&B #10
+      - Cover
+  - rank: 16
+    title: "When My Little Girl Is Smiling"
+    artist: "The Drifters"
+    year: 1962
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+  - rank: 17
+    title: "I Count the Tears"
+    artist: "The Drifters"
+    year: 1960
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 20
+      - R&B #6
+  - rank: 18
+    title: "Saturday Night at the Movies"
+    artist: "The Drifters"
+    year: 1964
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+  - rank: 19
+    title: "Come on Over to My Place"
+    artist: "The Drifters"
+    year: 1965
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - UK Top 10

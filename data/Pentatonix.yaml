@@ -1,0 +1,480 @@
+songs:
+  - rank: 1
+    title: "Hallelujah"
+    artist: "Pentatonix"
+    year: 2016
+    album: "A Pentatonix Christmas"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Billboard Hot 100 #23
+      - Platinum Certified
+      - Cultural Icon
+      - Cover
+  - rank: 2
+    title: "Mary, Did You Know?"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Billboard Hot 100 #26
+      - Holiday Songs #1
+      - Cover
+  - rank: 3
+    title: "Little Drummer Boy"
+    artist: "Pentatonix"
+    year: 2013
+    album: "PTXmas (Deluxe Edition)"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Billboard Hot 100 #13
+      - Holiday Songs #1
+      - Cover
+  - rank: 4
+    title: "That's Christmas to Me"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Adult Contemporary #8
+      - Bubbling Under Hot 100 #22
+  - rank: 5
+    title: "Jolene"
+    artist: "Pentatonix Featuring Dolly Parton"
+    year: 2016
+    album: "PTX, Vol. IV - Classics"
+    genres:
+      - Pop
+      - A Cappella
+      - Country
+    tags:
+      - Billboard Hot 100 #84
+      - Grammy Winner
+      - Cover
+      - Collaboration
+  - rank: 6
+    title: "Can't Sleep Love"
+    artist: "Pentatonix"
+    year: 2015
+    album: "Pentatonix"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Adult Contemporary #19
+      - Pop Songs #36
+  - rank: 7
+    title: "Bohemian Rhapsody"
+    artist: "Pentatonix"
+    year: 2017
+    album: "PTX, Vol. IV - Classics"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Billboard Hot 100 #76
+      - Cover
+  - rank: 8
+    title: "Say Something"
+    artist: "Pentatonix"
+    year: 2014
+    album: "PTX, Vol. III"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Billboard Hot 100 #89
+      - Cover
+  - rank: 9
+    title: "Imagine"
+    artist: "Pentatonix"
+    year: 2017
+    album: "PTX, Vol. IV - Classics"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Billboard Hot 100 #89
+      - Cover
+  - rank: 10
+    title: "What Christmas Means to Me"
+    artist: "Pentatonix"
+    year: 2018
+    album: "Christmas Is Here!"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Adult Contemporary #6
+      - Cover
+  - rank: 11
+    title: "Joy to the World"
+    artist: "Pentatonix"
+    year: 2015
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Adult Contemporary #9
+      - Holiday Digital Songs #8
+      - Cover
+  - rank: 12
+    title: "Let It Snow! Let It Snow! Let It Snow!"
+    artist: "Pentatonix"
+    year: 2017
+    album: "A Pentatonix Christmas (Deluxe)"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Adult Contemporary #17
+      - Cover
+  - rank: 13
+    title: "Grown-Up Christmas List"
+    artist: "Pentatonix Featuring Kelly Clarkson"
+    year: 2018
+    album: "Christmas Is Here!"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Adult Contemporary #21
+      - Collaboration
+      - Cover
+  - rank: 14
+    title: "Daft Punk"
+    artist: "Pentatonix"
+    year: 2013
+    album: "PTX, Vol. II"
+    genres:
+      - Pop
+      - A Cappella
+      - Electronic
+    tags:
+      - Grammy Winner
+      - Medley
+      - Cover
+  - rank: 15
+    title: "Radioactive"
+    artist: "Pentatonix Featuring Lindsey Stirling"
+    year: 2013
+    album: "PTX, Vol. II"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Gold Certified
+      - Collaboration
+      - Cover
+  - rank: 16
+    title: "Cheerleader"
+    artist: "Pentatonix"
+    year: 2015
+    album: "Pentatonix"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 17
+    title: "If I Ever Fall in Love"
+    artist: "Pentatonix Featuring Jason Derulo"
+    year: 2015
+    album: "Pentatonix"
+    genres:
+      - Pop
+      - A Cappella
+      - R&B
+    tags:
+      - Adult Pop Songs #38
+      - Collaboration
+      - Cover
+  - rank: 18
+    title: "La La Latch"
+    artist: "Pentatonix"
+    year: 2014
+    album: "PTX, Vol. III"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Bubbling Under Hot 100 #3
+      - Medley
+      - Cover
+  - rank: 19
+    title: "The Sound of Silence"
+    artist: "Pentatonix"
+    year: 2019
+    album: "The Best of Pentatonix Christmas"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Digital Song Sales #34
+      - Cover
+  - rank: 20
+    title: "Carol of the Bells"
+    artist: "Pentatonix"
+    year: 2012
+    album: "PTXmas"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 21
+    title: "White Winter Hymnal"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #20
+      - Cover
+  - rank: 22
+    title: "Silent Night"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Bubbling Under Hot 100 #16
+      - Cover
+  - rank: 23
+    title: "O Holy Night"
+    artist: "Pentatonix"
+    year: 2016
+    album: "A Pentatonix Christmas"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #15
+      - Cover
+  - rank: 24
+    title: "Sleigh Ride"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #12
+      - Cover
+  - rank: 25
+    title: "It's the Most Wonderful Time of the Year"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #24
+      - Cover
+  - rank: 26
+    title: "Santa Claus Is Coming to Town"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #23
+      - Cover
+  - rank: 27
+    title: "Joyful, Joyful"
+    artist: "Pentatonix"
+    year: 2018
+    album: "Christmas Is Here!"
+    genres:
+      - Pop
+      - A Cappella
+      - Gospel
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 28
+    title: "Light in the Hallway"
+    artist: "Pentatonix"
+    year: 2015
+    album: "Pentatonix"
+    genres:
+      - Pop
+      - A Cappella
+      - Ballad
+    tags:
+      - Fan Favorite
+  - rank: 29
+    title: "New Year's Day"
+    artist: "Pentatonix"
+    year: 2015
+    album: "Pentatonix"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+  - rank: 30
+    title: "O Come, O Come Emmanuel"
+    artist: "Pentatonix"
+    year: 2012
+    album: "PTXmas"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #44
+      - Cover
+  - rank: 31
+    title: "Winter Wonderland/Don't Worry Be Happy"
+    artist: "Pentatonix Featuring Tori Kelly"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #13
+      - Collaboration
+      - Cover
+  - rank: 32
+    title: "Somebody That I Used to Know"
+    artist: "Pentatonix"
+    year: 2012
+    album: "PTX, Vol. I"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 33
+    title: "Havana"
+    artist: "Pentatonix"
+    year: 2018
+    album: "PTX Presents: Top Pop, Vol. I"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Digital Song Sales #20
+      - Cover
+  - rank: 34
+    title: "God Rest Ye Merry Gentlemen"
+    artist: "Pentatonix"
+    year: 2016
+    album: "A Pentatonix Christmas"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #28
+      - Cover
+  - rank: 35
+    title: "Away in a Manger"
+    artist: "Pentatonix"
+    year: 2017
+    album: "A Pentatonix Christmas (Deluxe)"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #30
+      - Cover
+  - rank: 36
+    title: "Evolution of Beyoncé"
+    artist: "Pentatonix"
+    year: 2013
+    album: "PTX, Vol. II"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Medley
+      - Cover
+  - rank: 37
+    title: "Perfect"
+    artist: "Pentatonix"
+    year: 2018
+    album: "PTX Presents: Top Pop, Vol. I"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 38
+    title: "Shallow"
+    artist: "Pentatonix"
+    year: 2018
+    album: "PTX Presents: Top Pop, Vol. I"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 39
+    title: "Dance of the Sugar Plum Fairy"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+      - Instrumental
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 40
+    title: "First Things First"
+    artist: "Pentatonix"
+    year: 2015
+    album: "Pentatonix"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite

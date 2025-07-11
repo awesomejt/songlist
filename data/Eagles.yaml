@@ -1,0 +1,299 @@
+songs:
+  - rank: 1
+    title: "Hotel California"
+    artist: "The Eagles"
+    year: 1976
+    album: "Hotel California"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Million Seller
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 2
+    title: "Take It Easy"
+    artist: "The Eagles"
+    year: 1972
+    album: "Eagles"
+    genres:
+      - Rock
+      - Country Rock
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 3
+    title: "Desperado"
+    artist: "The Eagles"
+    year: 1973
+    album: "Desperado"
+    genres:
+      - Rock
+      - Country Rock
+      - Ballad
+    tags:
+      - Cultural Icon
+  - rank: 4
+    title: "Lyin' Eyes"
+    artist: "The Eagles"
+    year: 1975
+    album: "One of These Nights"
+    genres:
+      - Rock
+      - Country Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+      - Grammy Nominee
+  - rank: 5
+    title: "One of These Nights"
+    artist: "The Eagles"
+    year: 1975
+    album: "One of These Nights"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard #1
+      - UK Top 40
+  - rank: 6
+    title: "New Kid in Town"
+    artist: "The Eagles"
+    year: 1976
+    album: "Hotel California"
+    genres:
+      - Rock
+      - Soft Rock
+      - Country Rock
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Grammy Winner
+  - rank: 7
+    title: "Best of My Love"
+    artist: "The Eagles"
+    year: 1974
+    album: "On the Border"
+    genres:
+      - Rock
+      - Soft Rock
+      - Country Rock
+    tags:
+      - Billboard #1
+      - Adult Contemporary #1
+  - rank: 8
+    title: "Heartache Tonight"
+    artist: "The Eagles"
+    year: 1979
+    album: "The Long Run"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Grammy Winner
+  - rank: 9
+    title: "Life in the Fast Lane"
+    artist: "The Eagles"
+    year: 1976
+    album: "Hotel California"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 10
+    title: "The Long Run"
+    artist: "The Eagles"
+    year: 1979
+    album: "The Long Run"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+  - rank: 11
+    title: "Peaceful Easy Feeling"
+    artist: "The Eagles"
+    year: 1972
+    album: "Eagles"
+    genres:
+      - Rock
+      - Country Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 12
+    title: "I Can't Tell You Why"
+    artist: "The Eagles"
+    year: 1979
+    album: "The Long Run"
+    genres:
+      - Rock
+      - Soft Rock
+      - Soul
+    tags:
+      - Billboard Top 10
+      - Adult Contemporary #3
+  - rank: 13
+    title: "Witchy Woman"
+    artist: "The Eagles"
+    year: 1972
+    album: "Eagles"
+    genres:
+      - Rock
+      - Country Rock
+    tags:
+      - Billboard Top 10
+  - rank: 14
+    title: "Tequila Sunrise"
+    artist: "The Eagles"
+    year: 1973
+    album: "Desperado"
+    genres:
+      - Rock
+      - Country Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+  - rank: 15
+    title: "Take It to the Limit"
+    artist: "The Eagles"
+    year: 1975
+    album: "One of These Nights"
+    genres:
+      - Rock
+      - Soft Rock
+      - Country Rock
+    tags:
+      - Billboard Top 10
+      - Adult Contemporary #4
+  - rank: 16
+    title: "Already Gone"
+    artist: "The Eagles"
+    year: 1974
+    album: "On the Border"
+    genres:
+      - Rock
+      - Country Rock
+    tags:
+      - Billboard Top 40
+      - Cover
+  - rank: 17
+    title: "Seven Bridges Road"
+    artist: "The Eagles"
+    year: 1980
+    album: "Eagles Live"
+    genres:
+      - Rock
+      - Country Rock
+    tags:
+      - Billboard Top 40
+      - Cover
+      - Live Recording
+  - rank: 18
+    title: "James Dean"
+    artist: "The Eagles"
+    year: 1974
+    album: "On the Border"
+    genres:
+      - Rock
+      - Country Rock
+    tags:
+      - Billboard Top 100
+  - rank: 19
+    title: "Ol' 55"
+    artist: "The Eagles"
+    year: 1974
+    album: "On the Border"
+    genres:
+      - Rock
+      - Country Rock
+      - Soft Rock
+    tags:
+      - Cover
+      - Deep Cut
+  - rank: 20
+    title: "After the Thrill Is Gone"
+    artist: "The Eagles"
+    year: 1975
+    album: "One of These Nights"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Deep Cut
+  - rank: 21
+    title: "Victim of Love"
+    artist: "The Eagles"
+    year: 1976
+    album: "Hotel California"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Deep Cut
+  - rank: 22
+    title: "Please Come Home for Christmas"
+    artist: "The Eagles"
+    year: 1978
+    single: true
+    genres:
+      - Rock
+      - Holiday
+    tags:
+      - Billboard Top 20
+      - Cover
+      - Holiday Song
+  - rank: 23
+    title: "The Sad Café"
+    artist: "The Eagles"
+    year: 1979
+    album: "The Long Run"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Deep Cut
+  - rank: 24
+    title: "Get Over It"
+    artist: "The Eagles"
+    year: 1994
+    album: "Hell Freezes Over"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - Comeback Hit
+  - rank: 25
+    title: "Love Will Keep Us Alive"
+    artist: "The Eagles"
+    year: 1994
+    album: "Hell Freezes Over"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Adult Contemporary #1
+      - Comeback Hit
+  - rank: 26
+    title: "Hotel California (Live)"
+    artist: "The Eagles"
+    year: 1994
+    album: "Hell Freezes Over"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Live Recording
+      - Cultural Icon
+      - Comeback Hit

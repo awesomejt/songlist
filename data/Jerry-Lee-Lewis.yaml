@@ -1,0 +1,222 @@
+songs:
+  - rank: 1
+    title: "Great Balls of Fire"
+    artist: "Jerry Lee Lewis"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 10
+      - R&B #3
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 2
+    title: "Whole Lotta Shakin' Goin' On"
+    artist: "Jerry Lee Lewis"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - Country #1
+      - Cultural Icon
+      - Cover
+  - rank: 3
+    title: "Breathless"
+    artist: "Jerry Lee Lewis"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 10
+      - R&B #4
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "High School Confidential"
+    artist: "Jerry Lee Lewis"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 40
+      - R&B #5
+      - UK Top 20
+      - Soundtrack
+  - rank: 5
+    title: "What'd I Say"
+    artist: "Jerry Lee Lewis"
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - Cover
+  - rank: 6
+    title: "You Win Again"
+    artist: "Jerry Lee Lewis"
+    year: 1957
+    single: true
+    genres:
+      - Country
+      - Rockabilly
+    tags:
+      - Billboard Top 100
+      - Country #4
+      - Cover
+  - rank: 7
+    title: "Break Up"
+    artist: "Jerry Lee Lewis"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 100
+  - rank: 8
+    title: "I'll Sail My Ship Alone"
+    artist: "Jerry Lee Lewis"
+    year: 1958
+    single: true
+    genres:
+      - Country
+      - Rockabilly
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 9
+    title: "Lovin' Up a Storm"
+    artist: "Jerry Lee Lewis"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - UK Top 40
+  - rank: 10
+    title: "Fools Like Me"
+    artist: "Jerry Lee Lewis"
+    year: 1958
+    single: true
+    genres:
+      - Country
+      - Rockabilly
+    tags:
+      - Billboard Top 100
+  - rank: 11
+    title: "Sweet Little Sixteen"
+    artist: "Jerry Lee Lewis"
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 12
+    title: "To Make Love Sweeter for You"
+    artist: "Jerry Lee Lewis"
+    year: 1968
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #1
+  - rank: 13
+    title: "Another Place, Another Time"
+    artist: "Jerry Lee Lewis"
+    year: 1968
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #4
+      - Billboard Top 100
+  - rank: 14
+    title: "What's Made Milwaukee Famous (Has Made a Loser Out of Me)"
+    artist: "Jerry Lee Lewis"
+    year: 1968
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #2
+      - Billboard Top 100
+  - rank: 15
+    title: "She Still Comes Around (To Love What's Left of Me)"
+    artist: "Jerry Lee Lewis"
+    year: 1968
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #2
+  - rank: 16
+    title: "There Stands the Glass"
+    artist: "Jerry Lee Lewis"
+    year: 1969
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #6
+      - Cover
+  - rank: 17
+    title: "One Has My Name (The Other Has My Heart)"
+    artist: "Jerry Lee Lewis"
+    year: 1969
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #3
+      - Cover
+  - rank: 18
+    title: "Chantilly Lace"
+    artist: "Jerry Lee Lewis"
+    year: 1972
+    single: true
+    genres:
+      - Country
+      - Rock
+    tags:
+      - Country #1
+      - Billboard Top 40
+      - Cover
+  - rank: 19
+    title: "Me and Bobby McGee"
+    artist: "Jerry Lee Lewis"
+    year: 1971
+    single: true
+    genres:
+      - Country
+      - Rock
+    tags:
+      - Country #1
+      - Billboard Top 40
+      - Cover
+  - rank: 20
+    title: "Would You Take Another Chance on Me"
+    artist: "Jerry Lee Lewis"
+    year: 1971
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country #1
+      - Billboard Top 100

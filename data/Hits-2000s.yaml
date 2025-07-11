@@ -1,0 +1,510 @@
+songs:
+  - rank: 1
+    title: "Umbrella"
+    artist: "Rihanna featuring Jay-Z"
+    year: 2007
+    album: "Good Girl Gone Bad"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 2
+    title: "I Gotta Feeling"
+    artist: "The Black Eyed Peas"
+    year: 2009
+    album: "The E.N.D."
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 3
+    title: "Single Ladies (Put a Ring on It)"
+    artist: "Beyoncé"
+    year: 2008
+    album: "I Am... Sasha Fierce"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 4
+    title: "Hollaback Girl"
+    artist: "Gwen Stefani"
+    year: 2005
+    album: "Love. Angel. Music. Baby."
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 5
+    title: "Hips Don't Lie"
+    artist: "Shakira featuring Wyclef Jean"
+    year: 2006
+    album: "Oral Fixation, Vol. 2"
+    genres:
+      - Pop
+      - Latin Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 6
+    title: "Since U Been Gone"
+    artist: "Kelly Clarkson"
+    year: 2004
+    album: "Breakaway"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 7
+    title: "How You Remind Me"
+    artist: "Nickelback"
+    year: 2001
+    album: "Silver Side Up"
+    genres:
+      - Rock
+      - Post-Grunge
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "I'm Yours"
+    artist: "Jason Mraz"
+    year: 2008
+    album: "We Sing. We Dance. We Steal Things."
+    genres:
+      - Pop
+      - Folk Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+  - rank: 9
+    title: "SexyBack"
+    artist: "Justin Timberlake"
+    year: 2006
+    album: "FutureSex/LoveSounds"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 10
+    title: "Crazy in Love"
+    artist: "Beyoncé featuring Jay-Z"
+    year: 2003
+    album: "Dangerously in Love"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 11
+    title: "Promiscuous"
+    artist: "Nelly Furtado featuring Timbaland"
+    year: 2006
+    album: "Loose"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 12
+    title: "Bleeding Love"
+    artist: "Leona Lewis"
+    year: 2007
+    album: "Spirit"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 13
+    title: "Apologize"
+    artist: "OneRepublic"
+    year: 2007
+    album: "Dreaming Out Loud"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 14
+    title: "No One"
+    artist: "Alicia Keys"
+    year: 2007
+    album: "As I Am"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 15
+    title: "Viva la Vida"
+    artist: "Coldplay"
+    year: 2008
+    album: "Viva la Vida or Death and All His Friends"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 16
+    title: "Drops of Jupiter (Tell Me)"
+    artist: "Train"
+    year: 2001
+    album: "Drops of Jupiter"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 17
+    title: "Complicated"
+    artist: "Avril Lavigne"
+    year: 2002
+    album: "Let Go"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 18
+    title: "Sk8er Boi"
+    artist: "Avril Lavigne"
+    year: 2002
+    album: "Let Go"
+    genres:
+      - Pop
+      - Pop Punk
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 19
+    title: "I Kissed a Girl"
+    artist: "Katy Perry"
+    year: 2008
+    album: "One of the Boys"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 20
+    title: "So What"
+    artist: "Pink"
+    year: 2008
+    album: "Funhouse"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 21
+    title: "Get the Party Started"
+    artist: "Pink"
+    year: 2001
+    album: "Missundaztood"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 22
+    title: "Beautiful"
+    artist: "Christina Aguilera"
+    year: 2002
+    album: "Stripped"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 23
+    title: "Cry Me a River"
+    artist: "Justin Timberlake"
+    year: 2002
+    album: "Justified"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 24
+    title: "Bring Me to Life"
+    artist: "Evanescence"
+    year: 2003
+    album: "Fallen"
+    genres:
+      - Rock
+      - Nu Metal
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 25
+    title: "A Thousand Miles"
+    artist: "Vanessa Carlton"
+    year: 2002
+    album: "Be Not Nobody"
+    genres:
+      - Pop
+      - Piano Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 26
+    title: "The Middle"
+    artist: "Jimmy Eat World"
+    year: 2001
+    album: "Bleed American"
+    genres:
+      - Rock
+      - Pop Punk
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 27
+    title: "Fallin'"
+    artist: "Alicia Keys"
+    year: 2001
+    album: "Songs in A Minor"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 28
+    title: "Whenever, Wherever"
+    artist: "Shakira"
+    year: 2001
+    album: "Laundry Service"
+    genres:
+      - Pop
+      - Latin Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 29
+    title: "Family Affair"
+    artist: "Mary J. Blige"
+    year: 2001
+    album: "No More Drama"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 30
+    title: "Independent Women Part I"
+    artist: "Destiny's Child"
+    year: 2000
+    album: "Survivor"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 31
+    title: "Hanging by a Moment"
+    artist: "Lifehouse"
+    year: 2000
+    album: "No Name Face"
+    genres:
+      - Rock
+      - Post-Grunge
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 32
+    title: "All for You"
+    artist: "Janet Jackson"
+    year: 2001
+    album: "All for You"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 33
+    title: "Clocks"
+    artist: "Coldplay"
+    year: 2002
+    album: "A Rush of Blood to the Head"
+    genres:
+      - Rock
+      - Alternative Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 34
+    title: "Bootylicious"
+    artist: "Destiny's Child"
+    year: 2001
+    album: "Survivor"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 35
+    title: "Lose Yourself"
+    artist: "Eminem"
+    year: 2002
+    album: "8 Mile"
+    genres:
+      - Hip-Hop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Soundtrack
+      - Grammy Winner
+  - rank: 36
+    title: "Hey Ya!"
+    artist: "OutKast"
+    year: 2003
+    album: "Speakerboxxx/The Love Below"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 37
+    title: "Yeah!"
+    artist: "Usher featuring Lil Jon & Ludacris"
+    year: 2004
+    album: "Confessions"
+    genres:
+      - Rhythm and Blues
+      - Hip-Hop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 38
+    title: "Low"
+    artist: "Flo Rida featuring T-Pain"
+    year: 2007
+    album: "Mail on Sunday"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 39
+    title: "In Da Club"
+    artist: "50 Cent"
+    year: 2003
+    album: "Get Rich or Die Tryin'"
+    genres:
+      - Hip-Hop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 40
+    title: "Crank That (Soulja Boy)"
+    artist: "Soulja Boy Tell'em"
+    year: 2007
+    album: "souljaboytellem.com"
+    genres:
+      - Hip-Hop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 41
+    title: "It Wasn't Me"
+    artist: "Shaggy featuring Rikrok"
+    year: 2000
+    album: "Hot Shot"
+    genres:
+      - Reggae
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon

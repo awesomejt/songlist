@@ -1,0 +1,307 @@
+songs:
+  - rank: 1
+    title: "A Thousand Years"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Soundtrack
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 2
+    title: "Beethoven's 5 Secrets"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Mashup
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 3
+    title: "Titanium / Pavane"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+      - EDM
+    tags:
+      - Cover
+      - Mashup
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 4
+    title: "Let It Go"
+    artist: "The Piano Guys"
+    year: 2014
+    album: "Wonders"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Soundtrack
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 5
+    title: "The Cello Song"
+    artist: "The Piano Guys"
+    year: 2011
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+    tags:
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 6
+    title: "Over the Rainbow / Simple Gifts"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Mashup
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 7
+    title: "What Makes You Beautiful"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 8
+    title: "Fight Song / Amazing Grace"
+    artist: "The Piano Guys"
+    year: 2016
+    album: "Uncharted"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Mashup
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 9
+    title: "Kung Fu Piano: Cello Ascends"
+    artist: "The Piano Guys"
+    year: 2014
+    album: "Wonders"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Mashup
+      - Soundtrack
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 10
+    title: "A Sky Full of Stars"
+    artist: "The Piano Guys"
+    year: 2016
+    album: "Uncharted"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 11
+    title: "Rolling in the Deep"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 12
+    title: "Perfect"
+    artist: "The Piano Guys"
+    year: 2018
+    album: "Limitless"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 13
+    title: "Rewrite the Stars"
+    artist: "The Piano Guys"
+    year: 2018
+    album: "Limitless"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Soundtrack
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 14
+    title: "A Million Dreams"
+    artist: "The Piano Guys"
+    year: 2018
+    album: "Limitless"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Soundtrack
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 15
+    title: "O Holy Night / Ave Maria"
+    artist: "The Piano Guys featuring Lexi Walker"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Holiday
+    tags:
+      - Cover
+      - Mashup
+      - Holiday
+      - YouTube Hit
+  - rank: 16
+    title: "Mary Did You Know / Corelli Christmas Concerto"
+    artist: "The Piano Guys"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Holiday
+    tags:
+      - Cover
+      - Mashup
+      - Holiday
+      - YouTube Hit
+  - rank: 17
+    title: "Angels from the Realms of Glory"
+    artist: "The Piano Guys featuring Peter Hollens, David Archuleta, and the Mormon Tabernacle Choir"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Holiday
+    tags:
+      - Cover
+      - Holiday
+      - YouTube Hit
+  - rank: 18
+    title: "Silent Night"
+    artist: "The Piano Guys featuring Plácido Domingo"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Holiday
+    tags:
+      - Cover
+      - Holiday
+      - YouTube Hit
+  - rank: 19
+    title: "The Manger"
+    artist: "The Piano Guys"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Holiday
+    tags:
+      - Cover
+      - Holiday
+      - YouTube Hit
+  - rank: 20
+    title: "Ode to Joy to the World"
+    artist: "The Piano Guys"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Holiday
+    tags:
+      - Cover
+      - Mashup
+      - Holiday
+      - YouTube Hit
+  - rank: 21
+    title: "As It Was"
+    artist: "The Piano Guys"
+    year: 2023
+    album: "Unstoppable"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - YouTube Hit
+  - rank: 22
+    title: "Easy on Me"
+    artist: "The Piano Guys"
+    year: 2023
+    album: "Unstoppable"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - YouTube Hit
+  - rank: 23
+    title: "Never Gonna Give You Up"
+    artist: "The Piano Guys"
+    year: 2023
+    album: "Unstoppable"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 24
+    title: "Story of My Life"
+    artist: "The Piano Guys"
+    year: 2014
+    album: "Wonders"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - YouTube Hit
+  - rank: 25
+    title: "Just the Way You Are"
+    artist: "The Piano Guys"
+    year: 2012
+    album: "The Piano Guys"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - YouTube Hit

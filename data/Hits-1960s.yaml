@@ -1,0 +1,442 @@
+songs:
+  - rank: 1
+    title: "The Twist"
+    artist: "Chubby Checker"
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+  - rank: 2
+    title: "Sugar, Sugar"
+    artist: "The Archies"
+    year: 1969
+    album: "Everything's Archie"
+    genres:
+      - Pop
+      - Bubblegum Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 3
+    title: "I Heard It Through the Grapevine"
+    artist: "Marvin Gaye"
+    year: 1968
+    album: "In the Groove"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "To Sir with Love"
+    artist: "Lulu"
+    year: 1967
+    album: "To Sir with Love"
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - Soundtrack
+      - Cultural Icon
+  - rank: 5
+    title: "Tossin' and Turnin'"
+    artist: "Bobby Lewis"
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - Billboard #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 6
+    title: "Aquarius/Let the Sunshine In"
+    artist: "The 5th Dimension"
+    year: 1969
+    album: "The Age of Aquarius"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Soundtrack
+  - rank: 7
+    title: "I'm a Believer"
+    artist: "The Monkees"
+    year: 1966
+    album: "More of the Monkees"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 8
+    title: "Theme from A Summer Place"
+    artist: "Percy Faith and His Orchestra"
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Instrumental
+    tags:
+      - Billboard #1
+      - Soundtrack
+      - Cultural Icon
+  - rank: 9
+    title: "Big Bad John"
+    artist: "Jimmy Dean"
+    year: 1961
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 10
+    title: "My Girl"
+    artist: "The Temptations"
+    year: 1964
+    album: "The Temptations Sing Smokey"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 11
+    title: "I Can't Help Myself (Sugar Pie Honey Bunch)"
+    artist: "The Four Tops"
+    year: 1965
+    album: "Four Tops' Second Album"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+  - rank: 12
+    title: "You Can't Hurry Love"
+    artist: "The Supremes"
+    year: 1966
+    album: "The Supremes A' Go-Go"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 13
+    title: "Respect"
+    artist: "Aretha Franklin"
+    year: 1967
+    album: "I Never Loved a Man the Way I Love You"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+  - rank: 14
+    title: "(Sittin' On) The Dock of the Bay"
+    artist: "Otis Redding"
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 15
+    title: "The Lion Sleeps Tonight"
+    artist: "The Tokens"
+    year: 1961
+    single: true
+    genres:
+      - Pop
+      - Doo-Wop
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 16
+    title: "Stranger on the Shore"
+    artist: "Mr. Acker Bilk"
+    year: 1961
+    single: true
+    genres:
+      - Pop
+      - Instrumental
+    tags:
+      - Billboard #1
+      - UK #1
+      - Bottled Lightning
+  - rank: 17
+    title: "California Dreamin'"
+    artist: "The Mamas & The Papas"
+    year: 1965
+    album: "If You Can Believe Your Eyes and Ears"
+    genres:
+      - Pop
+      - Folk Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+  - rank: 18
+    title: "I Got You Babe"
+    artist: "Sonny & Cher"
+    year: 1965
+    single: true
+    genres:
+      - Pop
+      - Folk Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 19
+    title: "These Boots Are Made for Walkin'"
+    artist: "Nancy Sinatra"
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 20
+    title: "Downtown"
+    artist: "Petula Clark"
+    year: 1964
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 21
+    title: "Oh, Pretty Woman"
+    artist: "Roy Orbison"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 22
+    title: "Mr. Tambourine Man"
+    artist: "The Byrds"
+    year: 1965
+    album: "Mr. Tambourine Man"
+    genres:
+      - Folk Rock
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Cover
+  - rank: 23
+    title: "Cathy's Clown"
+    artist: "The Everly Brothers"
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 24
+    title: "The Loco-Motion"
+    artist: "Little Eva"
+    year: 1962
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 25
+    title: "He's So Fine"
+    artist: "The Chiffons"
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 26
+    title: "Don't Break the Heart That Loves You"
+    artist: "Connie Francis"
+    year: 1962
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - Cover
+  - rank: 27
+    title: "I'm Sorry"
+    artist: "Brenda Lee"
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Billboard #1
+      - UK Top 20
+  - rank: 28
+    title: "Running Scared"
+    artist: "Roy Orbison"
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 29
+    title: "Wooly Bully"
+    artist: "Sam the Sham & the Pharaohs"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 30
+    title: "My Guy"
+    artist: "Mary Wells"
+    year: 1964
+    album: "Mary Wells Sings My Guy"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 31
+    title: "Blue Moon"
+    artist: "The Marcels"
+    year: 1961
+    single: true
+    genres:
+      - Pop
+      - Doo-Wop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 32
+    title: "Do You Love Me"
+    artist: "The Contours"
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 33
+    title: "Hang On Sloopy"
+    artist: "The McCoys"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 34
+    title: "In the Year 2525 (Exordium & Terminus)"
+    artist: "Zager & Evans"
+    year: 1969
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 35
+    title: "Wipe Out"
+    artist: "The Surfaris"
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Surf Rock
+      - Instrumental
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 36
+    title: "In-A-Gadda-Da-Vida"
+    artist: "Iron Butterfly"
+    year: 1968
+    album: "In-A-Gadda-Da-Vida"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+      - Bottled Lightning

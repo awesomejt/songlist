@@ -1,0 +1,292 @@
+songs:
+  - rank: 1
+    title: "Candle in the Wind 1997"
+    artist: "Elton John"
+    year: 1997
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+      - Tribute
+  - rank: 2
+    title: "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+    artist: "Elton John"
+    year: 1972
+    album: "Honky Château"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 3
+    title: "Your Song"
+    artist: "Elton John"
+    year: 1970
+    album: "Elton John"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Hall of Fame
+  - rank: 4
+    title: "Bennie and the Jets"
+    artist: "Elton John"
+    year: 1973
+    album: "Goodbye Yellow Brick Road"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 5
+    title: "Crocodile Rock"
+    artist: "Elton John"
+    year: 1972
+    album: "Don't Shoot Me I'm Only the Piano Player"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "Don't Let the Sun Go Down on Me"
+    artist: "Elton John"
+    year: 1974
+    album: "Caribou"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+  - rank: 7
+    title: "Tiny Dancer"
+    artist: "Elton John"
+    year: 1971
+    album: "Madman Across the Water"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 8
+    title: "Philadelphia Freedom"
+    artist: "Elton John"
+    year: 1975
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 20
+  - rank: 9
+    title: "Goodbye Yellow Brick Road"
+    artist: "Elton John"
+    year: 1973
+    album: "Goodbye Yellow Brick Road"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 10
+    title: "Daniel"
+    artist: "Elton John"
+    year: 1973
+    album: "Don't Shoot Me I'm Only the Piano Player"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 11
+    title: "Island Girl"
+    artist: "Elton John"
+    year: 1975
+    album: "Rock of the Westies"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 12
+    title: "Lucy in the Sky with Diamonds"
+    artist: "Elton John"
+    year: 1974
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cover
+  - rank: 13
+    title: "Don't Go Breaking My Heart"
+    artist: "Elton John with Kiki Dee"
+    year: 1976
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Collaboration
+  - rank: 14
+    title: "Can You Feel the Love Tonight"
+    artist: "Elton John"
+    year: 1994
+    album: "The Lion King: Original Motion Picture Soundtrack"
+    genres:
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Grammy Winner
+      - Soundtrack
+  - rank: 15
+    title: "I'm Still Standing"
+    artist: "Elton John"
+    year: 1983
+    album: "Too Low for Zero"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 16
+    title: "Saturday Night's Alright for Fighting"
+    artist: "Elton John"
+    year: 1973
+    album: "Goodbye Yellow Brick Road"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+      - Cultural Icon
+  - rank: 17
+    title: "Sorry Seems to Be the Hardest Word"
+    artist: "Elton John"
+    year: 1976
+    album: "Blue Moves"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 18
+    title: "I Guess That's Why They Call It the Blues"
+    artist: "Elton John"
+    year: 1983
+    album: "Too Low for Zero"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 19
+    title: "Levon"
+    artist: "Elton John"
+    year: 1971
+    album: "Madman Across the Water"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+  - rank: 20
+    title: "Honky Cat"
+    artist: "Elton John"
+    year: 1972
+    album: "Honky Château"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 21
+    title: "The Bitch Is Back"
+    artist: "Elton John"
+    year: 1974
+    album: "Caribou"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 22
+    title: "Someone Saved My Life Tonight"
+    artist: "Elton John"
+    year: 1975
+    album: "Captain Fantastic and the Brown Dirt Cowboy"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 23
+    title: "Little Jeannie"
+    artist: "Elton John"
+    year: 1980
+    album: "21 at 33"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 24
+    title: "Step into Christmas"
+    artist: "Elton John"
+    year: 1973
+    single: true
+    genres:
+      - Pop
+      - Rock
+      - Holiday
+    tags:
+      - UK Top 40
+      - Holiday
+      - Cultural Icon
+  - rank: 25
+    title: "Nikita"
+    artist: "Elton John"
+    year: 1985
+    album: "Ice on Fire"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10

@@ -1,0 +1,149 @@
+songs:
+  - rank: 1
+    title: "Every Breath You Take"
+    artist: "The Police"
+    year: 1983
+    album: "Synchronicity"
+    genres:
+      - Rock
+      - Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK #1
+      - Grammy Winner
+      - Cultural Icon
+  - rank: 2
+    title: "Roxanne"
+    artist: "The Police"
+    year: 1978
+    album: "Outlandos d'Amour"
+    genres:
+      - Rock
+      - New Wave
+      - Reggae Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 20
+      - Cultural Icon
+  - rank: 3
+    title: "Message in a Bottle"
+    artist: "The Police"
+    year: 1979
+    album: "Reggatta de Blanc"
+    genres:
+      - Rock
+      - New Wave
+      - Reggae Rock
+    tags:
+      - Billboard Top 100
+      - UK #1
+      - Cultural Icon
+  - rank: 4
+    title: "Every Little Thing She Does Is Magic"
+    artist: "The Police"
+    year: 1981
+    album: "Ghost in the Machine"
+    genres:
+      - Rock
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+  - rank: 5
+    title: "Don't Stand So Close to Me"
+    artist: "The Police"
+    year: 1980
+    album: "Zenyatta Mondatta"
+    genres:
+      - Rock
+      - New Wave
+      - Reggae Rock
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Grammy Winner
+  - rank: 6
+    title: "King of Pain"
+    artist: "The Police"
+    year: 1983
+    album: "Synchronicity"
+    genres:
+      - Rock
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 7
+    title: "Wrapped Around Your Finger"
+    artist: "The Police"
+    year: 1983
+    album: "Synchronicity"
+    genres:
+      - Rock
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 8
+    title: "De Do Do Do, De Da Da Da"
+    artist: "The Police"
+    year: 1980
+    album: "Zenyatta Mondatta"
+    genres:
+      - Rock
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 9
+    title: "Spirits in the Material World"
+    artist: "The Police"
+    year: 1981
+    album: "Ghost in the Machine"
+    genres:
+      - Rock
+      - New Wave
+      - Reggae Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+  - rank: 10
+    title: "Synchronicity II"
+    artist: "The Police"
+    year: 1983
+    album: "Synchronicity"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+  - rank: 11
+    title: "Can't Stand Losing You"
+    artist: "The Police"
+    year: 1978
+    album: "Outlandos d'Amour"
+    genres:
+      - Rock
+      - New Wave
+      - Reggae Rock
+    tags:
+      - UK Top 10
+      - Cultural Icon
+  - rank: 12
+    title: "Walking on the Moon"
+    artist: "The Police"
+    year: 1979
+    album: "Reggatta de Blanc"
+    genres:
+      - Rock
+      - New Wave
+      - Reggae Rock
+    tags:
+      - UK #1

@@ -1,0 +1,284 @@
+songs:
+  - rank: 1
+    title: "Hound Dog"
+    artist: "Elvis Presley"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard #1
+      - Million Seller
+      - Cultural Icon
+  - rank: 2
+    title: "Don't Be Cruel"
+    artist: "Elvis Presley"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - Double A-Side
+      - Million Seller
+  - rank: 3
+    title: "Jailhouse Rock"
+    artist: "Elvis Presley"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard #1
+      - Film Song
+      - Million Seller
+  - rank: 4
+    title: "Heartbreak Hotel"
+    artist: "Elvis Presley"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard #1
+      - Debut Hit
+      - Million Seller
+  - rank: 5
+    title: "Suspicious Minds"
+    artist: "Elvis Presley"
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - Comeback Hit
+      - Vegas Era
+  - rank: 6
+    title: "All Shook Up"
+    artist: "Elvis Presley"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - Million Seller
+  - rank: 7
+    title: "Love Me Tender"
+    artist: "Elvis Presley"
+    year: 1956
+    single: true
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+      - Film Song
+      - Million Seller
+  - rank: 8
+    title: "(Let Me Be Your) Teddy Bear"
+    artist: "Elvis Presley"
+    year: 1957
+    album: "Loving You"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - Film Song
+  - rank: 9
+    title: "Are You Lonesome Tonight?"
+    artist: "Elvis Presley"
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+      - Million Seller
+  - rank: 10
+    title: "Can't Help Falling in Love"
+    artist: "Elvis Presley"
+    year: 1961
+    album: "Blue Hawaii"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Film Song
+      - Million Seller
+      - Cultural Icon
+  - rank: 11
+    title: "It's Now or Never"
+    artist: "Elvis Presley"
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+      - Million Seller
+  - rank: 12
+    title: "Burning Love"
+    artist: "Elvis Presley"
+    year: 1972
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Vegas Era
+  - rank: 13
+    title: "Blue Suede Shoes"
+    artist: "Elvis Presley"
+    year: 1956
+    album: "Elvis Presley"
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Cover Song
+      - Cultural Icon
+  - rank: 14
+    title: "Return to Sender"
+    artist: "Elvis Presley"
+    year: 1962
+    album: "Girls! Girls! Girls!"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Film Song
+  - rank: 15
+    title: "In the Ghetto"
+    artist: "Elvis Presley"
+    year: 1969
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 10
+      - Social Commentary
+  - rank: 16
+    title: "Viva Las Vegas"
+    artist: "Elvis Presley"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Film Song
+      - Cultural Icon
+  - rank: 17
+    title: "Hard Headed Woman"
+    artist: "Elvis Presley"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - Film Song
+  - rank: 18
+    title: "Crying in the Chapel"
+    artist: "Elvis Presley"
+    year: 1965
+    single: true
+    genres:
+      - Gospel
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Gospel Hit
+  - rank: 19
+    title: "Too Much"
+    artist: "Elvis Presley"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard #1
+  - rank: 20
+    title: "(Now and Then There's) A Fool Such as I"
+    artist: "Elvis Presley"
+    year: 1959
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #2
+  - rank: 21
+    title: "Don't"
+    artist: "Elvis Presley"
+    year: 1958
+    single: true
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+  - rank: 22
+    title: "Always on My Mind"
+    artist: "Elvis Presley"
+    year: 1972
+    single: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Cover Song
+      - Billboard Top 20
+  - rank: 23
+    title: "An American Trilogy"
+    artist: "Elvis Presley"
+    year: 1972
+    single: true
+    genres:
+      - Pop
+      - Patriotic
+      - Gospel
+    tags:
+      - Live Recording
+      - Medley
+      - Cultural Icon
+      - Vegas Era
+  - rank: 24
+    title: "That's All Right"
+    artist: "Elvis Presley"
+    year: 1954
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Debut Single
+      - Cultural Icon
+  - rank: 25
+    title: "How Great Thou Art"
+    artist: "Elvis Presley"
+    year: 1967
+    album: "How Great Thou Art"
+    genres:
+      - Gospel
+      - Pop
+    tags:
+      - Grammy Winner
+      - Gospel Hit

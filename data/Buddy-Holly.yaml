@@ -1,0 +1,175 @@
+songs:
+  - rank: 1
+    title: "That'll Be the Day"
+    artist: "Buddy Holly & The Crickets"
+    year: 1957
+    album: "The Chirping Crickets"
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 10
+      - R&B #2
+      - UK #1
+      - Cultural Icon
+      - Grammy Hall of Fame
+  - rank: 2
+    title: "Peggy Sue"
+    artist: "Buddy Holly"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 3
+    title: "Oh, Boy!"
+    artist: "Buddy Holly & The Crickets"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "Everyday"
+    artist: "Buddy Holly"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 5
+    title: "Not Fade Away"
+    artist: "Buddy Holly & The Crickets"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+      - Cover
+  - rank: 6
+    title: "Maybe Baby"
+    artist: "Buddy Holly & The Crickets"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 7
+    title: "Rave On"
+    artist: "Buddy Holly"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "It Doesn't Matter Anymore"
+    artist: "Buddy Holly"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK #1
+      - Cultural Icon
+  - rank: 9
+    title: "Think It Over"
+    artist: "Buddy Holly & The Crickets"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 40
+      - R&B #9
+  - rank: 10
+    title: "Heartbeat"
+    artist: "Buddy Holly"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 100
+      - UK Top 40
+  - rank: 11
+    title: "Early in the Morning"
+    artist: "Buddy Holly"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 40
+      - UK Top 20
+      - Cover
+  - rank: 12
+    title: "Peggy Sue Got Married"
+    artist: "Buddy Holly"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 100
+      - UK Top 20
+      - Soundtrack
+  - rank: 13
+    title: "Raining in My Heart"
+    artist: "Buddy Holly"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 100
+      - UK Top 40
+  - rank: 14
+    title: "True Love Ways"
+    artist: "Buddy Holly"
+    year: 1958
+    album: "The Buddy Holly Story"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - UK Top 40
+      - Cultural Icon
+  - rank: 15
+    title: "It's So Easy"
+    artist: "Buddy Holly & The Crickets"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Top 100

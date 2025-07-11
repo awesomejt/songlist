@@ -1,0 +1,577 @@
+songs:
+  - rank: 1
+    title: "Hey Jude"
+    artist: "The Beatles"
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Million Seller
+      - Cultural Icon
+  - rank: 2
+    title: "I Want to Hold Your Hand"
+    artist: "The Beatles"
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Million Seller
+      - British Invasion
+  - rank: 3
+    title: "A Day in the Life"
+    artist: "The Beatles"
+    year: 1967
+    album: "Sgt. Pepper's Lonely Hearts Club Band"
+    genres:
+      - Rock
+      - Psychedelic
+    tags:
+      - Cultural Icon
+      - Experimental
+  - rank: 4
+    title: "Strawberry Fields Forever"
+    artist: "The Beatles"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Psychedelic
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Double A-Side
+  - rank: 5
+    title: "Let It Be"
+    artist: "The Beatles"
+    year: 1970
+    album: "Let It Be"
+    genres:
+      - Rock
+      - Pop
+      - Gospel
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "She Loves You"
+    artist: "The Beatles"
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Million Seller
+      - British Invasion
+  - rank: 7
+    title: "Yesterday"
+    artist: "The Beatles"
+    year: 1965
+    album: "Help!"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+      - Cultural Icon
+  - rank: 8
+    title: "Eleanor Rigby"
+    artist: "The Beatles"
+    year: 1966
+    album: "Revolver"
+    genres:
+      - Rock
+      - Pop
+      - Baroque Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - Double A-Side
+  - rank: 9
+    title: "In My Life"
+    artist: "The Beatles"
+    year: 1965
+    album: "Rubber Soul"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cultural Icon
+  - rank: 10
+    title: "Help!"
+    artist: "The Beatles"
+    year: 1965
+    album: "Help!"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Film Song
+  - rank: 11
+    title: "Come Together"
+    artist: "The Beatles"
+    year: 1969
+    album: "Abbey Road"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Double A-Side
+  - rank: 12
+    title: "Something"
+    artist: "The Beatles"
+    year: 1969
+    album: "Abbey Road"
+    genres:
+      - Rock
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Double A-Side
+  - rank: 13
+    title: "Penny Lane"
+    artist: "The Beatles"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+      - Psychedelic
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Double A-Side
+  - rank: 14
+    title: "Twist and Shout"
+    artist: "The Beatles"
+    year: 1963
+    album: "Please Please Me"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Cover
+      - British Invasion
+  - rank: 15
+    title: "Can't Buy Me Love"
+    artist: "The Beatles"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Film Song
+  - rank: 16
+    title: "A Hard Day's Night"
+    artist: "The Beatles"
+    year: 1964
+    album: "A Hard Day's Night"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Film Song
+  - rank: 17
+    title: "Tomorrow Never Knows"
+    artist: "The Beatles"
+    year: 1966
+    album: "Revolver"
+    genres:
+      - Rock
+      - Psychedelic
+      - Experimental
+    tags:
+      - Cultural Icon
+      - Experimental
+  - rank: 18
+    title: "All You Need Is Love"
+    artist: "The Beatles"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+      - Psychedelic
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 19
+    title: "Ticket to Ride"
+    artist: "The Beatles"
+    year: 1965
+    album: "Help!"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Film Song
+  - rank: 20
+    title: "While My Guitar Gently Weeps"
+    artist: "The Beatles"
+    year: 1968
+    album: "The Beatles (White Album)"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cultural Icon
+  - rank: 21
+    title: "Please Please Me"
+    artist: "The Beatles"
+    year: 1963
+    album: "Please Please Me"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - UK #1
+      - British Invasion
+  - rank: 22
+    title: "Yellow Submarine"
+    artist: "The Beatles"
+    year: 1966
+    album: "Revolver"
+    genres:
+      - Pop
+      - Novelty
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Film Song
+      - Double A-Side
+  - rank: 23
+    title: "Get Back"
+    artist: "The Beatles"
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+  - rank: 24
+    title: "I Feel Fine"
+    artist: "The Beatles"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+  - rank: 25
+    title: "Eight Days a Week"
+    artist: "The Beatles"
+    year: 1965
+    album: "Beatles for Sale"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+  - rank: 26
+    title: "We Can Work It Out"
+    artist: "The Beatles"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Double A-Side
+  - rank: 27
+    title: "Day Tripper"
+    artist: "The Beatles"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Double A-Side
+  - rank: 28
+    title: "Love Me Do"
+    artist: "The Beatles"
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - UK Top 20
+      - Billboard Top 10
+      - Debut Single
+  - rank: 29
+    title: "From Me to You"
+    artist: "The Beatles"
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - UK #1
+      - British Invasion
+  - rank: 30
+    title: "Norwegian Wood (This Bird Has Flown)"
+    artist: "The Beatles"
+    year: 1965
+    album: "Rubber Soul"
+    genres:
+      - Rock
+      - Folk Rock
+    tags:
+      - Cultural Icon
+  - rank: 31
+    title: "Lucy in the Sky with Diamonds"
+    artist: "The Beatles"
+    year: 1967
+    album: "Sgt. Pepper's Lonely Hearts Club Band"
+    genres:
+      - Rock
+      - Psychedelic
+    tags:
+      - Cultural Icon
+  - rank: 32
+    title: "Hello, Goodbye"
+    artist: "The Beatles"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+  - rank: 33
+    title: "The Long and Winding Road"
+    artist: "The Beatles"
+    year: 1970
+    album: "Let It Be"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+  - rank: 34
+    title: "Revolution"
+    artist: "The Beatles"
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - Double A-Side
+      - Social Commentary
+  - rank: 35
+    title: "Back in the U.S.S.R."
+    artist: "The Beatles"
+    year: 1968
+    album: "The Beatles (White Album)"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cultural Icon
+  - rank: 36
+    title: "I Am the Walrus"
+    artist: "The Beatles"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Psychedelic
+      - Experimental
+    tags:
+      - UK Top 10
+      - Cultural Icon
+  - rank: 37
+    title: "Ob-La-Di, Ob-La-Da"
+    artist: "The Beatles"
+    year: 1968
+    album: "The Beatles (White Album)"
+    genres:
+      - Pop
+      - Ska
+    tags:
+      - Cultural Icon
+  - rank: 38
+    title: "Here Comes the Sun"
+    artist: "The Beatles"
+    year: 1969
+    album: "Abbey Road"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cultural Icon
+  - rank: 39
+    title: "Across the Universe"
+    artist: "The Beatles"
+    year: 1969
+    album: "Let It Be"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+    tags:
+      - Cultural Icon
+  - rank: 40
+    title: "Roll Over Beethoven"
+    artist: "The Beatles"
+    year: 1963
+    album: "With The Beatles"
+    genres:
+      - Rock
+    tags:
+      - Cover
+  - rank: 41
+    title: "And I Love Her"
+    artist: "The Beatles"
+    year: 1964
+    album: "A Hard Day's Night"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 20
+  - rank: 42
+    title: "You've Got to Hide Your Love Away"
+    artist: "The Beatles"
+    year: 1965
+    album: "Help!"
+    genres:
+      - Rock
+      - Folk Rock
+    tags:
+      - Film Song
+  - rank: 43
+    title: "Lady Madonna"
+    artist: "The Beatles"
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+  - rank: 44
+    title: "Nowhere Man"
+    artist: "The Beatles"
+    year: 1965
+    album: "Rubber Soul"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 45
+    title: "Blackbird"
+    artist: "The Beatles"
+    year: 1968
+    album: "The Beatles (White Album)"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Cultural Icon
+      - Social Commentary
+  - rank: 46
+    title: "With a Little Help from My Friends"
+    artist: "The Beatles"
+    year: 1967
+    album: "Sgt. Pepper's Lonely Hearts Club Band"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cultural Icon
+  - rank: 47
+    title: "Don't Let Me Down"
+    artist: "The Beatles"
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+  - rank: 48
+    title: "I'm a Loser"
+    artist: "The Beatles"
+    year: 1964
+    album: "Beatles for Sale"
+    genres:
+      - Rock
+      - Folk Rock
+    tags:
+      - Cultural Icon
+  - rank: 49
+    title: "Rock and Roll Music"
+    artist: "The Beatles"
+    year: 1964
+    album: "Beatles for Sale"
+    genres:
+      - Rock
+    tags:
+      - Cover
+  - rank: 50
+    title: "The Ballad of John and Yoko"
+    artist: "The Beatles"
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - UK #1
+      - Billboard Top 10
+  - rank: 51
+    title: "Helter Skelter"
+    artist: "The Beatles"
+    year: 1968
+    album: "The Beatles (White Album)"
+    genres:
+      - Rock
+      - Hard Rock
+      - Proto-Metal
+    tags:
+      - Cultural Icon
+      - Experimental

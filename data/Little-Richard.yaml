@@ -1,0 +1,293 @@
+songs:
+  - rank: 1
+    title: "Tutti Frutti"
+    artist: "Little Richard"
+    year: 1955
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #2
+      - Cultural Icon
+      - Grammy Hall of Fame
+  - rank: 2
+    title: "Long Tall Sally"
+    artist: "Little Richard"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 3
+    title: "Good Golly, Miss Molly"
+    artist: "Little Richard"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 20
+      - R&B #4
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "Lucille"
+    artist: "Little Richard"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 5
+    title: "Keep a-Knockin'"
+    artist: "Little Richard"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #2
+      - Cover
+      - Cultural Icon
+  - rank: 6
+    title: "Rip It Up"
+    artist: "Little Richard"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 7
+    title: "Jenny, Jenny"
+    artist: "Little Richard"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 20
+      - R&B #1
+      - Cultural Icon
+      - Soundtrack
+  - rank: 8
+    title: "Ready Teddy"
+    artist: "Little Richard"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - R&B #8
+      - Cultural Icon
+  - rank: 9
+    title: "Slippin' and Slidin' (Peepin' and Hidin')"
+    artist: "Little Richard"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #2
+      - Cultural Icon
+  - rank: 10
+    title: "The Girl Can't Help It"
+    artist: "Little Richard"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 11
+    title: "Send Me Some Lovin'"
+    artist: "Little Richard"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - R&B #3
+      - Cover
+  - rank: 12
+    title: "Miss Ann"
+    artist: "Little Richard"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - R&B #6
+  - rank: 13
+    title: "Baby Face"
+    artist: "Little Richard"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - R&B #12
+      - Cover
+  - rank: 14
+    title: "By the Light of the Silvery Moon"
+    artist: "Little Richard"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 15
+    title: "Kansas City/Hey-Hey-Hey-Hey"
+    artist: "Little Richard"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 16
+    title: "Tutti Frutti"
+    artist: "Little Richard"
+    year: 1956
+    album: "Here's Little Richard"
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Album Track
+      - Cultural Icon
+  - rank: 17
+    title: "True, Fine Mama"
+    artist: "Little Richard"
+    year: 1957
+    album: "Here's Little Richard"
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Deep Cut
+  - rank: 18
+    title: "Ooh! My Soul"
+    artist: "Little Richard"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #15
+  - rank: 19
+    title: "Good Morning Little School Girl"
+    artist: "Little Richard"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 20
+    title: "All Around the World"
+    artist: "Little Richard"
+    year: 1956
+    album: "Here's Little Richard"
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Deep Cut
+  - rank: 21
+    title: "She's Got It"
+    artist: "Little Richard"
+    year: 1956
+    album: "Here's Little Richard"
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Deep Cut
+      - Soundtrack
+  - rank: 22
+    title: "Heeby-Jeebies"
+    artist: "Little Richard"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - R&B Top 10
+  - rank: 23
+    title: "Bama Lama Bama Loo"
+    artist: "Little Richard"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+  - rank: 24
+    title: "Whole Lotta Shakin' Goin' On"
+    artist: "Little Richard"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Cover
+  - rank: 25
+    title: "I Don't Know What You've Got (But It's Got Me)"
+    artist: "Little Richard"
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - R&B #12

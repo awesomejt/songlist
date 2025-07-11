@@ -1,0 +1,491 @@
+songs:
+  - rank: 1
+    title: "White Christmas"
+    artist: "Bing Crosby"
+    year: 1955
+    album: "Merry Christmas"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cover
+      - Billboard Hot 100 #1
+      - Cultural Icon
+      - Soundtrack
+      - YouTube Hit
+  - rank: 2
+    title: "All I Want for Christmas Is You"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Merry Christmas"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Holiday 100 #1
+      - UK #2
+      - Cultural Icon
+      - YouTube Hit
+      - Grammy Nominee
+  - rank: 3
+    title: "The Christmas Song (Chestnuts Roasting on an Open Fire)"
+    artist: "Nat King Cole"
+    year: 1961
+    album: "The Christmas Song"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Hot 100 Top 40
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 4
+    title: "Rockin' Around the Christmas Tree"
+    artist: "Brenda Lee"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Holiday 100 Top 10
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 5
+    title: "Jingle Bell Rock"
+    artist: "Bobby Helms"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 Top 40
+      - Cultural Icon
+      - YouTube Hit
+      - Bottled Lightning
+  - rank: 6
+    title: "Please Come Home for Christmas"
+    artist: "Eagles"
+    year: 1978
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Cover
+      - Billboard Hot 100 Top 20
+      - Cultural Icon
+  - rank: 7
+    title: "Santa Claus Is Comin' to Town"
+    artist: "Bruce Springsteen"
+    year: 1985
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Cover
+      - Billboard Hot 100 Top 40
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 8
+    title: "Christmas (Baby Please Come Home)"
+    artist: "Darlene Love"
+    year: 1963
+    album: "A Christmas Gift for You from Phil Spector"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 20
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 9
+    title: "Have Yourself a Merry Little Christmas"
+    artist: "Frank Sinatra"
+    year: 1957
+    album: "A Jolly Christmas from Frank Sinatra"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 10
+    title: "Blue Christmas"
+    artist: "Elvis Presley"
+    year: 1957
+    album: "Elvis' Christmas Album"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cover
+      - Billboard Hot 100 Top 40
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 11
+    title: "Sleigh Ride"
+    artist: "The Ronettes"
+    year: 1963
+    album: "A Christmas Gift for You from Phil Spector"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 20
+      - Cultural Icon
+  - rank: 12
+    title: "Run Rudolph Run"
+    artist: "Chuck Berry"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Cover
+      - Billboard Hot 100 Top 10
+      - Cultural Icon
+  - rank: 13
+    title: "Winter Wonderland"
+    artist: "Ella Fitzgerald"
+    year: 1960
+    album: "Ella Wishes You a Swinging Christmas"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 14
+    title: "Happy Xmas (War Is Over)"
+    artist: "John Lennon & Yoko Ono"
+    year: 1971
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 Top 40
+      - UK Top 10
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 15
+    title: "Wonderful Christmastime"
+    artist: "Paul McCartney"
+    year: 1979
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 Top 40
+      - UK Top 10
+      - Cultural Icon
+  - rank: 16
+    title: "Do They Know It's Christmas?"
+    artist: "Band Aid"
+    year: 1984
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 Top 20
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 17
+    title: "Last Christmas"
+    artist: "Wham!"
+    year: 1984
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Holiday 100 Top 10
+      - UK #2
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 18
+    title: "Merry Christmas, Happy Holidays"
+    artist: "NSYNC"
+    year: 1998
+    album: "Home for Christmas"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 19
+    title: "The Christmas Song (Chestnuts Roasting on an Open Fire)"
+    artist: "Christina Aguilera"
+    year: 1999
+    album: "My Kind of Christmas"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Hot 100 Top 20
+      - Cultural Icon
+  - rank: 20
+    title: "Have Yourself a Merry Little Christmas"
+    artist: "Michael Bublé"
+    year: 2011
+    album: "Christmas"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 50
+      - Cultural Icon
+  - rank: 21
+    title: "Holly Jolly Christmas"
+    artist: "Michael Bublé"
+    year: 2011
+    album: "Christmas"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 40
+      - Cultural Icon
+  - rank: 22
+    title: "O Holy Night"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Merry Christmas"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 23
+    title: "Christmas (Baby Please Come Home)"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Merry Christmas"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 20
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 24
+    title: "God Rest Ye Merry Gentlemen"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Merry Christmas"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 25
+    title: "Santa Baby"
+    artist: "Madonna"
+    year: 1987
+    album: "A Very Special Christmas"
+    genres:
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 26
+    title: "White Christmas"
+    artist: "Michael Bublé featuring Shania Twain"
+    year: 2011
+    album: "Christmas"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 27
+    title: "Little Drummer Boy"
+    artist: "Pentatonix"
+    year: 2013
+    album: "PTXmas"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 20
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 28
+    title: "Mary, Did You Know?"
+    artist: "Pentatonix"
+    year: 2014
+    album: "That's Christmas to Me"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 40
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 29
+    title: "Hallelujah"
+    artist: "Pentatonix"
+    year: 2016
+    album: "A Pentatonix Christmas"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 20
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 30
+    title: "O Holy Night"
+    artist: "The Piano Guys featuring Lexi Walker"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Mashup
+      - Holiday
+      - YouTube Hit
+  - rank: 31
+    title: "Silent Night"
+    artist: "The Piano Guys featuring Plácido Domingo"
+    year: 2017
+    album: "Christmas Together"
+    genres:
+      - Classical Crossover
+      - Pop
+    tags:
+      - Cover
+      - Holiday
+      - YouTube Hit
+  - rank: 32
+    title: "Winter Wonderland"
+    artist: "Laufey"
+    year: 2023
+    album: "A Very Laufey Holiday"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 100
+      - Cultural Icon
+  - rank: 33
+    title: "Have Yourself a Merry Little Christmas"
+    artist: "Sam Smith"
+    year: 2014
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 34
+    title: "Christmas (Baby Please Come Home)"
+    artist: "Leona Lewis"
+    year: 2013
+    album: "Christmas, with Love"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 35
+    title: "Santa Claus Is Coming to Town"
+    artist: "The Jackson 5"
+    year: 1970
+    album: "Jackson 5 Christmas Album"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 36
+    title: "Merry Christmas Darling"
+    artist: "Carpenters"
+    year: 1970
+    album: "Christmas Portrait"
+    genres:
+      - Pop
+    tags:
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 37
+    title: "Feliz Navidad"
+    artist: "José Feliciano"
+    year: 1970
+    single: true
+    genres:
+      - Pop
+      - Latin Pop
+    tags:
+      - Billboard Holiday 100 Top 20
+      - Cultural Icon
+      - YouTube Hit
+  - rank: 38
+    title: "This Christmas"
+    artist: "Donny Hathaway"
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 39
+    title: "Rudolph the Red-Nosed Reindeer"
+    artist: "The Temptations"
+    year: 1970
+    album: "The Temptations' Christmas Card"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Cover
+      - Billboard Holiday 100
+      - Cultural Icon
+  - rank: 40
+    title: "Let It Snow! Let It Snow! Let It Snow!"
+    artist: "Dean Martin"
+    year: 1959
+    album: "A Winter Romance"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Cover
+      - Billboard Holiday 100 Top 40
+      - Cultural Icon

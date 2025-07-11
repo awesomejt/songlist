@@ -1,0 +1,217 @@
+songs:
+  - rank: 1
+    title: "Johnny B. Goode"
+    artist: "Chuck Berry"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #2
+      - Cultural Icon
+      - Grammy Hall of Fame
+      - Soundtrack
+  - rank: 2
+    title: "Maybellene"
+    artist: "Chuck Berry"
+    year: 1955
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - Cultural Icon
+      - Cover
+  - rank: 3
+    title: "Sweet Little Sixteen"
+    artist: "Chuck Berry"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - UK Top 20
+      - Cultural Icon
+  - rank: 4
+    title: "Roll Over Beethoven"
+    artist: "Chuck Berry"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #2
+      - Cultural Icon
+  - rank: 5
+    title: "Rock and Roll Music"
+    artist: "Chuck Berry"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #6
+      - Cultural Icon
+  - rank: 6
+    title: "School Day (Ring! Ring! Goes the Bell)"
+    artist: "Chuck Berry"
+    year: 1957
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - Cultural Icon
+  - rank: 7
+    title: "No Particular Place to Go"
+    artist: "Chuck Berry"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 10
+      - R&B #3
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "Reelin' and Rockin'"
+    artist: "Chuck Berry"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #18
+  - rank: 9
+    title: "Carol"
+    artist: "Chuck Berry"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 20
+      - R&B #9
+  - rank: 10
+    title: "Too Much Monkey Business"
+    artist: "Chuck Berry"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - R&B Top 10
+      - Cultural Icon
+  - rank: 11
+    title: "Brown Eyed Handsome Man"
+    artist: "Chuck Berry"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - R&B Top 10
+      - Cultural Icon
+  - rank: 12
+    title: "You Can't Catch Me"
+    artist: "Chuck Berry"
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Cultural Icon
+      - Soundtrack
+  - rank: 13
+    title: "Almost Grown"
+    artist: "Chuck Berry"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #3
+      - Soundtrack
+  - rank: 14
+    title: "Back in the U.S.A."
+    artist: "Chuck Berry"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #16
+      - Cultural Icon
+  - rank: 15
+    title: "My Ding-a-Ling"
+    artist: "Chuck Berry"
+    year: 1972
+    single: true
+    genres:
+      - Rock
+      - Novelty
+    tags:
+      - Billboard #1
+      - UK #1
+      - R&B #1
+      - Cover
+  - rank: 16
+    title: "Nadine (Is It You?)"
+    artist: "Chuck Berry"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 40
+      - R&B #7
+      - UK Top 40
+  - rank: 17
+    title: "Sweet Little Rock and Roller"
+    artist: "Chuck Berry"
+    year: 1958
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - R&B #13
+  - rank: 18
+    title: "Memphis, Tennessee"
+    artist: "Chuck Berry"
+    year: 1959
+    single: true
+    genres:
+      - Rock
+      - R&B
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Cultural Icon

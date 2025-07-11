@@ -1,0 +1,502 @@
+songs:
+  - rank: 1
+    title: "Stayin' Alive"
+    artist: "Bee Gees"
+    year: 1977
+    album: "Saturday Night Fever"
+    genres:
+      - Disco
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 2
+    title: "I Will Survive"
+    artist: "Gloria Gaynor"
+    year: 1978
+    single: true
+    genres:
+      - Disco
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 3
+    title: "My Sharona"
+    artist: "The Knack"
+    year: 1979
+    album: "Get the Knack"
+    genres:
+      - Rock
+      - Power Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 4
+    title: "Killing Me Softly with His Song"
+    artist: "Roberta Flack"
+    year: 1973
+    album: "Killing Me Softly"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+      - Grammy Winner
+  - rank: 5
+    title: "Le Freak"
+    artist: "Chic"
+    year: 1978
+    album: "C'est Chic"
+    genres:
+      - Disco
+      - Funk
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "The First Time Ever I Saw Your Face"
+    artist: "Roberta Flack"
+    year: 1972
+    album: "First Take"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+      - Grammy Winner
+  - rank: 7
+    title: "Best of My Love"
+    artist: "The Emotions"
+    year: 1977
+    album: "Rejoice"
+    genres:
+      - Rhythm and Blues
+      - Disco
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "A Fifth of Beethoven"
+    artist: "Walter Murphy & The Big Apple Band"
+    year: 1976
+    single: true
+    genres:
+      - Disco
+      - Classical Pop
+    tags:
+      - Billboard #1
+      - Soundtrack
+      - Bottled Lightning
+  - rank: 9
+    title: "Ring My Bell"
+    artist: "Anita Ward"
+    year: 1979
+    single: true
+    genres:
+      - Disco
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 10
+    title: "If I Can't Have You"
+    artist: "Yvonne Elliman"
+    year: 1977
+    album: "Saturday Night Fever"
+    genres:
+      - Disco
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Soundtrack
+  - rank: 11
+    title: "Kung Fu Fighting"
+    artist: "Carl Douglas"
+    year: 1974
+    single: true
+    genres:
+      - Disco
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 12
+    title: "Seasons in the Sun"
+    artist: "Terry Jacks"
+    year: 1974
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 13
+    title: "The Hustle"
+    artist: "Van McCoy"
+    year: 1975
+    single: true
+    genres:
+      - Disco
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 14
+    title: "Funky Town"
+    artist: "Lipps Inc."
+    year: 1979
+    single: true
+    genres:
+      - Disco
+      - Funk
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 15
+    title: "Baby Come Back"
+    artist: "Player"
+    year: 1977
+    album: "Player"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 16
+    title: "Pop Muzik"
+    artist: "M"
+    year: 1979
+    single: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 17
+    title: "Video Killed the Radio Star"
+    artist: "The Buggles"
+    year: 1979
+    single: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 18
+    title: "Love Is in the Air"
+    artist: "John Paul Young"
+    year: 1977
+    single: true
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 19
+    title: "Layla"
+    artist: "Derek and the Dominos"
+    year: 1970
+    album: "Layla and Other Assorted Love Songs"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 20
+    title: "Lean on Me"
+    artist: "Bill Withers"
+    year: 1972
+    album: "Still Bill"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+  - rank: 21
+    title: "Let's Stay Together"
+    artist: "Al Green"
+    year: 1971
+    album: "Let's Stay Together"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 22
+    title: "I Gotcha"
+    artist: "Joe Tex"
+    year: 1972
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 23
+    title: "Brandy (You're a Fine Girl)"
+    artist: "Looking Glass"
+    year: 1972
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 24
+    title: "I'll Take You There"
+    artist: "The Staple Singers"
+    year: 1972
+    album: "Be Altitude: Respect Yourself"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 25
+    title: "Drift Away"
+    artist: "Dobie Gray"
+    year: 1973
+    album: "Drift Away"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 26
+    title: "Cars"
+    artist: "Gary Numan"
+    year: 1979
+    album: "The Pleasure Principle"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+  - rank: 27
+    title: "Magic"
+    artist: "Pilot"
+    year: 1974
+    album: "From the Album of the Same Name"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 28
+    title: "Feelings"
+    artist: "Morris Albert"
+    year: 1975
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Bottled Lightning
+  - rank: 29
+    title: "How Long"
+    artist: "Ace"
+    year: 1974
+    album: "Five-A-Side"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 30
+    title: "Mississippi Queen"
+    artist: "Mountain"
+    year: 1970
+    album: "Climbing!"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 31
+    title: "All Right Now"
+    artist: "Free"
+    year: 1970
+    album: "Fire and Water"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 32
+    title: "Smokin' in the Boys' Room"
+    artist: "Brownsville Station"
+    year: 1973
+    album: "Yeah!"
+    genres:
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 33
+    title: "Brother Louie"
+    artist: "Stories"
+    year: 1973
+    album: "About Us"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 34
+    title: "Black Betty"
+    artist: "Ram Jam"
+    year: 1977
+    album: "Ram Jam"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 35
+    title: "In the Summertime"
+    artist: "Mungo Jerry"
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 36
+    title: "Alone Again (Naturally)"
+    artist: "Gilbert O'Sullivan"
+    year: 1972
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 37
+    title: "I Can See Clearly Now"
+    artist: "Johnny Nash"
+    year: 1972
+    album: "I Can See Clearly Now"
+    genres:
+      - Reggae
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 38
+    title: "American Pie"
+    artist: "Don McLean"
+    year: 1971
+    album: "American Pie"
+    genres:
+      - Folk Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 39
+    title: "Papa Was a Rollin' Stone"
+    artist: "The Temptations"
+    year: 1972
+    album: "All Directions"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+  - rank: 40
+    title: "You're So Vain"
+    artist: "Carly Simon"
+    year: 1972
+    album: "No Secrets"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon

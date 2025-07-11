@@ -1,0 +1,225 @@
+songs:
+  - rank: 1
+    title: "Don't Stop Believin'"
+    artist: "Journey"
+    year: 1981
+    album: "Escape"
+    genres:
+      - Rock
+      - Arena Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - Million Seller
+      - Cultural Icon
+  - rank: 2
+    title: "Open Arms"
+    artist: "Journey"
+    year: 1981
+    album: "Escape"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+      - Cultural Icon
+  - rank: 3
+    title: "Faithfully"
+    artist: "Journey"
+    year: 1983
+    album: "Frontiers"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 4
+    title: "Any Way You Want It"
+    artist: "Journey"
+    year: 1980
+    album: "Departure"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 5
+    title: "Separate Ways (Worlds Apart)"
+    artist: "Journey"
+    year: 1983
+    album: "Frontiers"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+      - Cultural Icon
+  - rank: 6
+    title: "Wheel in the Sky"
+    artist: "Journey"
+    year: 1978
+    album: "Infinity"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+  - rank: 7
+    title: "Lovin', Touchin', Squeezin'"
+    artist: "Journey"
+    year: 1979
+    album: "Evolution"
+    genres:
+      - Rock
+      - Arena Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 100
+  - rank: 8
+    title: "Who's Crying Now"
+    artist: "Journey"
+    year: 1981
+    album: "Escape"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+  - rank: 9
+    title: "Lights"
+    artist: "Journey"
+    year: 1978
+    album: "Infinity"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+  - rank: 10
+    title: "Send Her My Love"
+    artist: "Journey"
+    year: 1983
+    album: "Frontiers"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 40
+  - rank: 11
+    title: "Stone in Love"
+    artist: "Journey"
+    year: 1981
+    album: "Escape"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Deep Cut
+      - Cultural Icon
+  - rank: 12
+    title: "Girl Can't Help It"
+    artist: "Journey"
+    year: 1986
+    album: "Raised on Radio"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 20
+  - rank: 13
+    title: "Be Good to Yourself"
+    artist: "Journey"
+    year: 1986
+    album: "Raised on Radio"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 10
+  - rank: 14
+    title: "I'll Be Alright Without You"
+    artist: "Journey"
+    year: 1986
+    album: "Raised on Radio"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 20
+  - rank: 15
+    title: "Only the Young"
+    artist: "Journey"
+    year: 1985
+    album: "Vision Quest Soundtrack"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 10
+      - Film Song
+  - rank: 16
+    title: "The Party's Over (Hopelessly in Love)"
+    artist: "Journey"
+    year: 1981
+    album: "Captured"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 40
+      - Live Recording
+  - rank: 17
+    title: "After the Fall"
+    artist: "Journey"
+    year: 1983
+    album: "Frontiers"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 40
+  - rank: 18
+    title: "Feeling That Way"
+    artist: "Journey"
+    year: 1978
+    album: "Infinity"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Deep Cut
+  - rank: 19
+    title: "When You Love a Woman"
+    artist: "Journey"
+    year: 1996
+    album: "Trial by Fire"
+    genres:
+      - Rock
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 20
+      - Grammy Nominee
+  - rank: 20
+    title: "Just the Same Way"
+    artist: "Journey"
+    year: 1979
+    album: "Evolution"
+    genres:
+      - Rock
+      - Arena Rock
+    tags:
+      - Billboard Top 100

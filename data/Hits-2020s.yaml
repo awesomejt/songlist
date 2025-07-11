@@ -1,0 +1,439 @@
+songs:
+  - rank: 1
+    title: "Blinding Lights"
+    artist: "The Weeknd"
+    year: 2020
+    album: "After Hours"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Nominee
+  - rank: 2
+    title: "Flowers"
+    artist: "Miley Cyrus"
+    year: 2023
+    album: "Endless Summer Vacation"
+    genres:
+      - Pop
+      - Disco-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 3
+    title: "Beautiful Things"
+    artist: "Benson Boone"
+    year: 2024
+    album: "Fireworks & Rollerblades"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard #2
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 4
+    title: "Anti-Hero"
+    artist: "Taylor Swift"
+    year: 2022
+    album: "Midnights"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Nominee
+  - rank: 5
+    title: "As It Was"
+    artist: "Harry Styles"
+    year: 2022
+    album: "Harry's House"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 6
+    title: "Levitating"
+    artist: "Dua Lipa featuring DaBaby"
+    year: 2020
+    album: "Future Nostalgia"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 7
+    title: "Vampire"
+    artist: "Olivia Rodrigo"
+    year: 2023
+    album: "Guts"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "About Damn Time"
+    artist: "Lizzo"
+    year: 2022
+    album: "Special"
+    genres:
+      - Pop
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 9
+    title: "Unholy"
+    artist: "Sam Smith & Kim Petras"
+    year: 2022
+    album: "Gloria"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+      - Bottled Lightning
+  - rank: 10
+    title: "Heat Waves"
+    artist: "Glass Animals"
+    year: 2020
+    album: "Dreamland"
+    genres:
+      - Pop
+      - Alternative Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 11
+    title: "What Was I Made For?"
+    artist: "Billie Eilish"
+    year: 2023
+    album: "Barbie"
+    genres:
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+      - Grammy Winner
+  - rank: 12
+    title: "Escapism"
+    artist: "RAYE featuring 070 Shake"
+    year: 2022
+    album: "My 21st Century Blues"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 13
+    title: "Dance the Night"
+    artist: "Dua Lipa"
+    year: 2023
+    album: "Barbie"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+  - rank: 14
+    title: "Stay"
+    artist: "The Kid LAROI & Justin Bieber"
+    year: 2021
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #2
+      - Cultural Icon
+  - rank: 15
+    title: "I'm Just Ken"
+    artist: "Ryan Gosling"
+    year: 2023
+    album: "Barbie"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Cultural Icon
+      - Soundtrack
+      - Bottled Lightning
+  - rank: 16
+    title: "Bad Habits"
+    artist: "Ed Sheeran"
+    year: 2021
+    album: "="
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+  - rank: 17
+    title: "Creepin'"
+    artist: "Metro Boomin, The Weeknd & 21 Savage"
+    year: 2022
+    album: "Heroes & Villains"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+  - rank: 18
+    title: "Good 4 U"
+    artist: "Olivia Rodrigo"
+    year: 2021
+    album: "Sour"
+    genres:
+      - Pop
+      - Pop Punk
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 19
+    title: "Easy on Me"
+    artist: "Adele"
+    year: 2021
+    album: "30"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 20
+    title: "Break My Heart"
+    artist: "Dua Lipa"
+    year: 2020
+    album: "Future Nostalgia"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 21
+    title: "Cuff It"
+    artist: "Beyoncé"
+    year: 2022
+    album: "Renaissance"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 22
+    title: "Watermelon Sugar"
+    artist: "Harry Styles"
+    year: 2020
+    album: "Fine Line"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 23
+    title: "Die with a Smile"
+    artist: "Lady Gaga & Bruno Mars"
+    year: 2024
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 24
+    title: "Pink Pony Club"
+    artist: "Chappell Roan"
+    year: 2020
+    album: "The Rise and Fall of a Midwest Princess"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Cultural Icon
+  - rank: 25
+    title: "Shivers"
+    artist: "Ed Sheeran"
+    year: 2021
+    album: "="
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 26
+    title: "All Too Well (10 Minute Version)"
+    artist: "Taylor Swift"
+    year: 2021
+    album: "Red (Taylor's Version)"
+    genres:
+      - Pop
+      - Pop Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 27
+    title: "Drivers License"
+    artist: "Olivia Rodrigo"
+    year: 2021
+    album: "Sour"
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 28
+    title: "Espresso"
+    artist: "Sabrina Carpenter"
+    year: 2024
+    album: "Short N' Sweet"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 29
+    title: "Not Like Us"
+    artist: "Kendrick Lamar"
+    year: 2024
+    single: true
+    genres:
+      - Hip-Hop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Nominee
+  - rank: 30
+    title: "I Had Some Help"
+    artist: "Post Malone featuring Morgan Wallen"
+    year: 2024
+    single: true
+    genres:
+      - Country Pop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 31
+    title: "Lose Control"
+    artist: "Teddy Swims"
+    year: 2023
+    album: "I've Tried Everything but Therapy (Part 1)"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 32
+    title: "Viva La Vida"
+    artist: "Coldplay"
+    year: 2020
+    album: "Viva La Vida or Death and All His Friends (Re-release)"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Cultural Icon
+      - Cover
+  - rank: 33
+    title: "Montero (Call Me by Your Name)"
+    artist: "Lil Nas X"
+    year: 2021
+    album: "Montero"
+    genres:
+      - Pop
+      - Hip-Hop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 34
+    title: "Fortnight"
+    artist: "Taylor Swift featuring Post Malone"
+    year: 2024
+    album: "The Tortured Poets Department"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 35
+    title: "Last of My Kind"
+    artist: "Shaboozey"
+    year: 2024
+    album: "Where I've Been, Isn't Where I'm Going"
+    genres:
+      - Country Pop
+      - Hip-Hop
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Cultural Icon

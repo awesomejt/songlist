@@ -1,0 +1,316 @@
+songs:
+  - rank: 1
+    title: "Billie Jean"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Million Seller
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 2
+    title: "Thriller"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Film Song
+  - rank: 3
+    title: "Beat It"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - Rock
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Million Seller
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 4
+    title: "Bad"
+    artist: "Michael Jackson"
+    year: 1987
+    album: "Bad"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 5
+    title: "Smooth Criminal"
+    artist: "Michael Jackson"
+    year: 1987
+    album: "Bad"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "Don't Stop 'Til You Get Enough"
+    artist: "Michael Jackson"
+    year: 1979
+    album: "Off the Wall"
+    genres:
+      - Pop
+      - Disco
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Grammy Winner
+  - rank: 7
+    title: "The Way You Make Me Feel"
+    artist: "Michael Jackson"
+    year: 1987
+    album: "Bad"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 8
+    title: "Man in the Mirror"
+    artist: "Michael Jackson"
+    year: 1988
+    album: "Bad"
+    genres:
+      - Pop
+      - R&B
+      - Ballad
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 9
+    title: "I Just Can't Stop Loving You"
+    artist: "Michael Jackson"
+    year: 1987
+    album: "Bad"
+    genres:
+      - Pop
+      - R&B
+      - Ballad
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 10
+    title: "Wanna Be Startin' Somethin'"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 11
+    title: "Black or White"
+    artist: "Michael Jackson"
+    year: 1991
+    album: "Dangerous"
+    genres:
+      - Pop
+      - Rock
+      - R&B
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 12
+    title: "Rock with You"
+    artist: "Michael Jackson"
+    year: 1979
+    album: "Off the Wall"
+    genres:
+      - Pop
+      - Disco
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 13
+    title: "Human Nature"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - R&B
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 14
+    title: "P.Y.T. (Pretty Young Thing)"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+  - rank: 15
+    title: "Say Say Say"
+    artist: "Paul McCartney & Michael Jackson"
+    year: 1983
+    album: "Pipes of Peace"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Duet
+  - rank: 16
+    title: "Ben"
+    artist: "Michael Jackson"
+    year: 1972
+    album: "Ben"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Film Song
+      - Cover
+  - rank: 17
+    title: "Off the Wall"
+    artist: "Michael Jackson"
+    year: 1979
+    album: "Off the Wall"
+    genres:
+      - Pop
+      - Disco
+      - R&B
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 18
+    title: "Remember the Time"
+    artist: "Michael Jackson"
+    year: 1992
+    album: "Dangerous"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 19
+    title: "Dirty Diana"
+    artist: "Michael Jackson"
+    year: 1988
+    album: "Bad"
+    genres:
+      - Pop
+      - Rock
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 20
+    title: "You Are Not Alone"
+    artist: "Michael Jackson"
+    year: 1995
+    album: "HIStory: Past, Present and Future, Book I"
+    genres:
+      - Pop
+      - R&B
+      - Ballad
+    tags:
+      - Billboard #1
+      - UK #1
+  - rank: 21
+    title: "Got to Be There"
+    artist: "Michael Jackson"
+    year: 1971
+    album: "Got to Be There"
+    genres:
+      - Pop
+      - R&B
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 22
+    title: "The Girl Is Mine"
+    artist: "Michael Jackson & Paul McCartney"
+    year: 1982
+    album: "Thriller"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Duet
+  - rank: 23
+    title: "Shake Your Body (Down to the Ground)"
+    artist: "The Jacksons"
+    year: 1978
+    album: "Destiny"
+    genres:
+      - Pop
+      - Disco
+      - R&B
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 24
+    title: "In the Closet"
+    artist: "Michael Jackson"
+    year: 1992
+    album: "Dangerous"
+    genres:
+      - Pop
+      - R&B
+      - Dance
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 25
+    title: "Will You Be There"
+    artist: "Michael Jackson"
+    year: 1993
+    album: "Dangerous"
+    genres:
+      - Pop
+      - R&B
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Film Song

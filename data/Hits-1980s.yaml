@@ -1,0 +1,629 @@
+songs:
+  - rank: 1
+    title: "Sweet Child O' Mine"
+    artist: "Guns N' Roses"
+    year: 1988
+    album: "Appetite for Destruction"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 2
+    title: "Every Rose Has Its Thorn"
+    artist: "Poison"
+    year: 1988
+    album: "Open Up and Say... Ahh!"
+    genres:
+      - Rock
+      - Glam Metal
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+  - rank: 3
+    title: "Sweet Dreams (Are Made of This)"
+    artist: "Eurythmics"
+    year: 1983
+    album: "Sweet Dreams (Are Made of This)"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 4
+    title: "Flashdance... What a Feeling"
+    artist: "Irene Cara"
+    year: 1983
+    album: "What a Feelin'"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Soundtrack
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 5
+    title: "Billie Jean"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 6
+    title: "Take on Me"
+    artist: "a-ha"
+    year: 1985
+    album: "Hunting High and Low"
+    genres:
+      - Synth-Pop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 7
+    title: "Don't You Want Me"
+    artist: "The Human League"
+    year: 1981
+    album: "Dare"
+    genres:
+      - Synth-Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 8
+    title: "Karma Chameleon"
+    artist: "Culture Club"
+    year: 1983
+    album: "Colour by Numbers"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 9
+    title: "Come on Eileen"
+    artist: "Dexys Midnight Runners"
+    year: 1982
+    album: "Too-Rye-Ay"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 10
+    title: "Time After Time"
+    artist: "Cyndi Lauper"
+    year: 1984
+    album: "She's So Unusual"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 11
+    title: "Footloose"
+    artist: "Kenny Loggins"
+    year: 1984
+    album: "Footloose"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Soundtrack
+      - Cultural Icon
+  - rank: 12
+    title: "Tainted Love"
+    artist: "Soft Cell"
+    year: 1981
+    single: true
+    genres:
+      - Synth-Pop
+      - New Wave
+    tags:
+      - Billboard #8
+      - UK #1
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 13
+    title: "99 Luftballoons"
+    artist: "Nena"
+    year: 1983
+    album: "Nena"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard #2
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 14
+    title: "99 Red Balloons"
+    artist: "Nena"
+    year: 1984
+    single: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard #2
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 15
+    title: "Mickey"
+    artist: "Toni Basil"
+    year: 1982
+    single: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 16
+    title: "I Ran (So Far Away)"
+    artist: "A Flock of Seagulls"
+    year: 1982
+    album: "A Flock of Seagulls"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 17
+    title: "You Spin Me Round (Like a Record)"
+    artist: "Dead or Alive"
+    year: 1985
+    single: true
+    genres:
+      - Synth-Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 20
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 18
+    title: "Don't Worry Be Happy"
+    artist: "Bobby McFerrin"
+    year: 1988
+    single: true
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Soundtrack
+      - Grammy Winner
+      - Bottled Lightning
+  - rank: 19
+    title: "Electric Avenue"
+    artist: "Eddy Grant"
+    year: 1982
+    album: "Killer on the Rampage"
+    genres:
+      - Reggae
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 20
+    title: "Maniac"
+    artist: "Michael Sembello"
+    year: 1983
+    single: true
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - Soundtrack
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 21
+    title: "Somebody's Watching Me"
+    artist: "Rockwell"
+    year: 1984
+    album: "Somebody's Watching Me"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 22
+    title: "Your Love"
+    artist: "The Outfield"
+    year: 1985
+    album: "Play Deep"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 23
+    title: "Lady in Red"
+    artist: "Chris de Burgh"
+    year: 1986
+    album: "Into the Light"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 24
+    title: "(I Just) Died in Your Arms"
+    artist: "Cutting Crew"
+    year: 1986
+    album: "Broadcast"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 25
+    title: "St. Elmo's Fire (Man in Motion)"
+    artist: "John Parr"
+    year: 1985
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Soundtrack
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 26
+    title: "Too Shy"
+    artist: "Kajagoogoo"
+    year: 1983
+    album: "White Feathers"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 27
+    title: "Break My Stride"
+    artist: "Matthew Wilder"
+    year: 1983
+    album: "I Don't Speak the Language"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 28
+    title: "867-5309/Jenny"
+    artist: "Tommy Tutone"
+    year: 1981
+    album: "Tommy Tutone 2"
+    genres:
+      - Rock
+      - Power Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 29
+    title: "Whip It"
+    artist: "Devo"
+    year: 1980
+    album: "Freedom of Choice"
+    genres:
+      - New Wave
+      - Post-Punk
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 30
+    title: "Our House"
+    artist: "Madness"
+    year: 1982
+    album: "The Rise & Fall"
+    genres:
+      - Pop
+      - Ska
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 31
+    title: "I Melt With You"
+    artist: "Modern English"
+    year: 1982
+    album: "After the Snow"
+    genres:
+      - New Wave
+      - Post-Punk
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 32
+    title: "She Blinded Me with Science"
+    artist: "Thomas Dolby"
+    year: 1982
+    album: "The Golden Age of Wireless"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 33
+    title: "Turning Japanese"
+    artist: "The Vapors"
+    year: 1980
+    single: true
+    genres:
+      - New Wave
+      - Punk Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 34
+    title: "Voices Carry"
+    artist: "’Til Tuesday"
+    year: 1985
+    album: "Voices Carry"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 35
+    title: "Harden My Heart"
+    artist: "Quarterflash"
+    year: 1981
+    album: "Quarterflash"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 36
+    title: "Big in Japan"
+    artist: "Alphaville"
+    year: 1984
+    album: "Forever Young"
+    genres:
+      - Synth-Pop
+      - New Wave
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Cultural Icon
+  - rank: 37
+    title: "Major Tom (Coming Home)"
+    artist: "Peter Schilling"
+    year: 1983
+    album: "Error in the System"
+    genres:
+      - Synth-Pop
+      - New Wave
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 38
+    title: "Two of Hearts"
+    artist: "Stacey Q"
+    year: 1986
+    album: "Better Than Heaven"
+    genres:
+      - Dance-Pop
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 39
+    title: "Far From Over"
+    artist: "Frank Stallone"
+    year: 1983
+    single: true
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 20
+      - Soundtrack
+      - Bottled Lightning
+  - rank: 40
+    title: "Missing You"
+    artist: "John Waite"
+    year: 1984
+    album: "No Brakes"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 41
+    title: "What I Am"
+    artist: "Edie Brickell & New Bohemians"
+    year: 1988
+    album: "Shooting Rubberbands at the Stars"
+    genres:
+      - Pop
+      - Alternative Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 42
+    title: "Putting On The Ritz"
+    artist: "Taco"
+    year: 1982
+    album: "After Eight"
+    genres:
+      - Pop
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Cover
+      - Bottled Lightning
+  - rank: 43
+    title: "West End Girls"
+    artist: "Pet Shop Boys"
+    year: 1985
+    album: "Please"
+    genres:
+      - Synth-Pop
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 44
+    title: "Back to Life (However Do You Want Me)"
+    artist: "Soul II Soul"
+    year: 1989
+    album: "Club Classics Vol. One"
+    genres:
+      - Rhythm and Blues
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cultural Icon
+  - rank: 45
+    title: "Love Shack"
+    artist: "The B-52's"
+    year: 1989
+    album: "Cosmic Thing"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 46
+    title: "Walk Like an Egyptian"
+    artist: "The Bangles"
+    year: 1986
+    album: "Different Light"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 47
+    title: "The Safety Dance"
+    artist: "Men Without Hats"
+    year: 1982
+    album: "Rhythm of Youth"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+      - Bottled Lightning
+  - rank: 48
+    title: "Bette Davis Eyes"
+    artist: "Kim Carnes"
+    year: 1981
+    album: "Mistaken Identity"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard #1
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+      - Grammy Winner
+  - rank: 49
+    title: "Never Gonna Give You Up"
+    artist: "Rick Astley"
+    year: 1987
+    album: "Whenever You Need Somebody"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 50
+    title: "Heaven Is a Place on Earth"
+    artist: "Belinda Carlisle"
+    year: 1987
+    album: "Heaven on Earth"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon

@@ -1,0 +1,290 @@
+songs:
+  - rank: 1
+    title: "Like a Virgin"
+    artist: "Madonna"
+    year: 1984
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Nominee
+  - rank: 2
+    title: "Vogue"
+    artist: "Madonna"
+    year: 1990
+    album: "I'm Breathless"
+    genres:
+      - Pop
+      - Dance-Pop
+      - House
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Nominee
+  - rank: 3
+    title: "Like a Prayer"
+    artist: "Madonna"
+    year: 1989
+    album: "Like a Prayer"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 4
+    title: "Lucky Star"
+    artist: "Madonna"
+    year: 1983
+    album: "Madonna"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 5
+    title: "Material Girl"
+    artist: "Madonna"
+    year: 1984
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "Hung Up"
+    artist: "Madonna"
+    year: 2005
+    album: "Confessions on a Dance Floor"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Grammy Winner
+  - rank: 7
+    title: "La Isla Bonita"
+    artist: "Madonna"
+    year: 1987
+    album: "True Blue"
+    genres:
+      - Pop
+      - Latin Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "Into the Groove"
+    artist: "Madonna"
+    year: 1985
+    single: true
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - UK #1
+      - Cultural Icon
+      - Soundtrack
+  - rank: 9
+    title: "Holiday"
+    artist: "Madonna"
+    year: 1983
+    album: "Madonna"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 10
+    title: "Papa Don't Preach"
+    artist: "Madonna"
+    year: 1986
+    album: "True Blue"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Grammy Nominee
+  - rank: 11
+    title: "Open Your Heart"
+    artist: "Madonna"
+    year: 1986
+    album: "True Blue"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 12
+    title: "Crazy for You"
+    artist: "Madonna"
+    year: 1985
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Grammy Nominee
+      - Soundtrack
+  - rank: 13
+    title: "Live to Tell"
+    artist: "Madonna"
+    year: 1986
+    album: "True Blue"
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Soundtrack
+  - rank: 14
+    title: "Who's That Girl"
+    artist: "Madonna"
+    year: 1987
+    album: "Who's That Girl"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Soundtrack
+  - rank: 15
+    title: "This Used to Be My Playground"
+    artist: "Madonna"
+    year: 1992
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Soundtrack
+  - rank: 16
+    title: "Music"
+    artist: "Madonna"
+    year: 2000
+    album: "Music"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard #1
+      - UK #1
+  - rank: 17
+    title: "Borderline"
+    artist: "Madonna"
+    year: 1984
+    album: "Madonna"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 18
+    title: "Take a Bow"
+    artist: "Madonna"
+    year: 1994
+    album: "Bedtime Stories"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 20
+  - rank: 19
+    title: "Dress You Up"
+    artist: "Madonna"
+    year: 1985
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 20
+    title: "Angel"
+    artist: "Madonna"
+    year: 1985
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 21
+    title: "Cherish"
+    artist: "Madonna"
+    year: 1989
+    album: "Like a Prayer"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 22
+    title: "Frozen"
+    artist: "Madonna"
+    year: 1998
+    album: "Ray of Light"
+    genres:
+      - Pop
+      - Electronica
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 23
+    title: "Lucky Star/Borderline (Medley)"
+    artist: "Madonna"
+    year: 1984
+    album: "Madonna"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+  - rank: 24
+    title: "The Power of Good-Bye"
+    artist: "Madonna"
+    year: 1998
+    album: "Ray of Light"
+    genres:
+      - Pop
+      - Electronica
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 25
+    title: "Rescue Me"
+    artist: "Madonna"
+    year: 1991
+    album: "The Immaculate Collection"
+    genres:
+      - Pop
+      - Dance-Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10

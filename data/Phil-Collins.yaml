@@ -1,0 +1,188 @@
+songs:
+  - rank: 1
+    title: "Against All Odds (Take a Look at Me Now)"
+    artist: "Phil Collins"
+    year: 1984
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Grammy Nominee
+      - Soundtrack
+      - Cultural Icon
+  - rank: 2
+    title: "In the Air Tonight"
+    artist: "Phil Collins"
+    year: 1981
+    album: "Face Value"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+      - Cultural Icon
+  - rank: 3
+    title: "Another Day in Paradise"
+    artist: "Phil Collins"
+    year: 1989
+    album: "...But Seriously"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Grammy Winner
+      - Cultural Icon
+  - rank: 4
+    title: "One More Night"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 5
+    title: "Sussudio"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 20
+  - rank: 6
+    title: "A Groovy Kind of Love"
+    artist: "Phil Collins"
+    year: 1988
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cover
+      - Soundtrack
+  - rank: 7
+    title: "Two Hearts"
+    artist: "Phil Collins"
+    year: 1988
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Grammy Nominee
+      - Soundtrack
+  - rank: 8
+    title: "Easy Lover"
+    artist: "Phil Collins with Philip Bailey"
+    year: 1984
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Collaboration
+      - Grammy Nominee
+  - rank: 9
+    title: "I Wish It Would Rain Down"
+    artist: "Phil Collins"
+    year: 1989
+    album: "...But Seriously"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 10
+    title: "Separate Lives"
+    artist: "Phil Collins with Marilyn Martin"
+    year: 1985
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Collaboration
+      - Soundtrack
+  - rank: 11
+    title: "You Can't Hurry Love"
+    artist: "Phil Collins"
+    year: 1982
+    album: "Hello, I Must Be Going!"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Cover
+  - rank: 12
+    title: "Don't Lose My Number"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+  - rank: 13
+    title: "Take Me Home"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 14
+    title: "I Don't Care Anymore"
+    artist: "Phil Collins"
+    year: 1982
+    album: "Hello, I Must Be Going!"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+      - Grammy Nominee
+  - rank: 15
+    title: "Something Happened on the Way to Heaven"
+    artist: "Phil Collins"
+    year: 1990
+    album: "...But Seriously"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 16
+    title: "Do You Remember?"
+    artist: "Phil Collins"
+    year: 1990
+    album: "...But Seriously"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10

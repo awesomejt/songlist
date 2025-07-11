@@ -1,0 +1,308 @@
+songs:
+  - rank: 1
+    title: "What'd I Say (Parts 1 & 2)"
+    artist: "Ray Charles"
+    year: 1959
+    album: "What'd I Say"
+    genres:
+      - R&B
+      - Rock
+      - Gospel
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - Cultural Icon
+      - Grammy Hall of Fame
+  - rank: 2
+    title: "Georgia on My Mind"
+    artist: "Ray Charles"
+    year: 1960
+    album: "The Genius Hits the Road"
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - Grammy Winner
+      - Cultural Icon
+      - Cover
+  - rank: 3
+    title: "I Got a Woman"
+    artist: "Ray Charles"
+    year: 1954
+    single: true
+    genres:
+      - R&B
+      - Rock
+      - Gospel
+    tags:
+      - Billboard Top 100
+      - R&B #1
+      - Cultural Icon
+  - rank: 4
+    title: "Hit the Road Jack"
+    artist: "Ray Charles"
+    year: 1961
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard #1
+      - R&B #1
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 5
+    title: "I Can't Stop Loving You"
+    artist: "Ray Charles"
+    year: 1962
+    album: "Modern Sounds in Country and Western Music"
+    genres:
+      - R&B
+      - Pop
+      - Country
+    tags:
+      - Billboard #1
+      - R&B #1
+      - UK #1
+      - Cultural Icon
+      - Cover
+      - Grammy Winner
+  - rank: 6
+    title: "Hallelujah I Love Her So"
+    artist: "Ray Charles"
+    year: 1956
+    album: "Ray Charles"
+    genres:
+      - R&B
+      - Rock
+      - Soul
+    tags:
+      - Billboard Top 100
+      - R&B #5
+      - Cultural Icon
+  - rank: 7
+    title: "Mess Around"
+    artist: "Ray Charles"
+    year: 1953
+    single: true
+    genres:
+      - R&B
+      - Rock
+    tags:
+      - R&B #3
+      - Cultural Icon
+  - rank: 8
+    title: "Drown in My Own Tears"
+    artist: "Ray Charles"
+    year: 1956
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Billboard Top 100
+      - R&B #1
+      - Cultural Icon
+      - Cover
+  - rank: 9
+    title: "Swanee River Rock (Talkin' 'Bout That River)"
+    artist: "Ray Charles"
+    year: 1957
+    single: true
+    genres:
+      - R&B
+      - Rock
+    tags:
+      - Billboard Top 40
+      - R&B #14
+      - Cover
+  - rank: 10
+    title: "Lonely Avenue"
+    artist: "Ray Charles"
+    year: 1956
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - R&B #6
+      - Cultural Icon
+  - rank: 11
+    title: "Ain't That Love"
+    artist: "Ray Charles"
+    year: 1957
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - R&B #9
+  - rank: 12
+    title: "You Are My Sunshine"
+    artist: "Ray Charles"
+    year: 1962
+    album: "Modern Sounds in Country and Western Music"
+    genres:
+      - R&B
+      - Pop
+      - Country
+    tags:
+      - Billboard Top 10
+      - R&B #1
+      - Cover
+  - rank: 13
+    title: "Come Rain or Come Shine"
+    artist: "Ray Charles"
+    year: 1959
+    album: "The Genius of Ray Charles"
+    genres:
+      - R&B
+      - Jazz
+      - Pop
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 14
+    title: "Don't Let the Sun Catch You Crying"
+    artist: "Ray Charles"
+    year: 1960
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 100
+      - R&B #17
+      - Cover
+  - rank: 15
+    title: "Unchain My Heart"
+    artist: "Ray Charles"
+    year: 1961
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Soul
+    tags:
+      - Billboard Top 10
+      - R&B #1
+  - rank: 16
+    title: "Busted"
+    artist: "Ray Charles"
+    year: 1963
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Country
+    tags:
+      - Billboard Top 10
+      - R&B #3
+      - Cover
+  - rank: 17
+    title: "Take These Chains from My Heart"
+    artist: "Ray Charles"
+    year: 1963
+    single: true
+    genres:
+      - R&B
+      - Pop
+      - Country
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cover
+  - rank: 18
+    title: "One Mint Julep"
+    artist: "Ray Charles"
+    year: 1961
+    single: true
+    genres:
+      - R&B
+      - Jazz
+    tags:
+      - Billboard Top 20
+      - R&B #1
+      - Cover
+  - rank: 19
+    title: "A Fool for You"
+    artist: "Ray Charles"
+    year: 1955
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - R&B #1
+  - rank: 20
+    title: "Mary Ann"
+    artist: "Ray Charles"
+    year: 1956
+    single: true
+    genres:
+      - R&B
+      - Rock
+    tags:
+      - R&B #1
+  - rank: 21
+    title: "Night Time Is the Right Time"
+    artist: "Ray Charles"
+    year: 1958
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Billboard Top 100
+      - R&B #5
+      - Cultural Icon
+      - Cover
+  - rank: 22
+    title: "Don't You Know"
+    artist: "Ray Charles"
+    year: 1954
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - R&B #10
+  - rank: 23
+    title: "Come Back Baby"
+    artist: "Ray Charles"
+    year: 1954
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - R&B #4
+  - rank: 24
+    title: "Let the Good Times Roll"
+    artist: "Ray Charles"
+    year: 1959
+    album: "The Genius of Ray Charles"
+    genres:
+      - R&B
+      - Jazz
+      - Pop
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 25
+    title: "Your Cheatin' Heart"
+    artist: "Ray Charles"
+    year: 1962
+    album: "Modern Sounds in Country and Western Music"
+    genres:
+      - R&B
+      - Pop
+      - Country
+    tags:
+      - Billboard Top 40
+      - Cover

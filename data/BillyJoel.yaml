@@ -1,0 +1,426 @@
+songs:
+  - rank: 1
+    title: "It's Still Rock and Roll to Me"
+    artist: "Billy Joel"
+    year: 1980
+    album: "Glass Houses"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Million Seller
+      - Cultural Icon
+  - rank: 2
+    title: "We Didn't Start the Fire"
+    artist: "Billy Joel"
+    year: 1989
+    album: "Storm Front"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 3
+    title: "Uptown Girl"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Doo-Wop
+    tags:
+      - Billboard Top 10
+      - UK #1
+      - Million Seller
+      - Cultural Icon
+  - rank: 4
+    title: "Just the Way You Are"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - Grammy Winner
+      - Cultural Icon
+  - rank: 5
+    title: "My Life"
+    artist: "Billy Joel"
+    year: 1978
+    album: "52nd Street"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+  - rank: 6
+    title: "Tell Her About It"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Billboard #1
+      - UK Top 10
+  - rank: 7
+    title: "The River of Dreams"
+    artist: "Billy Joel"
+    year: 1993
+    album: "River of Dreams"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+      - Adult Contemporary #1
+  - rank: 8
+    title: "Piano Man"
+    artist: "Billy Joel"
+    year: 1973
+    album: "Piano Man"
+    genres:
+      - Pop
+      - Rock
+      - Ballad
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 9
+    title: "You May Be Right"
+    artist: "Billy Joel"
+    year: 1980
+    album: "Glass Houses"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 10
+    title: "I Go to Extremes"
+    artist: "Billy Joel"
+    year: 1990
+    album: "Storm Front"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 11
+    title: "She's Always a Woman"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 12
+    title: "Movin' Out (Anthony's Song)"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 13
+    title: "Only the Good Die Young"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+  - rank: 14
+    title: "Scenes from an Italian Restaurant"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Rock
+      - Pop
+      - Progressive Pop
+    tags:
+      - Cultural Icon
+  - rank: 15
+    title: "Vienna"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Cultural Icon
+  - rank: 16
+    title: "Big Shot"
+    artist: "Billy Joel"
+    year: 1978
+    album: "52nd Street"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+  - rank: 17
+    title: "Don't Ask Me Why"
+    artist: "Billy Joel"
+    year: 1980
+    album: "Glass Houses"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 20
+  - rank: 18
+    title: "Say Goodbye to Hollywood"
+    artist: "Billy Joel"
+    year: 1981
+    album: "Songs in the Attic"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+  - rank: 19
+    title: "She's Got a Way"
+    artist: "Billy Joel"
+    year: 1981
+    album: "Songs in the Attic"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 40
+  - rank: 20
+    title: "A Matter of Trust"
+    artist: "Billy Joel"
+    year: 1986
+    album: "The Bridge"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 21
+    title: "Pressure"
+    artist: "Billy Joel"
+    year: 1982
+    album: "The Nylon Curtain"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+  - rank: 22
+    title: "Allentown"
+    artist: "Billy Joel"
+    year: 1982
+    album: "The Nylon Curtain"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+  - rank: 23
+    title: "The Longest Time"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Doo-Wop
+    tags:
+      - Billboard Top 20
+  - rank: 24
+    title: "An Innocent Man"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Doo-Wop
+    tags:
+      - Billboard Top 10
+  - rank: 25
+    title: "To Make You Feel My Love"
+    artist: "Billy Joel"
+    year: 1997
+    single: true
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 26
+    title: "Turn the Lights Back On"
+    artist: "Billy Joel"
+    year: 2024
+    single: true
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 100
+      - Comeback Hit
+  - rank: 27
+    title: "New York State of Mind"
+    artist: "Billy Joel"
+    year: 1976
+    album: "Turnstiles"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Cultural Icon
+  - rank: 28
+    title: "Baby Grand"
+    artist: "Billy Joel with Ray Charles"
+    year: 1986
+    album: "The Bridge"
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Top 100
+      - Duet
+  - rank: 29
+    title: "Lullabye (Goodnight, My Angel)"
+    artist: "Billy Joel"
+    year: 1993
+    album: "River of Dreams"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 100
+  - rank: 30
+    title: "All About Soul"
+    artist: "Billy Joel"
+    year: 1993
+    album: "River of Dreams"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+  - rank: 31
+    title: "Honesty"
+    artist: "Billy Joel"
+    year: 1978
+    album: "52nd Street"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 40
+  - rank: 32
+    title: "Sometimes a Fantasy"
+    artist: "Billy Joel"
+    year: 1980
+    album: "Glass Houses"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 40
+  - rank: 33
+    title: "Christie Lee"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+  - rank: 34
+    title: "Keeping the Faith"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Doo-Wop
+    tags:
+      - Billboard Top 20
+  - rank: 35
+    title: "Goodnight Saigon"
+    artist: "Billy Joel"
+    year: 1982
+    album: "The Nylon Curtain"
+    genres:
+      - Rock
+      - Pop
+      - Ballad
+    tags:
+      - Cultural Icon
+      - Social Commentary
+  - rank: 36
+    title: "Captain Jack"
+    artist: "Billy Joel"
+    year: 1973
+    album: "Piano Man"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Cultural Icon
+  - rank: 37
+    title: "And So It Goes"
+    artist: "Billy Joel"
+    year: 1990
+    album: "Storm Front"
+    genres:
+      - Pop
+      - Ballad
+    tags:
+      - Billboard Top 40
+  - rank: 38
+    title: "Modern Woman"
+    artist: "Billy Joel"
+    year: 1986
+    album: "The Bridge"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+      - Film Song
+  - rank: 39
+    title: "You're Only Human (Second Wind)"
+    artist: "Billy Joel"
+    year: 1985
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 10
+  - rank: 40
+    title: "The Downeaster 'Alexa'"
+    artist: "Billy Joel"
+    year: 1990
+    album: "Storm Front"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 100
+      - Social Commentary

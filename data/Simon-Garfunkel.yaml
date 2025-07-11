@@ -1,0 +1,336 @@
+songs:
+  - rank: 1
+    title: "Bridge Over Troubled Water"
+    artist: "Simon & Garfunkel"
+    year: 1970
+    album: "Bridge Over Troubled Water"
+    genres:
+      - Folk
+      - Pop
+      - Gospel
+    tags:
+      - Billboard #1
+      - UK #1
+      - Million Seller
+      - Cultural Icon
+      - Grammy Winner
+  - rank: 2
+    title: "The Sound of Silence"
+    artist: "Simon & Garfunkel"
+    year: 1965
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Film Song
+  - rank: 3
+    title: "Mrs. Robinson"
+    artist: "Simon & Garfunkel"
+    year: 1968
+    album: "Bookends"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+      - Film Song
+      - Grammy Winner
+  - rank: 4
+    title: "The Boxer"
+    artist: "Simon & Garfunkel"
+    year: 1969
+    album: "Bridge Over Troubled Water"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 5
+    title: "I Am a Rock"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 6
+    title: "Cecilia"
+    artist: "Simon & Garfunkel"
+    year: 1970
+    album: "Bridge Over Troubled Water"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 7
+    title: "Homeward Bound"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 8
+    title: "Scarborough Fair/Canticle"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+      - Cover
+      - Film Song
+  - rank: 9
+    title: "El Condor Pasa (If I Could)"
+    artist: "Simon & Garfunkel"
+    year: 1970
+    album: "Bridge Over Troubled Water"
+    genres:
+      - Folk
+      - Pop
+      - World
+    tags:
+      - Billboard Top 20
+      - Cover
+  - rank: 10
+    title: "America"
+    artist: "Simon & Garfunkel"
+    year: 1968
+    album: "Bookends"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+  - rank: 11
+    title: "A Hazy Shade of Winter"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Bookends"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+  - rank: 12
+    title: "Fakin' It"
+    artist: "Simon & Garfunkel"
+    year: 1967
+    album: "Bookends"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 40
+  - rank: 13
+    title: "My Little Town"
+    artist: "Simon & Garfunkel"
+    year: 1975
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+      - Reunion Hit
+  - rank: 14
+    title: "At the Zoo"
+    artist: "Simon & Garfunkel"
+    year: 1967
+    album: "Bookends"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 20
+  - rank: 15
+    title: "The Dangling Conversation"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Top 40
+  - rank: 16
+    title: "The 59th Street Bridge Song (Feelin' Groovy)"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Cultural Icon
+  - rank: 17
+    title: "Kathy's Song"
+    artist: "Simon & Garfunkel"
+    year: 1965
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Ballad
+    tags:
+      - Deep Cut
+      - Cultural Icon
+  - rank: 18
+    title: "April Come She Will"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Ballad
+    tags:
+      - Deep Cut
+      - Film Song
+  - rank: 19
+    title: "Leaves That Are Green"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut
+  - rank: 20
+    title: "For Emily, Whenever I May Find Her"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Ballad
+    tags:
+      - Deep Cut
+  - rank: 21
+    title: "Bleecker Street"
+    artist: "Simon & Garfunkel"
+    year: 1964
+    album: "Wednesday Morning, 3 A.M."
+    genres:
+      - Folk
+      - Ballad
+    tags:
+      - Deep Cut
+  - rank: 22
+    title: "Bookends Theme"
+    artist: "Simon & Garfunkel"
+    year: 1968
+    album: "Bookends"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut
+  - rank: 23
+    title: "Old Friends"
+    artist: "Simon & Garfunkel"
+    year: 1968
+    album: "Bookends"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut
+  - rank: 24
+    title: "Sparrow"
+    artist: "Simon & Garfunkel"
+    year: 1964
+    album: "Wednesday Morning, 3 A.M."
+    genres:
+      - Folk
+      - Ballad
+    tags:
+      - Deep Cut
+  - rank: 25
+    title: "Flowers Never Bend with the Rainfall"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut
+  - rank: 26
+    title: "He Was My Brother"
+    artist: "Simon & Garfunkel"
+    year: 1964
+    album: "Wednesday Morning, 3 A.M."
+    genres:
+      - Folk
+      - Ballad
+    tags:
+      - Deep Cut
+  - rank: 27
+    title: "A Poem on the Underground Wall"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut
+  - rank: 28
+    title: "Cloudy"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Parsley, Sage, Rosemary and Thyme"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut
+  - rank: 29
+    title: "Anji"
+    artist: "Simon & Garfunkel"
+    year: 1966
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Instrumental
+    tags:
+      - Cover
+      - Deep Cut
+  - rank: 30
+    title: "We've Got a Groovy Thing Goin'"
+    artist: "Simon & Garfunkel"
+    year: 1965
+    album: "Sounds of Silence"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Deep Cut

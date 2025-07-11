@@ -1,0 +1,275 @@
+songs:
+  - rank: 1
+    title: "Good Vibrations"
+    artist: "The Beach Boys"
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+      - Psychedelic Pop
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+      - Grammy Nominee
+      - Grammy Hall of Fame
+  - rank: 2
+    title: "I Get Around"
+    artist: "The Beach Boys"
+    year: 1964
+    album: "All Summer Long"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 3
+    title: "Surfin' U.S.A."
+    artist: "The Beach Boys"
+    year: 1963
+    album: "Surfin' U.S.A."
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+      - Cultural Icon
+      - Cover
+  - rank: 4
+    title: "God Only Knows"
+    artist: "The Beach Boys"
+    year: 1966
+    album: "Pet Sounds"
+    genres:
+      - Pop
+      - Baroque Pop
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cultural Icon
+      - Grammy Hall of Fame
+  - rank: 5
+    title: "Barbara Ann"
+    artist: "The Beach Boys"
+    year: 1965
+    album: "Beach Boys' Party!"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cover
+  - rank: 6
+    title: "Help Me, Rhonda"
+    artist: "The Beach Boys"
+    year: 1965
+    album: "The Beach Boys Today!"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard #1
+      - UK Top 40
+  - rank: 7
+    title: "California Girls"
+    artist: "The Beach Boys"
+    year: 1965
+    album: "Summer Days (And Summer Nights!!)"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+      - Cultural Icon
+  - rank: 8
+    title: "Surfin' Safari"
+    artist: "The Beach Boys"
+    year: 1962
+    album: "Surfin' Safari"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 20
+      - Cultural Icon
+  - rank: 9
+    title: "Don't Worry Baby"
+    artist: "The Beach Boys"
+    year: 1964
+    album: "Shut Down Volume 2"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 10
+    title: "Surfer Girl"
+    artist: "The Beach Boys"
+    year: 1963
+    album: "Surfer Girl"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 11
+    title: "Fun, Fun, Fun"
+    artist: "The Beach Boys"
+    year: 1964
+    album: "Shut Down Volume 2"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 12
+    title: "Wouldn't It Be Nice"
+    artist: "The Beach Boys"
+    year: 1966
+    album: "Pet Sounds"
+    genres:
+      - Pop
+      - Baroque Pop
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 13
+    title: "Sloop John B"
+    artist: "The Beach Boys"
+    year: 1966
+    album: "Pet Sounds"
+    genres:
+      - Pop
+      - Folk Pop
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cover
+  - rank: 14
+    title: "Do It Again"
+    artist: "The Beach Boys"
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 20
+      - UK #1
+  - rank: 15
+    title: "Be True to Your School"
+    artist: "The Beach Boys"
+    year: 1963
+    album: "Little Deuce Coupe"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 10
+  - rank: 16
+    title: "Dance, Dance, Dance"
+    artist: "The Beach Boys"
+    year: 1964
+    album: "The Beach Boys Today!"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 10
+  - rank: 17
+    title: "When I Grow Up (To Be a Man)"
+    artist: "The Beach Boys"
+    year: 1964
+    album: "The Beach Boys Today!"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Top 10
+  - rank: 18
+    title: "Little Deuce Coupe"
+    artist: "The Beach Boys"
+    year: 1963
+    album: "Little Deuce Coupe"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 20
+  - rank: 19
+    title: "Heroes and Villains"
+    artist: "The Beach Boys"
+    year: 1967
+    album: "Smiley Smile"
+    genres:
+      - Pop
+      - Psychedelic Pop
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 20
+    title: "Kokomo"
+    artist: "The Beach Boys"
+    year: 1988
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Soundtrack
+  - rank: 21
+    title: "409"
+    artist: "The Beach Boys"
+    year: 1962
+    album: "Surfin' Safari"
+    genres:
+      - Rock
+      - Pop
+      - Surf Rock
+    tags:
+      - Billboard Top 100
+  - rank: 22
+    title: "Darlin'"
+    artist: "The Beach Boys"
+    year: 1967
+    album: "Wild Honey"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Billboard Top 20
+      - UK Top 20
+  - rank: 23
+    title: "I Can Hear Music"
+    artist: "The Beach Boys"
+    year: 1969
+    album: "20/20"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 20
+      - Cover

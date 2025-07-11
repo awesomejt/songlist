@@ -1,0 +1,356 @@
+songs:
+  - rank: 1
+    title: "The 12 Days of Christmas"
+    artist: "Straight No Chaser"
+    year: 2008
+    album: "Holiday Spirits"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #5
+      - Cultural Icon
+      - Cover
+  - rank: 2
+    title: "Wonderful Christmastime"
+    artist: "Straight No Chaser Featuring Paul McCartney"
+    year: 2013
+    album: "Under the Influence: Holiday Edition"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #12
+      - Collaboration
+      - Cover
+  - rank: 3
+    title: "Feels Like Christmas"
+    artist: "Straight No Chaser Featuring Jana Kramer"
+    year: 2016
+    album: "I'll Have Another...Christmas Album"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #13
+      - Collaboration
+  - rank: 4
+    title: "The Christmas Can-Can"
+    artist: "Straight No Chaser"
+    year: 2009
+    album: "Christmas Cheers"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #18
+      - Cover
+  - rank: 5
+    title: "That's Why We Celebrate"
+    artist: "Straight No Chaser"
+    year: 2018
+    album: "One Shot"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #23
+  - rank: 6
+    title: "You're My Best Friend"
+    artist: "Straight No Chaser"
+    year: 2010
+    album: "With a Twist"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Adult Contemporary #30
+      - Cover
+  - rank: 7
+    title: "Text Me Merry Christmas"
+    artist: "Straight No Chaser Featuring Kristen Bell"
+    year: 2014
+    album: "Under the Influence: Holiday Edition"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #34
+      - Collaboration
+  - rank: 8
+    title: "Carol of the Bells"
+    artist: "Straight No Chaser"
+    year: 2008
+    album: "Holiday Spirits"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #40
+      - Cover
+  - rank: 9
+    title: "O Holy Night"
+    artist: "Straight No Chaser"
+    year: 2008
+    album: "Holiday Spirits"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #47
+      - Cover
+  - rank: 10
+    title: "Silent Night"
+    artist: "Straight No Chaser"
+    year: 2008
+    album: "Holiday Spirits"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Songs #50
+      - Cover
+  - rank: 11
+    title: "Santa Claus Is Coming to Town"
+    artist: "Straight No Chaser"
+    year: 2009
+    album: "Christmas Cheers"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #33
+      - Cover
+  - rank: 12
+    title: "Jingle Bell Rock"
+    artist: "Straight No Chaser"
+    year: 2009
+    album: "Christmas Cheers"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+      - Rock
+    tags:
+      - Holiday Digital Songs #38
+      - Cover
+  - rank: 13
+    title: "Let It Snow! Let It Snow! Let It Snow!"
+    artist: "Straight No Chaser"
+    year: 2009
+    album: "Christmas Cheers"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #42
+      - Cover
+  - rank: 14
+    title: "Silver Bells"
+    artist: "Straight No Chaser"
+    year: 2016
+    album: "I'll Have Another...Christmas Album"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #45
+      - Cover
+  - rank: 15
+    title: "Frosty the Snowman"
+    artist: "Straight No Chaser"
+    year: 2016
+    album: "I'll Have Another...Christmas Album"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #48
+      - Cover
+  - rank: 16
+    title: "Auld Lang Syne"
+    artist: "Straight No Chaser"
+    year: 2009
+    album: "Christmas Cheers"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #50
+      - Cover
+  - rank: 17
+    title: "This Christmas"
+    artist: "Straight No Chaser"
+    year: 2009
+    album: "Christmas Cheers"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Holiday Digital Songs #50
+      - Cover
+  - rank: 18
+    title: "I'm Yours/Somewhere Over the Rainbow"
+    artist: "Straight No Chaser"
+    year: 2010
+    album: "With a Twist"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Medley
+      - Cover
+  - rank: 19
+    title: "Fix You"
+    artist: "Straight No Chaser"
+    year: 2010
+    album: "With a Twist"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 20
+    title: "The Living Years"
+    artist: "Straight No Chaser"
+    year: 2010
+    album: "With a Twist"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 21
+    title: "Somebody That I Used to Know"
+    artist: "Straight No Chaser"
+    year: 2013
+    album: "Under the Influence"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 22
+    title: "Creep"
+    artist: "Straight No Chaser"
+    year: 2015
+    album: "The New Old Fashioned"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 23
+    title: "Rolling in the Deep"
+    artist: "Straight No Chaser"
+    year: 2013
+    album: "Under the Influence"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 24
+    title: "Happy"
+    artist: "Straight No Chaser"
+    year: 2015
+    album: "The New Old Fashioned"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 25
+    title: "Shut Up and Dance"
+    artist: "Straight No Chaser"
+    year: 2015
+    album: "The New Old Fashioned"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 26
+    title: "Tainted Love"
+    artist: "Straight No Chaser"
+    year: 2010
+    album: "With a Twist"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 27
+    title: "A Million Dreams"
+    artist: "Straight No Chaser"
+    year: 2020
+    album: "Social Christmasing"
+    genres:
+      - Pop
+      - A Cappella
+      - Holiday
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 28
+    title: "No Roots"
+    artist: "Straight No Chaser"
+    year: 2018
+    album: "One Shot"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 29
+    title: "Time of the Season"
+    artist: "Straight No Chaser"
+    year: 2018
+    album: "One Shot"
+    genres:
+      - Pop
+      - A Cappella
+      - Rock
+    tags:
+      - Fan Favorite
+      - Cover
+  - rank: 30
+    title: "Yacht on the Rocks"
+    artist: "Straight No Chaser"
+    year: 2023
+    album: "Yacht on the Rocks"
+    genres:
+      - Pop
+      - A Cappella
+    tags:
+      - Fan Favorite

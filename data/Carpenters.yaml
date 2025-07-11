@@ -1,0 +1,311 @@
+songs:
+  - rank: 1
+    title: "(They Long to Be) Close to You"
+    artist: "The Carpenters"
+    year: 1970
+    album: "Close to You"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Million Seller
+      - Cultural Icon
+      - Cover
+  - rank: 2
+    title: "We've Only Just Begun"
+    artist: "The Carpenters"
+    year: 1970
+    album: "Close to You"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+      - Cultural Icon
+      - Cover
+  - rank: 3
+    title: "Top of the World"
+    artist: "The Carpenters"
+    year: 1972
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Soft Rock
+      - Country
+    tags:
+      - Billboard #1
+      - UK Top 40
+      - Cultural Icon
+  - rank: 4
+    title: "Superstar"
+    artist: "The Carpenters"
+    year: 1971
+    album: "Carpenters"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cultural Icon
+      - Cover
+  - rank: 5
+    title: "Rainy Days and Mondays"
+    artist: "The Carpenters"
+    year: 1971
+    album: "Carpenters"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 100
+      - Cultural Icon
+      - Cover
+  - rank: 6
+    title: "Yesterday Once More"
+    artist: "The Carpenters"
+    year: 1973
+    album: "Now & Then"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 7
+    title: "Please Mr. Postman"
+    artist: "The Carpenters"
+    year: 1974
+    album: "Horizon"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cover
+  - rank: 8
+    title: "Only Yesterday"
+    artist: "The Carpenters"
+    year: 1975
+    album: "Horizon"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 9
+    title: "Goodbye to Love"
+    artist: "The Carpenters"
+    year: 1972
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+      - Cultural Icon
+  - rank: 10
+    title: "Sing"
+    artist: "The Carpenters"
+    year: 1973
+    album: "Now & Then"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 10
+      - Cover
+  - rank: 11
+    title: "Hurting Each Other"
+    artist: "The Carpenters"
+    year: 1972
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - Cover
+  - rank: 12
+    title: "For All We Know"
+    artist: "The Carpenters"
+    year: 1971
+    album: "Carpenters"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 20
+      - Cover
+      - Film Song
+  - rank: 13
+    title: "Ticket to Ride"
+    artist: "The Carpenters"
+    year: 1969
+    album: "Offering/Ticket to Ride"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 14
+    title: "There's a Kind of Hush"
+    artist: "The Carpenters"
+    year: 1976
+    album: "A Kind of Hush"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+      - Cover
+  - rank: 15
+    title: "I Won't Last a Day Without You"
+    artist: "The Carpenters"
+    year: 1972
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+      - Cover
+  - rank: 16
+    title: "Solitaire"
+    artist: "The Carpenters"
+    year: 1975
+    album: "Horizon"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 20
+      - Cover
+  - rank: 17
+    title: "Jambalaya (On the Bayou)"
+    artist: "The Carpenters"
+    year: 1973
+    album: "Now & Then"
+    genres:
+      - Pop
+      - Soft Rock
+      - Country
+    tags:
+      - UK Top 20
+      - Cover
+  - rank: 18
+    title: "Touch Me When We're Dancing"
+    artist: "The Carpenters"
+    year: 1981
+    album: "Made in America"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 20
+      - Adult Contemporary #1
+      - Cover
+  - rank: 19
+    title: "Calling Occupants of Interplanetary Craft"
+    artist: "The Carpenters"
+    year: 1977
+    album: "Passage"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cover
+  - rank: 20
+    title: "I Need to Be in Love"
+    artist: "The Carpenters"
+    year: 1976
+    album: "A Kind of Hush"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 40
+      - UK Top 100
+  - rank: 21
+    title: "This Masquerade"
+    artist: "The Carpenters"
+    year: 1973
+    album: "Now & Then"
+    genres:
+      - Pop
+      - Soft Rock
+      - Jazz
+    tags:
+      - Billboard Top 100
+      - Cover
+  - rank: 22
+    title: "Merry Christmas, Darling"
+    artist: "The Carpenters"
+    year: 1970
+    single: true
+    genres:
+      - Pop
+      - Holiday
+    tags:
+      - Billboard Top 100
+      - Cultural Icon
+      - Holiday Song
+  - rank: 23
+    title: "Bless the Beasts and Children"
+    artist: "The Carpenters"
+    year: 1971
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Soft Rock
+      - Ballad
+    tags:
+      - Billboard Top 100
+      - Film Song
+      - Cover
+  - rank: 24
+    title: "It's Going to Take Some Time"
+    artist: "The Carpenters"
+    year: 1972
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Top 20
+      - Cover
+  - rank: 25
+    title: "Sweet, Sweet Smile"
+    artist: "The Carpenters"
+    year: 1977
+    album: "Passage"
+    genres:
+      - Pop
+      - Soft Rock
+      - Country
+    tags:
+      - Billboard Top 100
+      - Adult Contemporary Top 10

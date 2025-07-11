@@ -1,0 +1,29 @@
+Top Artist by Decade:
+List of 25 music artists with the most hits from the 1960s.
+
+Top Songs by Artist:
+Top songs from <artist> in yaml format - include title, artist, year, album, genres, and other tags - top 25 songs or less. Exclude deep cuts. Evaluate full artist song catalog.
+For singles without an album, just indicate single: true instead of album. 
+Represent genres and tags as list instead of in-line. 
+Standardize "Rock and Roll" as simply "Rock".
+Mark songs written for a movie or film as "Soundtrack" in tags.
+Indicate if a song is a cover in tags.
+
+Top Songs by Decade:
+Top songs from the 1950s in yaml format - include title, artist, year, album, genres, and other tags - up to 30 songs max. 
+For singles without an album, just indicate single: true instead of album. 
+Represent genres and tags as list instead of in-line. 
+Standardize "Rock and Roll" as simply "Rock".
+Indicate if a song is a cover in tags.
+Indicate if song was a one-hit-wonder for the artist in the USA in tags as "bottled lightning".
+Exclude songs from <list of artists>
+
+Top songs from the 1950s in yaml format - include title, artist, year, album, genres, and other tags - top 50 songs or less.
+For singles without an album, just indicate single: true instead of album. 
+Represent genres and tags as list instead of in-line. 
+Standardize "Rock and Roll" as simply "Rock". Expand "R&B".
+Mark songs written for a movie or film as "Soundtrack" in tags.
+Indicate if a song is a cover in tags. Do not consider a song a cover if previously released by original writer and was not successful.
+Exclude Holiday songs.
+Indicate if song was a one-hit-wonder for the artist in the USA in tags as "bottled lightning".
+Exclude songs from <list of artists>

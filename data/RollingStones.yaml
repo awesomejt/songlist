@@ -1,0 +1,454 @@
+songs:
+  - rank: 1
+    title: "(I Can't Get No) Satisfaction"
+    artist: "The Rolling Stones"
+    year: 1965
+    album: "Out of Our Heads"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Million Seller
+      - Cultural Icon
+  - rank: 2
+    title: "Paint It, Black"
+    artist: "The Rolling Stones"
+    year: 1966
+    album: "Aftermath"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Cultural Icon
+  - rank: 3
+    title: "Gimme Shelter"
+    artist: "The Rolling Stones"
+    year: 1969
+    album: "Let It Bleed"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cultural Icon
+  - rank: 4
+    title: "Sympathy for the Devil"
+    artist: "The Rolling Stones"
+    year: 1968
+    album: "Beggars Banquet"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cultural Icon
+  - rank: 5
+    title: "Brown Sugar"
+    artist: "The Rolling Stones"
+    year: 1971
+    album: "Sticky Fingers"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 6
+    title: "Jumpin' Jack Flash"
+    artist: "The Rolling Stones"
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard #3
+      - UK #1
+      - Cultural Icon
+  - rank: 7
+    title: "Honky Tonk Women"
+    artist: "The Rolling Stones"
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard #1
+      - UK #1
+      - Million Seller
+      - Cultural Icon
+  - rank: 8
+    title: "You Can't Always Get What You Want"
+    artist: "The Rolling Stones"
+    year: 1969
+    album: "Let It Bleed"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 9
+    title: "Start Me Up"
+    artist: "The Rolling Stones"
+    year: 1981
+    album: "Tattoo You"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard #2
+      - UK Top 10
+      - Cultural Icon
+  - rank: 10
+    title: "Angie"
+    artist: "The Rolling Stones"
+    year: 1973
+    album: "Goats Head Soup"
+    genres:
+      - Rock
+      - Ballad
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 11
+    title: "Miss You"
+    artist: "The Rolling Stones"
+    year: 1978
+    album: "Some Girls"
+    genres:
+      - Rock
+      - Disco
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 12
+    title: "Get Off of My Cloud"
+    artist: "The Rolling Stones"
+    year: 1965
+    album: "December's Children (And Everybody's)"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard #1
+      - UK #1
+  - rank: 13
+    title: "The Last Time"
+    artist: "The Rolling Stones"
+    year: 1965
+    album: "Out of Our Heads"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - UK #1
+  - rank: 14
+    title: "Wild Horses"
+    artist: "The Rolling Stones"
+    year: 1971
+    album: "Sticky Fingers"
+    genres:
+      - Rock
+      - Ballad
+      - Country Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 15
+    title: "Ruby Tuesday"
+    artist: "The Rolling Stones"
+    year: 1967
+    album: "Between the Buttons"
+    genres:
+      - Rock
+      - Pop Rock
+    tags:
+      - Billboard #1
+      - UK Top 10
+      - Cultural Icon
+  - rank: 16
+    title: "Let's Spend the Night Together"
+    artist: "The Rolling Stones"
+    year: 1967
+    album: "Between the Buttons"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 100
+      - UK Top 10
+      - Double A-Side
+  - rank: 17
+    title: "Tumbling Dice"
+    artist: "The Rolling Stones"
+    year: 1972
+    album: "Exile on Main St."
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 18
+    title: "Beast of Burden"
+    artist: "The Rolling Stones"
+    year: 1978
+    album: "Some Girls"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - Cultural Icon
+  - rank: 19
+    title: "Time Is on My Side"
+    artist: "The Rolling Stones"
+    year: 1964
+    album: "12 X 5"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - Cover
+  - rank: 20
+    title: "As Tears Go By"
+    artist: "The Rolling Stones"
+    year: 1965
+    album: "December's Children (And Everybody's)"
+    genres:
+      - Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 21
+    title: "It's All Over Now"
+    artist: "The Rolling Stones"
+    year: 1964
+    album: "12 X 5"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 40
+      - UK #1
+      - Cover
+  - rank: 22
+    title: "19th Nervous Breakdown"
+    artist: "The Rolling Stones"
+    year: 1966
+    album: "Big Hits (High Tide and Green Grass)"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 23
+    title: "Street Fighting Man"
+    artist: "The Rolling Stones"
+    year: 1968
+    album: "Beggars Banquet"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 40
+      - Cultural Icon
+  - rank: 24
+    title: "Mother's Little Helper"
+    artist: "The Rolling Stones"
+    year: 1966
+    album: "Aftermath"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 40
+  - rank: 25
+    title: "Under My Thumb"
+    artist: "The Rolling Stones"
+    year: 1966
+    album: "Aftermath"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cultural Icon
+  - rank: 26
+    title: "Emotional Rescue"
+    artist: "The Rolling Stones"
+    year: 1980
+    album: "Emotional Rescue"
+    genres:
+      - Rock
+      - Disco
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 27
+    title: "It's Only Rock 'n Roll (But I Like It)"
+    artist: "The Rolling Stones"
+    year: 1974
+    album: "It's Only Rock 'n Roll"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 28
+    title: "Shine a Light"
+    artist: "The Rolling Stones"
+    year: 1972
+    album: "Exile on Main St."
+    genres:
+      - Rock
+      - Blues Rock
+      - Gospel
+    tags:
+      - Cultural Icon
+      - Deep Cut
+  - rank: 29
+    title: "Fool to Cry"
+    artist: "The Rolling Stones"
+    year: 1976
+    album: "Black and Blue"
+    genres:
+      - Rock
+      - Ballad
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 30
+    title: "Have You Seen Your Mother, Baby, Standing in the Shadow?"
+    artist: "The Rolling Stones"
+    year: 1966
+    album: "Big Hits (High Tide and Green Grass)"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 10
+      - UK Top 10
+  - rank: 31
+    title: "Dandelion"
+    artist: "The Rolling Stones"
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 10
+  - rank: 32
+    title: "Waiting on a Friend"
+    artist: "The Rolling Stones"
+    year: 1981
+    album: "Tattoo You"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Top 20
+      - UK Top 40
+  - rank: 33
+    title: "Not Fade Away"
+    artist: "The Rolling Stones"
+    year: 1964
+    album: "The Rolling Stones"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 40
+      - UK Top 10
+      - Cover
+  - rank: 34
+    title: "Come On"
+    artist: "The Rolling Stones"
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - UK Top 40
+      - Cover
+  - rank: 35
+    title: "Little Red Rooster"
+    artist: "The Rolling Stones"
+    year: 1964
+    single: true
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - UK #1
+      - Cover
+  - rank: 36
+    title: "She's a Rainbow"
+    artist: "The Rolling Stones"
+    year: 1967
+    album: "Their Satanic Majesties Request"
+    genres:
+      - Rock
+      - Psychedelic Rock
+    tags:
+      - Billboard Top 40
+      - Cultural Icon
+  - rank: 37
+    title: "Ain't Too Proud to Beg"
+    artist: "The Rolling Stones"
+    year: 1974
+    album: "It's Only Rock 'n Roll"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Billboard Top 20
+      - Cover
+  - rank: 38
+    title: "Midnight Rambler"
+    artist: "The Rolling Stones"
+    year: 1969
+    album: "Let It Bleed"
+    genres:
+      - Rock
+      - Blues Rock
+    tags:
+      - Cultural Icon
+      - Deep Cut
+  - rank: 39
+    title: "Dead Flowers"
+    artist: "The Rolling Stones"
+    year: 1971
+    album: "Sticky Fingers"
+    genres:
+      - Rock
+      - Country Rock
+    tags:
+      - Deep Cut
+  - rank: 40
+    title: "Undercover of the Night"
+    artist: "The Rolling Stones"
+    year: 1983
+    album: "Undercover"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Top 10
+      - UK Top 40

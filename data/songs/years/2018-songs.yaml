@@ -1,0 +1,803 @@
+songs:
+  - rank: 1
+    title: "God's Plan"
+    artist: "Drake"
+    year: 2018
+    album: "Scorpion"
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 2
+    title: "Perfect"
+    artist: "Ed Sheeran"
+    year: 2018
+    album: "÷"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 3
+    title: "Meant to Be"
+    artist: "Bebe Rexha & Florida Georgia Line"
+    year: 2018
+    album: "Expectations"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 4
+    title: "Havana"
+    artist: "Camila Cabello ft Young Thug"
+    year: 2018
+    album: "Camila"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 5
+    title: "Rockstar"
+    artist: "Post Malone ft 21 Savage"
+    year: 2018
+    album: "Beerbongs & Bentleys"
+    genres:
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 6
+    title: "Psycho"
+    artist: "Post Malone ft Ty Dolla $ign"
+    year: 2018
+    album: "Beerbongs & Bentleys"
+    genres:
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 7
+    title: "I Like It"
+    artist: "Cardi B, Bad Bunny & J Balvin"
+    year: 2018
+    album: "Invasion of Privacy"
+    genres:
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 8
+    title: "The Middle"
+    artist: "Zedd, Maren Morris & Grey"
+    year: 2018
+    single: true
+    genres:
+      - Pop
+  - rank: 9
+    title: "In My Feelings"
+    artist: "Drake"
+    year: 2018
+    album: "Scorpion"
+    genres:
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 10
+    title: "Girls Like You"
+    artist: "Maroon 5 ft Cardi B"
+    year: 2018
+    album: "Red Pill Blues"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 11
+    title: "Whatever It Takes"
+    artist: "Imagine Dragons"
+    year: 2018
+    album: "Evolve"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 12
+    title: "Thunder"
+    artist: "Imagine Dragons"
+    year: 2018
+    album: "Evolve"
+    genres:
+      - Rock
+  - rank: 13
+    title: "Believer"
+    artist: "Imagine Dragons"
+    year: 2018
+    album: "Evolve"
+    genres:
+      - Rock
+  - rank: 14
+    title: "Finesse"
+    artist: "Bruno Mars & Cardi B"
+    year: 2018
+    album: "24K Magic"
+    genres:
+      - Funk
+      - R&B
+  - rank: 15
+    title: "Bad at Love"
+    artist: "Halsey"
+    year: 2018
+    album: "Hopeless Fountain Kingdom"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 16
+    title: "In My Blood"
+    artist: "Shawn Mendes"
+    year: 2018
+    album: "Shawn Mendes"
+    genres:
+      - Pop
+      - Rock
+  - rank: 17
+    title: "Friends"
+    artist: "Marshmello & Anne-Marie"
+    year: 2018
+    album: "Speak Your Mind"
+    genres:
+      - Pop
+  - rank: 18
+    title: "Love Lies"
+    artist: "Khalid & Normani"
+    year: 2018
+    soundtrack: true
+    genres:
+      - R&B
+      - Pop
+  - rank: 19
+    title: "Never Be the Same"
+    artist: "Camila Cabello"
+    year: 2018
+    album: "Camila"
+    genres:
+      - Pop
+  - rank: 20
+    title: "Mine"
+    artist: "Bazzi"
+    year: 2018
+    album: "Cosmic"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 21
+    title: "Boo'd Up"
+    artist: "Ella Mai"
+    year: 2018
+    album: "Ella Mai"
+    genres:
+      - R&B
+  - rank: 22
+    title: "High Hopes"
+    artist: "Panic! At The Disco"
+    year: 2018
+    album: "Pray for the Wicked"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 23
+    title: "Delicate"
+    artist: "Taylor Swift"
+    year: 2018
+    album: "Reputation"
+    genres:
+      - Pop
+  - rank: 24
+    title: "Youngblood"
+    artist: "5 Seconds Of Summer"
+    year: 2018
+    album: "Youngblood"
+    genres:
+      - Pop
+      - Rock
+  - rank: 25
+    title: "Lights Down Low"
+    artist: "Max ft Gnash"
+    year: 2018
+    album: "Hell's Kitchen Angel"
+    genres:
+      - Pop
+      - Easy Listening
+  - rank: 26
+    title: "Say Something"
+    artist: "Justin Timberlake ft Chris Stapleton"
+    year: 2018
+    album: "Man of the Woods"
+    genres:
+      - Pop
+      - Folk
+  - rank: 27
+    title: "Natural"
+    artist: "Imagine Dragons"
+    year: 2018
+    album: "Origins"
+    genres:
+      - Rock
+  - rank: 28
+    title: "Broken"
+    artist: "lovelytheband"
+    year: 2018
+    album: "Finding It Hard to Smile"
+    solo-hit: true
+    genres:
+      - Alternative
+  - rank: 29
+    title: "Sit Next to Me"
+    artist: "Foster The People"
+    year: 2018
+    album: "Sacred Hearts Club"
+    genres:
+      - Alternative
+  - rank: 30
+    title: "Feel It Still"
+    artist: "Portugal. The Man"
+    year: 2018
+    album: "Woodstock"
+    genres:
+      - Alternative
+      - Funk
+    tags:
+      - Grammy Winner for Best Pop Duo/Group Performance
+  - rank: 31
+    title: "Zombie"
+    artist: "Bad Wolves"
+    year: 2018
+    album: "Disobey"
+    cover: true
+    genres:
+      - Hard Rock
+    tags:
+      - Original artist: The Cranberries
+  - rank: 32
+    title: "Africa"
+    artist: "Weezer"
+    year: 2018
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: Toto
+  - rank: 33
+    title: "Bulletproof"
+    artist: "Godsmack"
+    year: 2018
+    album: "When Legends Rise"
+    genres:
+      - Hard Rock
+  - rank: 34
+    title: "Devil"
+    artist: "Shinedown"
+    year: 2018
+    album: "Attention Attention"
+    genres:
+      - Hard Rock
+  - rank: 35
+    title: "Safari Song"
+    artist: "Greta Van Fleet"
+    year: 2018
+    album: "From the Fires"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 36
+    title: "RX (Medicate)"
+    artist: "Theory of a Deadman"
+    year: 2018
+    album: "Wake Up Call"
+    genres:
+      - Rock
+  - rank: 37
+    title: "Are You Ready"
+    artist: "Disturbed"
+    year: 2018
+    album: "Evolution"
+    genres:
+      - Hard Rock
+  - rank: 38
+    title: "The Mountain"
+    artist: "Three Days Grace"
+    year: 2018
+    album: "Outsider"
+    genres:
+      - Rock
+  - rank: 39
+    title: "Thought Contagion"
+    artist: "Muse"
+    year: 2018
+    album: "Simulation Theory"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 40
+    title: "No Roots"
+    artist: "Alice Merton"
+    year: 2018
+    album: "No Roots"
+    solo-hit: true
+    genres:
+      - Alternative
+  - rank: 41
+    title: "Live in the Moment"
+    artist: "Portugal. The Man"
+    year: 2018
+    album: "Woodstock"
+    genres:
+      - Alternative
+  - rank: 42
+    title: "Wish I Knew You"
+    artist: "The Revivalists"
+    year: 2018
+    album: "Men Amongst Mountains"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 43
+    title: "Up All Night"
+    artist: "Beck"
+    year: 2018
+    album: "Colors"
+    genres:
+      - Alternative
+      - New Wave
+  - rank: 44
+    title: "Guiding Light"
+    artist: "Mumford & Sons"
+    year: 2018
+    album: "Delta"
+    genres:
+      - Folk
+      - Rock
+  - rank: 45
+    title: "Beyond"
+    artist: "Leon Bridges"
+    year: 2018
+    album: "Good Thing"
+    genres:
+      - Soul
+      - R&B
+  - rank: 46
+    title: "Trip"
+    artist: "Ella Mai"
+    year: 2018
+    album: "Ella Mai"
+    genres:
+      - R&B
+  - rank: 47
+    title: "Sky Walker"
+    artist: "Miguel ft Travis Scott"
+    year: 2018
+    album: "War & Leisure"
+    genres:
+      - R&B
+  - rank: 48
+    title: "Call Out My Name"
+    artist: "The Weeknd"
+    year: 2018
+    album: "My Dear Melancholy"
+    genres:
+      - R&B
+  - rank: 49
+    title: "Best Part"
+    artist: "Daniel Caesar ft H.E.R."
+    year: 2018
+    album: "Freudian"
+    genres:
+      - R&B
+    tags:
+      - Grammy Winner for Best R&B Performance
+  - rank: 50
+    title: "Broken Clocks"
+    artist: "SZA"
+    year: 2018
+    album: "Ctrl"
+    genres:
+      - R&B
+  - rank: 51
+    title: "One Kiss"
+    artist: "Calvin Harris & Dua Lipa"
+    year: 2018
+    album: "Dua Lipa"
+    genres:
+      - Pop
+      - Disco
+  - rank: 52
+    title: "Wolves"
+    artist: "Selena Gomez & Marshmello"
+    year: 2018
+    single: true
+    genres:
+      - Pop
+  - rank: 53
+    title: "Happier"
+    artist: "Marshmello ft Bastille"
+    year: 2018
+    single: true
+    genres:
+      - Pop
+  - rank: 54
+    title: "Solo"
+    artist: "Clean Bandit ft Demi Lovato"
+    year: 2018
+    album: "What Is Love?"
+    genres:
+      - Pop
+  - rank: 55
+    title: "Silence"
+    artist: "Marshmello ft Khalid"
+    year: 2018
+    single: true
+    genres:
+      - R&B
+  - rank: 56
+    title: "The Joke"
+    artist: "Brandi Carlile"
+    year: 2018
+    album: "By the Way, I Forgive You"
+    genres:
+      - Folk
+    tags:
+      - Grammy Winner for Best American Roots Song
+  - rank: 57
+    title: "You Worry Me"
+    artist: "Nathaniel Rateliff & The Night Sweats"
+    year: 2018
+    album: "Tearing at the Seams"
+    genres:
+      - Folk
+      - Rock
+  - rank: 58
+    title: "Such a Simple Thing"
+    artist: "Ray LaMontagne"
+    year: 2018
+    album: "Part of the Light"
+    genres:
+      - Folk
+  - rank: 59
+    title: "Me & My Dog"
+    artist: "boygenius"
+    year: 2018
+    album: "boygenius"
+    genres:
+      - Folk
+  - rank: 60
+    title: "No Mercy in This Land"
+    artist: "Ben Harper & Charlie Musselwhite"
+    year: 2018
+    album: "No Mercy in This Land"
+    genres:
+      - Blues
+  - rank: 61
+    title: "Cognac"
+    artist: "Buddy Guy ft Jeff Beck & Keith Richards"
+    year: 2018
+    album: "The Blues Is Alive and Well"
+    genres:
+      - Blues
+  - rank: 62
+    title: "Make Me Feel"
+    artist: "Janelle Monáe"
+    year: 2018
+    album: "Dirty Computer"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Cultural important
+  - rank: 63
+    title: "Love It If We Made It"
+    artist: "The 1975"
+    year: 2018
+    album: "A Brief Inquiry Into Online Relationships"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 64
+    title: "Honey"
+    artist: "Robyn"
+    year: 2018
+    album: "Honey"
+    genres:
+      - Pop
+      - New Wave
+      - Disco
+  - rank: 65
+    title: "Nobody"
+    artist: "Mitski"
+    year: 2018
+    album: "Be the Cowboy"
+    genres:
+      - Alternative
+  - rank: 66
+    title: "When Bad Does Good"
+    artist: "Chris Cornell"
+    year: 2018
+    single: true
+    genres:
+      - Rock
+      - Grunge
+    tags:
+      - Grammy Winner for Best Rock Performance
+  - rank: 67
+    title: "Have It All"
+    artist: "Jason Mraz"
+    year: 2018
+    album: "Know"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 68
+    title: "This Is America"
+    artist: "Childish Gambino"
+    year: 2018
+    single: true
+    genres:
+      - R&B
+      - Funk
+    tags:
+      - Culturally important song
+      - Grammy Winner for Record of the Year
+  - rank: 69
+    title: "Shallow"
+    artist: "Lady Gaga & Bradley Cooper"
+    year: 2018
+    album: "A Star Is Born Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Academy Award for Best Original Song
+  - rank: 70
+    title: "Thank U, Next"
+    artist: "Ariana Grande"
+    year: 2018
+    album: "Thank U, Next"
+    genres:
+      - Pop
+  - rank: 71
+    title: "No Tears Left to Cry"
+    artist: "Ariana Grande"
+    year: 2018
+    album: "Sweetener"
+    genres:
+      - Pop
+  - rank: 72
+    title: "God Is a Woman"
+    artist: "Ariana Grande"
+    year: 2018
+    album: "Sweetener"
+    genres:
+      - Pop
+  - rank: 73
+    title: "All the Stars"
+    artist: "Kendrick Lamar & SZA"
+    year: 2018
+    album: "Black Panther: The Album"
+    soundtrack: true
+    genres:
+      - R&B
+    tags:
+      - Cultural important
+  - rank: 74
+    title: "Pristine"
+    artist: "Snail Mail"
+    year: 2018
+    album: "Lush"
+    genres:
+      - Alternative
+  - rank: 75
+    title: "Pick Up"
+    artist: "DJ Koze"
+    year: 2018
+    album: "Knock Knock"
+    genres:
+      - Funk
+  - rank: 76
+    title: "My My My!"
+    artist: "Troye Sivan"
+    year: 2018
+    album: "Bloom"
+    genres:
+      - Pop
+  - rank: 77
+    title: "Four Out of Five"
+    artist: "Arctic Monkeys"
+    year: 2018
+    album: "Tranquility Base Hotel & Casino"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 78
+    title: "Hunger"
+    artist: "Florence + The Machine"
+    year: 2018
+    album: "High as Hope"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 79
+    title: "Nina Cried Power"
+    artist: "Hozier ft Mavis Staples"
+    year: 2018
+    album: "Wasteland, Baby!"
+    genres:
+      - Rock
+      - Soul
+  - rank: 80
+    title: "All My Friends"
+    artist: "The Revivalists"
+    year: 2018
+    album: "Take Good Care"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 81
+    title: "New Rules"
+    artist: "Dua Lipa"
+    year: 2018
+    album: "Dua Lipa"
+    genres:
+      - Pop
+  - rank: 82
+    title: "Back to You"
+    artist: "Selena Gomez"
+    year: 2018
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 83
+    title: "Better Now"
+    artist: "Post Malone"
+    year: 2018
+    album: "Beerbongs & Bentleys"
+    genres:
+      - R&B
+  - rank: 84
+    title: "Eastside"
+    artist: "benny blanco, Halsey & Khalid"
+    year: 2018
+    album: "Friends Keep Secrets"
+    genres:
+      - Pop
+  - rank: 85
+    title: "Happier"
+    artist: "Ed Sheeran"
+    year: 2018
+    album: "÷"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 86
+    title: "Tequila"
+    artist: "Dan + Shay"
+    year: 2018
+    album: "Dan + Shay"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 87
+    title: "Lucid Dreams"
+    artist: "Juice WRLD"
+    year: 2018
+    album: "Goodbye & Good Riddance"
+    genres:
+      - R&B
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: "Sad!"
+    artist: "XXXTentacion"
+    year: 2018
+    album: "?"
+    genres:
+      - R&B
+  - rank: 89
+    title: "Nevermind"
+    artist: "Dennis Lloyd"
+    year: 2018
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 90
+    title: "Beautiful"
+    artist: "Bazzi ft Camila Cabello"
+    year: 2018
+    album: "Cosmic"
+    genres:
+      - Pop
+  - rank: 91
+    title: "Let You Down"
+    artist: "NF"
+    year: 2018
+    album: "Perception"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 92
+    title: "These Days"
+    artist: "Rudimental ft Jess Glynne, Macklemore & Dan Caplen"
+    year: 2018
+    album: "Toast to Our Differences"
+    genres:
+      - Pop
+  - rank: 93
+    title: "Heaven"
+    artist: "Kane Brown"
+    year: 2018
+    album: "Kane Brown"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 94
+    title: "One Number Away"
+    artist: "Luke Combs"
+    year: 2018
+    album: "This One's for You"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 95
+    title: "Get Along"
+    artist: "Kenny Chesney"
+    year: 2018
+    album: "Songs for the Saints"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 96
+    title: "Moon River"
+    artist: "Frank Ocean"
+    year: 2018
+    single: true
+    cover: true
+    genres:
+      - R&B
+      - Standards
+    tags:
+      - Original artist: Audrey Hepburn
+  - rank: 97
+    title: "Changes"
+    artist: "XXXTentacion"
+    year: 2018
+    album: "?"
+    genres:
+      - R&B
+  - rank: 98
+    title: "Simple"
+    artist: "Florida Georgia Line"
+    year: 2018
+    album: "Florida Georgia Line"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 99
+    title: "No Brainer"
+    artist: "DJ Khaled ft Justin Bieber, Chance the Rapper & Quavo"
+    year: 2018
+    album: "Father of Asahd"
+    genres:
+      - R&B
+  - rank: 100
+    title: "Drowns the Whiskey"
+    artist: "Jason Aldean ft Miranda Lambert"
+    year: 2018
+    album: "Rearview Town"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit

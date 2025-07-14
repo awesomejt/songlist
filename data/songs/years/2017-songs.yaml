@@ -1,0 +1,816 @@
+songs:
+  - rank: 1
+    title: "Shape of You"
+    artist: "Ed Sheeran"
+    year: 2017
+    album: "÷"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Despacito"
+    artist: "Luis Fonsi & Daddy Yankee featuring Justin Bieber"
+    year: 2017
+    album: "Vida"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Culturally important song
+  - rank: 3
+    title: "That's What I Like"
+    artist: "Bruno Mars"
+    year: 2017
+    album: "24K Magic"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 4
+    title: "HUMBLE."
+    artist: "Kendrick Lamar"
+    year: 2017
+    album: "Damn"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 5
+    title: "Something Just Like This"
+    artist: "The Chainsmokers & Coldplay"
+    year: 2017
+    album: "Memories...Do Not Open"
+    genres:
+      - Pop
+      - Rock
+  - rank: 6
+    title: "Bad and Boujee"
+    artist: "Migos featuring Lil Uzi Vert"
+    year: 2017
+    album: "Culture"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 7
+    title: "Closer"
+    artist: "The Chainsmokers featuring Halsey"
+    year: 2017
+    album: "Collage"
+    genres:
+      - Pop
+  - rank: 8
+    title: "Body Like a Back Road"
+    artist: "Sam Hunt"
+    year: 2017
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 9
+    title: "Believer"
+    artist: "Imagine Dragons"
+    year: 2017
+    album: "Evolve"
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+  - rank: 10
+    title: "Congratulations"
+    artist: "Post Malone featuring Quavo"
+    year: 2017
+    album: "Stoney"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 11
+    title: "Say You Won't Let Go"
+    artist: "James Arthur"
+    year: 2017
+    album: "Back from the Edge"
+    genres:
+      - Pop
+  - rank: 12
+    title: "iSpy"
+    artist: "Kyle featuring Lil Yachty"
+    year: 2017
+    album: "Light of Mine"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 13
+    title: "XO Tour Llif3"
+    artist: "Lil Uzi Vert"
+    year: 2017
+    album: "Luv Is Rage 2"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 14
+    title: "Mask Off"
+    artist: "Future"
+    year: 2017
+    album: "Future"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 15
+    title: "Unforgettable"
+    artist: "French Montana featuring Swae Lee"
+    year: 2017
+    album: "Jungle Rules"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 16
+    title: "24K Magic"
+    artist: "Bruno Mars"
+    year: 2017
+    album: "24K Magic"
+    genres:
+      - Pop
+      - Funk
+  - rank: 17
+    title: "Stay"
+    artist: "Zedd & Alessia Cara"
+    year: 2017
+    single: true
+    genres:
+      - Pop
+  - rank: 18
+    title: "Wild Thoughts"
+    artist: "DJ Khaled featuring Rihanna & Bryson Tiller"
+    year: 2017
+    album: "Grateful"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 19
+    title: "Black Beatles"
+    artist: "Rae Sremmurd featuring Gucci Mane"
+    year: 2017
+    album: "SremmLife II"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 20
+    title: "Starboy"
+    artist: "The Weeknd featuring Daft Punk"
+    year: 2017
+    album: "Starboy"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 21
+    title: "Location"
+    artist: "Khalid"
+    year: 2017
+    album: "American Teen"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 22
+    title: "Attention"
+    artist: "Charlie Puth"
+    year: 2017
+    album: "Voicenotes"
+    genres:
+      - Pop
+  - rank: 23
+    title: "There's Nothing Holdin' Me Back"
+    artist: "Shawn Mendes"
+    year: 2017
+    album: "Illuminate"
+    genres:
+      - Pop
+  - rank: 24
+    title: "Bodak Yellow"
+    artist: "Cardi B"
+    year: 2017
+    album: "Invasion of Privacy"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 25
+    title: "Redbone"
+    artist: "Childish Gambino"
+    year: 2017
+    album: "Awaken, My Love!"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Soul
+  - rank: 26
+    title: "I Don't Wanna Live Forever"
+    artist: "Zayn & Taylor Swift"
+    year: 2017
+    album: "Fifty Shades Darker: Original Motion Picture Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 27
+    title: "It Ain't Me"
+    artist: "Kygo x Selena Gomez"
+    year: 2017
+    single: true
+    genres:
+      - Pop
+  - rank: 28
+    title: "Mercy"
+    artist: "Shawn Mendes"
+    year: 2017
+    album: "Illuminate"
+    genres:
+      - Pop
+  - rank: 29
+    title: "Tunnel Vision"
+    artist: "Kodak Black"
+    year: 2017
+    album: "Painting Pictures"
+    genres:
+      - Rhythm and Blues
+  - rank: 30
+    title: "Bounce Back"
+    artist: "Big Sean"
+    year: 2017
+    album: "I Decided"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 31
+    title: "Strip That Down"
+    artist: "Liam Payne featuring Quavo"
+    year: 2017
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 32
+    title: "Look What You Made Me Do"
+    artist: "Taylor Swift"
+    year: 2017
+    album: "Reputation"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 33
+    title: "Castle on the Hill"
+    artist: "Ed Sheeran"
+    year: 2017
+    album: "÷"
+    genres:
+      - Pop
+      - Rock
+  - rank: 34
+    title: "Issues"
+    artist: "Julia Michaels"
+    year: 2017
+    album: "Nervous System"
+    genres:
+      - Pop
+  - rank: 35
+    title: "Scars to Your Beautiful"
+    artist: "Alessia Cara"
+    year: 2017
+    album: "Know-It-All"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 36
+    title: "1-800-273-8255"
+    artist: "Logic featuring Alessia Cara & Khalid"
+    year: 2017
+    album: "Everybody"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 37
+    title: "Slow Hands"
+    artist: "Niall Horan"
+    year: 2017
+    album: "Flicker"
+    genres:
+      - Pop
+      - Rock
+  - rank: 38
+    title: "Love on the Brain"
+    artist: "Rihanna"
+    year: 2017
+    album: "Anti"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 39
+    title: "Water Under the Bridge"
+    artist: "Adele"
+    year: 2017
+    album: "25"
+    genres:
+      - Pop
+      - Soul
+  - rank: 40
+    title: "Malibu"
+    artist: "Miley Cyrus"
+    year: 2017
+    album: "Younger Now"
+    genres:
+      - Pop
+      - Rock
+  - rank: 41
+    title: "Down"
+    artist: "Marian Hill featuring Big Sean"
+    year: 2017
+    album: "Act One"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 42
+    title: "Now or Never"
+    artist: "Halsey"
+    year: 2017
+    album: "Hopeless Fountain Kingdom"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 43
+    title: "Fake Love"
+    artist: "Drake"
+    year: 2017
+    album: "More Life"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 44
+    title: "Love Galore"
+    artist: "SZA featuring Travis Scott"
+    year: 2017
+    album: "Ctrl"
+    genres:
+      - Rhythm and Blues
+  - rank: 45
+    title: "Loyalty"
+    artist: "Kendrick Lamar featuring Rihanna"
+    year: 2017
+    album: "Damn"
+    genres:
+      - Rhythm and Blues
+  - rank: 46
+    title: "Praying"
+    artist: "Kesha"
+    year: 2017
+    album: "Rainbow"
+    genres:
+      - Pop
+  - rank: 47
+    title: "Goosebumps"
+    artist: "Travis Scott featuring Kendrick Lamar"
+    year: 2017
+    album: "Birds in the Trap Sing McKnight"
+    genres:
+      - Rhythm and Blues
+  - rank: 48
+    title: "Cold"
+    artist: "Maroon 5 featuring Future"
+    year: 2017
+    album: "Red Pill Blues"
+    genres:
+      - Pop
+      - Rock
+  - rank: 49
+    title: "Broccoli"
+    artist: "D.R.A.M. featuring Lil Yachty"
+    year: 2017
+    album: "Big Baby D.R.A.M."
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 50
+    title: "Slide"
+    artist: "Calvin Harris featuring Frank Ocean & Migos"
+    year: 2017
+    album: "Funk Wav Bounces Vol. 1"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 51
+    title: "What Ifs"
+    artist: "Kane Brown featuring Lauren Alaina"
+    year: 2017
+    album: "Kane Brown"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 52
+    title: "Chained to the Rhythm"
+    artist: "Katy Perry featuring Skip Marley"
+    year: 2017
+    album: "Witness"
+    genres:
+      - Pop
+  - rank: 53
+    title: "Feels"
+    artist: "Calvin Harris featuring Pharrell Williams, Katy Perry & Big Sean"
+    year: 2017
+    album: "Funk Wav Bounces Vol. 1"
+    genres:
+      - Pop
+      - Funk
+  - rank: 54
+    title: "All Time Low"
+    artist: "Jon Bellion"
+    year: 2017
+    album: "The Human Condition"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 55
+    title: "Hurricane"
+    artist: "Luke Combs"
+    year: 2017
+    album: "This One's for You"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 56
+    title: "Too Good at Goodbyes"
+    artist: "Sam Smith"
+    year: 2017
+    album: "The Thrill of It All"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+  - rank: 57
+    title: "Young Dumb & Broke"
+    artist: "Khalid"
+    year: 2017
+    album: "American Teen"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 58
+    title: "Magnolia"
+    artist: "Playboi Carti"
+    year: 2017
+    album: "Playboi Carti"
+    genres:
+      - Rhythm and Blues
+  - rank: 59
+    title: "Love."
+    artist: "Kendrick Lamar featuring Zacari"
+    year: 2017
+    album: "Damn"
+    genres:
+      - Rhythm and Blues
+  - rank: 60
+    title: "What Lovers Do"
+    artist: "Maroon 5 featuring SZA"
+    year: 2017
+    album: "Red Pill Blues"
+    genres:
+      - Pop
+      - Rock
+  - rank: 61
+    title: "Do Re Mi"
+    artist: "Blackbear"
+    year: 2017
+    album: "Digital Druglord"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 62
+    title: "Look at Me!"
+    artist: "XXXTentacion"
+    year: 2017
+    album: "Revenge"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 63
+    title: "The Fighter"
+    artist: "Keith Urban featuring Carrie Underwood"
+    year: 2017
+    album: "Ripcord"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 64
+    title: "Paris in the Rain"
+    artist: "Lauv"
+    year: 2017
+    album: "I Met You When I Was 18"
+    genres:
+      - Pop
+  - rank: 65
+    title: "Swish Swish"
+    artist: "Katy Perry featuring Nicki Minaj"
+    year: 2017
+    album: "Witness"
+    genres:
+      - Pop
+  - rank: 66
+    title: "Thunder"
+    artist: "Imagine Dragons"
+    year: 2017
+    album: "Evolve"
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+  - rank: 67
+    title: "T-Shirt"
+    artist: "Migos"
+    year: 2017
+    album: "Culture"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 68
+    title: "Rake It Up"
+    artist: "Yo Gotti featuring Nicki Minaj"
+    year: 2017
+    album: "I Still Am"
+    genres:
+      - Rhythm and Blues
+  - rank: 69
+    title: "For the First Time"
+    artist: "Darius Rucker"
+    year: 2017
+    album: "When Was the Last Time"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Crossover hit
+  - rank: 70
+    title: "Tin Man"
+    artist: "Miranda Lambert"
+    year: 2017
+    album: "The Weight of These Wings"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 71
+    title: "In Case You Didn't Know"
+    artist: "Brett Young"
+    year: 2017
+    album: "Brett Young"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 72
+    title: "Heavy"
+    artist: "Linkin Park featuring Kiiara"
+    year: 2017
+    album: "One More Light"
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+  - rank: 73
+    title: "Walk On Water"
+    artist: "Thirty Seconds to Mars"
+    year: 2017
+    album: "America"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 74
+    title: "Up All Night"
+    artist: "Beck"
+    year: 2017
+    album: "Colors"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 75
+    title: "Feel It Still"
+    artist: "Portugal. The Man"
+    year: 2017
+    album: "Woodstock"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+      - Grammy Award for Best Pop Duo/Group Performance
+  - rank: 76
+    title: "Wish I Knew You"
+    artist: "The Revivalists"
+    year: 2017
+    album: "Men Amongst Mountains"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 77
+    title: "Everything Now"
+    artist: "Arcade Fire"
+    year: 2017
+    album: "Everything Now"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 78
+    title: "One Foot"
+    artist: "Walk the Moon"
+    year: 2017
+    album: "What If Nothing"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 79
+    title: "No Roots"
+    artist: "Alice Merton"
+    year: 2017
+    album: "No Roots"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 80
+    title: "Pain"
+    artist: "The War on Drugs"
+    year: 2017
+    album: "A Deeper Understanding"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 81
+    title: "The Sky Is A Neighborhood"
+    artist: "Foo Fighters"
+    year: 2017
+    album: "Concrete and Gold"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 82
+    title: "Rx (Medicate)"
+    artist: "Theory of a Deadman"
+    year: 2017
+    album: "Wake Up Call"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 83
+    title: "Go to War"
+    artist: "Nothing More"
+    year: 2017
+    album: "The Stories We Tell Ourselves"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 84
+    title: "Help"
+    artist: "Papa Roach"
+    year: 2017
+    album: "Crooked Teeth"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 85
+    title: "Rose Red Violent Blue (This Song Is Dumb & So Am I)"
+    artist: "Stone Sour"
+    year: 2017
+    album: "Hydrograd"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 86
+    title: "Song #3"
+    artist: "Stone Sour"
+    year: 2017
+    album: "Hydrograd"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 87
+    title: "Satellite"
+    artist: "Starset"
+    year: 2017
+    album: "Vessels"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 88
+    title: "Highway Tune"
+    artist: "Greta Van Fleet"
+    year: 2017
+    album: "From the Fires"
+    genres:
+      - Hard Rock
+      - Rock
+      - Blues
+  - rank: 89
+    title: "Run"
+    artist: "Foo Fighters"
+    year: 2017
+    album: "Concrete and Gold"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 90
+    title: "American Dreams"
+    artist: "Papa Roach"
+    year: 2017
+    album: "Crooked Teeth"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 91
+    title: "Crew"
+    artist: "GoldLink featuring Brent Faiyaz & Shy Glizzy"
+    year: 2017
+    album: "At What Cost"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Grammy Award nominee
+  - rank: 92
+    title: "Get Mine"
+    artist: "Still Woozy"
+    year: 2017
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Alternative
+  - rank: 93
+    title: "The Weekend"
+    artist: "SZA"
+    year: 2017
+    album: "Ctrl"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 94
+    title: "Lust"
+    artist: "Kendrick Lamar"
+    year: 2017
+    album: "Damn"
+    genres:
+      - Rhythm and Blues
+  - rank: 95
+    title: "Butterfly Effect"
+    artist: "Travis Scott"
+    year: 2017
+    album: "Astroworld"
+    genres:
+      - Rhythm and Blues
+  - rank: 96
+    title: "All the Stars"
+    artist: "Kendrick Lamar & SZA"
+    year: 2017
+    album: "Black Panther: The Album"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 97
+    title: "In the Moment"
+    artist: "Makaya McCraven"
+    year: 2017
+    album: "In the Moment"
+    genres:
+      - Jazz
+  - rank: 98
+    title: "Harmony Hall"
+    artist: "Vampire Weekend"
+    year: 2017
+    album: "Father of the Bride"
+    genres:
+      - Alternative
+      - Rock
+      - Jazz
+  - rank: 99
+    title: "The New York Anthem"
+    artist: "Terri Lyne Carrington"
+    year: 2017
+    album: "Money Jungle: Provocative in Blue"
+    genres:
+      - Jazz
+  - rank: 100
+    title: "The Epic"
+    artist: "Kamasi Washington"
+    year: 2017
+    album: "The Epic"
+    genres:
+      - Jazz

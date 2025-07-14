@@ -1,0 +1,806 @@
+songs:
+  - rank: 1
+    title: "Thrift Shop"
+    artist: "Macklemore & Ryan Lewis featuring Wanz"
+    year: 2013
+    album: "The Heist"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Blurred Lines"
+    artist: "Robin Thicke featuring T.I. and Pharrell Williams"
+    year: 2013
+    album: "Blurred Lines"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 3
+    title: "Radioactive"
+    artist: "Imagine Dragons"
+    year: 2013
+    album: "Night Visions"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 4
+    title: "Harlem Shake"
+    artist: "Baauer"
+    year: 2013
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Culturally important song
+  - rank: 5
+    title: "Can't Hold Us"
+    artist: "Macklemore & Ryan Lewis featuring Ray Dalton"
+    year: 2013
+    album: "The Heist"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 6
+    title: "Mirrors"
+    artist: "Justin Timberlake"
+    year: 2013
+    album: "The 20/20 Experience"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 7
+    title: "Just Give Me A Reason"
+    artist: "Pink featuring Nate Ruess"
+    year: 2013
+    album: "The Truth About Love"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 8
+    title: "When I Was Your Man"
+    artist: "Bruno Mars"
+    year: 2013
+    album: "Unorthodox Jukebox"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 9
+    title: "Cruise"
+    artist: "Florida Georgia Line featuring Nelly"
+    year: 2013
+    album: "Here's to the Good Times"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 10
+    title: "Roar"
+    artist: "Katy Perry"
+    year: 2013
+    album: "Prism"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 11
+    title: "Locked Out Of Heaven"
+    artist: "Bruno Mars"
+    year: 2013
+    album: "Unorthodox Jukebox"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 12
+    title: "Ho Hey"
+    artist: "The Lumineers"
+    year: 2013
+    album: "The Lumineers"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+  - rank: 13
+    title: "Stay"
+    artist: "Rihanna featuring Mikky Ekko"
+    year: 2013
+    album: "Unapologetic"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 14
+    title: "Get Lucky"
+    artist: "Daft Punk featuring Pharrell Williams"
+    year: 2013
+    album: "Random Access Memories"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Grammy Award for Record of the Year
+      - Culturally important song
+  - rank: 15
+    title: "Royals"
+    artist: "Lorde"
+    year: 2013
+    album: "Pure Heroine"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award for Song of the Year
+      - Culturally important song
+  - rank: 16
+    title: "I Knew You Were Trouble"
+    artist: "Taylor Swift"
+    year: 2013
+    album: "Red"
+    genres:
+      - Pop
+  - rank: 17
+    title: "We Can't Stop"
+    artist: "Miley Cyrus"
+    year: 2013
+    album: "Bangerz"
+    genres:
+      - Pop
+  - rank: 18
+    title: "Wrecking Ball"
+    artist: "Miley Cyrus"
+    year: 2013
+    album: "Bangerz"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 19
+    title: "Come & Get It"
+    artist: "Selena Gomez"
+    year: 2013
+    album: "Stars Dance"
+    genres:
+      - Pop
+  - rank: 20
+    title: "Sail"
+    artist: "AWOLNATION"
+    year: 2013
+    album: "Megalithic Symphony"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 21
+    title: "Counting Stars"
+    artist: "OneRepublic"
+    year: 2013
+    album: "Native"
+    genres:
+      - Pop
+      - Rock
+  - rank: 22
+    title: "Holy Grail"
+    artist: "Jay-Z featuring Justin Timberlake"
+    year: 2013
+    album: "Magna Carta... Holy Grail"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 23
+    title: "Scream & Shout"
+    artist: "will.i.am featuring Britney Spears"
+    year: 2013
+    album: "#willpower"
+    genres:
+      - Pop
+  - rank: 24
+    title: "Clarity"
+    artist: "Zedd featuring Foxes"
+    year: 2013
+    album: "Clarity"
+    genres:
+      - Pop
+  - rank: 25
+    title: "Don't You Worry Child"
+    artist: "Swedish House Mafia featuring John Martin"
+    year: 2013
+    album: "Until Now"
+    genres:
+      - Pop
+  - rank: 26
+    title: "Diamonds"
+    artist: "Rihanna"
+    year: 2013
+    album: "Unapologetic"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 27
+    title: "The Way"
+    artist: "Ariana Grande featuring Mac Miller"
+    year: 2013
+    album: "Yours Truly"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 28
+    title: "Heart Attack"
+    artist: "Demi Lovato"
+    year: 2013
+    album: "Demi"
+    genres:
+      - Pop
+  - rank: 29
+    title: "Love Me"
+    artist: "Lil Wayne featuring Drake and Future"
+    year: 2013
+    album: "I Am Not a Human Being II"
+    genres:
+      - Rhythm and Blues
+  - rank: 30
+    title: "Daylight"
+    artist: "Maroon 5"
+    year: 2013
+    album: "Overexposed"
+    genres:
+      - Pop
+      - Rock
+  - rank: 31
+    title: "Started From The Bottom"
+    artist: "Drake"
+    year: 2013
+    album: "Nothing Was the Same"
+    genres:
+      - Rhythm and Blues
+  - rank: 32
+    title: "Beauty And A Beat"
+    artist: "Justin Bieber featuring Nicki Minaj"
+    year: 2013
+    album: "Believe"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 33
+    title: "Same Love"
+    artist: "Macklemore & Ryan Lewis featuring Mary Lambert"
+    year: 2013
+    album: "The Heist"
+    genres:
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 34
+    title: "Sweet Nothing"
+    artist: "Calvin Harris featuring Florence Welch"
+    year: 2013
+    album: "18 Months"
+    genres:
+      - Pop
+  - rank: 35
+    title: "Summertime Sadness"
+    artist: "Lana Del Rey & Cedric Gervais"
+    year: 2013
+    album: "Born to Die"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 36
+    title: "Do What U Want"
+    artist: "Lady Gaga featuring R. Kelly"
+    year: 2013
+    album: "Artpop"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 37
+    title: "Hold On, We're Going Home"
+    artist: "Drake featuring Majid Jordan"
+    year: 2013
+    album: "Nothing Was the Same"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 38
+    title: "Pour It Up"
+    artist: "Rihanna"
+    year: 2013
+    album: "Unapologetic"
+    genres:
+      - Rhythm and Blues
+  - rank: 39
+    title: "22"
+    artist: "Taylor Swift"
+    year: 2013
+    album: "Red"
+    genres:
+      - Pop
+  - rank: 40
+    title: "That's My Kind Of Night"
+    artist: "Luke Bryan"
+    year: 2013
+    album: "Crash My Party"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 41
+    title: "White Walls"
+    artist: "Macklemore & Ryan Lewis featuring Schoolboy Q and Hollis"
+    year: 2013
+    album: "The Heist"
+    genres:
+      - Pop
+  - rank: 42
+    title: "Everything Has Changed"
+    artist: "Taylor Swift featuring Ed Sheeran"
+    year: 2013
+    album: "Red"
+    genres:
+      - Pop
+      - Folk
+  - rank: 43
+    title: "Berzerk"
+    artist: "Eminem"
+    year: 2013
+    album: "The Marshall Mathers LP 2"
+    genres:
+      - Pop
+  - rank: 44
+    title: "The Other Side"
+    artist: "Jason Derulo"
+    year: 2013
+    album: "Tattoos"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 45
+    title: "Don't Think They Know"
+    artist: "Chris Brown featuring Aaliyah"
+    year: 2013
+    album: "X"
+    genres:
+      - Rhythm and Blues
+  - rank: 46
+    title: "Love More"
+    artist: "Chris Brown featuring Nicki Minaj"
+    year: 2013
+    album: "X"
+    genres:
+      - Rhythm and Blues
+  - rank: 47
+    title: "Marry Me"
+    artist: "Jason Derulo"
+    year: 2013
+    album: "Tattoos"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 48
+    title: "Tom Ford"
+    artist: "Jay-Z"
+    year: 2013
+    album: "Magna Carta... Holy Grail"
+    genres:
+      - Rhythm and Blues
+  - rank: 49
+    title: "It Goes Like This"
+    artist: "Thomas Rhett"
+    year: 2013
+    album: "It Goes Like This"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 50
+    title: "Treasure"
+    artist: "Bruno Mars"
+    year: 2013
+    album: "Unorthodox Jukebox"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Funk
+  - rank: 51
+    title: "Outta Nowhere"
+    artist: "Pitbull featuring Danny Mercer"
+    year: 2013
+    album: "Global Warming: Meltdown"
+    genres:
+      - Pop
+  - rank: 52
+    title: "Safe And Sound"
+    artist: "Capital Cities"
+    year: 2013
+    album: "In a Tidal Wave of Mystery"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Pop
+  - rank: 53
+    title: "Sweater Weather"
+    artist: "The Neighbourhood"
+    year: 2013
+    album: "I Love You."
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 54
+    title: "Demons"
+    artist: "Imagine Dragons"
+    year: 2013
+    album: "Night Visions"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 55
+    title: "Pompeii"
+    artist: "Bastille"
+    year: 2013
+    album: "Bad Blood"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 56
+    title: "My Songs Know What You Did In The Dark (Light Em Up)"
+    artist: "Fall Out Boy"
+    year: 2013
+    album: "Save Rock and Roll"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 57
+    title: "Do I Wanna Know?"
+    artist: "Arctic Monkeys"
+    year: 2013
+    album: "AM"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 58
+    title: "Out Of My League"
+    artist: "Fitz and The Tantrums"
+    year: 2013
+    album: "More Than Just a Dream"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 59
+    title: "Ways To Go"
+    artist: "Grouplove"
+    year: 2013
+    album: "Spreading Rumours"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 60
+    title: "San Francisco"
+    artist: "The Mowgli's"
+    year: 2013
+    album: "Waiting for the Dawn"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 61
+    title: "Trenches"
+    artist: "Pop Evil"
+    year: 2013
+    album: "Onyx"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 62
+    title: "The Hangman's Body Count"
+    artist: "Volbeat"
+    year: 2013
+    album: "Outlaw Gentlemen & Shady Ladies"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 63
+    title: "Misery Loves My Company"
+    artist: "Three Days Grace"
+    year: 2013
+    album: "Transit of Venus"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 64
+    title: "Lola Montez"
+    artist: "Volbeat"
+    year: 2013
+    album: "Outlaw Gentlemen & Shady Ladies"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 65
+    title: "Hail To The King"
+    artist: "Avenged Sevenfold"
+    year: 2013
+    album: "Hail to the King"
+    genres:
+      - Hard Rock
+  - rank: 66
+    title: "Lift Me Up"
+    artist: "Five Finger Death Punch featuring Rob Halford"
+    year: 2013
+    album: "The Wrong Side of Heaven and the Righteous Side of Hell, Volume 1"
+    genres:
+      - Hard Rock
+  - rank: 67
+    title: "Vilify"
+    artist: "Device"
+    year: 2013
+    album: "Device"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 68
+    title: "There's No Going Back"
+    artist: "Sick Puppies"
+    year: 2013
+    album: "Connect"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 69
+    title: "Tired"
+    artist: "Stone Sour"
+    year: 2013
+    album: "House of Gold & Bones – Part 2"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 70
+    title: "Adrenalize"
+    artist: "In This Moment"
+    year: 2013
+    album: "Blood"
+    genres:
+      - Hard Rock
+  - rank: 71
+    title: "Adorn"
+    artist: "Miguel"
+    year: 2013
+    album: "Kaleidoscope Dream"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Grammy Award for Best R&B Song
+  - rank: 72
+    title: "Power Trip"
+    artist: "J. Cole featuring Miguel"
+    year: 2013
+    album: "Born Sinner"
+    genres:
+      - Rhythm and Blues
+  - rank: 73
+    title: "Bad"
+    artist: "Wale featuring Tiara Thomas"
+    year: 2013
+    album: "The Gifted"
+    genres:
+      - Rhythm and Blues
+  - rank: 74
+    title: "Body Party"
+    artist: "Ciara"
+    year: 2013
+    album: "Ciara"
+    genres:
+      - Rhythm and Blues
+  - rank: 75
+    title: "How Many Drinks?"
+    artist: "Miguel featuring Kendrick Lamar"
+    year: 2013
+    album: "Kaleidoscope Dream"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 76
+    title: "Love And War"
+    artist: "Tamar Braxton"
+    year: 2013
+    album: "Love and War"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 77
+    title: "Without Me"
+    artist: "Fantasia featuring Kelly Rowland and Missy Elliott"
+    year: 2013
+    album: "Side Effects of You"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 78
+    title: "For The Rest Of My Life"
+    artist: "Robin Thicke"
+    year: 2013
+    album: "Blurred Lines"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 79
+    title: "Fire We Make"
+    artist: "Alicia Keys featuring Maxwell"
+    year: 2013
+    album: "Girl on Fire"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 80
+    title: "Next To Me"
+    artist: "Emeli Sandé"
+    year: 2013
+    album: "Our Version of Events"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 81
+    title: "Vagrant Stanzas"
+    artist: "Martin Simpson"
+    year: 2013
+    album: "Vagrant Stanzas"
+    genres:
+      - Folk
+  - rank: 82
+    title: "Once I Was an Eagle"
+    artist: "Laura Marling"
+    year: 2013
+    album: "Once I Was an Eagle"
+    genres:
+      - Folk
+  - rank: 83
+    title: "I'm a Dreamer"
+    artist: "Josephine Foster"
+    year: 2013
+    album: "I'm a Dreamer"
+    genres:
+      - Folk
+  - rank: 84
+    title: "Child Ballads"
+    artist: "Anaïs Mitchell & Jefferson Hamer"
+    year: 2013
+    album: "Child Ballads"
+    genres:
+      - Folk
+  - rank: 85
+    title: "Get Up!"
+    artist: "Ben Harper & Charlie Musselwhite"
+    year: 2013
+    album: "Get Up!"
+    genres:
+      - Blues
+      - Rock
+  - rank: 86
+    title: "Black Pudding"
+    artist: "Mark Lanegan & Duke Garwood"
+    year: 2013
+    album: "Black Pudding"
+    genres:
+      - Blues
+  - rank: 87
+    title: "Rhythm & Blues"
+    artist: "Buddy Guy"
+    year: 2013
+    album: "Rhythm & Blues"
+    genres:
+      - Blues
+  - rank: 88
+    title: "Cotton Mouth Man"
+    artist: "James Cotton"
+    year: 2013
+    album: "Cotton Mouth Man"
+    genres:
+      - Blues
+  - rank: 89
+    title: "Without A Net"
+    artist: "Wayne Shorter"
+    year: 2013
+    album: "Without A Net"
+    genres:
+      - Jazz
+    tags:
+      - Grammy Award winner
+  - rank: 90
+    title: "Chants"
+    artist: "Craig Taborn Trio"
+    year: 2013
+    album: "Chants"
+    genres:
+      - Jazz
+  - rank: 91
+    title: "Footprints Live!"
+    artist: "Pat Metheny Group"
+    year: 2013
+    album: "Footprints Live!"
+    genres:
+      - Jazz
+  - rank: 92
+    title: "Liquid Spirit"
+    artist: "Gregory Porter"
+    year: 2013
+    album: "Liquid Spirit"
+    genres:
+      - Jazz
+      - Soul
+    tags:
+      - Grammy Award for Best Jazz Vocal Album
+  - rank: 93
+    title: "Tap: John Zorn's Book Of Angels, Vol. 20"
+    artist: "Pat Metheny"
+    year: 2013
+    album: "Tap: John Zorn's Book Of Angels, Vol. 20"
+    genres:
+      - Jazz
+  - rank: 94
+    title: "WomanChild"
+    artist: "Cécile McLorin Salvant"
+    year: 2013
+    album: "WomanChild"
+    genres:
+      - Jazz
+      - Standards
+  - rank: 95
+    title: "The Sirens"
+    artist: "Chris Potter"
+    year: 2013
+    album: "The Sirens"
+    genres:
+      - Jazz
+  - rank: 96
+    title: "Border-Free"
+    artist: "Chucho Valdés"
+    year: 2013
+    album: "Border-Free"
+    genres:
+      - Jazz
+  - rank: 97
+    title: "Out Here"
+    artist: "Christian McBride Trio"
+    year: 2013
+    album: "Out Here"
+    genres:
+      - Jazz
+  - rank: 98
+    title: "Money Jungle: Provocative In Blue"
+    artist: "Terri Lyne Carrington"
+    year: 2013
+    album: "Money Jungle: Provocative In Blue"
+    genres:
+      - Jazz
+    tags:
+      - Grammy Award winner
+  - rank: 99
+    title: "Guided Tour"
+    artist: "Gary Burton Quartet"
+    year: 2013
+    album: "Guided Tour"
+    genres:
+      - Jazz
+  - rank: 100
+    title: "Life Forum"
+    artist: "Gerald Clayton"
+    year: 2013
+    album: "Life Forum"
+    genres:
+      - Jazz

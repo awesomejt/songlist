@@ -1,0 +1,809 @@
+songs:
+  - rank: 1
+    title: "Happy"
+    artist: "Pharrell Williams"
+    year: 2014
+    album: "Girl"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Dark Horse"
+    artist: "Katy Perry featuring Juicy J"
+    year: 2014
+    album: "Prism"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 3
+    title: "All Of Me"
+    artist: "John Legend"
+    year: 2014
+    album: "Love in the Future"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 4
+    title: "Fancy"
+    artist: "Iggy Azalea featuring Charli XCX"
+    year: 2014
+    album: "The New Classic"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 5
+    title: "Counting Stars"
+    artist: "OneRepublic"
+    year: 2014
+    album: "Native"
+    genres:
+      - Pop
+      - Rock
+  - rank: 6
+    title: "Talk Dirty"
+    artist: "Jason Derulo featuring 2 Chainz"
+    year: 2014
+    album: "Talk Dirty"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 7
+    title: "Rude"
+    artist: "Magic!"
+    year: 2014
+    album: "Don't Kill the Magic"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 8
+    title: "All About That Bass"
+    artist: "Meghan Trainor"
+    year: 2014
+    album: "Title"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 9
+    title: "Problem"
+    artist: "Ariana Grande featuring Iggy Azalea"
+    year: 2014
+    album: "My Everything"
+    genres:
+      - Pop
+  - rank: 10
+    title: "Stay With Me"
+    artist: "Sam Smith"
+    year: 2014
+    album: "In the Lonely Hour"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+  - rank: 11
+    title: "Boom Clap"
+    artist: "Charli XCX"
+    year: 2014
+    album: "Sucker"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 12
+    title: "Anaconda"
+    artist: "Nicki Minaj"
+    year: 2014
+    album: "The Pinkprint"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 13
+    title: "Break Free"
+    artist: "Ariana Grande featuring Zedd"
+    year: 2014
+    album: "My Everything"
+    genres:
+      - Pop
+  - rank: 14
+    title: "Bailando"
+    artist: "Enrique Iglesias featuring Descemer Bueno and Gente de Zona"
+    year: 2014
+    album: "Sex and Love"
+    genres:
+      - Pop
+  - rank: 15
+    title: "Burn"
+    artist: "Ellie Goulding"
+    year: 2014
+    album: "Halcyon Days"
+    genres:
+      - Pop
+  - rank: 16
+    title: "Shake It Off"
+    artist: "Taylor Swift"
+    year: 2014
+    album: "1989"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Culturally important song
+  - rank: 17
+    title: "Turn Down For What"
+    artist: "DJ Snake and Lil Jon"
+    year: 2014
+    single: true
+    genres:
+      - Pop
+  - rank: 18
+    title: "Loyal"
+    artist: "Chris Brown featuring Lil Wayne and Tyga"
+    year: 2014
+    album: "X"
+    genres:
+      - Rhythm and Blues
+  - rank: 19
+    title: "Best Day Of My Life"
+    artist: "American Authors"
+    year: 2014
+    album: "Oh, What a Life"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+  - rank: 20
+    title: "Am I Wrong"
+    artist: "Nico & Vinz"
+    year: 2014
+    album: "Black Star Elephant"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 21
+    title: "Birthday"
+    artist: "Katy Perry"
+    year: 2014
+    album: "Prism"
+    genres:
+      - Pop
+  - rank: 22
+    title: "Team"
+    artist: "Lorde"
+    year: 2014
+    album: "Pure Heroine"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 23
+    title: "Love Me Harder"
+    artist: "Ariana Grande and The Weeknd"
+    year: 2014
+    album: "My Everything"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 24
+    title: "Somethin' Bad"
+    artist: "Miranda Lambert with Carrie Underwood"
+    year: 2014
+    album: "Platinum"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 25
+    title: "Chandelier"
+    artist: "Sia"
+    year: 2014
+    album: "1000 Forms of Fear"
+    genres:
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 26
+    title: "Summer"
+    artist: "Calvin Harris"
+    year: 2014
+    album: "Motion"
+    genres:
+      - Pop
+  - rank: 27
+    title: "Maps"
+    artist: "Maroon 5"
+    year: 2014
+    album: "V"
+    genres:
+      - Pop
+      - Rock
+  - rank: 28
+    title: "Really Don't Care"
+    artist: "Demi Lovato featuring Cher Lloyd"
+    year: 2014
+    album: "Demi"
+    genres:
+      - Pop
+  - rank: 29
+    title: "Latch"
+    artist: "Disclosure featuring Sam Smith"
+    year: 2014
+    album: "Settle"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 30
+    title: "Come With Me Now"
+    artist: "Kongos"
+    year: 2014
+    album: "Lunatic"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 31
+    title: "Pompeii"
+    artist: "Bastille"
+    year: 2014
+    album: "Bad Blood"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 32
+    title: "Do I Wanna Know?"
+    artist: "Arctic Monkeys"
+    year: 2014
+    album: "AM"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 33
+    title: "Fever"
+    artist: "The Black Keys"
+    year: 2014
+    album: "Turn Blue"
+    genres:
+      - Alternative
+      - Rock
+      - Blues
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 34
+    title: "Come A Little Closer"
+    artist: "Cage The Elephant"
+    year: 2014
+    album: "Melophobia"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 35
+    title: "Dangerous"
+    artist: "Big Data featuring Joywave"
+    year: 2014
+    single: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 36
+    title: "Take Me To Church"
+    artist: "Hozier"
+    year: 2014
+    album: "Hozier"
+    genres:
+      - Alternative
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 37
+    title: "I Wanna Get Better"
+    artist: "Bleachers"
+    year: 2014
+    album: "Strange Desire"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 38
+    title: "A Sky Full Of Stars"
+    artist: "Coldplay"
+    year: 2014
+    album: "Ghost Stories"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 39
+    title: "Stolen Dance"
+    artist: "Milky Chance"
+    year: 2014
+    album: "Sadnecessary"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 40
+    title: "My Sweet Summer"
+    artist: "Dirty Heads"
+    year: 2014
+    album: "Sound of Change"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 41
+    title: "Heaven Knows"
+    artist: "The Pretty Reckless"
+    year: 2014
+    album: "Going to Hell"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+  - rank: 42
+    title: "Shepherd Of Fire"
+    artist: "Avenged Sevenfold"
+    year: 2014
+    album: "Hail to the King"
+    genres:
+      - Hard Rock
+  - rank: 43
+    title: "This Is The Time (Ballast)"
+    artist: "Nothing More"
+    year: 2014
+    album: "Nothing More"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 44
+    title: "Words As Weapons"
+    artist: "Seether"
+    year: 2014
+    album: "Isolate and Medicate"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 45
+    title: "Wrong Side Of Heaven"
+    artist: "Five Finger Death Punch"
+    year: 2014
+    album: "The Wrong Side of Heaven and the Righteous Side of Hell, Volume 2"
+    genres:
+      - Hard Rock
+  - rank: 46
+    title: "Painkiller"
+    artist: "Three Days Grace"
+    year: 2014
+    album: "Human"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 47
+    title: "Torn To Pieces"
+    artist: "Pop Evil"
+    year: 2014
+    album: "Onyx"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 48
+    title: "Tired"
+    artist: "Stone Sour"
+    year: 2014
+    album: "House of Gold & Bones – Part 2"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 49
+    title: "Room To Breathe"
+    artist: "You Me At Six"
+    year: 2014
+    album: "Cavalier Youth"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 50
+    title: "1000hp"
+    artist: "Godsmack"
+    year: 2014
+    album: "1000hp"
+    genres:
+      - Hard Rock
+  - rank: 51
+    title: "Recognize"
+    artist: "PARTYNEXTDOOR featuring Drake"
+    year: 2014
+    album: "PARTYNEXTDOOR TWO"
+    genres:
+      - Rhythm and Blues
+  - rank: 52
+    title: "Mister Chameleon"
+    artist: "KING"
+    year: 2014
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 53
+    title: "Love Never Felt So Good"
+    artist: "Michael Jackson"
+    year: 2014
+    album: "Xscape"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+  - rank: 54
+    title: "Drunk In Love"
+    artist: "Beyoncé featuring Jay-Z"
+    year: 2014
+    album: "Beyoncé"
+    genres:
+      - Rhythm and Blues
+  - rank: 55
+    title: "The Monster"
+    artist: "Eminem featuring Rihanna"
+    year: 2014
+    album: "The Marshall Mathers LP 2"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 56
+    title: "Hold On, We're Going Home"
+    artist: "Drake featuring Majid Jordan"
+    year: 2014
+    album: "Nothing Was the Same"
+    genres:
+      - Rhythm and Blues
+  - rank: 57
+    title: "2 On"
+    artist: "Tinashe featuring ScHoolboy Q"
+    year: 2014
+    album: "Aquarius"
+    genres:
+      - Rhythm and Blues
+  - rank: 58
+    title: "Don't Tell 'Em"
+    artist: "Jeremih featuring YG"
+    year: 2014
+    album: "Late Nights"
+    genres:
+      - Rhythm and Blues
+  - rank: 59
+    title: "New Flame"
+    artist: "Chris Brown featuring Usher and Rick Ross"
+    year: 2014
+    album: "X"
+    genres:
+      - Rhythm and Blues
+  - rank: 60
+    title: "Wiggle"
+    artist: "Jason Derulo featuring Snoop Dogg"
+    year: 2014
+    album: "Talk Dirty"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 61
+    title: "In a Perfect World"
+    artist: "Kerry Patrick Clark"
+    year: 2014
+    album: "In a Perfect World"
+    genres:
+      - Folk
+  - rank: 62
+    title: "A House is a Home"
+    artist: "Ben & Ellen Harper"
+    year: 2014
+    album: "Childhood Home"
+    genres:
+      - Folk
+  - rank: 63
+    title: "Stay Gold"
+    artist: "First Aid Kit"
+    year: 2014
+    album: "Stay Gold"
+    genres:
+      - Folk
+  - rank: 64
+    title: "White Fire"
+    artist: "Angel Olsen"
+    year: 2014
+    album: "Burn Your Fire for No Witness"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 65
+    title: "Take Me to Church"
+    artist: "Hozier"
+    year: 2014
+    album: "Hozier"
+    genres:
+      - Folk
+      - Rock
+  - rank: 66
+    title: "Can't Even Do Wrong Right"
+    artist: "Elvin Bishop"
+    year: 2014
+    album: "Can't Even Do Wrong Right"
+    genres:
+      - Blues
+  - rank: 67
+    title: "I Refuse to Lose"
+    artist: "Jarekus Singleton"
+    year: 2014
+    album: "Refuse to Lose"
+    genres:
+      - Blues
+  - rank: 68
+    title: "Get Up!"
+    artist: "Ben Harper & Charlie Musselwhite"
+    year: 2014
+    album: "Get Up!"
+    genres:
+      - Blues
+      - Rock
+  - rank: 69
+    title: "The High Road"
+    artist: "Joss Stone"
+    year: 2014
+    album: "Water for Your Soul"
+    genres:
+      - Blues
+      - Soul
+  - rank: 70
+    title: "Rhythm & Blues"
+    artist: "Buddy Guy"
+    year: 2014
+    album: "Rhythm & Blues"
+    genres:
+      - Blues
+  - rank: 71
+    title: "Mise En Abîme"
+    artist: "Steve Lehman"
+    year: 2014
+    album: "Mise En Abîme"
+    genres:
+      - Jazz
+  - rank: 72
+    title: "The Great Lakes Suites"
+    artist: "Wadada Leo Smith"
+    year: 2014
+    album: "The Great Lakes Suites"
+    genres:
+      - Jazz
+  - rank: 73
+    title: "Last Dance"
+    artist: "Keith Jarrett, Charlie Haden"
+    year: 2014
+    album: "Last Dance"
+    genres:
+      - Jazz
+  - rank: 74
+    title: "Injuries"
+    artist: "Angles 9"
+    year: 2014
+    album: "Injuries"
+    genres:
+      - Jazz
+  - rank: 75
+    title: "We Like It Here"
+    artist: "Snarky Puppy"
+    year: 2014
+    album: "We Like It Here"
+    genres:
+      - Jazz
+      - Funk
+  - rank: 76
+    title: "III"
+    artist: "BADBADNOTGOOD"
+    year: 2014
+    album: "III"
+    genres:
+      - Jazz
+  - rank: 77
+    title: "The Inevitable Western"
+    artist: "The Bad Plus"
+    year: 2014
+    album: "The Inevitable Western"
+    genres:
+      - Jazz
+  - rank: 78
+    title: "You're Dead!"
+    artist: "Flying Lotus"
+    year: 2014
+    album: "You're Dead!"
+    genres:
+      - Jazz
+  - rank: 79
+    title: "Chants"
+    artist: "Craig Taborn Trio"
+    year: 2014
+    album: "Chants"
+    genres:
+      - Jazz
+  - rank: 80
+    title: "Without A Net"
+    artist: "Wayne Shorter"
+    year: 2014
+    album: "Without A Net"
+    genres:
+      - Jazz
+  - rank: 81
+    title: "Let It Go"
+    artist: "Idina Menzel"
+    year: 2014
+    album: "Frozen"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 82
+    title: "Uptown Funk"
+    artist: "Mark Ronson featuring Bruno Mars"
+    year: 2014
+    album: "Uptown Special"
+    genres:
+      - Pop
+      - Funk
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Culturally important song
+  - rank: 83
+    title: "Thinking Out Loud"
+    artist: "Ed Sheeran"
+    year: 2014
+    album: "x"
+    genres:
+      - Pop
+      - Folk
+  - rank: 84
+    title: "Blank Space"
+    artist: "Taylor Swift"
+    year: 2014
+    album: "1989"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 85
+    title: "Bang Bang"
+    artist: "Jessie J, Ariana Grande and Nicki Minaj"
+    year: 2014
+    album: "Sweet Talker"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 86
+    title: "Jealous"
+    artist: "Nick Jonas"
+    year: 2014
+    album: "Nick Jonas"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 87
+    title: "Animals"
+    artist: "Maroon 5"
+    year: 2014
+    album: "V"
+    genres:
+      - Pop
+      - Rock
+  - rank: 88
+    title: "Don't"
+    artist: "Ed Sheeran"
+    year: 2014
+    album: "x"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 89
+    title: "Waves"
+    artist: "Mr. Probz"
+    year: 2014
+    album: "The Treatment"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 90
+    title: "Blame"
+    artist: "Calvin Harris featuring John Newman"
+    year: 2014
+    album: "Motion"
+    genres:
+      - Pop
+  - rank: 91
+    title: "Ain't Worth The Whiskey"
+    artist: "Cole Swindell"
+    year: 2014
+    album: "Cole Swindell"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 92
+    title: "Trumpets"
+    artist: "Jason Derulo"
+    year: 2014
+    album: "Talk Dirty"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 93
+    title: "This Is How We Do"
+    artist: "Katy Perry"
+    year: 2014
+    album: "Prism"
+    genres:
+      - Pop
+  - rank: 94
+    title: "The Heart Wants What It Wants"
+    artist: "Selena Gomez"
+    year: 2014
+    album: "For You"
+    genres:
+      - Pop
+  - rank: 95
+    title: "Leave The Night On"
+    artist: "Sam Hunt"
+    year: 2014
+    album: "Montevallo"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 96
+    title: "New Flame"
+    artist: "Chris Brown featuring Usher & Rick Ross"
+    year: 2014
+    album: "X"
+    genres:
+      - Rhythm and Blues
+  - rank: 97
+    title: "Tuesday"
+    artist: "iLoveMakonnen featuring Drake"
+    year: 2014
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 98
+    title: "The Old Me"
+    artist: "Thin Lizzy"
+    year: 2014
+    album: "Nightlife"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 99
+    title: "Dangerous"
+    artist: "David Guetta featuring Sam Martin"
+    year: 2014
+    album: "Listen"
+    genres:
+      - Pop
+  - rank: 100
+    title: "Something From Nothing"
+    artist: "Foo Fighters"
+    year: 2014
+    album: "Sonic Highways"
+    genres:
+      - Rock
+      - Alternative

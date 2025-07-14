@@ -1,0 +1,807 @@
+songs:
+  - rank: 1
+    title: "Blinding Lights"
+    artist: "The Weeknd"
+    year: 2020
+    album: "After Hours"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 2
+    title: "Circles"
+    artist: "Post Malone"
+    year: 2020
+    album: "Hollywood's Bleeding"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Mass appeal
+  - rank: 3
+    title: "Don't Start Now"
+    artist: "Dua Lipa"
+    year: 2020
+    album: "Future Nostalgia"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Grammy Winner for Best Pop Vocal Album
+  - rank: 4
+    title: "Rockstar"
+    artist: "DaBaby ft Roddy Ricch"
+    year: 2020
+    album: "Blame It on Baby"
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+      - Crossover hit
+  - rank: 5
+    title: "Adore You"
+    artist: "Harry Styles"
+    year: 2020
+    album: "Fine Line"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 6
+    title: "Memories"
+    artist: "Maroon 5"
+    year: 2020
+    album: "Jordi"
+    genres:
+      - Pop
+  - rank: 7
+    title: "Someone You Loved"
+    artist: "Lewis Capaldi"
+    year: 2020
+    album: "Divinely Uninspired to a Hellish Extent"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 8
+    title: "Say So"
+    artist: "Doja Cat"
+    year: 2020
+    album: "Hot Pink"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 9
+    title: "Dance Monkey"
+    artist: "Tones And I"
+    year: 2020
+    album: "The Kids Are Coming"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 10
+    title: "Savage"
+    artist: "Megan Thee Stallion ft Beyoncé"
+    year: 2020
+    album: "Good News"
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+      - Crossover hit
+  - rank: 11
+    title: "Watermelon Sugar"
+    artist: "Harry Styles"
+    year: 2020
+    album: "Fine Line"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Number one on Billboard Hot 100
+      - Grammy Winner for Best Pop Solo Performance
+  - rank: 12
+    title: "Everything I Wanted"
+    artist: "Billie Eilish"
+    year: 2020
+    single: true
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Grammy Winner for Record of the Year
+  - rank: 13
+    title: "Roses"
+    artist: "SAINt JHN"
+    year: 2020
+    album: "While the World Was Burning"
+    genres:
+      - R&B
+      - Pop
+  - rank: 14
+    title: "Intentions"
+    artist: "Justin Bieber ft Quavo"
+    year: 2020
+    album: "Changes"
+    genres:
+      - Pop
+      - R&B
+  - rank: 15
+    title: "Before You Go"
+    artist: "Lewis Capaldi"
+    year: 2020
+    album: "Divinely Uninspired to a Hellish Extent"
+    genres:
+      - Pop
+  - rank: 16
+    title: "WAP"
+    artist: "Cardi B ft Megan Thee Stallion"
+    year: 2020
+    single: true
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 17
+    title: "Dynamite"
+    artist: "BTS"
+    year: 2020
+    album: "Be"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Number one on Billboard Hot 100
+      - Crossover hit
+  - rank: 18
+    title: "Break My Heart"
+    artist: "Dua Lipa"
+    year: 2020
+    album: "Future Nostalgia"
+    genres:
+      - Pop
+  - rank: 19
+    title: "Savage Love"
+    artist: "Jawsh 685 & Jason Derulo"
+    year: 2020
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 20
+    title: "My Oh My"
+    artist: "Camila Cabello ft DaBaby"
+    year: 2020
+    album: "Romance"
+    genres:
+      - Pop
+  - rank: 21
+    title: "Go Crazy"
+    artist: "Chris Brown & Young Thug"
+    year: 2020
+    album: "Slime & B"
+    genres:
+      - R&B
+  - rank: 22
+    title: "Laugh Now Cry Later"
+    artist: "Drake ft Lil Durk"
+    year: 2020
+    single: true
+    genres:
+      - R&B
+  - rank: 23
+    title: "Death Bed"
+    artist: "Powfu ft beabadoobee"
+    year: 2020
+    album: "Poems of the Past"
+    solo-hit: true
+    genres:
+      - Pop
+      - Alternative
+  - rank: 24
+    title: "Mood"
+    artist: "24kGoldn ft iann dior"
+    year: 2020
+    album: "El Dorado"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 25
+    title: "Cardigan"
+    artist: "Taylor Swift"
+    year: 2020
+    album: "Folklore"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Number one on Billboard Hot 100
+      - Grammy Winner for Album of the Year
+  - rank: 26
+    title: "Positions"
+    artist: "Ariana Grande"
+    year: 2020
+    album: "Positions"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 27
+    title: "Level of Concern"
+    artist: "Twenty One Pilots"
+    year: 2020
+    single: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 28
+    title: "Bang!"
+    artist: "AJR"
+    year: 2020
+    album: "OK Orchestra"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 29
+    title: "Monsters"
+    artist: "All Time Low ft blackbear"
+    year: 2020
+    album: "Wake Up, Sunshine"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 30
+    title: "Heat Waves"
+    artist: "Glass Animals"
+    year: 2020
+    album: "Dreamland"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 31
+    title: "Lost In Yesterday"
+    artist: "Tame Impala"
+    year: 2020
+    album: "The Slow Rush"
+    genres:
+      - Alternative
+      - Funk
+  - rank: 32
+    title: "Caution"
+    artist: "The Killers"
+    year: 2020
+    album: "Imploding the Mirage"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 33
+    title: "The Adults Are Talking"
+    artist: "The Strokes"
+    year: 2020
+    album: "The New Abnormal"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 34
+    title: "Hell N Back"
+    artist: "Bakar"
+    year: 2020
+    album: "Will You Be My Yellow?"
+    genres:
+      - Alternative
+  - rank: 35
+    title: "And It's Still Alright"
+    artist: "Nathaniel Rateliff"
+    year: 2020
+    album: "And It's Still Alright"
+    genres:
+      - Folk
+      - Rock
+  - rank: 36
+    title: "Bad Decisions"
+    artist: "The Strokes"
+    year: 2020
+    album: "The New Abnormal"
+    genres:
+      - Alternative
+  - rank: 37
+    title: "Kyoto"
+    artist: "Phoebe Bridgers"
+    year: 2020
+    album: "Punisher"
+    genres:
+      - Folk
+      - Alternative
+    tags:
+      - Fan favorite
+  - rank: 38
+    title: "The 1"
+    artist: "Taylor Swift"
+    year: 2020
+    album: "Folklore"
+    genres:
+      - Pop
+      - Folk
+  - rank: 39
+    title: "Exile"
+    artist: "Taylor Swift ft Bon Iver"
+    year: 2020
+    album: "Folklore"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 40
+    title: "I Know The End"
+    artist: "Phoebe Bridgers"
+    year: 2020
+    album: "Punisher"
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 41
+    title: "Shameika"
+    artist: "Fiona Apple"
+    year: 2020
+    album: "Fetch the Bolt Cutters"
+    genres:
+      - Alternative
+    tags:
+      - Grammy Winner for Best Rock Song
+  - rank: 42
+    title: "Your Best American Girl"
+    artist: "Mitski"
+    year: 2020
+    genres:
+      - Alternative
+    tags:
+      - Fan favorite
+  - rank: 43
+    title: "Kill or Be Kind"
+    artist: "Samantha Fish"
+    year: 2020
+    album: "Kill or Be Kind"
+    genres:
+      - Blues
+      - Rock
+  - rank: 44
+    title: "You Give Me Something"
+    artist: "Hamish Anderson"
+    year: 2020
+    single: true
+    genres:
+      - Blues
+      - Rock
+  - rank: 45
+    title: "Hard Case"
+    artist: "Tedeschi Trucks Band"
+    year: 2020
+    album: "Signs"
+    genres:
+      - Blues
+      - Rock
+  - rank: 46
+    title: "Come On In"
+    artist: "Thorbjørn Risager & The Black Tornado"
+    year: 2020
+    album: "Come On In"
+    genres:
+      - Blues
+  - rank: 47
+    title: "Blues With Friends"
+    artist: "Dion"
+    year: 2020
+    album: "Blues With Friends"
+    genres:
+      - Blues
+  - rank: 48
+    title: "Self Made Man"
+    artist: "Larkin Poe"
+    year: 2020
+    album: "Self Made Man"
+    genres:
+      - Blues
+      - Rock
+  - rank: 49
+    title: "Uncivil War"
+    artist: "Shemekia Copeland"
+    year: 2020
+    album: "Uncivil War"
+    genres:
+      - Blues
+  - rank: 50
+    title: "Black Parade"
+    artist: "Beyoncé"
+    year: 2020
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Grammy Winner for Best R&B Performance
+  - rank: 51
+    title: "Rain On Me"
+    artist: "Lady Gaga & Ariana Grande"
+    year: 2020
+    album: "Chromatica"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Number one on Billboard Hot 100
+      - Grammy Winner for Best Pop Duo/Group Performance
+  - rank: 52
+    title: "I Can't Breathe"
+    artist: "H.E.R."
+    year: 2020
+    single: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Grammy Winner for Song of the Year
+      - Culturally important
+  - rank: 53
+    title: "Better Than I Imagined"
+    artist: "Robert Glasper ft H.E.R. & Meshell Ndegeocello"
+    year: 2020
+    album: "Dinner Party"
+    genres:
+      - R&B
+    tags:
+      - Grammy Winner for Best R&B Song
+  - rank: 54
+    title: "Living The Dream"
+    artist: "Sturgill Simpson"
+    year: 2020
+    album: "Cuttin' Grass, Vol. 1"
+    genres:
+      - Folk
+  - rank: 55
+    title: "Wildfires"
+    artist: "Sault"
+    year: 2020
+    album: "Untitled (Black Is)"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 56
+    title: "Murder Most Foul"
+    artist: "Bob Dylan"
+    year: 2020
+    album: "Rough and Rowdy Ways"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 57
+    title: "Safaera"
+    artist: "Bad Bunny ft Jowell & Randy & Ñengo Flow"
+    year: 2020
+    album: "YHLQMDLG"
+    genres:
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 58
+    title: "On The Floor"
+    artist: "Perfume Genius"
+    year: 2020
+    album: "Set My Heart on Fire Immediately"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 59
+    title: "Living in a Ghost Town"
+    artist: "The Rolling Stones"
+    year: 2020
+    single: true
+    genres:
+      - Rock
+      - Blues
+  - rank: 60
+    title: "Ordinary Madness"
+    artist: "Walter Trout"
+    year: 2020
+    album: "Ordinary Madness"
+    genres:
+      - Blues
+      - Rock
+  - rank: 61
+    title: "Royal Tea"
+    artist: "Joe Bonamassa"
+    year: 2020
+    album: "Royal Tea"
+    genres:
+      - Blues
+      - Rock
+  - rank: 62
+    title: "Ain't Done Yet"
+    artist: "Savoy Brown"
+    year: 2020
+    album: "Ain't Done Yet"
+    genres:
+      - Blues
+      - Rock
+  - rank: 63
+    title: "The New World"
+    artist: "Alastair Greene"
+    year: 2020
+    album: "The New World Blues"
+    genres:
+      - Blues
+  - rank: 64
+    title: "Stronger Than Strong"
+    artist: "John Németh"
+    year: 2020
+    album: "Stronger Than Strong"
+    genres:
+      - Blues
+  - rank: 65
+    title: "Blues Bash"
+    artist: "Duke Robillard"
+    year: 2020
+    album: "Blues Bash"
+    genres:
+      - Blues
+  - rank: 66
+    title: "Nobody Gotta Know"
+    artist: "Cary Morin"
+    year: 2020
+    album: "Dockside Saints"
+    genres:
+      - Folk
+  - rank: 67
+    title: "Bring Me Sugar"
+    artist: "Pinkie Rideau"
+    year: 2020
+    album: "Bring Me Sugar"
+    genres:
+      - Blues
+  - rank: 68
+    title: "Bluebird"
+    artist: "Jamestown Revival"
+    year: 2020
+    album: "Younger Days"
+    genres:
+      - Folk
+  - rank: 69
+    title: "Eve"
+    artist: "Sarah Jarosz"
+    year: 2020
+    album: "World on the Ground"
+    genres:
+      - Folk
+    tags:
+      - Grammy Winner for Best Americana Album
+  - rank: 70
+    title: "Johnny"
+    artist: "Sarah Jarosz"
+    year: 2020
+    album: "World on the Ground"
+    genres:
+      - Folk
+  - rank: 71
+    title: "Heart's Ease"
+    artist: "Shirley Collins"
+    year: 2020
+    album: "Heart's Ease"
+    genres:
+      - Folk
+  - rank: 72
+    title: "Spider Tales"
+    artist: "Jake Blount"
+    year: 2020
+    album: "Spider Tales"
+    genres:
+      - Folk
+  - rank: 73
+    title: "Navarasa: Nine Emotions"
+    artist: "Yorkston/Thorne/Khan"
+    year: 2020
+    album: "Navarasa: Nine Emotions"
+    genres:
+      - Folk
+  - rank: 74
+    title: "Wrackline"
+    artist: "Fay Hield"
+    year: 2020
+    album: "Wrackline"
+    genres:
+      - Folk
+  - rank: 75
+    title: "Song For Our Daughter"
+    artist: "Laura Marling"
+    year: 2020
+    album: "Song For Our Daughter"
+    genres:
+      - Folk
+  - rank: 76
+    title: "Microphones in 2020"
+    artist: "The Microphones"
+    year: 2020
+    album: "Microphones in 2020"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 77
+    title: "Ghost Folk"
+    artist: "Allysen Callery"
+    year: 2020
+    album: "Ghost Folk"
+    genres:
+      - Folk
+  - rank: 78
+    title: "Andromeda"
+    artist: "Alex Rex"
+    year: 2020
+    album: "Andromeda"
+    genres:
+      - Folk
+  - rank: 79
+    title: "The Songs of My Boyhood"
+    artist: "Alasdair Roberts"
+    year: 2020
+    album: "The Songs of My Boyhood"
+    genres:
+      - Folk
+  - rank: 80
+    title: "Bet On Love"
+    artist: "Pharis & Jason Romero"
+    year: 2020
+    album: "Bet On Love"
+    genres:
+      - Folk
+  - rank: 81
+    title: "Where The World Is Thin"
+    artist: "Kris Drever"
+    year: 2020
+    album: "Where The World Is Thin"
+    genres:
+      - Folk
+  - rank: 82
+    title: "Dilyn Afon"
+    artist: "Cynefin"
+    year: 2020
+    album: "Dilyn Afon"
+    genres:
+      - Folk
+  - rank: 83
+    title: "Gypsy"
+    artist: "Eilen Jewell"
+    year: 2020
+    album: "Gypsy"
+    genres:
+      - Folk
+  - rank: 84
+    title: "What It Is"
+    artist: "Hayes Carll"
+    year: 2020
+    album: "What It Is"
+    genres:
+      - Folk
+  - rank: 85
+    title: "I Need A Teacher"
+    artist: "Hiss Golden Messenger"
+    year: 2020
+    album: "Terms of Surrender"
+    genres:
+      - Folk
+  - rank: 86
+    title: "Pharmakon"
+    artist: "Humbird"
+    year: 2020
+    album: "Pharmakon"
+    genres:
+      - Folk
+  - rank: 87
+    title: "Lottery"
+    artist: "Jade Bird"
+    year: 2020
+    album: "Jade Bird"
+    genres:
+      - Folk
+      - Rock
+  - rank: 88
+    title: "Coming Down For You"
+    artist: "Joan Shelley"
+    year: 2020
+    album: "Like The River Loves The Sea"
+    genres:
+      - Folk
+  - rank: 89
+    title: "Lowlands Of Holland"
+    artist: "John Smith"
+    year: 2020
+    album: "Hummingbird"
+    genres:
+      - Folk
+  - rank: 90
+    title: "All Some Kind Of Dream"
+    artist: "Josh Ritter"
+    year: 2020
+    album: "Fever Breaks"
+    genres:
+      - Folk
+  - rank: 91
+    title: "Saying Goodbye"
+    artist: "J.S. Ondara"
+    year: 2020
+    album: "Tales Of America"
+    genres:
+      - Folk
+  - rank: 92
+    title: "This Is My Home"
+    artist: "Keb' Mo'"
+    year: 2020
+    album: "Oklahoma"
+    genres:
+      - Blues
+      - Folk
+  - rank: 93
+    title: "The Capitalist Blues"
+    artist: "Leyla McCalla"
+    year: 2020
+    album: "The Capitalist Blues"
+    genres:
+      - Folk
+      - Blues
+  - rank: 94
+    title: "Shaking As It Turns"
+    artist: "Lula Wiles"
+    year: 2020
+    album: "What Will We Do"
+    genres:
+      - Folk
+  - rank: 95
+    title: "The Wolves"
+    artist: "Mandolin Orange"
+    year: 2020
+    album: "Tides of a Teardrop"
+    genres:
+      - Folk
+  - rank: 96
+    title: "Take The Journey"
+    artist: "Molly Tuttle"
+    year: 2020
+    album: "When You're Ready"
+    genres:
+      - Folk
+  - rank: 97
+    title: "Little Margaret"
+    artist: "Rhiannon Giddens w/ Francesco Turrisi"
+    year: 2020
+    album: "There Is No Other"
+    genres:
+      - Folk
+  - rank: 98
+    title: "Speak Out"
+    artist: "Rising Appalachia ft Ani DiFranco"
+    year: 2020
+    album: "Leylines"
+    genres:
+      - Folk
+  - rank: 99
+    title: "Old Friends"
+    artist: "Steve Earle & The Dukes"
+    year: 2020
+    album: "Guy"
+    genres:
+      - Folk
+  - rank: 100
+    title: "Bring My Flowers Now"
+    artist: "Tanya Tucker"
+    year: 2020
+    album: "While I'm Livin'"
+    genres:
+      - Folk

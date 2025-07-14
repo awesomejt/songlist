@@ -1,0 +1,849 @@
+songs:
+  - rank: 1
+    title: "TiK ToK"
+    artist: "Ke$ha"
+    year: 2010
+    album: "Animal"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Need You Now"
+    artist: "Lady Antebellum"
+    year: 2010
+    album: "Need You Now"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+      - Grammy Award for Song of the Year
+  - rank: 3
+    title: "Hey, Soul Sister"
+    artist: "Train"
+    year: 2010
+    album: "Save Me, San Francisco"
+    genres:
+      - Pop
+      - Rock
+      - Soft Rock
+  - rank: 4
+    title: "California Gurls"
+    artist: "Katy Perry featuring Snoop Dogg"
+    year: 2010
+    album: "Teenage Dream"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 5
+    title: "OMG"
+    artist: "Usher featuring will.i.am"
+    year: 2010
+    album: "Raymond v. Raymond"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 6
+    title: "Airplanes"
+    artist: "B.o.B featuring Hayley Williams"
+    year: 2010
+    album: "B.o.B Presents: The Adventures of Bobby Ray"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 7
+    title: "Love The Way You Lie"
+    artist: "Eminem featuring Rihanna"
+    year: 2010
+    album: "Recovery"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+      - Number-one Billboard Hot 100 song
+  - rank: 8
+    title: "Bad Romance"
+    artist: "Lady Gaga"
+    year: 2010
+    album: "The Fame Monster"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award nominee
+  - rank: 9
+    title: "Dynamite"
+    artist: "Taio Cruz"
+    year: 2010
+    album: "Rokstarr"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 10
+    title: "Break Your Heart"
+    artist: "Taio Cruz featuring Ludacris"
+    year: 2010
+    album: "Rokstarr"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 11
+    title: "Nothin' On You"
+    artist: "B.o.B featuring Bruno Mars"
+    year: 2010
+    album: "B.o.B Presents: The Adventures of Bobby Ray"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 12
+    title: "I Like It"
+    artist: "Enrique Iglesias featuring Pitbull"
+    year: 2010
+    album: "Euphoria"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 13
+    title: "In My Head"
+    artist: "Jason Derulo"
+    year: 2010
+    album: "Jason Derulo"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 14
+    title: "Rude Boy"
+    artist: "Rihanna"
+    year: 2010
+    album: "Rated R"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 15
+    title: "Telephone"
+    artist: "Lady Gaga featuring Beyonce"
+    year: 2010
+    album: "The Fame Monster"
+    genres:
+      - Pop
+  - rank: 16
+    title: "Teenage Dream"
+    artist: "Katy Perry"
+    year: 2010
+    album: "Teenage Dream"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 17
+    title: "Just The Way You Are"
+    artist: "Bruno Mars"
+    year: 2010
+    album: "Doo-Wops & Hooligans"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award for Best Male Pop Vocal Performance
+  - rank: 18
+    title: "Cooler Than Me"
+    artist: "Mike Posner"
+    year: 2010
+    album: "31 Minutes to Takeoff"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 19
+    title: "Imma Be"
+    artist: "The Black Eyed Peas"
+    year: 2010
+    album: "The E.N.D."
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 20
+    title: "Empire State Of Mind"
+    artist: "Jay-Z + Alicia Keys"
+    year: 2010
+    album: "The Blueprint 3"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award for Best Rap/Sung Collaboration
+  - rank: 21
+    title: "DJ Got Us Fallin' In Love"
+    artist: "Usher featuring Pitbull"
+    year: 2010
+    album: "Versus"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 22
+    title: "Billionaire"
+    artist: "Travie McCoy featuring Bruno Mars"
+    year: 2010
+    album: "Lazarus"
+    genres:
+      - Pop
+  - rank: 23
+    title: "Replay"
+    artist: "Iyaz"
+    year: 2010
+    album: "Replay"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    solo-hit: true
+  - rank: 24
+    title: "Sexy Chick"
+    artist: "David Guetta featuring Akon"
+    year: 2010
+    album: "One Love"
+    genres:
+      - Pop
+  - rank: 25
+    title: "Breakeven"
+    artist: "The Script"
+    year: 2010
+    album: "The Script"
+    genres:
+      - Pop
+      - Rock
+      - Soft Rock
+  - rank: 26
+    title: "Your Love Is My Drug"
+    artist: "Ke$ha"
+    year: 2010
+    album: "Animal"
+    genres:
+      - Pop
+  - rank: 27
+    title: "I Gotta Feeling"
+    artist: "The Black Eyed Peas"
+    year: 2010
+    album: "The E.N.D."
+    genres:
+      - Pop
+  - rank: 28
+    title: "Fireflies"
+    artist: "Owl City"
+    year: 2010
+    album: "Ocean Eyes"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 29
+    title: "Say Aah"
+    artist: "Trey Songz featuring Fabolous"
+    year: 2010
+    album: "Ready"
+    genres:
+      - Rhythm and Blues
+  - rank: 30
+    title: "Find Your Love"
+    artist: "Drake"
+    year: 2010
+    album: "Thank Me Later"
+    genres:
+      - Rhythm and Blues
+  - rank: 31
+    title: "Alejandro"
+    artist: "Lady Gaga"
+    year: 2010
+    album: "The Fame Monster"
+    genres:
+      - Pop
+  - rank: 32
+    title: "Ridin' Solo"
+    artist: "Jason Derulo"
+    year: 2010
+    album: "Jason Derulo"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 33
+    title: "Just A Dream"
+    artist: "Nelly"
+    year: 2010
+    album: "5.0"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 34
+    title: "Like A G6"
+    artist: "Far*East Movement featuring Cataracs & Dev"
+    year: 2010
+    album: "Free Wired"
+    genres:
+      - Pop
+    solo-hit: true
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 35
+    title: "Carry Out"
+    artist: "Timbaland featuring Justin Timberlake"
+    year: 2010
+    album: "Shock Value II"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 36
+    title: "Haven't Met You Yet"
+    artist: "Michael Buble"
+    year: 2010
+    album: "Crazy Love"
+    genres:
+      - Pop
+      - Jazz
+      - Standards
+      - Swing
+  - rank: 37
+    title: "Club Can't Handle Me"
+    artist: "Flo Rida featuring David Guetta"
+    year: 2010
+    album: "Only One Flo (Part 1)"
+    genres:
+      - Pop
+    soundtrack: true
+  - rank: 38
+    title: "Down"
+    artist: "Jay Sean featuring Lil Wayne"
+    year: 2010
+    album: "All or Nothing"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 39
+    title: "Bulletproof"
+    artist: "La Roux"
+    year: 2010
+    album: "La Roux"
+    genres:
+      - Pop
+      - New Wave
+    solo-hit: true
+  - rank: 40
+    title: "Whatcha Say"
+    artist: "Jason Derulo"
+    year: 2010
+    album: "Jason Derulo"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 41
+    title: "Baby"
+    artist: "Justin Bieber featuring Ludacris"
+    year: 2010
+    album: "My World 2.0"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 42
+    title: "Whataya Want From Me"
+    artist: "Adam Lambert"
+    year: 2010
+    album: "For Your Entertainment"
+    genres:
+      - Pop
+      - Rock
+  - rank: 43
+    title: "Mine"
+    artist: "Taylor Swift"
+    year: 2010
+    album: "Speak Now"
+    genres:
+      - Pop
+      - Folk
+  - rank: 44
+    title: "Only Girl (In The World)"
+    artist: "Rihanna"
+    year: 2010
+    album: "Loud"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 45
+    title: "Live Like We're Dying"
+    artist: "Kris Allen"
+    year: 2010
+    album: "Kris Allen"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 46
+    title: "Hard"
+    artist: "Rihanna featuring Jeezy"
+    year: 2010
+    album: "Rated R"
+    genres:
+      - Rhythm and Blues
+  - rank: 47
+    title: "Young Forever"
+    artist: "Jay-Z + Mr. Hudson"
+    year: 2010
+    album: "The Blueprint 3"
+    genres:
+      - Rhythm and Blues
+  - rank: 48
+    title: "Blah Blah Blah"
+    artist: "Ke$ha featuring 3OH!3"
+    year: 2010
+    album: "Animal"
+    genres:
+      - Pop
+  - rank: 49
+    title: "Bottoms Up"
+    artist: "Trey Songz featuring Nicki Minaj"
+    year: 2010
+    album: "Passion, Pain & Pleasure"
+    genres:
+      - Rhythm and Blues
+  - rank: 50
+    title: "Do You Remember"
+    artist: "Jay Sean featuring Sean Paul & Lil Jon"
+    year: 2010
+    album: "All or Nothing"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 51
+    title: "All The Right Moves"
+    artist: "OneRepublic"
+    year: 2010
+    album: "Waking Up"
+    genres:
+      - Pop
+      - Rock
+  - rank: 52
+    title: "According To You"
+    artist: "Orianthi"
+    year: 2010
+    album: "Believe"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 53
+    title: "You Belong With Me"
+    artist: "Taylor Swift"
+    year: 2010
+    album: "Fearless"
+    genres:
+      - Pop
+  - rank: 54
+    title: "Meet Me Halfway"
+    artist: "The Black Eyed Peas"
+    year: 2010
+    album: "The E.N.D."
+    genres:
+      - Pop
+  - rank: 55
+    title: "Take It Off"
+    artist: "Ke$ha"
+    year: 2010
+    album: "Animal"
+    genres:
+      - Pop
+  - rank: 56
+    title: "Animal"
+    artist: "Neon Trees"
+    year: 2010
+    album: "Habits"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+    solo-hit: true
+  - rank: 57
+    title: "Misery"
+    artist: "Maroon 5"
+    year: 2010
+    album: "Hands All Over"
+    genres:
+      - Pop
+      - Rock
+  - rank: 58
+    title: "Magic"
+    artist: "B.o.B featuring Rivers Cuomo"
+    year: 2010
+    album: "B.o.B Presents: The Adventures of Bobby Ray"
+    genres:
+      - Pop
+  - rank: 59
+    title: "Paparazzi"
+    artist: "Lady Gaga"
+    year: 2010
+    album: "The Fame"
+    genres:
+      - Pop
+  - rank: 60
+    title: "Your Love"
+    artist: "Nicki Minaj"
+    year: 2010
+    album: "Pink Friday"
+    genres:
+      - Rhythm and Blues
+  - rank: 61
+    title: "Party In The U.S.A."
+    artist: "Miley Cyrus"
+    year: 2010
+    album: "The Time of Our Lives"
+    genres:
+      - Pop
+  - rank: 62
+    title: "Deuces"
+    artist: "Chris Brown featuring Tyga & Kevin McCall"
+    year: 2010
+    album: "F.A.M.E."
+    genres:
+      - Rhythm and Blues
+  - rank: 63
+    title: "3"
+    artist: "Britney Spears"
+    year: 2010
+    album: "The Singles Collection"
+    genres:
+      - Pop
+  - rank: 64
+    title: "Impossible"
+    artist: "Shontelle"
+    year: 2010
+    album: "No Gravity"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    solo-hit: true
+  - rank: 65
+    title: "Two Is Better Than One"
+    artist: "Boys Like Girls featuring Taylor Swift"
+    year: 2010
+    album: "Love Drunk"
+    genres:
+      - Pop
+      - Rock
+  - rank: 66
+    title: "My First Kiss"
+    artist: "3OH!3 featuring Ke$ha"
+    year: 2010
+    album: "Streets of Gold"
+    genres:
+      - Pop
+  - rank: 67
+    title: "Savior"
+    artist: "Rise Against"
+    year: 2010
+    album: "Appeal to Reason"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 68
+    title: "Uprising"
+    artist: "Muse"
+    year: 2010
+    album: "The Resistance"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Grammy Award for Best Rock Song
+      - Number-one Billboard Alternative song
+  - rank: 69
+    title: "I Will Not Bow"
+    artist: "Breaking Benjamin"
+    year: 2010
+    album: "Dear Agony"
+    genres:
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 70
+    title: "Break"
+    artist: "Three Days Grace"
+    year: 2010
+    album: "Life Starts Now"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 71
+    title: "Lay Me Down"
+    artist: "The Dirty Heads featuring Rome"
+    year: 2010
+    album: "Any Port in a Storm"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 72
+    title: "1901"
+    artist: "Phoenix"
+    year: 2010
+    album: "Wolfgang Amadeus Phoenix"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 73
+    title: "(If You're Wondering If I Want You To) I Want You To"
+    artist: "Weezer"
+    year: 2010
+    album: "Raditude"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 74
+    title: "Your Decision"
+    artist: "Alice In Chains"
+    year: 2010
+    album: "Black Gives Way to Blue"
+    genres:
+      - Rock
+      - Alternative
+      - Grunge
+  - rank: 75
+    title: "The Good Life"
+    artist: "Three Days Grace"
+    year: 2010
+    album: "Life Starts Now"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 76
+    title: "Lisztomania"
+    artist: "Phoenix"
+    year: 2010
+    album: "Wolfgang Amadeus Phoenix"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 77
+    title: "Resistance"
+    artist: "Muse"
+    year: 2010
+    album: "The Resistance"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 78
+    title: "If You Only Knew"
+    artist: "Shinedown"
+    year: 2010
+    album: "The Sound of Madness"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 79
+    title: "The Crow & The Butterfly"
+    artist: "Shinedown"
+    year: 2010
+    album: "The Sound of Madness"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 80
+    title: "Nightmare"
+    artist: "Avenged Sevenfold"
+    year: 2010
+    album: "Nightmare"
+    genres:
+      - Hard Rock
+  - rank: 81
+    title: "Kings And Queens"
+    artist: "Thirty Seconds To Mars"
+    year: 2010
+    album: "This Is War"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 82
+    title: "Another Way To Die"
+    artist: "Disturbed"
+    year: 2010
+    album: "Asylum"
+    genres:
+      - Hard Rock
+  - rank: 83
+    title: "Between The Lines"
+    artist: "Stone Temple Pilots"
+    year: 2010
+    album: "Stone Temple Pilots"
+    genres:
+      - Rock
+      - Alternative
+      - Grunge
+  - rank: 84
+    title: "Just Breathe"
+    artist: "Pearl Jam"
+    year: 2010
+    album: "Backspacer"
+    genres:
+      - Rock
+      - Alternative
+      - Grunge
+  - rank: 85
+    title: "Say You'll Haunt Me"
+    artist: "Stone Sour"
+    year: 2010
+    album: "Audio Secrecy"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 86
+    title: "Snuff"
+    artist: "Slipknot"
+    year: 2010
+    album: "All Hope Is Gone"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 87
+    title: "This Is War"
+    artist: "Thirty Seconds To Mars"
+    year: 2010
+    album: "This Is War"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 88
+    title: "Letter From A Thief"
+    artist: "Chevelle"
+    year: 2010
+    album: "Sci-Fi Crimes"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 89
+    title: "In One Ear"
+    artist: "Cage The Elephant"
+    year: 2010
+    album: "Cage The Elephant"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 90
+    title: "Cryin' Like A Bitch!"
+    artist: "Godsmack"
+    year: 2010
+    album: "The Oracle"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 91
+    title: "Tighten Up"
+    artist: "The Black Keys"
+    year: 2010
+    album: "Brothers"
+    genres:
+      - Blues
+      - Rock
+      - Alternative
+    tags:
+      - Grammy Award for Best Rock Performance by a Duo or Group with Vocal
+  - rank: 92
+    title: "Little Lion Man"
+    artist: "Mumford & Sons"
+    year: 2010
+    album: "Sigh No More"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: "Tightrope"
+    artist: "Janelle Monáe featuring Big Boi"
+    year: 2010
+    album: "The ArchAndroid"
+    genres:
+      - Funk
+      - Soul
+      - New Wave
+    tags:
+      - Culturally important song
+  - rank: 94
+    title: "Hollywood"
+    artist: "Michael Buble"
+    year: 2010
+    album: "Crazy Love"
+    genres:
+      - Pop
+      - Jazz
+      - Swing
+  - rank: 95
+    title: "Hurricane Angel"
+    artist: "Ellis Paul"
+    year: 2010
+    album: "The Day After Everything Changed"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 96
+    title: "Move Up"
+    artist: "Patty Griffin"
+    year: 2010
+    album: "Downtown Church"
+    genres:
+      - Folk
+      - Soul
+      - Standards
+  - rank: 97
+    title: "American Tune"
+    artist: "Crooked Still"
+    year: 2010
+    album: "Some Strange Country"
+    genres:
+      - Folk
+      - Rock
+    cover: true
+    tags:
+      - Original artist: Paul Simon
+  - rank: 98
+    title: "Run Back To Your Side"
+    artist: "Eric Clapton"
+    year: 2010
+    album: "Clapton"
+    genres:
+      - Blues
+      - Rock
+  - rank: 99
+    title: "I Should Have Known It"
+    artist: "Tom Petty and the Heartbreakers"
+    year: 2010
+    album: "Mojo"
+    genres:
+      - Rock
+      - Blues
+      - Folk
+  - rank: 100
+    title: "One Last Soul"
+    artist: "Black Country Communion"
+    year: 2010
+    album: "Black Country Communion"
+    genres:
+      - Hard Rock
+      - Blues

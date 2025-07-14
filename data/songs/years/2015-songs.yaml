@@ -1,0 +1,815 @@
+songs:
+  - rank: 1
+    title: "Uptown Funk"
+    artist: "Mark Ronson featuring Bruno Mars"
+    year: 2015
+    album: "Uptown Special"
+    genres:
+      - Pop
+      - Funk
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Thinking Out Loud"
+    artist: "Ed Sheeran"
+    year: 2015
+    album: "x"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award for Song of the Year
+  - rank: 3
+    title: "See You Again"
+    artist: "Wiz Khalifa featuring Charlie Puth"
+    year: 2015
+    album: "Furious 7: Original Motion Picture Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 4
+    title: "Trap Queen"
+    artist: "Fetty Wap"
+    year: 2015
+    album: "Fetty Wap"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 5
+    title: "Sugar"
+    artist: "Maroon 5"
+    year: 2015
+    album: "V"
+    genres:
+      - Pop
+      - Rock
+  - rank: 6
+    title: "Shut Up and Dance"
+    artist: "Walk the Moon"
+    year: 2015
+    album: "Talking Is Hard"
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+  - rank: 7
+    title: "Blank Space"
+    artist: "Taylor Swift"
+    year: 2015
+    album: "1989"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 8
+    title: "Watch Me"
+    artist: "Silentó"
+    year: 2015
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 9
+    title: "Earned It"
+    artist: "The Weeknd"
+    year: 2015
+    album: "Fifty Shades of Grey: Original Motion Picture Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+  - rank: 10
+    title: "The Hills"
+    artist: "The Weeknd"
+    year: 2015
+    album: "Beauty Behind the Madness"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 11
+    title: "Cheerleader"
+    artist: "OMI"
+    year: 2015
+    album: "Me 4 U"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 12
+    title: "Can't Feel My Face"
+    artist: "The Weeknd"
+    year: 2015
+    album: "Beauty Behind the Madness"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 13
+    title: "Love Me Like You Do"
+    artist: "Ellie Goulding"
+    year: 2015
+    album: "Fifty Shades of Grey: Original Motion Picture Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 14
+    title: "Take Me To Church"
+    artist: "Hozier"
+    year: 2015
+    album: "Hozier"
+    genres:
+      - Pop
+      - Folk
+      - Rock
+  - rank: 15
+    title: "Bad Blood"
+    artist: "Taylor Swift featuring Kendrick Lamar"
+    year: 2015
+    album: "1989"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 16
+    title: "Lean On"
+    artist: "Major Lazer and DJ Snake featuring MØ"
+    year: 2015
+    album: "Peace Is the Mission"
+    genres:
+      - Pop
+  - rank: 17
+    title: "Want to Want Me"
+    artist: "Jason Derulo"
+    year: 2015
+    album: "Everything Is 4"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 18
+    title: "Shake It Off"
+    artist: "Taylor Swift"
+    year: 2015
+    album: "1989"
+    genres:
+      - Pop
+  - rank: 19
+    title: "Where Are Ü Now"
+    artist: "Skrillex and Diplo featuring Justin Bieber"
+    year: 2015
+    album: "Skrillex and Diplo Present Jack Ü"
+    genres:
+      - Pop
+  - rank: 20
+    title: "Fight Song"
+    artist: "Rachel Platten"
+    year: 2015
+    album: "Wildfire"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 21
+    title: "Talking Body"
+    artist: "Tove Lo"
+    year: 2015
+    album: "Queen of the Clouds"
+    genres:
+      - Pop
+  - rank: 22
+    title: "Jealous"
+    artist: "Nick Jonas"
+    year: 2015
+    album: "Nick Jonas"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 23
+    title: "All About That Bass"
+    artist: "Meghan Trainor"
+    year: 2015
+    album: "Title"
+    genres:
+      - Pop
+  - rank: 24
+    title: "Budapest"
+    artist: "George Ezra"
+    year: 2015
+    album: "Wanted on Voyage"
+    genres:
+      - Pop
+      - Folk
+  - rank: 25
+    title: "Honey, I'm Good"
+    artist: "Andy Grammer"
+    year: 2015
+    album: "Magazines or Novels"
+    genres:
+      - Pop
+  - rank: 26
+    title: "Waves"
+    artist: "Mr Probz"
+    year: 2015
+    album: "The Treatment"
+    genres:
+      - Pop
+  - rank: 27
+    title: "El Perdón"
+    artist: "Nicky Jam and Enrique Iglesias"
+    year: 2015
+    album: "Fénix"
+    genres:
+      - Pop
+  - rank: 28
+    title: "Photograph"
+    artist: "Ed Sheeran"
+    year: 2015
+    album: "x"
+    genres:
+      - Pop
+      - Folk
+  - rank: 29
+    title: "Locked Away"
+    artist: "R. City featuring Adam Levine"
+    year: 2015
+    album: "What Dreams Are Made Of"
+    genres:
+      - Pop
+  - rank: 30
+    title: "Post to Be"
+    artist: "Omarion featuring Chris Brown and Jhené Aiko"
+    year: 2015
+    album: "Sex Playlist"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 31
+    title: "Girl Crush"
+    artist: "Little Big Town"
+    year: 2015
+    album: "Pain Killer"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 32
+    title: "Slow Motion"
+    artist: "Trey Songz"
+    year: 2015
+    album: "Trigga"
+    genres:
+      - Rhythm and Blues
+  - rank: 33
+    title: "Drag Me Down"
+    artist: "One Direction"
+    year: 2015
+    album: "Made in the A.M."
+    genres:
+      - Pop
+  - rank: 34
+    title: "Truffle Butter"
+    artist: "Nicki Minaj featuring Drake and Lil Wayne"
+    year: 2015
+    album: "The Pinkprint"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 35
+    title: "Ayo"
+    artist: "Chris Brown and Tyga"
+    year: 2015
+    album: "Fan of a Fan: The Album"
+    genres:
+      - Rhythm and Blues
+  - rank: 36
+    title: "Kick the Dust Up"
+    artist: "Luke Bryan"
+    year: 2015
+    album: "Kill the Lights"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 37
+    title: "Blessings"
+    artist: "Big Sean featuring Drake"
+    year: 2015
+    album: "Dark Sky Paradise"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 38
+    title: "Style"
+    artist: "Taylor Swift"
+    year: 2015
+    album: "1989"
+    genres:
+      - Pop
+  - rank: 39
+    title: "G.D.F.R."
+    artist: "Flo Rida featuring Sage the Gemini and Lookas"
+    year: 2015
+    album: "My House"
+    genres:
+      - Pop
+  - rank: 40
+    title: "Love Me Harder"
+    artist: "Ariana Grande and The Weeknd"
+    year: 2015
+    album: "My Everything"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 41
+    title: "Tuesday"
+    artist: "ILoveMakonnen featuring Drake"
+    year: 2015
+    album: "ILoveMakonnen"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 42
+    title: "Jumpman"
+    artist: "Drake and Future"
+    year: 2015
+    album: "What a Time to Be Alive"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 43
+    title: "Nasty Freestyle"
+    artist: "T-Wayne"
+    year: 2015
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 44
+    title: "Centuries"
+    artist: "Fall Out Boy"
+    year: 2015
+    album: "American Beauty/American Psycho"
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+  - rank: 45
+    title: "All Day"
+    artist: "Kanye West featuring Theophilus London, Allan Kingdom and Paul McCartney"
+    year: 2015
+    single: true
+    genres:
+      - Rhythm and Blues
+  - rank: 46
+    title: "Take Your Time"
+    artist: "Sam Hunt"
+    year: 2015
+    album: "Montevallo"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 47
+    title: "Let Me Know"
+    artist: "Tamar Braxton"
+    year: 2015
+    album: "Calling All Lovers"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 48
+    title: "Throw Sum Mo"
+    artist: "Rae Sremmurd featuring Nicki Minaj and Young Thug"
+    year: 2015
+    album: "SremmLife"
+    genres:
+      - Rhythm and Blues
+  - rank: 49
+    title: "Planes"
+    artist: "Jeremih featuring J. Cole"
+    year: 2015
+    album: "Late Nights"
+    genres:
+      - Rhythm and Blues
+  - rank: 50
+    title: "Riptide"
+    artist: "Vance Joy"
+    year: 2015
+    album: "Dream Your Life Away"
+    genres:
+      - Pop
+      - Folk
+  - rank: 51
+    title: "Renegades"
+    artist: "X Ambassadors"
+    year: 2015
+    album: "VHS"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 52
+    title: "First"
+    artist: "Cold War Kids"
+    year: 2015
+    album: "Hold My Home"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 53
+    title: "Ex's & Oh's"
+    artist: "Elle King"
+    year: 2015
+    album: "Love Stuff"
+    genres:
+      - Alternative
+      - Rock
+      - Blues
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 54
+    title: "Stolen Dance"
+    artist: "Milky Chance"
+    year: 2015
+    album: "Sadnecessary"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 55
+    title: "Tear in My Heart"
+    artist: "Twenty One Pilots"
+    year: 2015
+    album: "Blurryface"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 56
+    title: "Mess Is Mine"
+    artist: "Vance Joy"
+    year: 2015
+    album: "Dream Your Life Away"
+    genres:
+      - Alternative
+      - Rock
+      - Folk
+  - rank: 57
+    title: "The Wolf"
+    artist: "Mumford & Sons"
+    year: 2015
+    album: "Wilder Mind"
+    genres:
+      - Alternative
+      - Rock
+      - Folk
+  - rank: 58
+    title: "2 Heads"
+    artist: "Coleman Hell"
+    year: 2015
+    single: true
+    solo-hit: true
+    genres:
+      - Alternative
+      - Pop
+  - rank: 59
+    title: "Hollow Moon (Bad Wolf)"
+    artist: "AWOLNATION"
+    year: 2015
+    album: "Run"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 60
+    title: "Dead Inside"
+    artist: "Muse"
+    year: 2015
+    album: "Drones"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 61
+    title: "Footsteps"
+    artist: "Pop Evil"
+    year: 2015
+    album: "Up"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 62
+    title: "Failure"
+    artist: "Breaking Benjamin"
+    year: 2015
+    album: "Dark Before Dawn"
+    genres:
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 63
+    title: "Follow Me Down"
+    artist: "The Pretty Reckless"
+    year: 2015
+    album: "Going to Hell"
+    genres:
+      - Hard Rock
+      - Alternative
+      - Rock
+  - rank: 64
+    title: "Cut the Cord"
+    artist: "Shinedown"
+    year: 2015
+    album: "Threat to Survival"
+    genres:
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 65
+    title: "I Am Machine"
+    artist: "Three Days Grace"
+    year: 2015
+    album: "Human"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 66
+    title: "Angel"
+    artist: "Theory of a Deadman"
+    year: 2015
+    album: "Savages"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 67
+    title: "Nearly Forgot My Broken Heart"
+    artist: "Chris Cornell"
+    year: 2015
+    album: "Higher Truth"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 68
+    title: "Lydia"
+    artist: "Highly Suspect"
+    year: 2015
+    album: "Mister Asylum"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 69
+    title: "Better Place"
+    artist: "Saint Asonia"
+    year: 2015
+    album: "Saint Asonia"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 70
+    title: "Gravity"
+    artist: "Papa Roach"
+    year: 2015
+    album: "F.E.A.R."
+    genres:
+      - Rock
+      - Alternative
+  - rank: 71
+    title: "Alright"
+    artist: "Kendrick Lamar"
+    year: 2015
+    album: "To Pimp a Butterfly"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Culturally important song
+  - rank: 72
+    title: "Hotline Bling"
+    artist: "Drake"
+    year: 2015
+    album: "Views"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Culturally important song
+  - rank: 73
+    title: "679"
+    artist: "Fetty Wap featuring Remy Boyz"
+    year: 2015
+    album: "Fetty Wap"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 74
+    title: "Again"
+    artist: "Fetty Wap"
+    year: 2015
+    album: "Fetty Wap"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 75
+    title: "Flex (Ooh, Ooh, Ooh)"
+    artist: "Rich Homie Quan"
+    year: 2015
+    single: true
+    genres:
+      - Rhythm and Blues
+  - rank: 76
+    title: "White Iverson"
+    artist: "Post Malone"
+    year: 2015
+    album: "Stoney"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 77
+    title: "Commas"
+    artist: "Future"
+    year: 2015
+    album: "DS2"
+    genres:
+      - Rhythm and Blues
+  - rank: 78
+    title: "No Type"
+    artist: "Rae Sremmurd"
+    year: 2015
+    album: "SremmLife"
+    genres:
+      - Rhythm and Blues
+  - rank: 79
+    title: "Planes"
+    artist: "Jeremih featuring J. Cole"
+    year: 2015
+    album: "Late Nights"
+    genres:
+      - Rhythm and Blues
+  - rank: 80
+    title: "Classic Man"
+    artist: "Jidenna featuring Roman GianArthur"
+    year: 2015
+    album: "Wondaland Presents: The Eephus"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 81
+    title: "In The Moment"
+    artist: "Makaya McCraven"
+    year: 2015
+    album: "In The Moment"
+    genres:
+      - Jazz
+  - rank: 82
+    title: "Wild Man Dance"
+    artist: "Charles Lloyd"
+    year: 2015
+    album: "Wild Man Dance"
+    genres:
+      - Jazz
+  - rank: 83
+    title: "For One To Love"
+    artist: "Cécile McLorin Salvant"
+    year: 2015
+    album: "For One To Love"
+    genres:
+      - Jazz
+      - Standards
+  - rank: 84
+    title: "Yesterday I Had The Blues"
+    artist: "José James"
+    year: 2015
+    album: "Yesterday I Had The Blues"
+    genres:
+      - Jazz
+  - rank: 85
+    title: "Lines of Color"
+    artist: "Gil Evans Project"
+    year: 2015
+    album: "Lines of Color"
+    genres:
+      - Jazz
+      - Big Band
+  - rank: 86
+    title: "Born to Play Guitar"
+    artist: "Buddy Guy"
+    year: 2015
+    album: "Born to Play Guitar"
+    genres:
+      - Blues
+      - Rock
+  - rank: 87
+    title: "Outskirts Of Love"
+    artist: "Shemekia Copeland"
+    year: 2015
+    album: "Outskirts Of Love"
+    genres:
+      - Blues
+  - rank: 88
+    title: "The Story Of Sonny Boy Slim"
+    artist: "Gary Clark Jr."
+    year: 2015
+    album: "The Story Of Sonny Boy Slim"
+    genres:
+      - Blues
+      - Rock
+  - rank: 89
+    title: "Can't Even Do Wrong Right"
+    artist: "Elvin Bishop"
+    year: 2015
+    album: "Can't Even Do Wrong Right"
+    genres:
+      - Blues
+  - rank: 90
+    title: "Refuse to Lose"
+    artist: "Jarekus Singleton"
+    year: 2015
+    album: "Refuse to Lose"
+    genres:
+      - Blues
+  - rank: 91
+    title: "Fourth of July"
+    artist: "Sufjan Stevens"
+    year: 2015
+    album: "Carrie & Lowell"
+    genres:
+      - Folk
+  - rank: 92
+    title: "The Fade In Time"
+    artist: "Sam Lee & Friends"
+    year: 2015
+    album: "The Fade In Time"
+    genres:
+      - Folk
+  - rank: 93
+    title: "Divers"
+    artist: "Joanna Newsom"
+    year: 2015
+    album: "Divers"
+    genres:
+      - Folk
+  - rank: 94
+    title: "I Love You, Honeybear"
+    artist: "Father John Misty"
+    year: 2015
+    album: "I Love You, Honeybear"
+    genres:
+      - Folk
+      - Rock
+  - rank: 95
+    title: "Nashville Obsolete"
+    artist: "Dave Rawlings Machine"
+    year: 2015
+    album: "Nashville Obsolete"
+    genres:
+      - Folk
+  - rank: 96
+    title: "Something More Than Free"
+    artist: "Jason Isbell"
+    year: 2015
+    album: "Something More Than Free"
+    genres:
+      - Folk
+      - Rock
+  - rank: 97
+    title: "Pageant Material"
+    artist: "Kacey Musgraves"
+    year: 2015
+    album: "Pageant Material"
+    genres:
+      - Folk
+      - Pop
+  - rank: 98
+    title: "Me Oh My"
+    artist: "The Honeycutters"
+    year: 2015
+    album: "Me Oh My"
+    genres:
+      - Folk
+  - rank: 99
+    title: "Blackbirds"
+    artist: "Gretchen Peters"
+    year: 2015
+    album: "Blackbirds"
+    genres:
+      - Folk
+  - rank: 100
+    title: "Sundown Over Ghost Town"
+    artist: "Eilen Jewell"
+    year: 2015
+    album: "Sundown Over Ghost Town"
+    genres:
+      - Folk
+      - Rock

@@ -1,0 +1,764 @@
+songs:
+  - rank: 1
+    title: "Lose Control"
+    artist: "Teddy Swims"
+    year: 2024
+    album: "I've Tried Everything But Therapy (Part 1)"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 Year-End
+      - Mass appeal
+  - rank: 2
+    title: "A Bar Song (Tipsy)"
+    artist: "Shaboozey"
+    year: 2024
+    album: "Where I've Been, Isn't Where I'm Going"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+      - Culturally important
+  - rank: 3
+    title: "Beautiful Things"
+    artist: "Benson Boone"
+    year: 2024
+    album: "Fireworks & Rollerblades"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 4
+    title: "I Had Some Help"
+    artist: "Post Malone ft Morgan Wallen"
+    year: 2024
+    album: "F-1 Trillion"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 5
+    title: "Not Like Us"
+    artist: "Kendrick Lamar"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+    tags:
+      - Grammy Winner for Record of the Year
+      - Grammy Winner for Song of the Year
+      - Culturally important
+  - rank: 6
+    title: "Espresso"
+    artist: "Sabrina Carpenter"
+    year: 2024
+    album: "Short n' Sweet"
+    genres:
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 7
+    title: "Million Dollar Baby"
+    artist: "Tommy Richman"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+      - Funk
+  - rank: 8
+    title: "Good Luck, Babe!"
+    artist: "Chappell Roan"
+    year: 2024
+    album: "The Rise and Fall of a Midwest Princess"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 9
+    title: "Birds of a Feather"
+    artist: "Billie Eilish"
+    year: 2024
+    album: "Hit Me Hard and Soft"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 10
+    title: "Please Please Please"
+    artist: "Sabrina Carpenter"
+    year: 2024
+    album: "Short n' Sweet"
+    genres:
+      - Pop
+  - rank: 11
+    title: "Texas Hold 'Em"
+    artist: "Beyoncé"
+    year: 2024
+    album: "Cowboy Carter"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Grammy Winner
+      - Culturally important
+  - rank: 12
+    title: "Saturn"
+    artist: "SZA"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 13
+    title: "Made For Me"
+    artist: "Muni Long"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 14
+    title: "Here We Go (Uh Oh)"
+    artist: "Coco Jones"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 15
+    title: "The Emptiness Machine"
+    artist: "Linkin Park"
+    year: 2024
+    album: "From Zero"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 16
+    title: "A Symptom Of Being Human"
+    artist: "Shinedown"
+    year: 2024
+    album: "Planet Zero"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 17
+    title: "Neon Pill"
+    artist: "Cage The Elephant"
+    year: 2024
+    album: "Neon Pill"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 18
+    title: "The Craving"
+    artist: "Twenty One Pilots"
+    year: 2024
+    single: true
+    genres:
+      - Alternative
+  - rank: 19
+    title: "Too Sweet"
+    artist: "Hozier"
+    year: 2024
+    album: "Unheard"
+    genres:
+      - Folk
+      - Rock
+  - rank: 20
+    title: "Stick Season"
+    artist: "Noah Kahan"
+    year: 2024
+    album: "Stick Season"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 21
+    title: "Dial Drunk"
+    artist: "Noah Kahan"
+    year: 2024
+    album: "Stick Season (We'll All Be Here Forever)"
+    genres:
+      - Folk
+  - rank: 22
+    title: "Rescued"
+    artist: "Foo Fighters"
+    year: 2024
+    album: "But Here We Are"
+    genres:
+      - Rock
+  - rank: 23
+    title: "Lost"
+    artist: "Linkin Park"
+    year: 2024
+    album: "Meteora (20th Anniversary Edition)"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 24
+    title: "One More Time"
+    artist: "Blink-182"
+    year: 2024
+    album: "One More Time..."
+    genres:
+      - Rock
+      - Alternative
+  - rank: 25
+    title: "Love From The Other Side"
+    artist: "Fall Out Boy"
+    year: 2024
+    album: "So Much (For) Stardust"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 26
+    title: "Sex, Drugs, Etc."
+    artist: "Beach Weather"
+    year: 2024
+    album: "Pineapple Sunrise"
+    genres:
+      - Alternative
+  - rank: 27
+    title: "Nobody"
+    artist: "Avenged Sevenfold"
+    year: 2024
+    album: "Life Is But a Dream..."
+    genres:
+      - Hard Rock
+  - rank: 28
+    title: "72 Seasons"
+    artist: "Metallica"
+    year: 2024
+    album: "72 Seasons"
+    genres:
+      - Hard Rock
+  - rank: 29
+    title: "The Summoning"
+    artist: "Sleep Token"
+    year: 2024
+    album: "Take Me Back To Eden"
+    genres:
+      - Alternative
+      - Hard Rock
+  - rank: 30
+    title: "Watch The World Burn"
+    artist: "Falling In Reverse"
+    year: 2024
+    single: true
+    genres:
+      - Hard Rock
+  - rank: 31
+    title: "Black Widow"
+    artist: "Judith Hill"
+    year: 2024
+    single: true
+    genres:
+      - Blues
+  - rank: 32
+    title: "What About The Children"
+    artist: "Gary Clark Jr. ft Stevie Wonder"
+    year: 2024
+    album: "JPEG Raw"
+    genres:
+      - Blues
+      - Rock
+  - rank: 33
+    title: "Sweet Feeling"
+    artist: "Lizz Wright"
+    year: 2024
+    album: "Shadow"
+    genres:
+      - Blues
+      - Soul
+  - rank: 34
+    title: "Heavy Soul"
+    artist: "Joanne Shaw Taylor"
+    year: 2024
+    album: "Heavy Soul"
+    genres:
+      - Blues
+  - rank: 35
+    title: "Anybody Got a Light"
+    artist: "Barnstar!"
+    year: 2024
+    album: "Furious Kindness"
+    genres:
+      - Folk
+  - rank: 36
+    title: "Joan in The Garden"
+    artist: "The Decemberists"
+    year: 2024
+    single: true
+    genres:
+      - Folk
+      - Rock
+  - rank: 37
+    title: "Life Is"
+    artist: "Jessica Pratt"
+    year: 2024
+    album: "Here in the Pitch"
+    genres:
+      - Folk
+  - rank: 38
+    title: "Push N Shuv"
+    artist: "Lava La Rue"
+    year: 2024
+    single: true
+    genres:
+      - Funk
+  - rank: 39
+    title: "That Right There"
+    artist: "Kinga Glyk"
+    year: 2024
+    single: true
+    genres:
+      - Funk
+  - rank: 40
+    title: "Keep it Real"
+    artist: "A Certain Ratio"
+    year: 2024
+    single: true
+    genres:
+      - Funk
+  - rank: 41
+    title: "Live Today"
+    artist: "Chicano Batman"
+    year: 2024
+    single: true
+    genres:
+      - Funk
+  - rank: 42
+    title: "Selfish"
+    artist: "Tommy Richman"
+    year: 2024
+    single: true
+    genres:
+      - Funk
+      - R&B
+  - rank: 43
+    title: "Smoke and Mirrors"
+    artist: "PJ Morton"
+    year: 2024
+    single: true
+    genres:
+      - Funk
+  - rank: 44
+    title: "Smoke"
+    artist: "Ari Lennox"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 45
+    title: "Met You At A Bar"
+    artist: "Jaz Karis & Tone Stith"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 46
+    title: "Please Don't Fall In Love With Me"
+    artist: "Khalid"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 47
+    title: "On My Mama"
+    artist: "Victoria Monét"
+    year: 2024
+    album: "Jaguar II"
+    genres:
+      - R&B
+    tags:
+      - Grammy Winner
+  - rank: 48
+    title: "ICU"
+    artist: "Coco Jones"
+    year: 2024
+    album: "What I Didn't Tell You"
+    genres:
+      - R&B
+  - rank: 49
+    title: "How Does It Make You Feel"
+    artist: "Victoria Monét"
+    year: 2024
+    album: "Jaguar II"
+    genres:
+      - R&B
+      - Soul
+  - rank: 50
+    title: "Ego Talkin'"
+    artist: "Saint Harison"
+    year: 2024
+    album: "Lost a Friend"
+    genres:
+      - R&B
+  - rank: 51
+    title: "Genesis (Remix)"
+    artist: "Mnelia"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 52
+    title: "White Crocs"
+    artist: "Jordan Ward"
+    year: 2024
+    album: "Forward"
+    genres:
+      - R&B
+  - rank: 53
+    title: "The Blues Don't Lie"
+    artist: "Buddy Guy"
+    year: 2024
+    album: "The Blues Don't Lie"
+    genres:
+      - Blues
+  - rank: 54
+    title: "Tales of Time"
+    artist: "Joe Bonamassa"
+    year: 2024
+    album: "Tales of Time"
+    genres:
+      - Blues
+      - Rock
+  - rank: 55
+    title: "Paris Blues"
+    artist: "The Doors"
+    year: 2024
+    album: "Paris Blues"
+    genres:
+      - Blues
+  - rank: 56
+    title: "Blood Harmony"
+    artist: "Larkin Poe"
+    year: 2024
+    album: "Blood Harmony"
+    genres:
+      - Blues
+      - Rock
+  - rank: 57
+    title: "Pilgrim"
+    artist: "The Wood Brothers"
+    year: 2024
+    album: "Heart Is the Hero"
+    genres:
+      - Blues
+      - Folk
+  - rank: 58
+    title: "Wide River to Cross"
+    artist: "Blind Boys of Alabama"
+    year: 2024
+    album: "Echoes of the South"
+    genres:
+      - Blues
+      - Soul
+  - rank: 59
+    title: "Rolling Stone Blues"
+    artist: "The Rolling Stones"
+    year: 2024
+    album: "Hackney Diamonds"
+    genres:
+      - Blues
+      - Rock
+  - rank: 60
+    title: "False Lankum"
+    artist: "Lankum"
+    year: 2024
+    album: "False Lankum"
+    genres:
+      - Folk
+  - rank: 61
+    title: "All of This Is Chance"
+    artist: "Lisa O'Neill"
+    year: 2024
+    album: "All of This Is Chance"
+    genres:
+      - Folk
+  - rank: 62
+    title: "Archangel Hill"
+    artist: "Shirley Collins"
+    year: 2024
+    album: "Archangel Hill"
+    genres:
+      - Folk
+  - rank: 63
+    title: "The Sorrow Songs"
+    artist: "Angeline Morrison"
+    year: 2024
+    album: "The Sorrow Songs: Folk Songs of Black British Experience"
+    genres:
+      - Folk
+  - rank: 64
+    title: "Ghost Story"
+    artist: "Fern Maddie"
+    year: 2024
+    album: "Ghost Story"
+    genres:
+      - Folk
+  - rank: 65
+    title: "Nick Hart Sings Ten English Folk Songs"
+    artist: "Nick Hart"
+    year: 2024
+    album: "Nick Hart Sings Ten English Folk Songs"
+    genres:
+      - Folk
+  - rank: 66
+    title: "Endless Grace"
+    artist: "Deidre McCalla"
+    year: 2024
+    album: "Endless Grace"
+    genres:
+      - Folk
+  - rank: 67
+    title: "If It All Goes South"
+    artist: "Amy Ray"
+    year: 2024
+    album: "If It All Goes South"
+    genres:
+      - Folk
+  - rank: 68
+    title: "Paper Wolf"
+    artist: "VOLA"
+    year: 2024
+    album: "Witness"
+    genres:
+      - Hard Rock
+  - rank: 69
+    title: "Vore"
+    artist: "Sleep Token"
+    year: 2024
+    album: "Take Me Back To Eden"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 70
+    title: "Opaline"
+    artist: "Katatonia"
+    year: 2024
+    album: "Sky Void of Stars"
+    genres:
+      - Hard Rock
+  - rank: 71
+    title: "Sempiternal Beings"
+    artist: "Haken"
+    year: 2024
+    album: "Fauna"
+    genres:
+      - Hard Rock
+  - rank: 72
+    title: "Panic Attack"
+    artist: "Judas Priest"
+    year: 2024
+    album: "Invincible Shield"
+    genres:
+      - Hard Rock
+  - rank: 73
+    title: "Frenzy"
+    artist: "Iggy Pop"
+    year: 2024
+    album: "Every Loser"
+    genres:
+      - Rock
+  - rank: 74
+    title: "Black Moonlight"
+    artist: "Duran Duran"
+    year: 2024
+    album: "Danse Macabre"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 75
+    title: "Now and Then"
+    artist: "The Beatles"
+    year: 2024
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 76
+    title: "Watching the Credits"
+    artist: "The Beths"
+    year: 2024
+    album: "Expert in a Dying Field (Deluxe)"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 77
+    title: "Dreamer"
+    artist: "Hozier"
+    year: 2024
+    album: "Unreal Unearth"
+    genres:
+      - Folk
+      - Rock
+  - rank: 78
+    title: "Under You"
+    artist: "Foo Fighters"
+    year: 2024
+    album: "But Here We Are"
+    genres:
+      - Rock
+  - rank: 79
+    title: "Seven"
+    artist: "Jung Kook ft Latto"
+    year: 2024
+    single: true
+    genres:
+      - Pop
+  - rank: 80
+    title: "Enknee1"
+    artist: "Hemlocke Springs"
+    year: 2024
+    single: true
+    genres:
+      - Alternative
+  - rank: 81
+    title: "3D"
+    artist: "Geese"
+    year: 2024
+    album: "3D Country"
+    genres:
+      - Alternative
+  - rank: 82
+    title: "Herald of Darkness"
+    artist: "Old Gods of Asgard"
+    year: 2024
+    soundtrack: true
+    genres:
+      - Hard Rock
+  - rank: 83
+    title: "Bogus Operandi"
+    artist: "The Hives"
+    year: 2024
+    album: "The Death of Randy Fitzsimmons"
+    genres:
+      - Rock
+  - rank: 84
+    title: "Animal"
+    artist: "Anjimile"
+    year: 2024
+    album: "The King"
+    genres:
+      - Folk
+  - rank: 85
+    title: "It Must Change"
+    artist: "Anohni and the Johnsons"
+    year: 2024
+    album: "My Back Was a Bridge for You to Cross"
+    genres:
+      - Folk
+      - Soul
+  - rank: 86
+    title: "Lucy Wan"
+    artist: "Frankie Archer"
+    year: 2024
+    single: true
+    genres:
+      - Folk
+  - rank: 87
+    title: "Mindful Solutionism"
+    artist: "Aesop Rock"
+    year: 2024
+    album: "Integrated Tech Solutions"
+    genres:
+      - Alternative
+  - rank: 88
+    title: "Flip a Coin"
+    artist: "Dylan Gossett"
+    year: 2024
+    single: true
+    genres:
+      - Folk
+  - rank: 89
+    title: "Straight and Narrow"
+    artist: "Sam Barber"
+    year: 2024
+    single: true
+    genres:
+      - Folk
+  - rank: 90
+    title: "She Calls Me Back"
+    artist: "Noah Kahan"
+    year: 2024
+    album: "Stick Season (We'll All Be Here Forever)"
+    genres:
+      - Folk
+  - rank: 91
+    title: "Miner Imperfections"
+    artist: "Charles Wesley Godwin"
+    year: 2024
+    album: "Family Ties"
+    genres:
+      - Folk
+  - rank: 92
+    title: "The Way"
+    artist: "Manchester Orchestra"
+    year: 2024
+    album: "The Valley of Vision"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 93
+    title: "Your Side of Town"
+    artist: "The Killers"
+    year: 2024
+    single: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 94
+    title: "The Walk Home"
+    artist: "Young the Giant"
+    year: 2024
+    album: "American Bollywood"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 95
+    title: "Sail Away"
+    artist: "Lovelytheband"
+    year: 2024
+    album: "If We're Being Honest"
+    genres:
+      - Alternative
+  - rank: 96
+    title: "Will Anybody Ever Love Me?"
+    artist: "Sufjan Stevens"
+    year: 2024
+    album: "Javelin"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 97
+    title: "My Love Mine All Mine"
+    artist: "Mitski"
+    year: 2024
+    album: "The Land Is Inhospitable and So Are We"
+    genres:
+      - Alternative
+      - Folk
+  - rank: 98
+    title: "A&W"
+    artist: "Lana Del Rey"
+    year: 2024
+    album: "Did You Know That There's a Tunnel Under Ocean Blvd"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 99
+    title: "Good Good"
+    artist: "Usher, Summer Walker & 21 Savage"
+    year: 2024
+    single: true
+    genres:
+      - R&B
+  - rank: 100
+    title: "On My Mama"
+    artist: "Victoria Monét"
+    year: 2024
+    album: "Jaguar II"
+    genres:
+      - R&B

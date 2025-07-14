@@ -1,0 +1,762 @@
+songs:
+  - rank: 1
+    title: "Flowers"
+    artist: "Miley Cyrus"
+    year: 2023
+    album: "Endless Summer Vacation"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 2
+    title: "Kill Bill"
+    artist: "SZA"
+    year: 2023
+    album: "SOS"
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 3
+    title: "Anti-Hero"
+    artist: "Taylor Swift"
+    year: 2023
+    album: "Midnights"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 4
+    title: "Creepin'"
+    artist: "Metro Boomin, The Weeknd & 21 Savage"
+    year: 2023
+    album: "Heroes & Villains"
+    genres:
+      - R&B
+  - rank: 5
+    title: "Calm Down"
+    artist: "Rema & Selena Gomez"
+    year: 2023
+    album: "Rave & Roses Ultra"
+    genres:
+      - Pop
+      - R&B
+  - rank: 6
+    title: "Die For You"
+    artist: "The Weeknd & Ariana Grande"
+    year: 2023
+    single: true
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 7
+    title: "Boy's a Liar Pt. 2"
+    artist: "PinkPantheress & Ice Spice"
+    year: 2023
+    single: true
+    genres:
+      - Pop
+      - R&B
+  - rank: 8
+    title: "Karma"
+    artist: "Taylor Swift ft Ice Spice"
+    year: 2023
+    album: "Midnights (The Til Dawn Edition)"
+    genres:
+      - Pop
+  - rank: 9
+    title: "Snooze"
+    artist: "SZA"
+    year: 2023
+    album: "SOS"
+    genres:
+      - R&B
+  - rank: 10
+    title: "Favorite Song"
+    artist: "Toosii"
+    year: 2023
+    album: "Naujour"
+    genres:
+      - R&B
+  - rank: 11
+    title: "Sure Thing"
+    artist: "Miguel"
+    year: 2023
+    album: "Sure Thing"
+    genres:
+      - R&B
+  - rank: 12
+    title: "Cuff It"
+    artist: "Beyoncé"
+    year: 2023
+    album: "Renaissance"
+    genres:
+      - R&B
+      - Funk
+    tags:
+      - Grammy Winner for Best R&B Song
+  - rank: 13
+    title: "Rich Flex"
+    artist: "Drake & 21 Savage"
+    year: 2023
+    album: "Her Loss"
+    genres:
+      - R&B
+  - rank: 14
+    title: "Under the Influence"
+    artist: "Chris Brown"
+    year: 2023
+    album: "Indigo (Extended)"
+    genres:
+      - R&B
+  - rank: 15
+    title: "Paint the Town Red"
+    artist: "Doja Cat"
+    year: 2023
+    album: "Scarlet"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 16
+    title: "All My Life"
+    artist: "Lil Durk ft J. Cole"
+    year: 2023
+    album: "Almost Healed"
+    genres:
+      - R&B
+  - rank: 17
+    title: "Fukumean"
+    artist: "Gunna"
+    year: 2023
+    album: "A Gift & a Curse"
+    genres:
+      - R&B
+  - rank: 18
+    title: "Barbie World"
+    artist: "Nicki Minaj & Ice Spice with Aqua"
+    year: 2023
+    album: "Barbie: The Album"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 19
+    title: "Just Wanna Rock"
+    artist: "Lil Uzi Vert"
+    year: 2023
+    album: "Pink Tape"
+    genres:
+      - R&B
+  - rank: 20
+    title: "Dance the Night"
+    artist: "Dua Lipa"
+    year: 2023
+    album: "Barbie: The Album"
+    soundtrack: true
+    genres:
+      - Pop
+      - Disco
+  - rank: 21
+    title: "Vampire"
+    artist: "Olivia Rodrigo"
+    year: 2023
+    album: "Guts"
+    genres:
+      - Pop
+      - Rock
+  - rank: 22
+    title: "Bad Idea Right?"
+    artist: "Olivia Rodrigo"
+    year: 2023
+    album: "Guts"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 23
+    title: "Rush"
+    artist: "Troye Sivan"
+    year: 2023
+    album: "Something to Give Each Other"
+    genres:
+      - Pop
+  - rank: 24
+    title: "Not Strong Enough"
+    artist: "Boygenius"
+    year: 2023
+    album: "The Record"
+    genres:
+      - Alternative
+      - Folk
+  - rank: 25
+    title: "Dial Drunk"
+    artist: "Noah Kahan"
+    year: 2023
+    album: "Stick Season (We'll All Be Here Forever)"
+    genres:
+      - Folk
+      - Pop
+  - rank: 26
+    title: "Rescued"
+    artist: "Foo Fighters"
+    year: 2023
+    album: "But Here We Are"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 27
+    title: "Lost"
+    artist: "Linkin Park"
+    year: 2023
+    album: "Meteora (20th Anniversary Edition)"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 28
+    title: "One More Time"
+    artist: "Blink-182"
+    year: 2023
+    album: "One More Time..."
+    genres:
+      - Rock
+      - Alternative
+  - rank: 29
+    title: "Love From The Other Side"
+    artist: "Fall Out Boy"
+    year: 2023
+    album: "So Much (For) Stardust"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 30
+    title: "Sex, Drugs, Etc."
+    artist: "Beach Weather"
+    year: 2023
+    album: "Pineapple Sunrise"
+    genres:
+      - Alternative
+  - rank: 31
+    title: "Nobody"
+    artist: "Avenged Sevenfold"
+    year: 2023
+    album: "Life Is But a Dream..."
+    genres:
+      - Hard Rock
+  - rank: 32
+    title: "72 Seasons"
+    artist: "Metallica"
+    year: 2023
+    album: "72 Seasons"
+    genres:
+      - Hard Rock
+  - rank: 33
+    title: "The Summoning"
+    artist: "Sleep Token"
+    year: 2023
+    album: "Take Me Back To Eden"
+    genres:
+      - Alternative
+      - Hard Rock
+  - rank: 34
+    title: "Watch The World Burn"
+    artist: "Falling In Reverse"
+    year: 2023
+    single: true
+    genres:
+      - Hard Rock
+  - rank: 35
+    title: "S.O.S."
+    artist: "Bring Me The Horizon"
+    year: 2023
+    album: "Post Human: Nex Gen"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 36
+    title: "Just Like That"
+    artist: "Bonnie Raitt"
+    year: 2023
+    album: "Just Like That..."
+    genres:
+      - Blues
+      - Folk
+    tags:
+      - Grammy Winner for Song of the Year
+  - rank: 37
+    title: "The Returner"
+    artist: "Allison Russell"
+    year: 2023
+    album: "The Returner"
+    genres:
+      - Folk
+      - Soul
+  - rank: 38
+    title: "Tourniquet"
+    artist: "Zach Bryan"
+    year: 2023
+    album: "Zach Bryan"
+    genres:
+      - Folk
+  - rank: 39
+    title: "You're the One"
+    artist: "Rhiannon Giddens"
+    year: 2023
+    album: "You're the One"
+    genres:
+      - Folk
+  - rank: 40
+    title: "Will Anybody Ever Love Me?"
+    artist: "Sufjan Stevens"
+    year: 2023
+    album: "Javelin"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 41
+    title: "My Love Mine All Mine"
+    artist: "Mitski"
+    year: 2023
+    album: "The Land Is Inhospitable and So Are We"
+    genres:
+      - Alternative
+      - Folk
+  - rank: 42
+    title: "A&W"
+    artist: "Lana Del Rey"
+    year: 2023
+    album: "Did You Know That There's a Tunnel Under Ocean Blvd"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 43
+    title: "Good Good"
+    artist: "Usher, Summer Walker & 21 Savage"
+    year: 2023
+    single: true
+    genres:
+      - R&B
+  - rank: 44
+    title: "On My Mama"
+    artist: "Victoria Monét"
+    year: 2023
+    album: "Jaguar II"
+    genres:
+      - R&B
+  - rank: 45
+    title: "ICU"
+    artist: "Coco Jones"
+    year: 2023
+    album: "What I Didn't Tell You"
+    genres:
+      - R&B
+  - rank: 46
+    title: "How Does It Make You Feel"
+    artist: "Victoria Monét"
+    year: 2023
+    album: "Jaguar II"
+    genres:
+      - R&B
+      - Soul
+  - rank: 47
+    title: "Ego Talkin'"
+    artist: "Saint Harison"
+    year: 2023
+    album: "Lost a Friend"
+    genres:
+      - R&B
+  - rank: 48
+    title: "Genesis (Remix)"
+    artist: "Mnelia"
+    year: 2023
+    single: true
+    genres:
+      - R&B
+  - rank: 49
+    title: "White Crocs"
+    artist: "Jordan Ward"
+    year: 2023
+    album: "Forward"
+    genres:
+      - R&B
+  - rank: 50
+    title: "The Blues Don't Lie"
+    artist: "Buddy Guy"
+    year: 2023
+    album: "The Blues Don't Lie"
+    genres:
+      - Blues
+  - rank: 51
+    title: "Tales of Time"
+    artist: "Joe Bonamassa"
+    year: 2023
+    album: "Tales of Time"
+    genres:
+      - Blues
+      - Rock
+  - rank: 52
+    title: "Paris Blues"
+    artist: "The Doors"
+    year: 2023
+    album: "Paris Blues"
+    genres:
+      - Blues
+  - rank: 53
+    title: "Blood Harmony"
+    artist: "Larkin Poe"
+    year: 2023
+    album: "Blood Harmony"
+    genres:
+      - Blues
+      - Rock
+  - rank: 54
+    title: "Pilgrim"
+    artist: "The Wood Brothers"
+    year: 2023
+    album: "Heart Is the Hero"
+    genres:
+      - Blues
+      - Folk
+  - rank: 55
+    title: "Wide River to Cross"
+    artist: "Blind Boys of Alabama"
+    year: 2023
+    album: "Echoes of the South"
+    genres:
+      - Blues
+      - Soul
+  - rank: 56
+    title: "Rolling Stone Blues"
+    artist: "The Rolling Stones"
+    year: 2023
+    album: "Hackney Diamonds"
+    genres:
+      - Blues
+      - Rock
+  - rank: 57
+    title: "I Ain't Playin'"
+    artist: "Diunna Greenleaf"
+    year: 2023
+    album: "I Ain't Playin'"
+    genres:
+      - Blues
+  - rank: 58
+    title: "Hard to Kill"
+    artist: "Janiva Magness"
+    year: 2023
+    album: "Hard to Kill"
+    genres:
+      - Blues
+  - rank: 59
+    title: "Black Jesus"
+    artist: "Fantastic Negrito"
+    year: 2023
+    album: "White Jesus Black Problems"
+    genres:
+      - Blues
+  - rank: 60
+    title: "Set Sail"
+    artist: "North Mississippi Allstars"
+    year: 2023
+    album: "Set Sail"
+    genres:
+      - Blues
+  - rank: 61
+    title: "Young Blood"
+    artist: "Marcus King"
+    year: 2023
+    album: "Young Blood"
+    genres:
+      - Blues
+      - Rock
+  - rank: 62
+    title: "House to House"
+    artist: "Matt Andersen"
+    year: 2023
+    album: "House to House"
+    genres:
+      - Blues
+      - Folk
+  - rank: 63
+    title: "Feel Like Going Home"
+    artist: "Miko Marks & the Resurrectors"
+    year: 2023
+    album: "Feel Like Going Home"
+    genres:
+      - Blues
+      - Soul
+  - rank: 64
+    title: "False Lankum"
+    artist: "Lankum"
+    year: 2023
+    album: "False Lankum"
+    genres:
+      - Folk
+  - rank: 65
+    title: "All of This Is Chance"
+    artist: "Lisa O'Neill"
+    year: 2023
+    album: "All of This Is Chance"
+    genres:
+      - Folk
+  - rank: 66
+    title: "Archangel Hill"
+    artist: "Shirley Collins"
+    year: 2023
+    album: "Archangel Hill"
+    genres:
+      - Folk
+  - rank: 67
+    title: "The Sorrow Songs: Folk Songs of Black British Experience"
+    artist: "Angeline Morrison"
+    year: 2023
+    album: "The Sorrow Songs: Folk Songs of Black British Experience"
+    genres:
+      - Folk
+  - rank: 68
+    title: "Ghost Story"
+    artist: "Fern Maddie"
+    year: 2023
+    album: "Ghost Story"
+    genres:
+      - Folk
+  - rank: 69
+    title: "Nick Hart Sings Ten English Folk Songs"
+    artist: "Nick Hart"
+    year: 2023
+    album: "Nick Hart Sings Ten English Folk Songs"
+    genres:
+      - Folk
+  - rank: 70
+    title: "Endless Grace"
+    artist: "Deidre McCalla"
+    year: 2023
+    album: "Endless Grace"
+    genres:
+      - Folk
+  - rank: 71
+    title: "If It All Goes South"
+    artist: "Amy Ray"
+    year: 2023
+    album: "If It All Goes South"
+    genres:
+      - Folk
+  - rank: 72
+    title: "Paper Wolf"
+    artist: "VOLA"
+    year: 2023
+    album: "Witness"
+    genres:
+      - Hard Rock
+  - rank: 73
+    title: "Vore"
+    artist: "Sleep Token"
+    year: 2023
+    album: "Take Me Back To Eden"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 74
+    title: "Opaline"
+    artist: "Katatonia"
+    year: 2023
+    album: "Sky Void of Stars"
+    genres:
+      - Hard Rock
+  - rank: 75
+    title: "Sempiternal Beings"
+    artist: "Haken"
+    year: 2023
+    album: "Fauna"
+    genres:
+      - Hard Rock
+  - rank: 76
+    title: "Panic Attack"
+    artist: "Judas Priest"
+    year: 2023
+    album: "Invincible Shield"
+    genres:
+      - Hard Rock
+  - rank: 77
+    title: "Frenzy"
+    artist: "Iggy Pop"
+    year: 2023
+    album: "Every Loser"
+    genres:
+      - Rock
+  - rank: 78
+    title: "Black Moonlight"
+    artist: "Duran Duran"
+    year: 2023
+    album: "Danse Macabre"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 79
+    title: "Now and Then"
+    artist: "The Beatles"
+    year: 2023
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 80
+    title: "Watching the Credits"
+    artist: "The Beths"
+    year: 2023
+    album: "Expert in a Dying Field (Deluxe)"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 81
+    title: "Dreamer"
+    artist: "Hozier"
+    year: 2023
+    album: "Unreal Unearth"
+    genres:
+      - Folk
+      - Rock
+  - rank: 82
+    title: "Under You"
+    artist: "Foo Fighters"
+    year: 2023
+    album: "But Here We Are"
+    genres:
+      - Rock
+  - rank: 83
+    title: "Seven"
+    artist: "Jung Kook ft Latto"
+    year: 2023
+    single: true
+    genres:
+      - Pop
+  - rank: 84
+    title: "Enknee1"
+    artist: "Hemlocke Springs"
+    year: 2023
+    single: true
+    genres:
+      - Alternative
+  - rank: 85
+    title: "3D"
+    artist: "Geese"
+    year: 2023
+    album: "3D Country"
+    genres:
+      - Alternative
+  - rank: 86
+    title: "Herald of Darkness"
+    artist: "Old Gods of Asgard"
+    year: 2023
+    soundtrack: true
+    genres:
+      - Hard Rock
+  - rank: 87
+    title: "Bogus Operandi"
+    artist: "The Hives"
+    year: 2023
+    album: "The Death of Randy Fitzsimmons"
+    genres:
+      - Rock
+  - rank: 88
+    title: "Animal"
+    artist: "Anjimile"
+    year: 2023
+    album: "The King"
+    genres:
+      - Folk
+  - rank: 89
+    title: "It Must Change"
+    artist: "Anohni and the Johnsons"
+    year: 2023
+    album: "My Back Was a Bridge for You to Cross"
+    genres:
+      - Folk
+      - Soul
+  - rank: 90
+    title: "Lucy Wan"
+    artist: "Frankie Archer"
+    year: 2023
+    single: true
+    genres:
+      - Folk
+  - rank: 91
+    title: "Mindful Solutionism"
+    artist: "Aesop Rock"
+    year: 2023
+    album: "Integrated Tech Solutions"
+    genres:
+      - Alternative
+  - rank: 92
+    title: "Flip a Coin"
+    artist: "Dylan Gossett"
+    year: 2023
+    single: true
+    genres:
+      - Folk
+  - rank: 93
+    title: "Straight and Narrow"
+    artist: "Sam Barber"
+    year: 2023
+    single: true
+    genres:
+      - Folk
+  - rank: 94
+    title: "She Calls Me Back"
+    artist: "Noah Kahan"
+    year: 2023
+    album: "Stick Season (We'll All Be Here Forever)"
+    genres:
+      - Folk
+  - rank: 95
+    title: "Miner Imperfections"
+    artist: "Charles Wesley Godwin"
+    year: 2023
+    album: "Family Ties"
+    genres:
+      - Folk
+  - rank: 96
+    title: "The Way"
+    artist: "Manchester Orchestra"
+    year: 2023
+    album: "The Valley of Vision"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 97
+    title: "Your Side of Town"
+    artist: "The Killers"
+    year: 2023
+    single: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 98
+    title: "The Walk Home"
+    artist: "Young the Giant"
+    year: 2023
+    album: "American Bollywood"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 99
+    title: "Sail Away"
+    artist: "Lovelytheband"
+    year: 2023
+    album: "If We're Being Honest"
+    genres:
+      - Alternative
+  - rank: 100
+    title: "Stick Season"
+    artist: "Noah Kahan"
+    year: 2023
+    album: "Stick Season"
+    genres:
+      - Folk
+      - Pop

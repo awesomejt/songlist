@@ -1,0 +1,771 @@
+---
+songs:
+  - rank: 1
+    title: "Old Town Road"
+    artist: "Lil Nas X ft Billy Ray Cyrus"
+    year: 2019
+    album: "7"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 2
+    title: "Sunflower"
+    artist: "Post Malone & Swae Lee"
+    year: 2019
+    album: "Spider-Man: Into the Spider-Verse"
+    soundtrack: true
+    genres:
+      - R&B
+      - Pop
+  - rank: 3
+    title: "Without Me"
+    artist: "Halsey"
+    year: 2019
+    album: "Manic"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 4
+    title: "Bad Guy"
+    artist: "Billie Eilish"
+    year: 2019
+    album: "When We All Fall Asleep, Where Do We Go?"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Number one on Billboard Hot 100
+      - Grammy Winner for Record of the Year
+      - Culturally important
+  - rank: 5
+    title: "Wow"
+    artist: "Post Malone"
+    year: 2019
+    album: "Hollywood's Bleeding"
+    genres:
+      - R&B
+  - rank: 6
+    title: "Happier"
+    artist: "Marshmello & Bastille"
+    year: 2019
+    single: true
+    genres:
+      - Pop
+  - rank: 7
+    title: "7 Rings"
+    artist: "Ariana Grande"
+    year: 2019
+    album: "Thank U, Next"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 8
+    title: "Talk"
+    artist: "Khalid"
+    year: 2019
+    album: "Free Spirit"
+    genres:
+      - R&B
+  - rank: 9
+    title: "Sicko Mode"
+    artist: "Travis Scott"
+    year: 2019
+    album: "Astroworld"
+    genres:
+      - R&B
+  - rank: 10
+    title: "Sucker"
+    artist: "Jonas Brothers"
+    year: 2019
+    album: "Happiness Begins"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 11
+    title: "High Hopes"
+    artist: "Panic! At The Disco"
+    year: 2019
+    album: "Pray for the Wicked"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 12
+    title: "Thank U, Next"
+    artist: "Ariana Grande"
+    year: 2019
+    album: "Thank U, Next"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 13
+    title: "Truth Hurts"
+    artist: "Lizzo"
+    year: 2019
+    album: "Cuz I Love You"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 14
+    title: "Dancing With A Stranger"
+    artist: "Sam Smith & Normani"
+    year: 2019
+    album: "Love Goes"
+    genres:
+      - Pop
+      - R&B
+  - rank: 15
+    title: "Señorita"
+    artist: "Shawn Mendes & Camila Cabello"
+    year: 2019
+    album: "Shawn Mendes"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 16
+    title: "I Don't Care"
+    artist: "Ed Sheeran & Justin Bieber"
+    year: 2019
+    album: "No.6 Collaborations Project"
+    genres:
+      - Pop
+  - rank: 17
+    title: "Eastside"
+    artist: "benny blanco, Halsey & Khalid"
+    year: 2019
+    album: "Friends Keep Secrets"
+    genres:
+      - Pop
+  - rank: 18
+    title: "Shallow"
+    artist: "Lady Gaga & Bradley Cooper"
+    year: 2019
+    album: "A Star Is Born Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Academy Award for Best Original Song
+  - rank: 19
+    title: "Better"
+    artist: "Khalid"
+    year: 2019
+    album: "Suncity"
+    genres:
+      - R&B
+  - rank: 20
+    title: "No Guidance"
+    artist: "Chris Brown ft Drake"
+    year: 2019
+    album: "Indigo"
+    genres:
+      - R&B
+  - rank: 21
+    title: "Girls Like You"
+    artist: "Maroon 5 ft Cardi B"
+    year: 2019
+    album: "Red Pill Blues"
+    genres:
+      - Pop
+  - rank: 22
+    title: "Sweet But Psycho"
+    artist: "Ava Max"
+    year: 2019
+    album: "Heaven & Hell"
+    genres:
+      - Pop
+  - rank: 23
+    title: "Suge"
+    artist: "DaBaby"
+    year: 2019
+    album: "Baby on Baby"
+    genres:
+      - R&B
+  - rank: 24
+    title: "Middle Child"
+    artist: "J. Cole"
+    year: 2019
+    album: "Revenge of the Dreamers III"
+    genres:
+      - R&B
+  - rank: 25
+    title: "Someone You Loved"
+    artist: "Lewis Capaldi"
+    year: 2019
+    album: "Divinely Uninspired to a Hellish Extent"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 26
+    title: "If I Can't Have You"
+    artist: "Shawn Mendes"
+    year: 2019
+    album: "Shawn Mendes"
+    genres:
+      - Pop
+  - rank: 27
+    title: "Goodbyes"
+    artist: "Post Malone ft Young Thug"
+    year: 2019
+    album: "Hollywood's Bleeding"
+    genres:
+      - R&B
+  - rank: 28
+    title: "Better Now"
+    artist: "Post Malone"
+    year: 2019
+    album: "Beerbongs & Bentleys"
+    genres:
+      - R&B
+  - rank: 29
+    title: "Youngblood"
+    artist: "5 Seconds of Summer"
+    year: 2019
+    album: "Youngblood"
+    genres:
+      - Pop
+      - Rock
+  - rank: 30
+    title: "You Need To Calm Down"
+    artist: "Taylor Swift"
+    year: 2019
+    album: "Lover"
+    genres:
+      - Pop
+  - rank: 31
+    title: "Beautiful People"
+    artist: "Ed Sheeran ft Khalid"
+    year: 2019
+    album: "No.6 Collaborations Project"
+    genres:
+      - Pop
+  - rank: 32
+    title: "Circles"
+    artist: "Post Malone"
+    year: 2019
+    album: "Hollywood's Bleeding"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 33
+    title: "Good As Hell"
+    artist: "Lizzo"
+    year: 2019
+    album: "Cuz I Love You"
+    genres:
+      - Pop
+      - R&B
+  - rank: 34
+    title: "Lose You To Love Me"
+    artist: "Selena Gomez"
+    year: 2019
+    album: "Rare"
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 35
+    title: "Boyfriend"
+    artist: "Ariana Grande & Social House"
+    year: 2019
+    single: true
+    genres:
+      - Pop
+  - rank: 36
+    title: "Walk Me Home"
+    artist: "Pink"
+    year: 2019
+    album: "Hurts 2B Human"
+    genres:
+      - Pop
+  - rank: 37
+    title: "Trampoline"
+    artist: "SHAED"
+    year: 2019
+    album: "High Dive"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Pop
+  - rank: 38
+    title: "Cringe"
+    artist: "Matt Maeson"
+    year: 2019
+    album: "Bank on the Funeral"
+    genres:
+      - Alternative
+  - rank: 39
+    title: "Gloria"
+    artist: "The Lumineers"
+    year: 2019
+    album: "III"
+    genres:
+      - Alternative
+      - Folk
+  - rank: 40
+    title: "3 Nights"
+    artist: "Dominic Fike"
+    year: 2019
+    album: "Don't Forget About Me, Demos"
+    genres:
+      - Alternative
+  - rank: 41
+    title: "Chlorine"
+    artist: "Twenty One Pilots"
+    year: 2019
+    album: "Trench"
+    genres:
+      - Alternative
+  - rank: 42
+    title: "Ready To Let Go"
+    artist: "Cage The Elephant"
+    year: 2019
+    album: "Social Cues"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 43
+    title: "Bury A Friend"
+    artist: "Billie Eilish"
+    year: 2019
+    album: "When We All Fall Asleep, Where Do We Go?"
+    genres:
+      - Alternative
+  - rank: 44
+    title: "Remember When"
+    artist: "Bad Wolves"
+    year: 2019
+    album: "Disobey"
+    genres:
+      - Hard Rock
+  - rank: 45
+    title: "Monsters"
+    artist: "Shinedown"
+    year: 2019
+    album: "Attention Attention"
+    genres:
+      - Hard Rock
+  - rank: 46
+    title: "S.O.S. (Sawed Off Shotgun)"
+    artist: "The Glorious Sons"
+    year: 2019
+    album: "A War On Everything"
+    genres:
+      - Rock
+  - rank: 47
+    title: "Blue On Black"
+    artist: "Five Finger Death Punch ft Kenny Wayne Shepherd, Brantley Gilbert & Brian May"
+    year: 2019
+    album: "And Justice for None"
+    cover: true
+    genres:
+      - Hard Rock
+    tags:
+      - Original artist: Kenny Wayne Shepherd
+  - rank: 48
+    title: "Under Your Scars"
+    artist: "Godsmack"
+    year: 2019
+    album: "When Legends Rise"
+    genres:
+      - Hard Rock
+  - rank: 49
+    title: "Last Day Under The Sun"
+    artist: "Volbeat"
+    year: 2019
+    album: "Rewind, Replay, Rebound"
+    genres:
+      - Hard Rock
+  - rank: 50
+    title: "No More"
+    artist: "Disturbed"
+    year: 2019
+    album: "Evolution"
+    genres:
+      - Hard Rock
+  - rank: 51
+    title: "Right Left Wrong"
+    artist: "Three Days Grace"
+    year: 2019
+    album: "Outsider"
+    genres:
+      - Rock
+  - rank: 52
+    title: "Almost (Sweet Music)"
+    artist: "Hozier"
+    year: 2019
+    album: "Wasteland, Baby!"
+    genres:
+      - Folk
+      - Soul
+  - rank: 53
+    title: "Harmony Hall"
+    artist: "Vampire Weekend"
+    year: 2019
+    album: "Father of the Bride"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 54
+    title: "Juice"
+    artist: "Lizzo"
+    year: 2019
+    album: "Cuz I Love You"
+    genres:
+      - Pop
+      - Funk
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "Higher Love"
+    artist: "Kygo & Whitney Houston"
+    year: 2019
+    single: true
+    cover: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Original artist: Steve Winwood
+  - rank: 56
+    title: "Faraway Look"
+    artist: "Yola"
+    year: 2019
+    album: "Walk Through Fire"
+    genres:
+      - Soul
+      - Folk
+  - rank: 57
+    title: "Change"
+    artist: "Mavis Staples"
+    year: 2019
+    album: "We Get By"
+    genres:
+      - Soul
+      - Blues
+  - rank: 58
+    title: "This Land"
+    artist: "Gary Clark Jr."
+    year: 2019
+    album: "This Land"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Grammy Winner for Best Rock Song
+  - rank: 59
+    title: "Fresh Out"
+    artist: "Christone 'Kingfish' Ingram ft Buddy Guy"
+    year: 2019
+    album: "Kingfish"
+    genres:
+      - Blues
+  - rank: 60
+    title: "Hard Case"
+    artist: "Tedeschi Trucks Band"
+    year: 2019
+    album: "Signs"
+    genres:
+      - Blues
+      - Rock
+  - rank: 61
+    title: "Coming In Hot"
+    artist: "Coco Montoya"
+    year: 2019
+    album: "Coming In Hot"
+    genres:
+      - Blues
+  - rank: 62
+    title: "Empty Promises"
+    artist: "Christone 'Kingfish' Ingram"
+    year: 2019
+    album: "Kingfish"
+    genres:
+      - Blues
+  - rank: 63
+    title: "Put A Woman In Charge"
+    artist: "Keb' Mo' ft Rosanne Cash"
+    year: 2019
+    album: "Oklahoma"
+    genres:
+      - Blues
+      - Folk
+  - rank: 64
+    title: "Tailwind"
+    artist: "Kenny Wayne Shepherd Band"
+    year: 2019
+    album: "The Traveler"
+    genres:
+      - Blues
+      - Rock
+  - rank: 65
+    title: "Bring On The Rain"
+    artist: "Albert Castiglia"
+    year: 2019
+    album: "Masterpiece"
+    genres:
+      - Blues
+  - rank: 66
+    title: "So Caught Up"
+    artist: "The Teskey Brothers"
+    year: 2019
+    album: "Run Home Slow"
+    genres:
+      - Soul
+      - Blues
+  - rank: 67
+    title: "Masterpiece"
+    artist: "Albert Castiglia"
+    year: 2019
+    album: "Masterpiece"
+    genres:
+      - Blues
+  - rank: 68
+    title: "Down By The Water"
+    artist: "Abigail Lapell"
+    year: 2019
+    album: "Getaway"
+    genres:
+      - Folk
+  - rank: 69
+    title: "Black Myself"
+    artist: "Amythyst Kiah"
+    year: 2019
+    album: "Songs of Our Native Daughters"
+    genres:
+      - Folk
+  - rank: 70
+    title: "Rise Above"
+    artist: "Ana Egge"
+    year: 2019
+    album: "Is It The Kiss"
+    genres:
+      - Folk
+  - rank: 71
+    title: "Fenceline"
+    artist: "Anna Tivel"
+    year: 2019
+    album: "The Question"
+    genres:
+      - Folk
+  - rank: 72
+    title: "Mint Condition"
+    artist: "Caroline Spence"
+    year: 2019
+    album: "Mint Condition"
+    genres:
+      - Folk
+  - rank: 73
+    title: "The Dreamer"
+    artist: "Che Apalache"
+    year: 2019
+    album: "Rearrange My Heart"
+    genres:
+      - Folk
+  - rank: 74
+    title: "Family Tapes"
+    artist: "Dead Horses"
+    year: 2019
+    album: "My Mother the Moon"
+    genres:
+      - Folk
+  - rank: 75
+    title: "Like I Do"
+    artist: "Dori Freeman"
+    year: 2019
+    album: "Every Single Star"
+    genres:
+      - Folk
+  - rank: 76
+    title: "Beat The Drum"
+    artist: "Eilen Jewell"
+    year: 2019
+    album: "Gypsy"
+    genres:
+      - Folk
+  - rank: 77
+    title: "What It Is"
+    artist: "Hayes Carll"
+    year: 2019
+    album: "What It Is"
+    genres:
+      - Folk
+  - rank: 78
+    title: "I Need A Teacher"
+    artist: "Hiss Golden Messenger"
+    year: 2019
+    album: "Terms of Surrender"
+    genres:
+      - Folk
+  - rank: 79
+    title: "Pharmakon"
+    artist: "Humbird"
+    year: 2019
+    album: "Pharmakon"
+    genres:
+      - Folk
+  - rank: 80
+    title: "Lottery"
+    artist: "Jade Bird"
+    year: 2019
+    album: "Jade Bird"
+    genres:
+      - Folk
+      - Rock
+  - rank: 81
+    title: "Coming Down For You"
+    artist: "Joan Shelley"
+    year: 2019
+    album: "Like The River Loves The Sea"
+    genres:
+      - Folk
+  - rank: 82
+    title: "Lowlands Of Holland"
+    artist: "John Smith"
+    year: 2019
+    album: "Hummingbird"
+    genres:
+      - Folk
+  - rank: 83
+    title: "All Some Kind Of Dream"
+    artist: "Josh Ritter"
+    year: 2019
+    album: "Fever Breaks"
+    genres:
+      - Folk
+  - rank: 84
+    title: "Saying Goodbye"
+    artist: "J.S. Ondara"
+    year: 2019
+    album: "Tales Of America"
+    genres:
+      - Folk
+  - rank: 85
+    title: "This Is My Home"
+    artist: "Keb' Mo'"
+    year: 2019
+    album: "Oklahoma"
+    genres:
+      - Blues
+      - Folk
+  - rank: 86
+    title: "The Capitalist Blues"
+    artist: "Leyla McCalla"
+    year: 2019
+    album: "The Capitalist Blues"
+    genres:
+      - Folk
+      - Blues
+  - rank: 87
+    title: "Shaking As It Turns"
+    artist: "Lula Wiles"
+    year: 2019
+    album: "What Will We Do"
+    genres:
+      - Folk
+  - rank: 88
+    title: "The Wolves"
+    artist: "Mandolin Orange"
+    year: 2019
+    album: "Tides of a Teardrop"
+    genres:
+      - Folk
+  - rank: 89
+    title: "Take The Journey"
+    artist: "Molly Tuttle"
+    year: 2019
+    album: "When You're Ready"
+    genres:
+      - Folk
+  - rank: 90
+    title: "Little Margaret"
+    artist: "Rhiannon Giddens w/ Francesco Turrisi"
+    year: 2019
+    album: "There Is No Other"
+    genres:
+      - Folk
+  - rank: 91
+    title: "Speak Out"
+    artist: "Rising Appalachia ft Ani DiFranco"
+    year: 2019
+    album: "Leylines"
+    genres:
+      - Folk
+  - rank: 92
+    title: "World Full Of Blues"
+    artist: "Rob Ickes & Trey Hensley ft Taj Mahal"
+    year: 2019
+    album: "World Full of Blues"
+    genres:
+      - Blues
+      - Folk
+  - rank: 93
+    title: "Old Friends"
+    artist: "Steve Earle & The Dukes"
+    year: 2019
+    album: "Guy"
+    genres:
+      - Folk
+  - rank: 94
+    title: "Where The Lost Get Found"
+    artist: "Sunny War"
+    year: 2019
+    album: "Shell of a Girl"
+    genres:
+      - Folk
+  - rank: 95
+    title: "Bring My Flowers Now"
+    artist: "Tanya Tucker"
+    year: 2019
+    album: "While I'm Livin'"
+    genres:
+      - Folk
+  - rank: 96
+    title: "Rise Sun"
+    artist: "The Infamous Stringdusters"
+    year: 2019
+    album: "Rise Sun"
+    genres:
+      - Folk
+  - rank: 97
+    title: "The Only Ones"
+    artist: "The Milk Carton Kids"
+    year: 2019
+    album: "The Only Ones"
+    genres:
+      - Folk
+  - rank: 98
+    title: "Oh My Love"
+    artist: "The Small Glories"
+    year: 2019
+    album: "Assiniboine & The Red"
+    genres:
+      - Folk
+  - rank: 99
+    title: "Find Your Muse"
+    artist: "Them Coulee Boys"
+    year: 2019
+    album: "Die Happy"
+    genres:
+      - Folk
+  - rank: 100
+    title: "Talking Reality Television Blues"
+    artist: "Todd Snider"
+    year: 2019
+    album: "Cash Cabin Sessions, Vol. 3"
+    genres:
+      - Folk

@@ -1,0 +1,819 @@
+songs:
+  - rank: 1
+    title: "Somebody That I Used To Know"
+    artist: "Gotye featuring Kimbra"
+    year: 2012
+    album: "Making Mirrors"
+    solo-hit: true
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Call Me Maybe"
+    artist: "Carly Rae Jepsen"
+    year: 2012
+    album: "Kiss"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 3
+    title: "We Are Young"
+    artist: "Fun featuring Janelle Monáe"
+    year: 2012
+    album: "Some Nights"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 4
+    title: "Payphone"
+    artist: "Maroon 5 featuring Wiz Khalifa"
+    year: 2012
+    album: "Overexposed"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 5
+    title: "Lights"
+    artist: "Ellie Goulding"
+    year: 2012
+    album: "Lights"
+    genres:
+      - Pop
+  - rank: 6
+    title: "Glad You Came"
+    artist: "The Wanted"
+    year: 2012
+    album: "The Wanted"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 7
+    title: "Stronger (What Doesn't Kill You)"
+    artist: "Kelly Clarkson"
+    year: 2012
+    album: "Stronger"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 8
+    title: "We Found Love"
+    artist: "Rihanna featuring Calvin Harris"
+    year: 2012
+    album: "Talk That Talk"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 9
+    title: "Starships"
+    artist: "Nicki Minaj"
+    year: 2012
+    album: "Pink Friday: Roman Reloaded"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 10
+    title: "What Makes You Beautiful"
+    artist: "One Direction"
+    year: 2012
+    album: "Up All Night"
+    genres:
+      - Pop
+  - rank: 11
+    title: "Wild Ones"
+    artist: "Flo Rida featuring Sia"
+    year: 2012
+    album: "Wild Ones"
+    genres:
+      - Pop
+  - rank: 12
+    title: "Set Fire to the Rain"
+    artist: "Adele"
+    year: 2012
+    album: "21"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 13
+    title: "Sexy and I Know It"
+    artist: "LMFAO"
+    year: 2012
+    album: "Sorry for Party Rocking"
+    genres:
+      - Pop
+  - rank: 14
+    title: "Some Nights"
+    artist: "Fun"
+    year: 2012
+    album: "Some Nights"
+    genres:
+      - Pop
+      - Rock
+  - rank: 15
+    title: "Wide Awake"
+    artist: "Katy Perry"
+    year: 2012
+    album: "Teenage Dream: The Complete Confection"
+    genres:
+      - Pop
+  - rank: 16
+    title: "Good Feeling"
+    artist: "Flo Rida"
+    year: 2012
+    album: "Wild Ones"
+    genres:
+      - Pop
+  - rank: 17
+    title: "Whistle"
+    artist: "Flo Rida"
+    year: 2012
+    album: "Wild Ones"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 18
+    title: "One More Night"
+    artist: "Maroon 5"
+    year: 2012
+    album: "Overexposed"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 19
+    title: "Drive By"
+    artist: "Train"
+    year: 2012
+    album: "California 37"
+    genres:
+      - Pop
+      - Rock
+      - Soft Rock
+  - rank: 20
+    title: "The Motto"
+    artist: "Drake featuring Lil Wayne"
+    year: 2012
+    album: "Take Care"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 21
+    title: "Where Have You Been"
+    artist: "Rihanna"
+    year: 2012
+    album: "Talk That Talk"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 22
+    title: "Everybody Talks"
+    artist: "Neon Trees"
+    year: 2012
+    album: "Picture Show"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 23
+    title: "Take Care"
+    artist: "Drake featuring Rihanna"
+    year: 2012
+    album: "Take Care"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 24
+    title: "Titanium"
+    artist: "David Guetta featuring Sia"
+    year: 2012
+    album: "Nothing but the Beat"
+    genres:
+      - Pop
+  - rank: 25
+    title: "I Won't Give Up"
+    artist: "Jason Mraz"
+    year: 2012
+    album: "Love Is a Four Letter Word"
+    genres:
+      - Pop
+      - Folk
+  - rank: 26
+    title: "It Will Rain"
+    artist: "Bruno Mars"
+    year: 2012
+    album: "The Twilight Saga: Breaking Dawn – Part 1"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 27
+    title: "Mercy"
+    artist: "Kanye West, Big Sean, Pusha T, and 2 Chainz"
+    year: 2012
+    album: "Cruel Summer"
+    genres:
+      - Rhythm and Blues
+  - rank: 28
+    title: "Boyfriend"
+    artist: "Justin Bieber"
+    year: 2012
+    album: "Believe"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 29
+    title: "Party Rock Anthem"
+    artist: "LMFAO featuring Lauren Bennett and GoonRock"
+    year: 2012
+    album: "Sorry for Party Rocking"
+    genres:
+      - Pop
+  - rank: 30
+    title: "Too Close"
+    artist: "Alex Clare"
+    year: 2012
+    album: "The Lateness of the Hour"
+    solo-hit: true
+    genres:
+      - Pop
+      - Alternative
+  - rank: 31
+    title: "Part of Me"
+    artist: "Katy Perry"
+    year: 2012
+    album: "Teenage Dream: The Complete Confection"
+    genres:
+      - Pop
+  - rank: 32
+    title: "Young, Wild & Free"
+    artist: "Snoop Dogg and Wiz Khalifa featuring Bruno Mars"
+    year: 2012
+    album: "Mac & Devin Go to High School"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 33
+    title: "We Are Never Ever Getting Back Together"
+    artist: "Taylor Swift"
+    year: 2012
+    album: "Red"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 34
+    title: "As Long as You Love Me"
+    artist: "Justin Bieber featuring Big Sean"
+    year: 2012
+    album: "Believe"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 35
+    title: "Turn Me On"
+    artist: "David Guetta featuring Nicki Minaj"
+    year: 2012
+    album: "Nothing but the Beat"
+    genres:
+      - Pop
+  - rank: 36
+    title: "Moves like Jagger"
+    artist: "Maroon 5 featuring Christina Aguilera"
+    year: 2012
+    album: "Hands All Over"
+    genres:
+      - Pop
+      - Rock
+  - rank: 37
+    title: "Blow Me (One Last Kiss)"
+    artist: "Pink"
+    year: 2012
+    album: "The Truth About Love"
+    genres:
+      - Pop
+      - Rock
+  - rank: 38
+    title: "Good Time"
+    artist: "Owl City and Carly Rae Jepsen"
+    year: 2012
+    album: "The Midsummer Station"
+    genres:
+      - Pop
+  - rank: 39
+    title: "Give Your Heart a Break"
+    artist: "Demi Lovato"
+    year: 2012
+    album: "Unbroken"
+    genres:
+      - Pop
+  - rank: 40
+    title: "Niggas in Paris"
+    artist: "Jay-Z and Kanye West"
+    year: 2012
+    album: "Watch the Throne"
+    genres:
+      - Rhythm and Blues
+  - rank: 41
+    title: "The One That Got Away"
+    artist: "Katy Perry"
+    year: 2012
+    album: "Teenage Dream"
+    genres:
+      - Pop
+  - rank: 42
+    title: "Feel So Close"
+    artist: "Calvin Harris"
+    year: 2012
+    album: "18 Months"
+    genres:
+      - Pop
+  - rank: 43
+    title: "Someone like You"
+    artist: "Adele"
+    year: 2012
+    album: "21"
+    genres:
+      - Pop
+      - Soul
+  - rank: 44
+    title: "Scream"
+    artist: "Usher"
+    year: 2012
+    album: "Looking 4 Myself"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 45
+    title: "Rack City"
+    artist: "Tyga"
+    year: 2012
+    album: "Careless World: Rise of the Last King"
+    genres:
+      - Rhythm and Blues
+  - rank: 46
+    title: "Domino"
+    artist: "Jessie J"
+    year: 2012
+    album: "Who You Are"
+    genres:
+      - Pop
+  - rank: 47
+    title: "Gangnam Style"
+    artist: "Psy"
+    year: 2012
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 48
+    title: "International Love"
+    artist: "Pitbull featuring Chris Brown"
+    year: 2012
+    album: "Planet Pit"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 49
+    title: "Dance (A$$)"
+    artist: "Big Sean featuring Nicki Minaj"
+    year: 2012
+    album: "Finally Famous"
+    genres:
+      - Rhythm and Blues
+  - rank: 50
+    title: "Work Out"
+    artist: "J. Cole"
+    year: 2012
+    album: "Cole World: The Sideline Story"
+    genres:
+      - Rhythm and Blues
+  - rank: 51
+    title: "Tongue Tied"
+    artist: "Grouplove"
+    year: 2012
+    album: "Never Trust a Happy Song"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 52
+    title: "Little Talks"
+    artist: "Of Monsters and Men"
+    year: 2012
+    album: "My Head Is an Animal"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+      - Folk
+  - rank: 53
+    title: "It's Time"
+    artist: "Imagine Dragons"
+    year: 2012
+    album: "Night Visions"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 54
+    title: "Ho Hey"
+    artist: "The Lumineers"
+    year: 2012
+    album: "The Lumineers"
+    solo-hit: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "Paradise"
+    artist: "Coldplay"
+    year: 2012
+    album: "Mylo Xyloto"
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+  - rank: 56
+    title: "Lonely Boy"
+    artist: "The Black Keys"
+    year: 2012
+    album: "El Camino"
+    genres:
+      - Rock
+      - Blues
+      - Alternative
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 57
+    title: "Gold on the Ceiling"
+    artist: "The Black Keys"
+    year: 2012
+    album: "El Camino"
+    genres:
+      - Rock
+      - Blues
+      - Alternative
+  - rank: 58
+    title: "These Days"
+    artist: "Foo Fighters"
+    year: 2012
+    album: "Wasting Light"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 59
+    title: "Burn It Down"
+    artist: "Linkin Park"
+    year: 2012
+    album: "Living Things"
+    genres:
+      - Rock
+      - Alternative
+      - Hard Rock
+  - rank: 60
+    title: "Love on Top"
+    artist: "Beyoncé"
+    year: 2012
+    album: "4"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Number-one Billboard R&B song
+  - rank: 61
+    title: "Climax"
+    artist: "Usher"
+    year: 2012
+    album: "Looking 4 Myself"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Number-one Billboard R&B song
+  - rank: 62
+    title: "Lotus Flower Bomb"
+    artist: "Wale featuring Miguel"
+    year: 2012
+    album: "Ambition"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard R&B song
+  - rank: 63
+    title: "Adorn"
+    artist: "Miguel"
+    year: 2012
+    album: "Kaleidoscope Dream"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Number-one Billboard R&B song
+      - Grammy Award for Best R&B Song
+  - rank: 64
+    title: "Diamonds"
+    artist: "Rihanna"
+    year: 2012
+    album: "Unapologetic"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 65
+    title: "Safe & Sound"
+    artist: "Taylor Swift featuring The Civil Wars"
+    year: 2012
+    album: "The Hunger Games: Songs from District 12 and Beyond"
+    soundtrack: true
+    genres:
+      - Folk
+      - Pop
+  - rank: 66
+    title: "Young Man in America"
+    artist: "Anaïs Mitchell"
+    year: 2012
+    album: "Young Man in America"
+    genres:
+      - Folk
+  - rank: 67
+    title: "Dying Day"
+    artist: "Anaïs Mitchell"
+    year: 2012
+    album: "Young Man in America"
+    genres:
+      - Folk
+  - rank: 68
+    title: "Shepherd"
+    artist: "Anaïs Mitchell"
+    year: 2012
+    album: "Young Man in America"
+    genres:
+      - Folk
+  - rank: 69
+    title: "Read 'Em John"
+    artist: "Carolina Chocolate Drops"
+    year: 2012
+    album: "Leaving Eden"
+    genres:
+      - Folk
+  - rank: 70
+    title: "Blak and Blu"
+    artist: "Gary Clark Jr."
+    year: 2012
+    album: "Blak and Blu"
+    genres:
+      - Blues
+      - Rock
+  - rank: 71
+    title: "Bright Lights"
+    artist: "Gary Clark Jr."
+    year: 2012
+    album: "Blak and Blu"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 72
+    title: "Between the Ditches"
+    artist: "Reverend Peyton’s Big Damn Band"
+    year: 2012
+    album: "Between the Ditches"
+    genres:
+      - Blues
+  - rank: 73
+    title: "Buffalo Junction"
+    artist: "Boo Hanks with Dom Flemons"
+    year: 2012
+    album: "Buffalo Junction"
+    genres:
+      - Blues
+  - rank: 74
+    title: "Going Back to the Blues"
+    artist: "Carl Marshall"
+    year: 2012
+    album: "Going Back to the Blues"
+    genres:
+      - Blues
+  - rank: 75
+    title: "And Still I Rise"
+    artist: "Heritage Blues Orchestra"
+    year: 2012
+    album: "And Still I Rise"
+    genres:
+      - Blues
+  - rank: 76
+    title: "Contraband"
+    artist: "Otis Taylor"
+    year: 2012
+    album: "Contraband"
+    genres:
+      - Blues
+  - rank: 77
+    title: "The Devil Ain’t Got No Music"
+    artist: "Lurrie Bell"
+    year: 2012
+    album: "The Devil Ain’t Got No Music"
+    genres:
+      - Blues
+  - rank: 78
+    title: "33 ⅓"
+    artist: "Shemekia Copeland"
+    year: 2012
+    album: "33 ⅓"
+    genres:
+      - Blues
+  - rank: 79
+    title: "Accelerando"
+    artist: "Vijay Iyer Trio"
+    year: 2012
+    album: "Accelerando"
+    genres:
+      - Jazz
+  - rank: 80
+    title: "Grass Roots"
+    artist: "Grass Roots"
+    year: 2012
+    album: "Grass Roots"
+    genres:
+      - Jazz
+  - rank: 81
+    title: "Reunion: Live in New York"
+    artist: "Sam Rivers, Dave Holland, Barry Altschul"
+    year: 2012
+    album: "Reunion: Live in New York"
+    genres:
+      - Jazz
+  - rank: 82
+    title: "Channels of Consciousness"
+    artist: "William Hooker"
+    year: 2012
+    album: "Channels of Consciousness"
+    genres:
+      - Jazz
+  - rank: 83
+    title: "Spirit Fiction"
+    artist: "Ravi Coltrane"
+    year: 2012
+    album: "Spirit Fiction"
+    genres:
+      - Jazz
+  - rank: 84
+    title: "Renaissance"
+    artist: "Marcus Miller"
+    year: 2012
+    album: "Renaissance"
+    genres:
+      - Jazz
+      - Funk
+  - rank: 85
+    title: "Tomorrow and Sunny/The Revelry, Spp"
+    artist: "Henry Threadgill Zooid"
+    year: 2012
+    album: "Tomorrow and Sunny/The Revelry, Spp"
+    genres:
+      - Jazz
+  - rank: 86
+    title: "Bright Light in Winter"
+    artist: "Jeff Parker Trio"
+    year: 2012
+    album: "Bright Light in Winter"
+    genres:
+      - Jazz
+  - rank: 87
+    title: "Bending Bridges"
+    artist: "Mary Halvorson Quintet"
+    year: 2012
+    album: "Bending Bridges"
+    genres:
+      - Jazz
+  - rank: 88
+    title: "Christian aTunde Adjuah"
+    artist: "Christian Scott"
+    year: 2012
+    album: "Christian aTunde Adjuah"
+    genres:
+      - Jazz
+  - rank: 89
+    title: "Madness"
+    artist: "Muse"
+    year: 2012
+    album: "The 2nd Law"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 90
+    title: "Face to the Floor"
+    artist: "Chevelle"
+    year: 2012
+    album: "Hats Off to the Bull"
+    genres:
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 91
+    title: "Bully"
+    artist: "Shinedown"
+    year: 2012
+    album: "Amaryllis"
+    genres:
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 92
+    title: "Coming Down"
+    artist: "Five Finger Death Punch"
+    year: 2012
+    album: "American Capitalist"
+    genres:
+      - Hard Rock
+  - rank: 93
+    title: "Hats Off to the Bull"
+    artist: "Chevelle"
+    year: 2012
+    album: "Hats Off to the Bull"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 94
+    title: "Criticize"
+    artist: "Adelitas Way"
+    year: 2012
+    album: "Home School Valedictorian"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 95
+    title: "Live to Rise"
+    artist: "Soundgarden"
+    year: 2012
+    album: "Avengers Assemble"
+    soundtrack: true
+    genres:
+      - Rock
+      - Grunge
+      - Alternative
+  - rank: 96
+    title: "45"
+    artist: "The Gaslight Anthem"
+    year: 2012
+    album: "Handwritten"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 97
+    title: "Unity"
+    artist: "Shinedown"
+    year: 2012
+    album: "Amaryllis"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 98
+    title: "Now"
+    artist: "Staind"
+    year: 2012
+    album: "Staind"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 99
+    title: "Still Counting"
+    artist: "Volbeat"
+    year: 2012
+    album: "Beyond Hell/Above Heaven"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 100
+    title: "No Resolution"
+    artist: "Seether"
+    year: 2012
+    album: "Holding Onto Strings Better Left to Fray"
+    genres:
+      - Hard Rock
+      - Alternative

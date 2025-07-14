@@ -1,0 +1,800 @@
+songs:
+  - rank: 1
+    title: "Heat Waves"
+    artist: "Glass Animals"
+    year: 2022
+    album: "Dreamland"
+    genres:
+      - Alternative
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100 Year-End
+      - Culturally important
+  - rank: 2
+    title: "As It Was"
+    artist: "Harry Styles"
+    year: 2022
+    album: "Harry's House"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 3
+    title: "Stay"
+    artist: "The Kid Laroi & Justin Bieber"
+    year: 2022
+    album: "F*ck Love 3: Over You"
+    genres:
+      - Pop
+      - R&B
+  - rank: 4
+    title: "Easy On Me"
+    artist: "Adele"
+    year: 2022
+    album: "30"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 5
+    title: "Shivers"
+    artist: "Ed Sheeran"
+    year: 2022
+    album: "="
+    genres:
+      - Pop
+  - rank: 6
+    title: "Cold Heart (Pnau Remix)"
+    artist: "Elton John & Dua Lipa"
+    year: 2022
+    album: "The Lockdown Sessions"
+    genres:
+      - Pop
+      - Disco
+  - rank: 7
+    title: "About Damn Time"
+    artist: "Lizzo"
+    year: 2022
+    album: "Special"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Grammy Winner for Record of the Year
+      - Culturally important
+  - rank: 8
+    title: "Bad Habit"
+    artist: "Steve Lacy"
+    year: 2022
+    album: "Gemini Rights"
+    genres:
+      - R&B
+      - Alternative
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 9
+    title: "Running Up That Hill (A Deal With God)"
+    artist: "Kate Bush"
+    year: 2022
+    album: "Hounds of Love"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 10
+    title: "Break My Soul"
+    artist: "Beyoncé"
+    year: 2022
+    album: "Renaissance"
+    genres:
+      - Pop
+      - R&B
+      - Disco
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 11
+    title: "Enemy"
+    artist: "Imagine Dragons x JID"
+    year: 2022
+    album: "Mercury - Act 1"
+    soundtrack: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 12
+    title: "Black Summer"
+    artist: "Red Hot Chili Peppers"
+    year: 2022
+    album: "Unlimited Love"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 13
+    title: "Beggin'"
+    artist: "Maneskin"
+    year: 2022
+    album: "Chosen"
+    cover: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Original artist: The Four Seasons
+  - rank: 14
+    title: "Toxic"
+    artist: "BoyWithUke"
+    year: 2022
+    album: "Serotonin Dreams"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 15
+    title: "Love Brand New"
+    artist: "Bob Moses"
+    year: 2022
+    album: "The Silence in Between"
+    genres:
+      - Alternative
+  - rank: 16
+    title: "Bones"
+    artist: "Imagine Dragons"
+    year: 2022
+    album: "Mercury - Act 2"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 17
+    title: "Wild Child"
+    artist: "The Black Keys"
+    year: 2022
+    album: "Dropout Boogie"
+    genres:
+      - Rock
+      - Blues
+  - rank: 18
+    title: "A Little Bit Of Love"
+    artist: "Weezer"
+    year: 2022
+    album: "SZNZ: Spring"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 19
+    title: "Bad Dream"
+    artist: "Cannons"
+    year: 2022
+    album: "Fever Dream"
+    genres:
+      - Alternative
+  - rank: 20
+    title: "The Outside"
+    artist: "Twenty One Pilots"
+    year: 2022
+    album: "Scaled and Icy"
+    genres:
+      - Alternative
+  - rank: 21
+    title: "Supermodel"
+    artist: "Maneskin"
+    year: 2022
+    album: "Teatro d'ira: Vol. I"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 22
+    title: "Taking Me Back"
+    artist: "Jack White"
+    year: 2022
+    album: "Fear of the Dawn"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 23
+    title: "Ramon Ayala"
+    artist: "Giovannie & The Hired Guns"
+    year: 2022
+    album: "Tejano Punk Boyz"
+    genres:
+      - Rock
+  - rank: 24
+    title: "Won't Stand Down"
+    artist: "Muse"
+    year: 2022
+    album: "Will of the People"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 25
+    title: "Where We Are"
+    artist: "The Lumineers"
+    year: 2022
+    album: "Brightside"
+    genres:
+      - Folk
+      - Rock
+  - rank: 26
+    title: "Brightside"
+    artist: "The Lumineers"
+    year: 2022
+    album: "Brightside"
+    genres:
+      - Folk
+      - Rock
+  - rank: 27
+    title: "What, Me Worry?"
+    artist: "Portugal. The Man"
+    year: 2022
+    single: true
+    genres:
+      - Alternative
+  - rank: 28
+    title: "Clarity"
+    artist: "Vance Joy"
+    year: 2022
+    album: "In Our Own Sweet Time"
+    genres:
+      - Folk
+      - Pop
+  - rank: 29
+    title: "Mystery"
+    artist: "Turnstile"
+    year: 2022
+    album: "Glow On"
+    genres:
+      - Alternative
+      - Hard Rock
+  - rank: 30
+    title: "Tek It"
+    artist: "Cafune"
+    year: 2022
+    album: "Running"
+    genres:
+      - Alternative
+  - rank: 31
+    title: "Super Gremlin"
+    artist: "Kodak Black"
+    year: 2022
+    album: "Back for Everything"
+    genres:
+      - R&B
+  - rank: 32
+    title: "Wait For U"
+    artist: "Future ft Drake & Tems"
+    year: 2022
+    album: "I Never Liked You"
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 33
+    title: "Industry Baby"
+    artist: "Lil Nas X & Jack Harlow"
+    year: 2022
+    album: "Montero"
+    genres:
+      - R&B
+      - Pop
+  - rank: 34
+    title: "First Class"
+    artist: "Jack Harlow"
+    year: 2022
+    album: "Come Home the Kids Miss You"
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 35
+    title: "We Don't Talk About Bruno"
+    artist: "Encanto Cast"
+    year: 2022
+    album: "Encanto Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+      - Culturally important
+  - rank: 36
+    title: "Jimmy Cooks"
+    artist: "Drake ft 21 Savage"
+    year: 2022
+    album: "Honestly, Nevermind"
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 37
+    title: "Broadway Girls"
+    artist: "Lil Durk ft Morgan Wallen"
+    year: 2022
+    album: "7220"
+    genres:
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 38
+    title: "Smokin Out The Window"
+    artist: "Silk Sonic"
+    year: 2022
+    album: "An Evening with Silk Sonic"
+    genres:
+      - R&B
+      - Soul
+  - rank: 39
+    title: "Essence"
+    artist: "Wizkid ft Tems"
+    year: 2022
+    album: "Made in Lagos"
+    genres:
+      - R&B
+  - rank: 40
+    title: "Pushin P"
+    artist: "Gunna & Future ft Young Thug"
+    year: 2022
+    album: "DS4Ever"
+    genres:
+      - R&B
+  - rank: 41
+    title: "Vegas"
+    artist: "Doja Cat"
+    year: 2022
+    album: "Elvis Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+      - Pop
+  - rank: 42
+    title: "Churchill Downs"
+    artist: "Jack Harlow ft Drake"
+    year: 2022
+    album: "Come Home the Kids Miss You"
+    genres:
+      - R&B
+  - rank: 43
+    title: "Lift Me Up"
+    artist: "Rihanna"
+    year: 2022
+    album: "Black Panther: Wakanda Forever Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 44
+    title: "Free Mind"
+    artist: "Tems"
+    year: 2022
+    album: "For Broken Ears"
+    genres:
+      - R&B
+  - rank: 45
+    title: "Under The Influence"
+    artist: "Chris Brown"
+    year: 2022
+    album: "Indigo (Extended)"
+    genres:
+      - R&B
+  - rank: 46
+    title: "Shirt"
+    artist: "SZA"
+    year: 2022
+    album: "SOS"
+    genres:
+      - R&B
+    tags:
+      - Culturally important
+  - rank: 47
+    title: "Cuff It"
+    artist: "Beyoncé"
+    year: 2022
+    album: "Renaissance"
+    genres:
+      - R&B
+      - Funk
+    tags:
+      - Grammy Winner for Best R&B Song
+  - rank: 48
+    title: "All Mine"
+    artist: "Brent Faiyaz"
+    year: 2022
+    album: "Wasteland"
+    genres:
+      - R&B
+  - rank: 49
+    title: "Beyond the Stars"
+    artist: "Tami Neilson & Willie Nelson"
+    year: 2022
+    single: true
+    genres:
+      - Folk
+  - rank: 50
+    title: "Middle of a Heart"
+    artist: "Adeem the Artist"
+    year: 2022
+    album: "White Trash Revelry"
+    genres:
+      - Folk
+  - rank: 51
+    title: "Carry Me Home"
+    artist: "Mavis Staples & Levon Helm"
+    year: 2022
+    album: "Carry Me Home"
+    genres:
+      - Blues
+      - Soul
+  - rank: 52
+    title: "I Ain't Playin'"
+    artist: "Diunna Greenleaf"
+    year: 2022
+    album: "I Ain't Playin'"
+    genres:
+      - Blues
+  - rank: 53
+    title: "Hard to Kill"
+    artist: "Janiva Magness"
+    year: 2022
+    album: "Hard to Kill"
+    genres:
+      - Blues
+  - rank: 54
+    title: "Black Jesus"
+    artist: "Fantastic Negrito"
+    year: 2022
+    album: "White Jesus Black Problems"
+    genres:
+      - Blues
+  - rank: 55
+    title: "Just Like That"
+    artist: "Bonnie Raitt"
+    year: 2022
+    album: "Just Like That..."
+    genres:
+      - Blues
+      - Folk
+    tags:
+      - Grammy Winner for Song of the Year
+  - rank: 56
+    title: "I Am the Moon"
+    artist: "Tedeschi Trucks Band"
+    year: 2022
+    album: "I Am the Moon"
+    genres:
+      - Blues
+      - Rock
+  - rank: 57
+    title: "Set Sail"
+    artist: "North Mississippi Allstars"
+    year: 2022
+    album: "Set Sail"
+    genres:
+      - Blues
+  - rank: 58
+    title: "Young Blood"
+    artist: "Marcus King"
+    year: 2022
+    album: "Young Blood"
+    genres:
+      - Blues
+      - Rock
+  - rank: 59
+    title: "House to House"
+    artist: "Matt Andersen"
+    year: 2022
+    album: "House to House"
+    genres:
+      - Blues
+      - Folk
+  - rank: 60
+    title: "Feel Like Going Home"
+    artist: "Miko Marks & the Resurrectors"
+    year: 2022
+    album: "Feel Like Going Home"
+    genres:
+      - Blues
+      - Soul
+  - rank: 61
+    title: "So Called Life"
+    artist: "Three Days Grace"
+    year: 2022
+    album: "Explosions"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 62
+    title: "Planet Zero"
+    artist: "Shinedown"
+    year: 2022
+    album: "Planet Zero"
+    genres:
+      - Hard Rock
+  - rank: 63
+    title: "Zombified"
+    artist: "Falling in Reverse"
+    year: 2022
+    album: "Neon Zombie"
+    genres:
+      - Hard Rock
+  - rank: 64
+    title: "Dead Man Walking"
+    artist: "Jelly Roll"
+    year: 2022
+    album: "Ballads of the Broken"
+    genres:
+      - Rock
+    tags:
+      - Crossover hit
+  - rank: 65
+    title: "Call Me Little Sunshine"
+    artist: "Ghost"
+    year: 2022
+    album: "Impera"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 66
+    title: "Eye of the Storm"
+    artist: "Pop Evil"
+    year: 2022
+    album: "Skeletons"
+    genres:
+      - Hard Rock
+  - rank: 67
+    title: "The Steeple"
+    artist: "Halestorm"
+    year: 2022
+    album: "Back from the Dead"
+    genres:
+      - Hard Rock
+  - rank: 68
+    title: "If Tomorrow Never Comes"
+    artist: "Bad Wolves"
+    year: 2022
+    album: "Dear Monsters"
+    genres:
+      - Hard Rock
+  - rank: 69
+    title: "No Apologies"
+    artist: "Papa Roach"
+    year: 2022
+    album: "Ego Trip"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 70
+    title: "Rest in Peace"
+    artist: "Dorothy"
+    year: 2022
+    album: "Gifts from the Holy Ghost"
+    genres:
+      - Hard Rock
+  - rank: 71
+    title: "Masterpiece"
+    artist: "Motionless in White"
+    year: 2022
+    album: "Scoring the End of the World"
+    genres:
+      - Hard Rock
+  - rank: 72
+    title: "Hey You"
+    artist: "Disturbed"
+    year: 2022
+    album: "Divisive"
+    genres:
+      - Hard Rock
+  - rank: 73
+    title: "Times Like These"
+    artist: "Five Finger Death Punch"
+    year: 2022
+    album: "AfterLife"
+    genres:
+      - Hard Rock
+  - rank: 74
+    title: "Natural Born Killer"
+    artist: "Highly Suspect"
+    year: 2022
+    album: "The Midnight Demon Club"
+    genres:
+      - Rock
+  - rank: 75
+    title: "Lux Æterna"
+    artist: "Metallica"
+    year: 2022
+    album: "72 Seasons"
+    genres:
+      - Hard Rock
+  - rank: 76
+    title: "San Quentin"
+    artist: "Nickelback"
+    year: 2022
+    album: "Get Rollin'"
+    genres:
+      - Rock
+  - rank: 77
+    title: "Bandana"
+    artist: "Fireboy DML & Asake"
+    year: 2022
+    single: true
+    genres:
+      - R&B
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 78
+    title: "Something in the Orange"
+    artist: "Zach Bryan"
+    year: 2022
+    album: "American Heartbreak"
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: "Tití Me Preguntó"
+    artist: "Bad Bunny"
+    year: 2022
+    album: "Un Verano Sin Ti"
+    genres:
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 80
+    title: "Western Wind"
+    artist: "Carly Rae Jepsen"
+    year: 2022
+    album: "The Loneliest Time"
+    genres:
+      - Pop
+      - Disco
+  - rank: 81
+    title: "Part of the Band"
+    artist: "The 1975"
+    year: 2022
+    album: "Being Funny in a Foreign Language"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 82
+    title: "FNF"
+    artist: "Glorilla & Hitkidd"
+    year: 2022
+    single: true
+    genres:
+      - R&B
+  - rank: 83
+    title: "Delincuente"
+    artist: "Tokischa"
+    year: 2022
+    single: true
+    genres:
+      - Pop
+  - rank: 84
+    title: "No Reason"
+    artist: "Big Thief"
+    year: 2022
+    album: "Dragon New Warm Mountain I Believe in You"
+    genres:
+      - Alternative
+      - Folk
+  - rank: 85
+    title: "Endless Grace"
+    artist: "Deidre McCalla"
+    year: 2022
+    album: "Endless Grace"
+    genres:
+      - Folk
+  - rank: 86
+    title: "If It All Goes South"
+    artist: "Amy Ray"
+    year: 2022
+    album: "If It All Goes South"
+    genres:
+      - Folk
+  - rank: 87
+    title: "The Sorrow Songs"
+    artist: "Angeline Morrison"
+    year: 2022
+    album: "The Sorrow Songs: Folk Songs of Black British Experience"
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 88
+    title: "Ghost Story"
+    artist: "Fern Maddie"
+    year: 2022
+    album: "Ghost Story"
+    genres:
+      - Folk
+  - rank: 89
+    title: "Sings Ten English Folk Songs"
+    artist: "Nick Hart"
+    year: 2022
+    album: "Nick Hart Sings Ten English Folk Songs"
+    genres:
+      - Folk
+  - rank: 90
+    title: "HUH?"
+    artist: "Dreamer Isioma"
+    year: 2022
+    single: true
+    genres:
+      - Funk
+      - R&B
+  - rank: 91
+    title: "Aqua Girl Remix"
+    artist: "Cool Company ft Jules Grant"
+    year: 2022
+    single: true
+    genres:
+      - Funk
+  - rank: 92
+    title: "Karma"
+    artist: "Summer Walker"
+    year: 2022
+    album: "Last Day of Summer"
+    genres:
+      - R&B
+      - Soul
+  - rank: 93
+    title: "Virgo's Groove"
+    artist: "Beyoncé"
+    year: 2022
+    album: "Renaissance"
+    genres:
+      - R&B
+      - Soul
+  - rank: 94
+    title: "DFMU"
+    artist: "Ella Mai"
+    year: 2022
+    album: "Heart on My Sleeve"
+    genres:
+      - R&B
+  - rank: 95
+    title: "Scooch"
+    artist: "K. Michelle"
+    year: 2022
+    single: true
+    genres:
+      - R&B
+  - rank: 96
+    title: "Slow"
+    artist: "Tank ft J Valentine"
+    year: 2022
+    album: "R&B Money"
+    genres:
+      - R&B
+  - rank: 97
+    title: "Hate Our Love"
+    artist: "Queen Naija & Big Sean"
+    year: 2022
+    single: true
+    genres:
+      - R&B
+  - rank: 98
+    title: "Fear of Dying"
+    artist: "Alison Wonderland"
+    year: 2022
+    album: "Loner"
+    genres:
+      - Pop
+      - Disco
+  - rank: 99
+    title: "Forget About Me"
+    artist: "Aluna, Diplo & Durante"
+    year: 2022
+    single: true
+    genres:
+      - Pop
+      - Disco
+  - rank: 100
+    title: "Call Stack"
+    artist: "ev.exi"
+    year: 2022
+    single: true
+    genres:
+      - Funk

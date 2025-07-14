@@ -1,0 +1,840 @@
+songs:
+  - rank: 1
+    title: "Love Yourself"
+    artist: "Justin Bieber"
+    year: 2016
+    album: "Purpose"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 2
+    title: "Sorry"
+    artist: "Justin Bieber"
+    year: 2016
+    album: "Purpose"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 3
+    title: "One Dance"
+    artist: "Drake featuring Wizkid & Kyla"
+    year: 2016
+    album: "Views"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 4
+    title: "Work"
+    artist: "Rihanna featuring Drake"
+    year: 2016
+    album: "Anti"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 5
+    title: "Stressed Out"
+    artist: "Twenty One Pilots"
+    year: 2016
+    album: "Blurryface"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 6
+    title: "Panda"
+    artist: "Desiigner"
+    year: 2016
+    album: "New English"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 7
+    title: "Hello"
+    artist: "Adele"
+    year: 2016
+    album: "25"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award for Song of the Year
+  - rank: 8
+    title: "Don't Let Me Down"
+    artist: "The Chainsmokers featuring Daya"
+    year: 2016
+    album: "Collage"
+    genres:
+      - Pop
+  - rank: 9
+    title: "Can't Stop the Feeling!"
+    artist: "Justin Timberlake"
+    year: 2016
+    album: "Trolls: Original Motion Picture Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 10
+    title: "Closer"
+    artist: "The Chainsmokers featuring Halsey"
+    year: 2016
+    album: "Collage"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 11
+    title: "Cheap Thrills"
+    artist: "Sia featuring Sean Paul"
+    year: 2016
+    album: "This Is Acting"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 12
+    title: "Needed Me"
+    artist: "Rihanna"
+    year: 2016
+    album: "Anti"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 13
+    title: "Heathens"
+    artist: "Twenty One Pilots"
+    year: 2016
+    album: "Suicide Squad: The Album"
+    soundtrack: true
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 14
+    title: "Don't Mind"
+    artist: "Kent Jones"
+    year: 2016
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 15
+    title: "Cake By The Ocean"
+    artist: "DNCE"
+    year: 2016
+    album: "DNCE"
+    genres:
+      - Pop
+      - Rock
+  - rank: 16
+    title: "Me, Myself & I"
+    artist: "G-Eazy x Bebe Rexha"
+    year: 2016
+    album: "When It's Dark Out"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 17
+    title: "My House"
+    artist: "Flo Rida"
+    year: 2016
+    album: "My House"
+    genres:
+      - Pop
+  - rank: 18
+    title: "Cold Water"
+    artist: "Major Lazer featuring Justin Bieber & MØ"
+    year: 2016
+    single: true
+    genres:
+      - Pop
+  - rank: 19
+    title: "Dangerous Woman"
+    artist: "Ariana Grande"
+    year: 2016
+    album: "Dangerous Woman"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 20
+    title: "Jumpman"
+    artist: "Drake & Future"
+    year: 2016
+    album: "What a Time to Be Alive"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 21
+    title: "I Took A Pill In Ibiza"
+    artist: "Mike Posner"
+    year: 2016
+    album: "At Night, Alone."
+    genres:
+      - Pop
+  - rank: 22
+    title: "Work From Home"
+    artist: "Fifth Harmony featuring Ty Dolla $ign"
+    year: 2016
+    album: "7/27"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 23
+    title: "This Is What You Came For"
+    artist: "Calvin Harris featuring Rihanna"
+    year: 2016
+    single: true
+    genres:
+      - Pop
+  - rank: 24
+    title: "7 Years"
+    artist: "Lukas Graham"
+    year: 2016
+    album: "Lukas Graham"
+    genres:
+      - Pop
+      - Soul
+  - rank: 25
+    title: "Controlla"
+    artist: "Drake"
+    year: 2016
+    album: "Views"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 26
+    title: "Like I'm Gonna Lose You"
+    artist: "Meghan Trainor featuring John Legend"
+    year: 2016
+    album: "Thank You"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 27
+    title: "Here"
+    artist: "Alessia Cara"
+    year: 2016
+    album: "Know-It-All"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 28
+    title: "The Sound of Silence"
+    artist: "Disturbed"
+    year: 2016
+    album: "Immortalized"
+    genres:
+      - Rock
+      - Hard Rock
+    cover: true
+    tags:
+      - Original artist: Simon & Garfunkel
+  - rank: 29
+    title: "Just Like Fire"
+    artist: "Pink"
+    year: 2016
+    album: "Alice Through the Looking Glass"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 30
+    title: "NO"
+    artist: "Meghan Trainor"
+    year: 2016
+    album: "Thank You"
+    genres:
+      - Pop
+  - rank: 31
+    title: "Hands To Myself"
+    artist: "Selena Gomez"
+    year: 2016
+    album: "Revival"
+    genres:
+      - Pop
+  - rank: 32
+    title: "Roses"
+    artist: "The Chainsmokers featuring Rozes"
+    year: 2016
+    album: "Bouquet"
+    genres:
+      - Pop
+  - rank: 33
+    title: "Unsteady"
+    artist: "X Ambassadors"
+    year: 2016
+    album: "VHS"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 34
+    title: "Me Too"
+    artist: "Meghan Trainor"
+    year: 2016
+    album: "Thank You"
+    genres:
+      - Pop
+  - rank: 35
+    title: "Too Good"
+    artist: "Drake featuring Rihanna"
+    year: 2016
+    album: "Views"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 36
+    title: "Low Life"
+    artist: "Future featuring The Weeknd"
+    year: 2016
+    album: "Evol"
+    genres:
+      - Rhythm and Blues
+  - rank: 37
+    title: "What Do You Mean?"
+    artist: "Justin Bieber"
+    year: 2016
+    album: "Purpose"
+    genres:
+      - Pop
+  - rank: 38
+    title: "The Sound"
+    artist: "The 1975"
+    year: 2016
+    album: "I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It"
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+  - rank: 39
+    title: "Starboy"
+    artist: "The Weeknd featuring Daft Punk"
+    year: 2016
+    album: "Starboy"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 40
+    title: "Never Forget You"
+    artist: "Zara Larsson & MNEK"
+    year: 2016
+    album: "So Good"
+    genres:
+      - Pop
+  - rank: 41
+    title: "Let Me Love You"
+    artist: "DJ Snake featuring Justin Bieber"
+    year: 2016
+    album: "Encore"
+    genres:
+      - Pop
+  - rank: 42
+    title: "In the Night"
+    artist: "The Weeknd"
+    year: 2016
+    album: "Beauty Behind the Madness"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 43
+    title: "Out of the Woods"
+    artist: "Taylor Swift"
+    year: 2016
+    album: "1989"
+    genres:
+      - Pop
+  - rank: 44
+    title: "Back To Sleep"
+    artist: "Chris Brown"
+    year: 2016
+    album: "Royalty"
+    genres:
+      - Rhythm and Blues
+  - rank: 45
+    title: "Purple Rain"
+    artist: "Prince & The Revolution"
+    year: 2016
+    album: "Purple Rain"
+    genres:
+      - Pop
+      - Rock
+      - Funk
+    tags:
+      - Culturally important song
+  - rank: 46
+    title: "Exchange"
+    artist: "Bryson Tiller"
+    year: 2016
+    album: "Trapsoul"
+    genres:
+      - Rhythm and Blues
+  - rank: 47
+    title: "Victorious"
+    artist: "Panic! At The Disco"
+    year: 2016
+    album: "Death of a Bachelor"
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+  - rank: 48
+    title: "White Iverson"
+    artist: "Post Malone"
+    year: 2016
+    album: "Stoney"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 49
+    title: "Same Old Love"
+    artist: "Selena Gomez"
+    year: 2016
+    album: "Revival"
+    genres:
+      - Pop
+  - rank: 50
+    title: "Luv"
+    artist: "Tory Lanez"
+    year: 2016
+    album: "I Told You"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 51
+    title: "Ophelia"
+    artist: "The Lumineers"
+    year: 2016
+    album: "Cleopatra"
+    genres:
+      - Folk
+      - Rock
+      - Alternative
+  - rank: 52
+    title: "Ride"
+    artist: "Twenty One Pilots"
+    year: 2016
+    album: "Blurryface"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 53
+    title: "Way Down We Go"
+    artist: "Kaleo"
+    year: 2016
+    album: "A/B"
+    genres:
+      - Alternative
+      - Rock
+      - Blues
+  - rank: 54
+    title: "Bored to Death"
+    artist: "Blink-182"
+    year: 2016
+    album: "California"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 55
+    title: "Dark Necessities"
+    artist: "Red Hot Chili Peppers"
+    year: 2016
+    album: "The Getaway"
+    genres:
+      - Alternative
+      - Rock
+      - Funk
+  - rank: 56
+    title: "Bang Bang"
+    artist: "Green Day"
+    year: 2016
+    album: "Revolution Radio"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 57
+    title: "Trouble"
+    artist: "Cage the Elephant"
+    year: 2016
+    album: "Tell Me I'm Pretty"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 58
+    title: "River"
+    artist: "Bishop Briggs"
+    year: 2016
+    album: "Bishop Briggs"
+    genres:
+      - Alternative
+      - Rock
+      - Soul
+    solo-hit: true
+  - rank: 59
+    title: "Mountain at My Gates"
+    artist: "Foals"
+    year: 2016
+    album: "What Went Down"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 60
+    title: "Genghis Khan"
+    artist: "Miike Snow"
+    year: 2016
+    album: "iii"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 61
+    title: "The Devil's Bleeding Crown"
+    artist: "Volbeat"
+    year: 2016
+    album: "Seal the Deal & Let's Boogie"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 62
+    title: "State of My Head"
+    artist: "Shinedown"
+    year: 2016
+    album: "Threat to Survival"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 63
+    title: "Joy"
+    artist: "Black Stone Cherry"
+    year: 2016
+    album: "Kentucky"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 64
+    title: "My Name Is Human"
+    artist: "Highly Suspect"
+    year: 2016
+    album: "The Boy Who Died Wolf"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 65
+    title: "Take It from Me"
+    artist: "Kongos"
+    year: 2016
+    album: "Egomaniac"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 66
+    title: "Angels Fall"
+    artist: "Breaking Benjamin"
+    year: 2016
+    album: "Dark Before Dawn"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 67
+    title: "Paranoia"
+    artist: "A Day to Remember"
+    year: 2016
+    album: "Bad Vibrations"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 68
+    title: "Feel Invincible"
+    artist: "Skillet"
+    year: 2016
+    album: "Unleashed"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 69
+    title: "The Stage"
+    artist: "Avenged Sevenfold"
+    year: 2016
+    album: "The Stage"
+    genres:
+      - Hard Rock
+  - rank: 70
+    title: "Square Hammer"
+    artist: "Ghost"
+    year: 2016
+    album: "Popestar"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 71
+    title: "Formation"
+    artist: "Beyoncé"
+    year: 2016
+    album: "Lemonade"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 72
+    title: "Cranes in the Sky"
+    artist: "Solange"
+    year: 2016
+    album: "A Seat at the Table"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Grammy Award for Best R&B Performance
+  - rank: 73
+    title: "Ultralight Beam"
+    artist: "Kanye West"
+    year: 2016
+    album: "The Life of Pablo"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important song
+  - rank: 74
+    title: "Lake By the Ocean"
+    artist: "Maxwell"
+    year: 2016
+    album: "blackSUMMERS'night"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Grammy Award for Best R&B Song
+  - rank: 75
+    title: "Kiss It Better"
+    artist: "Rihanna"
+    year: 2016
+    album: "Anti"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 76
+    title: "Come Down"
+    artist: "Anderson .Paak"
+    year: 2016
+    album: "Malibu"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Soul
+  - rank: 77
+    title: "Permission"
+    artist: "Ro James"
+    year: 2016
+    album: "Eldorado"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 78
+    title: "Crush"
+    artist: "Yuna featuring Usher"
+    year: 2016
+    album: "Chapters"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 79
+    title: "Sunshine"
+    artist: "Eric Benét"
+    year: 2016
+    album: "Eric Benét"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 80
+    title: "When I Met You"
+    artist: "Fantasia"
+    year: 2016
+    album: "The Definition Of..."
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 81
+    title: "You Want It Darker"
+    artist: "Leonard Cohen"
+    year: 2016
+    album: "You Want It Darker"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Grammy Award for Best Rock Performance
+  - rank: 82
+    title: "Fire Away"
+    artist: "Chris Stapleton"
+    year: 2016
+    album: "Traveller"
+    genres:
+      - Folk
+      - Rock
+  - rank: 83
+    title: "Ivy"
+    artist: "Frank Ocean"
+    year: 2016
+    album: "Blonde"
+    genres:
+      - Rhythm and Blues
+      - Folk
+      - Alternative
+    tags:
+      - Culturally important song
+  - rank: 84
+    title: "Lazarus"
+    artist: "David Bowie"
+    year: 2016
+    album: "Blackstar"
+    genres:
+      - Rock
+      - Alternative
+      - Folk
+    tags:
+      - Culturally important song
+  - rank: 85
+    title: "33 'GOD'"
+    artist: "Bon Iver"
+    year: 2016
+    album: "22, A Million"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 86
+    title: "The Devil's Bleeding Crown"
+    artist: "Volbeat"
+    year: 2016
+    album: "Seal the Deal & Let's Boogie"
+    genres:
+      - Hard Rock
+      - Blues
+  - rank: 87
+    title: "My Road"
+    artist: "Bob Margolin"
+    year: 2016
+    album: "My Road"
+    genres:
+      - Blues
+  - rank: 88
+    title: "The Long Journey Home"
+    artist: "Vaneese Thomas"
+    year: 2016
+    album: "The Long Journey Home"
+    genres:
+      - Blues
+      - Soul
+  - rank: 89
+    title: "Blues & Ballads"
+    artist: "Luther Dickinson"
+    year: 2016
+    album: "Blues & Ballads"
+    genres:
+      - Blues
+  - rank: 90
+    title: "I'm Glad Trouble Don't Last Always"
+    artist: "Luke Winslow-King"
+    year: 2016
+    album: "I'm Glad Trouble Don't Last Always"
+    genres:
+      - Blues
+  - rank: 91
+    title: "Unconditional Love"
+    artist: "Esperanza Spalding"
+    year: 2016
+    album: "Emily's D+Evolution"
+    genres:
+      - Jazz
+      - Soul
+  - rank: 92
+    title: "Gemini"
+    artist: "Snarky Puppy"
+    year: 2016
+    album: "Culcha Vulcha"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Grammy Award for Best Contemporary Instrumental Album
+  - rank: 93
+    title: "Holding On"
+    artist: "Gregory Porter"
+    year: 2016
+    album: "Take Me to the Alley"
+    genres:
+      - Jazz
+      - Soul
+    tags:
+      - Grammy Award for Best Jazz Vocal Album
+  - rank: 94
+    title: "Jolene"
+    artist: "John Scofield"
+    year: 2016
+    album: "Country for Old Men"
+    genres:
+      - Jazz
+  - rank: 95
+    title: "Straight No Chaser"
+    artist: "Dr. Lonnie Smith"
+    year: 2016
+    album: "Evolution"
+    genres:
+      - Jazz
+  - rank: 96
+    title: "Drone Bomb Me"
+    artist: "Anohni"
+    year: 2016
+    album: "Hopelessness"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Culturally important song
+  - rank: 97
+    title: "Wow"
+    artist: "Beck"
+    year: 2016
+    album: "Colors"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 98
+    title: "Me and Your Mama"
+    artist: "Childish Gambino"
+    year: 2016
+    album: "Awaken, My Love!"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+  - rank: 99
+    title: "Last You Heard of Me"
+    artist: "Joyce Manor"
+    year: 2016
+    album: "Cody"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 100
+    title: "Joanie"
+    artist: "The Front Bottoms"
+    year: 2016
+    album: "Needy When I'm Needy"
+    genres:
+      - Alternative
+      - Rock
+      - Folk

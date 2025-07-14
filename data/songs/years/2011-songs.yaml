@@ -1,0 +1,865 @@
+songs:
+  - rank: 1
+    title: "Rolling in the Deep"
+    artist: "Adele"
+    year: 2011
+    album: "21"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Grammy Award for Record of the Year
+      - Culturally important song
+  - rank: 2
+    title: "Party Rock Anthem"
+    artist: "LMFAO featuring Lauren Bennett and GoonRock"
+    year: 2011
+    album: "Sorry for Party Rocking"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Crossover hit
+  - rank: 3
+    title: "Firework"
+    artist: "Katy Perry"
+    year: 2011
+    album: "Teenage Dream"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 4
+    title: "E.T."
+    artist: "Katy Perry featuring Kanye West"
+    year: 2011
+    album: "Teenage Dream"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 5
+    title: "Give Me Everything"
+    artist: "Pitbull featuring Ne-Yo, Afrojack and Nayer"
+    year: 2011
+    album: "Planet Pit"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 6
+    title: "Grenade"
+    artist: "Bruno Mars"
+    year: 2011
+    album: "Doo-Wops & Hooligans"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 7
+    title: "Fuck You (Forget You)"
+    artist: "CeeLo Green"
+    year: 2011
+    album: "The Lady Killer"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Grammy Award for Best Urban/Alternative Performance
+  - rank: 8
+    title: "Super Bass"
+    artist: "Nicki Minaj"
+    year: 2011
+    album: "Pink Friday"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 9
+    title: "Moves like Jagger"
+    artist: "Maroon 5 featuring Christina Aguilera"
+    year: 2011
+    album: "Hands All Over"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 10
+    title: "Just Can't Get Enough"
+    artist: "The Black Eyed Peas"
+    year: 2011
+    album: "The Beginning"
+    genres:
+      - Pop
+  - rank: 11
+    title: "On the Floor"
+    artist: "Jennifer Lopez featuring Pitbull"
+    year: 2011
+    album: "Love?"
+    genres:
+      - Pop
+  - rank: 12
+    title: "S&M"
+    artist: "Rihanna"
+    year: 2011
+    album: "Loud"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 13
+    title: "Pumped Up Kicks"
+    artist: "Foster the People"
+    year: 2011
+    album: "Torches"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+    solo-hit: true
+    tags:
+      - Fan favorite
+  - rank: 14
+    title: "Last Friday Night (T.G.I.F.)"
+    artist: "Katy Perry"
+    year: 2011
+    album: "Teenage Dream"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 15
+    title: "Just the Way You Are"
+    artist: "Bruno Mars"
+    year: 2011
+    album: "Doo-Wops & Hooligans"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 16
+    title: "Tonight (I'm Lovin' You)"
+    artist: "Enrique Iglesias featuring Ludacris and DJ Frank E"
+    year: 2011
+    album: "Euphoria"
+    genres:
+      - Pop
+  - rank: 17
+    title: "Raise Your Glass"
+    artist: "Pink"
+    year: 2011
+    album: "Greatest Hits... So Far!!!"
+    genres:
+      - Pop
+      - Rock
+  - rank: 18
+    title: "Born This Way"
+    artist: "Lady Gaga"
+    year: 2011
+    album: "Born This Way"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Culturally important song
+  - rank: 19
+    title: "Fuckin' Perfect"
+    artist: "Pink"
+    year: 2011
+    album: "Greatest Hits... So Far!!!"
+    genres:
+      - Pop
+      - Rock
+  - rank: 20
+    title: "What's My Name?"
+    artist: "Rihanna featuring Drake"
+    year: 2011
+    album: "Loud"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 21
+    title: "Look at Me Now"
+    artist: "Chris Brown featuring Lil Wayne and Busta Rhymes"
+    year: 2011
+    album: "F.A.M.E."
+    genres:
+      - Rhythm and Blues
+  - rank: 22
+    title: "Down on Me"
+    artist: "Jeremih featuring 50 Cent"
+    year: 2011
+    album: "All About You"
+    genres:
+      - Rhythm and Blues
+  - rank: 23
+    title: "How to Love"
+    artist: "Lil Wayne"
+    year: 2011
+    album: "Tha Carter IV"
+    genres:
+      - Rhythm and Blues
+  - rank: 24
+    title: "Someone Like You"
+    artist: "Adele"
+    year: 2011
+    album: "21"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Number-one Billboard Hot 100 song
+      - Fan favorite
+  - rank: 25
+    title: "Good Life"
+    artist: "OneRepublic"
+    year: 2011
+    album: "Waking Up"
+    genres:
+      - Pop
+      - Rock
+  - rank: 26
+    title: "The Lazy Song"
+    artist: "Bruno Mars"
+    year: 2011
+    album: "Doo-Wops & Hooligans"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 27
+    title: "Till the World Ends"
+    artist: "Britney Spears"
+    year: 2011
+    album: "Femme Fatale"
+    genres:
+      - Pop
+  - rank: 28
+    title: "The Show Goes On"
+    artist: "Lupe Fiasco"
+    year: 2011
+    album: "Lasers"
+    genres:
+      - Pop
+  - rank: 29
+    title: "The Edge of Glory"
+    artist: "Lady Gaga"
+    year: 2011
+    album: "Born This Way"
+    genres:
+      - Pop
+    tags:
+      - Culturally important song
+  - rank: 30
+    title: "We R Who We R"
+    artist: "Kesha"
+    year: 2011
+    album: "Cannibal"
+    genres:
+      - Pop
+  - rank: 31
+    title: "Black and Yellow"
+    artist: "Wiz Khalifa"
+    year: 2011
+    album: "Rolling Papers"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 32
+    title: "Tonight Tonight"
+    artist: "Hot Chelle Rae"
+    year: 2011
+    album: "Whatever"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 33
+    title: "Blow"
+    artist: "Kesha"
+    year: 2011
+    album: "Cannibal"
+    genres:
+      - Pop
+  - rank: 34
+    title: "Lighters"
+    artist: "Bad Meets Evil featuring Bruno Mars"
+    year: 2011
+    album: "Hell: The Sequel"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 35
+    title: "Stereo Hearts"
+    artist: "Gym Class Heroes featuring Adam Levine"
+    year: 2011
+    album: "The Papercut Chronicles II"
+    genres:
+      - Pop
+  - rank: 36
+    title: "The Time (Dirty Bit)"
+    artist: "The Black Eyed Peas"
+    year: 2011
+    album: "The Beginning"
+    genres:
+      - Pop
+  - rank: 37
+    title: "Coming Home"
+    artist: "Diddy – Dirty Money featuring Skylar Grey"
+    year: 2011
+    album: "Last Train to Paris"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 38
+    title: "Hey Baby (Drop It to the Floor)"
+    artist: "Pitbull featuring T-Pain"
+    year: 2011
+    album: "Planet Pit"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 39
+    title: "Only Girl (In the World)"
+    artist: "Rihanna"
+    year: 2011
+    album: "Loud"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 40
+    title: "6 Foot 7 Foot"
+    artist: "Lil Wayne featuring Cory Gunz"
+    year: 2011
+    album: "Tha Carter IV"
+    genres:
+      - Rhythm and Blues
+  - rank: 41
+    title: "Just a Kiss"
+    artist: "Lady Antebellum"
+    year: 2011
+    album: "Own the Night"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 42
+    title: "Dynamite"
+    artist: "Taio Cruz"
+    year: 2011
+    album: "Rokstarr"
+    genres:
+      - Pop
+  - rank: 43
+    title: "No Hands"
+    artist: "Waka Flocka Flame featuring Wale and Roscoe Dash"
+    year: 2011
+    album: "Flockaveli"
+    genres:
+      - Rhythm and Blues
+  - rank: 44
+    title: "I Wanna Go"
+    artist: "Britney Spears"
+    year: 2011
+    album: "Femme Fatale"
+    genres:
+      - Pop
+  - rank: 45
+    title: "I'm on One"
+    artist: "DJ Khaled featuring Drake, Rick Ross and Lil Wayne"
+    year: 2011
+    album: "We the Best Forever"
+    genres:
+      - Rhythm and Blues
+  - rank: 46
+    title: "You Make Me Feel..."
+    artist: "Cobra Starship featuring Sabi"
+    year: 2011
+    album: "Night Shades"
+    genres:
+      - Pop
+  - rank: 47
+    title: "Yeah 3x"
+    artist: "Chris Brown"
+    year: 2011
+    album: "F.A.M.E."
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 48
+    title: "Moment 4 Life"
+    artist: "Nicki Minaj featuring Drake"
+    year: 2011
+    album: "Pink Friday"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 49
+    title: "I Need a Doctor"
+    artist: "Dr. Dre featuring Eminem and Skylar Grey"
+    year: 2011
+    single: true
+    genres:
+      - Pop
+  - rank: 50
+    title: "Motivation"
+    artist: "Kelly Rowland featuring Lil Wayne"
+    year: 2011
+    album: "Here I Am"
+    genres:
+      - Rhythm and Blues
+  - rank: 51
+    title: "Sure Thing"
+    artist: "Miguel"
+    year: 2011
+    album: "All I Want Is You"
+    genres:
+      - Rhythm and Blues
+  - rank: 52
+    title: "Animal"
+    artist: "Neon Trees"
+    year: 2011
+    album: "Habits"
+    genres:
+      - Alternative
+      - Rock
+      - Pop
+  - rank: 53
+    title: "Jar of Hearts"
+    artist: "Christina Perri"
+    year: 2011
+    album: "Lovestrong"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 54
+    title: "Rolling in the Deep"
+    artist: "Adele"
+    year: 2011
+    album: "21"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "Rocketeer"
+    artist: "Far East Movement featuring Ryan Tedder"
+    year: 2011
+    album: "Free Wired"
+    genres:
+      - Pop
+  - rank: 56
+    title: "You and I"
+    artist: "Lady Gaga"
+    year: 2011
+    album: "Born This Way"
+    genres:
+      - Pop
+      - Rock
+  - rank: 57
+    title: "Hold It Against Me"
+    artist: "Britney Spears"
+    year: 2011
+    album: "Femme Fatale"
+    genres:
+      - Pop
+    tags:
+      - Number-one Billboard Hot 100 song
+  - rank: 58
+    title: "More"
+    artist: "Usher"
+    year: 2011
+    album: "Raymond v. Raymond"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 59
+    title: "What the Hell"
+    artist: "Avril Lavigne"
+    year: 2011
+    album: "Goodbye Lullaby"
+    genres:
+      - Pop
+      - Rock
+  - rank: 60
+    title: "Written in the Stars"
+    artist: "Tinie Tempah featuring Eric Turner"
+    year: 2011
+    album: "Disc-Overy"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 61
+    title: "Whip My Hair"
+    artist: "Willow"
+    year: 2011
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    solo-hit: true
+  - rank: 62
+    title: "Colder Weather"
+    artist: "Zac Brown Band"
+    year: 2011
+    album: "You Get What You Give"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 63
+    title: "For the First Time"
+    artist: "The Script"
+    year: 2011
+    album: "Science & Faith"
+    genres:
+      - Pop
+      - Rock
+      - Soft Rock
+  - rank: 64
+    title: "Make You Feel My Love"
+    artist: "Adele"
+    year: 2011
+    album: "19"
+    genres:
+      - Pop
+      - Soul
+    cover: true
+    tags:
+      - Original artist: Bob Dylan
+  - rank: 65
+    title: "Never Say Never"
+    artist: "Justin Bieber featuring Jaden Smith"
+    year: 2011
+    album: "Never Say Never: The Remixes"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 66
+    title: "Price Tag"
+    artist: "Jessie J featuring B.o.B"
+    year: 2011
+    album: "Who You Are"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 67
+    title: "Shake Me Down"
+    artist: "Cage The Elephant"
+    year: 2011
+    album: "Thank You Happy Birthday"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 68
+    title: "Rope"
+    artist: "Foo Fighters"
+    year: 2011
+    album: "Wasting Light"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Alternative song
+      - Grammy Award nominee
+  - rank: 69
+    title: "The Cave"
+    artist: "Mumford & Sons"
+    year: 2011
+    album: "Sigh No More"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 70
+    title: "Walk"
+    artist: "Foo Fighters"
+    year: 2011
+    album: "Wasting Light"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Alternative song
+      - Grammy Award for Best Rock Song
+  - rank: 71
+    title: "Sail"
+    artist: "AWOLNATION"
+    year: 2011
+    album: "Megalithic Symphony"
+    genres:
+      - Alternative
+      - Rock
+    solo-hit: true
+  - rank: 72
+    title: "Adventures of Rain Dance Maggie"
+    artist: "Red Hot Chili Peppers"
+    year: 2011
+    album: "I'm with You"
+    genres:
+      - Rock
+      - Alternative
+      - Funk
+    tags:
+      - Number-one Billboard Alternative song
+  - rank: 73
+    title: "Lonely Boy"
+    artist: "The Black Keys"
+    year: 2011
+    album: "El Camino"
+    genres:
+      - Rock
+      - Blues
+      - Alternative
+    tags:
+      - Grammy Award for Best Rock Song
+      - Number-one Billboard Alternative song
+  - rank: 74
+    title: "Cough Syrup"
+    artist: "Young the Giant"
+    year: 2011
+    album: "Young the Giant"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 75
+    title: "Howlin' for You"
+    artist: "The Black Keys"
+    year: 2011
+    album: "Brothers"
+    genres:
+      - Blues
+      - Rock
+      - Alternative
+  - rank: 76
+    title: "Country Girl (Shake It for Me)"
+    artist: "Luke Bryan"
+    year: 2011
+    album: "Tailgates & Tanlines"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+  - rank: 77
+    title: "Country Song"
+    artist: "Seether"
+    year: 2011
+    album: "Holding Onto Strings Better Left to Fray"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number-one Billboard Mainstream Rock song
+  - rank: 78
+    title: "Lies of the Beautiful People"
+    artist: "Sixx:A.M."
+    year: 2011
+    album: "This Is Gonna Hurt"
+    genres:
+      - Hard Rock
+      - Alternative
+    solo-hit: true
+  - rank: 79
+    title: "Help Is on the Way"
+    artist: "Rise Against"
+    year: 2011
+    album: "Endgame"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+  - rank: 80
+    title: "Not Again"
+    artist: "Staind"
+    year: 2011
+    album: "Staind"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 81
+    title: "So Far Away"
+    artist: "Avenged Sevenfold"
+    year: 2011
+    album: "Nightmare"
+    genres:
+      - Hard Rock
+  - rank: 82
+    title: "Diamond Eyes (Boom-Lay Boom-Lay Boom)"
+    artist: "Shinedown"
+    year: 2011
+    album: "The Sound of Madness"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 83
+    title: "Awake and Alive"
+    artist: "Skillet"
+    year: 2011
+    album: "Awake"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+  - rank: 84
+    title: "Lowlife"
+    artist: "Theory of a Deadman"
+    year: 2011
+    album: "The Truth Is..."
+    genres:
+      - Rock
+      - Alternative
+  - rank: 85
+    title: "Face to the Floor"
+    artist: "Chevelle"
+    year: 2011
+    album: "Hats Off to the Bull"
+    genres:
+      - Alternative
+      - Rock
+      - Hard Rock
+  - rank: 86
+    title: "Bottoms Up"
+    artist: "Nickelback"
+    year: 2011
+    album: "Here and Now"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 87
+    title: "Burn"
+    artist: "Papa Roach"
+    year: 2011
+    album: "Time for Annihilation"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 88
+    title: "Ghost of Days Gone By"
+    artist: "Alter Bridge"
+    year: 2011
+    album: "AB III"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+  - rank: 89
+    title: "Tonight"
+    artist: "Seether"
+    year: 2011
+    album: "Holding Onto Strings Better Left to Fray"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 90
+    title: "Radioactive"
+    artist: "Kings of Leon"
+    year: 2011
+    album: "Come Around Sundown"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 91
+    title: "Every Teardrop Is a Waterfall"
+    artist: "Coldplay"
+    year: 2011
+    album: "Mylo Xyloto"
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+  - rank: 92
+    title: "Paradise"
+    artist: "Coldplay"
+    year: 2011
+    album: "Mylo Xyloto"
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: "Tighten Up"
+    artist: "The Black Keys"
+    year: 2011
+    album: "Brothers"
+    genres:
+      - Blues
+      - Rock
+      - Alternative
+  - rank: 94
+    title: "Video Games"
+    artist: "Lana Del Rey"
+    year: 2011
+    album: "Born to Die"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Culturally important song
+  - rank: 95
+    title: "Holocene"
+    artist: "Bon Iver"
+    year: 2011
+    album: "Bon Iver, Bon Iver"
+    genres:
+      - Folk
+      - Alternative
+    tags:
+      - Grammy Award nominee
+  - rank: 96
+    title: "Put the Top Down"
+    artist: "Dave Koz featuring Lee Ritenour"
+    year: 2011
+    album: "Hello Tomorrow"
+    genres:
+      - Jazz
+      - Smooth Jazz
+  - rank: 97
+    title: "Boom Town"
+    artist: "Richard Elliot"
+    year: 2011
+    album: "In the Zone"
+    genres:
+      - Jazz
+  - rank: 98
+    title: "Living Proof"
+    artist: "Buddy Guy"
+    year: 2011
+    album: "Living Proof"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Blues Music Award for Song of the Year
+  - rank: 99
+    title: "Dust Bowl"
+    artist: "Joe Bonamassa"
+    year: 2011
+    album: "Dust Bowl"
+    genres:
+      - Blues
+      - Rock
+  - rank: 100
+    title: "The Words That Maketh Murder"
+    artist: "PJ Harvey"
+    year: 2011
+    album: "Let England Shake"
+    genres:
+      - Folk
+      - Rock
+      - Alternative
+    tags:
+      - Culturally important song

@@ -1,0 +1,630 @@
+songs:
+  - rank: 1
+    title: "The Sign"
+    artist: "Ace of Base"
+    year: 1994
+    album: "The Sign"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 Year-End #1
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: "I Swear"
+    artist: "All-4-One"
+    year: 1994
+    album: "All-4-One"
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Original artist: John Michael Montgomery
+  - rank: 3
+    title: "I'll Make Love to You"
+    artist: "Boyz II Men"
+    year: 1994
+    album: "II"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: "The Power of Love"
+    artist: "Céline Dion"
+    year: 1994
+    album: "The Colour of My Love"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "Hero"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Music Box"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "Stay (I Missed You)"
+    artist: "Lisa Loeb and Nine Stories"
+    year: 1994
+    album: "Tails"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: "Breathe Again"
+    artist: "Toni Braxton"
+    year: 1994
+    album: "Toni Braxton"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 8
+    title: "All for Love"
+    artist: "Bryan Adams, Rod Stewart and Sting"
+    year: 1994
+    album: "The Three Musketeers Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "All That She Wants"
+    artist: "Ace of Base"
+    year: 1994
+    album: "The Sign"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 10
+    title: "Don't Turn Around"
+    artist: "Ace of Base"
+    year: 1994
+    album: "The Sign"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+      - Original artist: Tina Turner
+  - rank: 11
+    title: "Bump n' Grind"
+    artist: "R. Kelly"
+    year: 1994
+    album: "12 Play"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 12
+    title: "Again"
+    artist: "Janet Jackson"
+    year: 1994
+    album: "Janet"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 13
+    title: "Regulate"
+    artist: "Warren G and Nate Dogg"
+    year: 1994
+    album: "Regulate...G Funk Era"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 14
+    title: "Whatta Man"
+    artist: "Salt-N-Pepa with En Vogue"
+    year: 1994
+    album: "Very Necessary"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 15
+    title: "On Bended Knee"
+    artist: "Boyz II Men"
+    year: 1994
+    album: "II"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 16
+    title: "Back & Forth"
+    artist: "Aaliyah"
+    year: 1994
+    album: "Age Ain't Nothing but a Number"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 17
+    title: "Now and Forever"
+    artist: "Richard Marx"
+    year: 1994
+    album: "Paid Vacation"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 18
+    title: "When Can I See You"
+    artist: "Babyface"
+    year: 1994
+    album: "For the Cool in You"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 19
+    title: "Without You"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Music Box"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 20
+    title: "Anytime You Need a Friend"
+    artist: "Mariah Carey"
+    year: 1994
+    album: "Music Box"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #12
+  - rank: 21
+    title: "All I Wanna Do"
+    artist: "Sheryl Crow"
+    year: 1994
+    album: "Tuesday Night Music Club"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 22
+    title: "Shoop"
+    artist: "Salt-N-Pepa"
+    year: 1994
+    album: "Very Necessary"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 23
+    title: "Tootsee Roll"
+    artist: "69 Boyz"
+    year: 1994
+    album: "199Quad"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 24
+    title: "Fantastic Voyage"
+    artist: "Coolio"
+    year: 1994
+    album: "It Takes a Thief"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 25
+    title: "Gangsta's Paradise"
+    artist: "Coolio featuring L.V."
+    year: 1994
+    album: "Gangsta's Paradise"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 26
+    title: "Can You Feel the Love Tonight"
+    artist: "Elton John"
+    year: 1994
+    album: "The Lion King Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 27
+    title: "You Mean the World to Me"
+    artist: "Toni Braxton"
+    year: 1994
+    album: "Toni Braxton"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 28
+    title: "Gin and Juice"
+    artist: "Snoop Doggy Dogg"
+    year: 1994
+    album: "Doggystyle"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 29
+    title: "Never Lie"
+    artist: "Immature"
+    year: 1994
+    album: "Playtyme Is Over"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 30
+    title: "Streets of Philadelphia"
+    artist: "Bruce Springsteen"
+    year: 1994
+    album: "Philadelphia Soundtrack"
+    soundtrack: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 31
+    title: "Far Behind"
+    artist: "Candlebox"
+    year: 1994
+    album: "Candlebox"
+    genres:
+      - Rock
+      - Grunge
+    tags:
+      - Billboard Mainstream Rock #7
+  - rank: 32
+    title: "Shine"
+    artist: "Collective Soul"
+    year: 1994
+    album: "Hints Allegations and Things Left Unsaid"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 33
+    title: "Black Hole Sun"
+    artist: "Soundgarden"
+    year: 1994
+    album: "Superunknown"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+      - Culturally important
+  - rank: 34
+    title: "Vasoline"
+    artist: "Stone Temple Pilots"
+    year: 1994
+    album: "Purple"
+    genres:
+      - Alternative
+      - Grunge
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 35
+    title: "Backwater"
+    artist: "Meat Puppets"
+    year: 1994
+    album: "Too High to Die"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #2
+  - rank: 36
+    title: "No Excuses"
+    artist: "Alice in Chains"
+    year: 1994
+    album: "Jar of Flies"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 37
+    title: "Interstate Love Song"
+    artist: "Stone Temple Pilots"
+    year: 1994
+    album: "Purple"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+      - Culturally important
+  - rank: 38
+    title: "Basket Case"
+    artist: "Green Day"
+    year: 1994
+    album: "Dookie"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 39
+    title: "Come Out and Play"
+    artist: "The Offspring"
+    year: 1994
+    album: "Smash"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 40
+    title: "Closer"
+    artist: "Nine Inch Nails"
+    year: 1994
+    album: "The Downward Spiral"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 41
+    title: "Zombie"
+    artist: "The Cranberries"
+    year: 1994
+    album: "No Need to Argue"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 42
+    title: "Self Esteem"
+    artist: "The Offspring"
+    year: 1994
+    album: "Smash"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 43
+    title: "Fade Into You"
+    artist: "Mazzy Star"
+    year: 1994
+    album: "So Tonight That I Might See"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #3
+  - rank: 44
+    title: "When I Come Around"
+    artist: "Green Day"
+    year: 1994
+    album: "Dookie"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 45
+    title: "About a Girl"
+    artist: "Nirvana"
+    year: 1994
+    album: "MTV Unplugged in New York"
+    cover: true
+    genres:
+      - Alternative
+      - Grunge
+    tags:
+      - Billboard Alternative #1
+      - Original artist: Nirvana (original version)
+  - rank: 46
+    title: "Better Man"
+    artist: "Pearl Jam"
+    year: 1994
+    album: "Vitalogy"
+    genres:
+      - Alternative
+      - Grunge
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 47
+    title: "You Don't Know How It Feels"
+    artist: "Tom Petty"
+    year: 1994
+    album: "Wildflowers"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 48
+    title: "Lightning Crashes"
+    artist: "Live"
+    year: 1994
+    album: "Throwing Copper"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #1
+  - rank: 49
+    title: "Plowed"
+    artist: "Sponge"
+    year: 1994
+    album: "Rotting Pinata"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #5
+  - rank: 50
+    title: "Loser"
+    artist: "Beck"
+    year: 1994
+    album: "Mellow Gold"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 51
+    title: "Violet"
+    artist: "Hole"
+    year: 1994
+    album: "Live Through This"
+    genres:
+      - Alternative
+      - Grunge
+    tags:
+      - Culturally important
+  - rank: 52
+    title: "Understanding"
+    artist: "Xscape"
+    year: 1994
+    album: "Hummin' Comin' at 'Cha"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 53
+    title: "Cry for You"
+    artist: "Jodeci"
+    year: 1994
+    album: "Diary of a Mad Band"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 54
+    title: "Your Body's Callin'"
+    artist: "R. Kelly"
+    year: 1994
+    album: "12 Play"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #2
+  - rank: 55
+    title: "Practice What You Preach"
+    artist: "Barry White"
+    year: 1994
+    album: "The Icon Is Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #1
+  - rank: 56
+    title: "Creep"
+    artist: "TLC"
+    year: 1994
+    album: "CrazySexyCool"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 57
+    title: "MoodSwing"
+    artist: "Joshua Redman"
+    year: 1994
+    album: "MoodSwing"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 58
+    title: "Hand Jive"
+    artist: "John Scofield"
+    year: 1994
+    album: "Hand Jive"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 59
+    title: "Slippin' In"
+    artist: "Buddy Guy"
+    year: 1994
+    album: "Slippin' In"
+    genres:
+      - Blues
+    tags:
+      - Title track
+  - rank: 60
+    title: "The Mask and Mirror"
+    artist: "Loreena McKennitt"
+    year: 1994
+    album: "The Mask and Mirror"
+    genres:
+      - Folk
+    tags:
+      - Title track
+  - rank: 61
+    title: "Whiskey for the Holy Ghost"
+    artist: "Mark Lanegan"
+    year: 1994
+    album: "Whiskey for the Holy Ghost"
+    genres:
+      - Folk
+    tags:
+      - Title track
+  - rank: 62
+    title: "Better Man"
+    artist: "Pearl Jam"
+    year: 1994
+    album: "Vitalogy"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 63
+    title: "Sabotage"
+    artist: "Beastie Boys"
+    year: 1994
+    album: "Ill Communication"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 64
+    title: "Hurt"
+    artist: "Nine Inch Nails"
+    year: 1994
+    album: "The Downward Spiral"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 65
+    title: "Where Did You Sleep Last Night"
+    artist: "Nirvana"
+    year: 1994
+    album: "MTV Unplugged in New York"
+    cover: true
+    genres:
+      - Alternative
+      - Grunge
+    tags:
+      - Original artist: Lead Belly
+      - Culturally important

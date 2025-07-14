@@ -1,0 +1,622 @@
+songs:
+  - rank: 1
+    title: "Macarena (Bayside Boys Mix)"
+    artist: "Los Del Rio"
+    year: 1996
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 Year-End #1
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: "One Sweet Day"
+    artist: "Mariah Carey and Boyz II Men"
+    year: 1996
+    album: "Daydream"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 3
+    title: "Because You Loved Me"
+    artist: "Celine Dion"
+    year: 1996
+    album: "Falling into You"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: "Nobody Knows"
+    artist: "The Tony Rich Project"
+    year: 1996
+    album: "Words"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 5
+    title: "Always Be My Baby"
+    artist: "Mariah Carey"
+    year: 1996
+    album: "Daydream"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "Give Me One Reason"
+    artist: "Tracy Chapman"
+    year: 1996
+    album: "New Beginning"
+    genres:
+      - Folk
+      - Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 7
+    title: "I Love You Always Forever"
+    artist: "Donna Lewis"
+    year: 1996
+    album: "Now in a Minute"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 8
+    title: "You're Makin' Me High"
+    artist: "Toni Braxton"
+    year: 1996
+    album: "Secrets"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "Not Gon' Cry"
+    artist: "Mary J. Blige"
+    year: 1996
+    album: "Waiting to Exhale Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 10
+    title: "Missing"
+    artist: "Everything but the Girl"
+    year: 1996
+    album: "Amplified Heart"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 11
+    title: "Ironic"
+    artist: "Alanis Morissette"
+    year: 1996
+    album: "Jagged Little Pill"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 12
+    title: "Be My Lover"
+    artist: "La Bouche"
+    year: 1996
+    album: "Sweet Dreams"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 13
+    title: "Falling"
+    artist: "Montell Jordan"
+    year: 1996
+    album: "More..."
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #18
+  - rank: 14
+    title: "1, 2, 3, 4 (Sumpin' New)"
+    artist: "Coolio"
+    year: 1996
+    album: "Gangsta's Paradise"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 15
+    title: "Til I Hear It from You"
+    artist: "Gin Blossoms"
+    year: 1996
+    album: "Empire Records Soundtrack"
+    soundtrack: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 16
+    title: "Change the World"
+    artist: "Eric Clapton"
+    year: 1996
+    album: "Phenomenon Soundtrack"
+    soundtrack: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 17
+    title: "You Learn"
+    artist: "Alanis Morissette"
+    year: 1996
+    album: "Jagged Little Pill"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 18
+    title: "Loungin"
+    artist: "LL Cool J"
+    year: 1996
+    album: "Mr. Smith"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 19
+    title: "Insensitive"
+    artist: "Jann Arden"
+    year: 1996
+    album: "Living Under June"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #12
+  - rank: 20
+    title: "Key West Intermezzo (I Saw You First)"
+    artist: "John Mellencamp"
+    year: 1996
+    album: "Mr. Happy Go Lucky"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #14
+  - rank: 21
+    title: "Who Will Save Your Soul"
+    artist: "Jewel"
+    year: 1996
+    album: "Pieces of You"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #11
+  - rank: 22
+    title: "Un-Break My Heart"
+    artist: "Toni Braxton"
+    year: 1996
+    album: "Secrets"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 23
+    title: "I Want to Come Over"
+    artist: "Melissa Etheridge"
+    year: 1996
+    album: "Your Little Secret"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #22
+  - rank: 24
+    title: "All the Things (Your Man Won't Do)"
+    artist: "Joe"
+    year: 1996
+    album: "Don't Be a Menace Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #11
+  - rank: 25
+    title: "Wonderwall"
+    artist: "Oasis"
+    year: 1996
+    album: "(What's the Story) Morning Glory?"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 26
+    title: "Don't Speak"
+    artist: "No Doubt"
+    year: 1996
+    album: "Tragic Kingdom"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Hot 100 #1 Airplay
+  - rank: 27
+    title: "Swallowed"
+    artist: "Bush"
+    year: 1996
+    album: "Razorblade Suitcase"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 28
+    title: "Standing Outside a Broken Phone Booth with Money in My Hand"
+    artist: "Primitive Radio Gods"
+    year: 1996
+    album: "Rocket"
+    solo-hit: true
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 29
+    title: "Champagne Supernova"
+    artist: "Oasis"
+    year: 1996
+    album: "(What's the Story) Morning Glory?"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 30
+    title: "Down"
+    artist: "311"
+    year: 1996
+    album: "311"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 31
+    title: "Salvation"
+    artist: "The Cranberries"
+    year: 1996
+    album: "To the Faithful Departed"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 32
+    title: "Pepper"
+    artist: "Butthole Surfers"
+    year: 1996
+    album: "Electriclarryland"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 33
+    title: "What I Got"
+    artist: "Sublime"
+    year: 1996
+    album: "Sublime"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 34
+    title: "Spiderwebs"
+    artist: "No Doubt"
+    year: 1996
+    album: "Tragic Kingdom"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 35
+    title: "Santa Monica"
+    artist: "Everclear"
+    year: 1996
+    album: "Sparkle and Fade"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #1
+  - rank: 36
+    title: "Burden in My Hand"
+    artist: "Soundgarden"
+    year: 1996
+    album: "Down on the Upside"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 37
+    title: "Counting Blue Cars"
+    artist: "Dishwalla"
+    year: 1996
+    album: "Pet Your Friends"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 38
+    title: "In the Meantime"
+    artist: "Spacehog"
+    year: 1996
+    album: "Resident Alien"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 39
+    title: "Until It Sleeps"
+    artist: "Metallica"
+    year: 1996
+    album: "Load"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 40
+    title: "Trippin' on a Hole in a Paper Heart"
+    artist: "Stone Temple Pilots"
+    year: 1996
+    album: "Tiny Music... Songs from the Vatican Gift Shop"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 41
+    title: "Hail, Hail"
+    artist: "Pearl Jam"
+    year: 1996
+    album: "No Code"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 42
+    title: "Me Wise Magic"
+    artist: "Van Halen"
+    year: 1996
+    album: "Best Of – Volume I"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 43
+    title: "Blow Up the Outside World"
+    artist: "Soundgarden"
+    year: 1996
+    album: "Down on the Upside"
+    genres:
+      - Grunge
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 44
+    title: "Lady Picture Show"
+    artist: "Stone Temple Pilots"
+    year: 1996
+    album: "Tiny Music... Songs from the Vatican Gift Shop"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 45
+    title: "No Diggity"
+    artist: "Blackstreet featuring Dr. Dre and Queen Pen"
+    year: 1996
+    album: "Another Level"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 46
+    title: "Pony"
+    artist: "Ginuwine"
+    year: 1996
+    album: "Ginuwine...The Bachelor"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 47
+    title: "I Believe I Can Fly"
+    artist: "R. Kelly"
+    year: 1996
+    album: "Space Jam Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 48
+    title: "Nobody"
+    artist: "Keith Sweat featuring Athena Cage"
+    year: 1996
+    album: "Keith Sweat"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 49
+    title: "Last Night"
+    artist: "Az Yet"
+    year: 1996
+    album: "Az Yet"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 50
+    title: "If Your Girl Only Knew"
+    artist: "Aaliyah"
+    year: 1996
+    album: "One in a Million"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 51
+    title: "One in a Million"
+    artist: "Aaliyah"
+    year: 1996
+    album: "One in a Million"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Culturally important
+  - rank: 52
+    title: "Can't Nobody Hold Me Down"
+    artist: "Puff Daddy featuring Mase"
+    year: 1996
+    album: "No Way Out"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 53
+    title: "Quartet"
+    artist: "Bill Frisell"
+    year: 1996
+    album: "Quartet"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 54
+    title: "Conversin' With The Elders"
+    artist: "James Carter"
+    year: 1996
+    album: "Conversin' With The Elders"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 55
+    title: "Message From Home"
+    artist: "Pharoah Sanders"
+    year: 1996
+    album: "Message From Home"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 56
+    title: "A Ass Pocket Of Whiskey"
+    artist: "R. L. Burnside"
+    year: 1996
+    album: "A Ass Pocket Of Whiskey"
+    genres:
+      - Blues
+    tags:
+      - Title track
+  - rank: 57
+    title: "Three Snakes and One Charm"
+    artist: "The Black Crowes"
+    year: 1996
+    album: "Three Snakes and One Charm"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Title track
+  - rank: 58
+    title: "Rhythmeen"
+    artist: "ZZ Top"
+    year: 1996
+    album: "Rhythmeen"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Title track
+  - rank: 59
+    title: "A Link in the Chain"
+    artist: "Pete Seeger"
+    year: 1996
+    album: "A Link in the Chain"
+    genres:
+      - Folk
+    tags:
+      - Title track
+  - rank: 60
+    title: "El Producto"
+    artist: "Walt Mink"
+    year: 1996
+    album: "El Producto"
+    genres:
+      - Folk
+    tags:
+      - Title track
+  - rank: 61
+    title: "Tabula Rasā"
+    artist: "Béla Fleck, Vishwa Mohan Bhatt, Jie-Bing Chen"
+    year: 1996
+    album: "Tabula Rasā"
+    genres:
+      - Folk
+    tags:
+      - Title track
+  - rank: 62
+    title: "1979"
+    artist: "The Smashing Pumpkins"
+    year: 1996
+    album: "Mellon Collie and the Infinite Sadness"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 63
+    title: "Killing Me Softly"
+    artist: "Fugees"
+    year: 1996
+    album: "The Score"
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Original artist: Roberta Flack
+      - Culturally important
+  - rank: 64
+    title: "The Distance"
+    artist: "Cake"
+    year: 1996
+    album: "Fashion Nugget"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 65
+    title: "Stinkfist"
+    artist: "Tool"
+    year: 1996
+    album: "Ænima"
+    genres:
+      - Alternative
+      - Hard Rock
+    tags:
+      - Culturally important

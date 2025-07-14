@@ -1,0 +1,604 @@
+songs:
+  - rank: 1
+    title: "Low"
+    artist: "Flo Rida featuring T-Pain"
+    year: 2008
+    album: "Mail on Sunday"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Billboard Hot 100 Year-End Number One
+      - Culturally Important
+  - rank: 2
+    title: "Bleeding Love"
+    artist: "Leona Lewis"
+    year: 2008
+    album: "Spirit"
+    solo-hit: true
+    genres:
+      - Pop
+      - R&B
+  - rank: 3
+    title: "No One"
+    artist: "Alicia Keys"
+    year: 2008
+    album: "As I Am"
+    genres:
+      - R&B
+      - Soul
+  - rank: 4
+    title: "Apologize"
+    artist: "Timbaland featuring OneRepublic"
+    year: 2008
+    album: "Shock Value"
+    genres:
+      - Pop
+      - R&B
+  - rank: 5
+    title: "No Air"
+    artist: "Jordin Sparks featuring Chris Brown"
+    year: 2008
+    album: "Jordin Sparks"
+    genres:
+      - R&B
+      - Pop
+  - rank: 6
+    title: "Love Song"
+    artist: "Sara Bareilles"
+    year: 2008
+    album: "Little Voice"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 7
+    title: "Love in This Club"
+    artist: "Usher featuring Young Jeezy"
+    year: 2008
+    album: "Here I Stand"
+    genres:
+      - R&B
+  - rank: 8
+    title: "With You"
+    artist: "Chris Brown"
+    year: 2008
+    album: "Exclusive"
+    genres:
+      - R&B
+  - rank: 9
+    title: "Forever"
+    artist: "Chris Brown"
+    year: 2008
+    album: "Exclusive: The Forever Edition"
+    genres:
+      - Pop
+      - R&B
+  - rank: 10
+    title: "Take a Bow"
+    artist: "Rihanna"
+    year: 2008
+    album: "Good Girl Gone Bad: Reloaded"
+    genres:
+      - R&B
+      - Pop
+  - rank: 11
+    title: "Viva la Vida"
+    artist: "Coldplay"
+    year: 2008
+    album: "Viva la Vida or Death and All His Friends"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan Favorite
+  - rank: 12
+    title: "I Kissed a Girl"
+    artist: "Katy Perry"
+    year: 2008
+    album: "One of the Boys"
+    genres:
+      - Pop
+      - Rock
+  - rank: 13
+    title: "Disturbia"
+    artist: "Rihanna"
+    year: 2008
+    album: "Good Girl Gone Bad: Reloaded"
+    genres:
+      - Pop
+      - R&B
+  - rank: 14
+    title: "Don't Stop the Music"
+    artist: "Rihanna"
+    year: 2008
+    album: "Good Girl Gone Bad"
+    genres:
+      - Pop
+  - rank: 15
+    title: "Pocketful of Sunshine"
+    artist: "Natasha Bedingfield"
+    year: 2008
+    album: "Pocketful of Sunshine"
+    genres:
+      - Pop
+  - rank: 16
+    title: "Closer"
+    artist: "Ne-Yo"
+    year: 2008
+    album: "Year of the Gentleman"
+    genres:
+      - R&B
+      - Pop
+  - rank: 17
+    title: "Bubbly"
+    artist: "Colbie Caillat"
+    year: 2008
+    album: "Coco"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 18
+    title: "Touch My Body"
+    artist: "Mariah Carey"
+    year: 2008
+    album: "E=MC²"
+    genres:
+      - R&B
+      - Pop
+  - rank: 19
+    title: "4 Minutes"
+    artist: "Madonna featuring Justin Timberlake and Timbaland"
+    year: 2008
+    album: "Hard Candy"
+    genres:
+      - Pop
+  - rank: 20
+    title: "So What"
+    artist: "Pink"
+    year: 2008
+    album: "Funhouse"
+    genres:
+      - Pop
+      - Rock
+  - rank: 21
+    title: "Paralyzer"
+    artist: "Finger Eleven"
+    year: 2008
+    album: "Them vs. You vs. Me"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 22
+    title: "I'm Yours"
+    artist: "Jason Mraz"
+    year: 2008
+    album: "We Sing. We Dance. We Steal Things."
+    genres:
+      - Pop
+      - Folk
+  - rank: 23
+    title: "Leavin'"
+    artist: "Jesse McCartney"
+    year: 2008
+    album: "Departure"
+    genres:
+      - Pop
+      - R&B
+  - rank: 24
+    title: "Tattoo"
+    artist: "Jordin Sparks"
+    year: 2008
+    album: "Jordin Sparks"
+    genres:
+      - Pop
+  - rank: 25
+    title: "Shake It"
+    artist: "Metro Station"
+    year: 2008
+    album: "Metro Station"
+    solo-hit: true
+    genres:
+      - Pop
+      - Alternative
+  - rank: 26
+    title: "Stop and Stare"
+    artist: "OneRepublic"
+    year: 2008
+    album: "Dreaming Out Loud"
+    genres:
+      - Pop
+      - Rock
+  - rank: 27
+    title: "Hot n Cold"
+    artist: "Katy Perry"
+    year: 2008
+    album: "One of the Boys"
+    genres:
+      - Pop
+  - rank: 28
+    title: "American Boy"
+    artist: "Estelle featuring Kanye West"
+    year: 2008
+    album: "Shine"
+    solo-hit: true
+    genres:
+      - Pop
+      - Funk
+  - rank: 29
+    title: "Like You'll Never See Me Again"
+    artist: "Alicia Keys"
+    year: 2008
+    album: "As I Am"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number-one R&B hit
+  - rank: 30
+    title: "Sorry"
+    artist: "Buckcherry"
+    year: 2008
+    album: "15"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 31
+    title: "Better in Time"
+    artist: "Leona Lewis"
+    year: 2008
+    album: "Spirit"
+    genres:
+      - Pop
+      - R&B
+  - rank: 32
+    title: "Shadow of the Day"
+    artist: "Linkin Park"
+    year: 2008
+    album: "Minutes to Midnight"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 33
+    title: "Say"
+    artist: "John Mayer"
+    year: 2008
+    album: "Continuum"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Soundtrack for The Bucket List
+  - rank: 34
+    title: "One Step at a Time"
+    artist: "Jordin Sparks"
+    year: 2008
+    album: "Jordin Sparks"
+    genres:
+      - Pop
+  - rank: 35
+    title: "Hate That I Love You"
+    artist: "Rihanna featuring Ne-Yo"
+    year: 2008
+    album: "Good Girl Gone Bad"
+    genres:
+      - R&B
+      - Pop
+  - rank: 36
+    title: "Let It Rock"
+    artist: "Kevin Rudolf featuring Lil Wayne"
+    year: 2008
+    album: "In the City"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 37
+    title: "Realize"
+    artist: "Colbie Caillat"
+    year: 2008
+    album: "Coco"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 38
+    title: "The Time of My Life"
+    artist: "David Cook"
+    year: 2008
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 39
+    title: "Love Like This"
+    artist: "Natasha Bedingfield featuring Sean Kingston"
+    year: 2008
+    album: "Pocketful of Sunshine"
+    genres:
+      - Pop
+  - rank: 40
+    title: "Burnin' Up"
+    artist: "Jonas Brothers"
+    year: 2008
+    album: "A Little Bit Longer"
+    genres:
+      - Pop
+      - Rock
+  - rank: 41
+    title: "Crush"
+    artist: "David Archuleta"
+    year: 2008
+    album: "David Archuleta"
+    genres:
+      - Pop
+  - rank: 42
+    title: "Psycho"
+    artist: "Puddle of Mudd"
+    year: 2008
+    album: "Famous"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 43
+    title: "It's Not My Time"
+    artist: "3 Doors Down"
+    year: 2008
+    album: "3 Doors Down"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 44
+    title: "Inside the Fire"
+    artist: "Disturbed"
+    year: 2008
+    album: "Indestructible"
+    genres:
+      - Hard Rock
+  - rank: 45
+    title: "Devour"
+    artist: "Shinedown"
+    year: 2008
+    album: "The Sound of Madness"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 46
+    title: "Bad Girlfriend"
+    artist: "Theory of a Deadman"
+    year: 2008
+    album: "Scars & Souvenirs"
+    genres:
+      - Rock
+  - rank: 47
+    title: "The Day That Never Comes"
+    artist: "Metallica"
+    year: 2008
+    album: "Death Magnetic"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 48
+    title: "Rock N Roll Train"
+    artist: "AC/DC"
+    year: 2008
+    album: "Black Ice"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 49
+    title: "Second Chance"
+    artist: "Shinedown"
+    year: 2008
+    album: "The Sound of Madness"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 50
+    title: "Fake It"
+    artist: "Seether"
+    year: 2008
+    album: "Finding Beauty in Negative Spaces"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 51
+    title: "Long Road to Ruin"
+    artist: "Foo Fighters"
+    year: 2008
+    album: "Echoes, Silence, Patience & Grace"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 52
+    title: "Rise Above This"
+    artist: "Seether"
+    year: 2008
+    album: "Finding Beauty in Negative Spaces"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 53
+    title: "Pork and Beans"
+    artist: "Weezer"
+    year: 2008
+    album: "Weezer (The Red Album)"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 54
+    title: "Let It Die"
+    artist: "Foo Fighters"
+    year: 2008
+    album: "Echoes, Silence, Patience & Grace"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 55
+    title: "Believe"
+    artist: "Staind"
+    year: 2008
+    album: "The Illusion of Progress"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 56
+    title: "You're Gonna Go Far, Kid"
+    artist: "The Offspring"
+    year: 2008
+    album: "Rise and Fall, Rage and Grace"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 57
+    title: "Sex on Fire"
+    artist: "Kings of Leon"
+    year: 2008
+    album: "Only by the Night"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan Favorite
+  - rank: 58
+    title: "Blind"
+    artist: "Hercules and Love Affair"
+    year: 2008
+    album: "Hercules and Love Affair"
+    genres:
+      - Disco
+      - Funk
+    tags:
+      - Culturally Important
+  - rank: 59
+    title: "White Winter Hymnal"
+    artist: "Fleet Foxes"
+    year: 2008
+    album: "Fleet Foxes"
+    genres:
+      - Folk
+    tags:
+      - Culturally Important
+      - Fan Favorite
+  - rank: 60
+    title: "Ready for the Floor"
+    artist: "Hot Chip"
+    year: 2008
+    album: "Made in the Dark"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 61
+    title: "L.E.S. Artistes"
+    artist: "Santigold"
+    year: 2008
+    album: "Santigold"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 62
+    title: "Kim & Jessie"
+    artist: "M83"
+    year: 2008
+    album: "Saturdays = Youth"
+    genres:
+      - New Wave
+      - Alternative
+  - rank: 63
+    title: "Nothing Ever Happened"
+    artist: "Deerhunter"
+    year: 2008
+    album: "Microcastle"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 64
+    title: "Hearts on Fire"
+    artist: "Cut Copy"
+    year: 2008
+    album: "In Ghost Colours"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 65
+    title: "Machine Gun"
+    artist: "Portishead"
+    year: 2008
+    album: "Third"
+    genres:
+      - Alternative
+  - rank: 66
+    title: "Strasbourg / St. Denis"
+    artist: "Roy Hargrove"
+    year: 2008
+    album: "Earfood"
+    genres:
+      - Jazz
+  - rank: 67
+    title: "Leucocyte"
+    artist: "Esbjörn Svensson Trio"
+    year: 2008
+    album: "Leucocyte"
+    genres:
+      - Jazz
+  - rank: 68
+    title: "On the Other Side of the World"
+    artist: "Matthew Halsall"
+    year: 2008
+    album: "Sending My Love"
+    genres:
+      - Jazz
+  - rank: 69
+    title: "Rabo de Nube"
+    artist: "Charles Lloyd Quartet"
+    year: 2008
+    album: "Rabo de Nube"
+    genres:
+      - Jazz
+  - rank: 70
+    title: "One Kind Favor"
+    artist: "B.B. King"
+    year: 2008
+    album: "One Kind Favor"
+    genres:
+      - Blues
+  - rank: 71
+    title: "Started Out with Nothin'"
+    artist: "Seasick Steve"
+    year: 2008
+    album: "I Started Out with Nothin and I Still Got Most of It Left"
+    genres:
+      - Blues
+  - rank: 72
+    title: "The Outsider"
+    artist: "Walter Trout"
+    year: 2008
+    album: "The Outsider"
+    genres:
+      - Blues
+  - rank: 73
+    title: "I'm Here to Stay"
+    artist: "Sharrie Williams"
+    year: 2008
+    album: "I'm Here to Stay"
+    genres:
+      - Blues
+      - Soul
+  - rank: 74
+    title: "The Gardener"
+    artist: "The Tallest Man on Earth"
+    year: 2008
+    album: "Shallow Grave"
+    genres:
+      - Folk
+  - rank: 75
+    title: "Lost Coastlines"
+    artist: "Okkervil River"
+    year: 2008
+    album: "The Stand Ins"
+    genres:
+      - Folk
+      - Alternative

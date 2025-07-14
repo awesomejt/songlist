@@ -1,0 +1,603 @@
+---
+songs:
+  - rank: 1
+    title: "Yeah!"
+    artist: "Usher featuring Lil Jon and Ludacris"
+    year: 2004
+    album: "Confessions"
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100 for 12 weeks
+      - Grammy winner for Best Rap/Sung Collaboration
+      - Culturally significant crossover hit
+  - rank: 2
+    title: "Burn"
+    artist: "Usher"
+    year: 2004
+    album: "Confessions"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 for 8 weeks
+  - rank: 3
+    title: "If I Ain't Got You"
+    artist: "Alicia Keys"
+    year: 2004
+    album: "The Diary of Alicia Keys"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Grammy winner for Best Female R&B Vocal Performance
+      - Fan favorite
+  - rank: 4
+    title: "This Love"
+    artist: "Maroon 5"
+    year: 2004
+    album: "Songs About Jane"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Grammy winner for Best Pop Performance by a Duo or Group with Vocals
+  - rank: 5
+    title: "The Way You Move"
+    artist: "OutKast featuring Sleepy Brown"
+    year: 2004
+    album: "Speakerboxxx/The Love Below"
+    genres:
+      - R&B
+      - Funk
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 6
+    title: "The Reason"
+    artist: "Hoobastank"
+    year: 2004
+    album: "The Reason"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 7
+    title: "I Don't Wanna Know"
+    artist: "Mario Winans featuring Enya and P. Diddy"
+    year: 2004
+    album: "Hurt No More"
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 8
+    title: "Hey Ya!"
+    artist: "OutKast"
+    year: 2004
+    album: "Speakerboxxx/The Love Below"
+    genres:
+      - Pop
+      - Funk
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 for 9 weeks
+      - Grammy winner for Best Urban/Alternative Performance
+      - Culturally important
+      - Fan favorite
+  - rank: 9
+    title: "Goodies"
+    artist: "Ciara featuring Petey Pablo"
+    year: 2004
+    album: "Goodies"
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100 for 7 weeks
+  - rank: 10
+    title: "Lean Back"
+    artist: "Terror Squad featuring Fat Joe and Remy Ma"
+    year: 2004
+    album: "True Story"
+    solo-hit: true
+    genres:
+      - R&B
+    tags:
+      - Number one on Billboard Hot 100 for 3 weeks
+      - Crossover hit with mass appeal
+  - rank: 11
+    title: "Here Without You"
+    artist: "3 Doors Down"
+    year: 2004
+    album: "Away from the Sun"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 12
+    title: "My Immortal"
+    artist: "Evanescence"
+    year: 2004
+    album: "Fallen"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 13
+    title: "Confessions Part II"
+    artist: "Usher"
+    year: 2004
+    album: "Confessions"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 14
+    title: "Naughty Girl"
+    artist: "Beyoncé"
+    year: 2004
+    album: "Dangerously in Love"
+    genres:
+      - R&B
+      - Pop
+  - rank: 15
+    title: "Someday"
+    artist: "Nickelback"
+    year: 2004
+    album: "The Long Road"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 16
+    title: "My Boo"
+    artist: "Usher and Alicia Keys"
+    year: 2004
+    album: "Confessions"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 for 6 weeks
+      - Grammy winner for Best R&B Performance by a Duo or Group with Vocals
+  - rank: 17
+    title: "She Will Be Loved"
+    artist: "Maroon 5"
+    year: 2004
+    album: "Songs About Jane"
+    genres:
+      - Pop
+      - Rock
+  - rank: 18
+    title: "Numb"
+    artist: "Linkin Park"
+    year: 2004
+    album: "Meteora"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 19
+    title: "White Flag"
+    artist: "Dido"
+    year: 2004
+    album: "Life for Rent"
+    genres:
+      - Pop
+      - Easy Listening
+      - Soft Rock
+  - rank: 20
+    title: "Heaven"
+    artist: "Los Lonely Boys"
+    year: 2004
+    album: "Los Lonely Boys"
+    solo-hit: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Grammy winner for Best Pop Performance by a Duo or Group with Vocals
+  - rank: 21
+    title: "It's My Life"
+    artist: "No Doubt"
+    year: 2004
+    album: "The Singles 1992–2003"
+    cover: true
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Original artist: Talk Talk
+  - rank: 22
+    title: "Pieces of Me"
+    artist: "Ashlee Simpson"
+    year: 2004
+    album: "Autobiography"
+    genres:
+      - Pop
+      - Rock
+  - rank: 23
+    title: "The First Cut Is the Deepest"
+    artist: "Sheryl Crow"
+    year: 2004
+    album: "The Very Best of Sheryl Crow"
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: Rod Stewart
+  - rank: 24
+    title: "Meant to Live"
+    artist: "Switchfoot"
+    year: 2004
+    album: "The Beautiful Letdown"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 25
+    title: "My Happy Ending"
+    artist: "Avril Lavigne"
+    year: 2004
+    album: "Under My Skin"
+    genres:
+      - Rock
+      - Pop
+  - rank: 26
+    title: "One Thing"
+    artist: "Finger Eleven"
+    year: 2004
+    album: "Finger Eleven"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+  - rank: 27
+    title: "Breaking the Habit"
+    artist: "Linkin Park"
+    year: 2004
+    album: "Meteora"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 28
+    title: "Slither"
+    artist: "Velvet Revolver"
+    year: 2004
+    album: "Contraband"
+    solo-hit: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Number one on Mainstream Rock Tracks
+      - Grammy winner for Best Hard Rock Performance
+  - rank: 29
+    title: "Cold Hard Bitch"
+    artist: "Jet"
+    year: 2004
+    album: "Get Born"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 30
+    title: "Float On"
+    artist: "Modest Mouse"
+    year: 2004
+    album: "Good News for People Who Love Bad News"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Number one on Modern Rock Tracks
+      - Culturally important
+      - Fan favorite
+  - rank: 31
+    title: "Ocean Avenue"
+    artist: "Yellowcard"
+    year: 2004
+    album: "Ocean Avenue"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+  - rank: 32
+    title: "Megalomaniac"
+    artist: "Incubus"
+    year: 2004
+    album: "A Crow Left of the Murder..."
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 33
+    title: "Cold"
+    artist: "Crossfade"
+    year: 2004
+    album: "Crossfade"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+      - Hard Rock
+  - rank: 34
+    title: "Figured You Out"
+    artist: "Nickelback"
+    year: 2004
+    album: "The Long Road"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Number one on Mainstream Rock Tracks
+  - rank: 35
+    title: "Fall to Pieces"
+    artist: "Velvet Revolver"
+    year: 2004
+    album: "Contraband"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Number one on Mainstream Rock Tracks
+  - rank: 36
+    title: "100 Years"
+    artist: "Five for Fighting"
+    year: 2004
+    album: "The Battle for Everything"
+    genres:
+      - Pop
+      - Soft Rock
+      - Easy Listening
+  - rank: 37
+    title: "American Idiot"
+    artist: "Green Day"
+    year: 2004
+    album: "American Idiot"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+      - Culturally important
+  - rank: 38
+    title: "Boulevard of Broken Dreams"
+    artist: "Green Day"
+    year: 2004
+    album: "American Idiot"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Grammy winner for Record of the Year
+      - Fan favorite
+  - rank: 39
+    title: "Take Me Out"
+    artist: "Franz Ferdinand"
+    year: 2004
+    album: "Franz Ferdinand"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+    tags:
+      - Culturally important
+      - Pitchfork favorite
+  - rank: 40
+    title: "Somebody Told Me"
+    artist: "The Killers"
+    year: 2004
+    album: "Hot Fuss"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 41
+    title: "I Believe in a Thing Called Love"
+    artist: "The Darkness"
+    year: 2004
+    album: "Permission to Land"
+    solo-hit: true
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 42
+    title: "Sunrise"
+    artist: "Norah Jones"
+    year: 2004
+    album: "Feels Like Home"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Grammy winner for Best Female Pop Vocal Performance
+  - rank: 43
+    title: "Are You Gonna Be My Girl"
+    artist: "Jet"
+    year: 2004
+    album: "Get Born"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Fan favorite
+  - rank: 44
+    title: "Last Thing on My Mind"
+    artist: "LeAnn Rimes"
+    year: 2004
+    album: "The Best of LeAnn Rimes"
+    genres:
+      - Pop
+      - Easy Listening
+  - rank: 45
+    title: "Vitamin R (Leading Us Along)"
+    artist: "Chevelle"
+    year: 2004
+    album: "This Type of Thinking (Could Do Us In)"
+    genres:
+      - Rock
+      - Alternative
+      - Hard Rock
+  - rank: 46
+    title: "Daughters"
+    artist: "John Mayer"
+    year: 2004
+    album: "Heavier Things"
+    genres:
+      - Pop
+      - Rock
+      - Blues
+    tags:
+      - Grammy winner for Song of the Year
+  - rank: 47
+    title: "Love Song"
+    artist: "311"
+    year: 2004
+    album: "Greatest Hits '93-'03"
+    cover: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Original artist: The Cure
+  - rank: 48
+    title: "Accidentally in Love"
+    artist: "Counting Crows"
+    year: 2004
+    soundtrack: true
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+    tags:
+      - Written for Shrek 2
+      - Academy Award nominee for Best Original Song
+  - rank: 49
+    title: "Just Like You"
+    artist: "Three Days Grace"
+    year: 2004
+    album: "Three Days Grace"
+    genres:
+      - Rock
+      - Alternative
+      - Hard Rock
+  - rank: 50
+    title: "45"
+    artist: "Shinedown"
+    year: 2004
+    album: "Leave a Whisper"
+    genres:
+      - Rock
+      - Alternative
+      - Hard Rock
+  - rank: 51
+    title: "Maps"
+    artist: "Yeah Yeah Yeahs"
+    year: 2004
+    album: "Fever to Tell"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+    tags:
+      - Culturally important
+      - Pitchfork favorite
+  - rank: 52
+    title: "Vertigo"
+    artist: "U2"
+    year: 2004
+    album: "How to Dismantle an Atomic Bomb"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Grammy winner for Best Rock Performance by a Duo or Group with Vocal
+  - rank: 53
+    title: "Such Great Heights"
+    artist: "Iron & Wine"
+    year: 2004
+    album: "Around the Well"
+    cover: true
+    genres:
+      - Folk
+      - Alternative
+    tags:
+      - Original artist: The Postal Service
+      - Fan favorite
+  - rank: 54
+    title: "Portland, Oregon"
+    artist: "Loretta Lynn featuring Jack White"
+    year: 2004
+    album: "Van Lear Rose"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Grammy winner for Best Country Collaboration with Vocals
+  - rank: 55
+    title: "The Blower's Daughter"
+    artist: "Damien Rice"
+    year: 2004
+    album: "O"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 56
+    title: "Mr. Brightside"
+    artist: "The Killers"
+    year: 2004
+    album: "Hot Fuss"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 57
+    title: "Cannonball"
+    artist: "Damien Rice"
+    year: 2004
+    album: "O"
+    genres:
+      - Folk
+      - Alternative
+  - rank: 58
+    title: "Reptilia"
+    artist: "The Strokes"
+    year: 2004
+    album: "Room on Fire"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 59
+    title: "Milkshake"
+    artist: "Kelis"
+    year: 2004
+    album: "Tasty"
+    genres:
+      - R&B
+      - Funk
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 60
+    title: "Toxic"
+    artist: "Britney Spears"
+    year: 2004
+    album: "In the Zone"
+    genres:
+      - Pop
+    tags:
+      - Grammy winner for Best Dance Recording
+      - Fan favorite

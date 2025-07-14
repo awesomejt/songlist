@@ -1,0 +1,928 @@
+songs:
+  - rank: 1
+    title: "Believe"
+    artist: "Cher"
+    year: 1999
+    album: "Believe"
+    genres:
+      - Pop
+      - Dance
+    tags:
+      - Number-one on Billboard Hot 100 year-end
+
+  - rank: 2
+    title: "No Scrubs"
+    artist: "TLC"
+    year: 1999
+    album: "FanMail"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Empowering anthem
+      - Grammy winner
+
+  - rank: 3
+    title: "Angel of Mine"
+    artist: "Monica"
+    year: 1999
+    album: "The Boy Is Mine"
+    cover: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Original artist: Eternal
+
+  - rank: 4
+    title: "Heartbreak Hotel"
+    artist: "Whitney Houston featuring Faith Evans and Kelly Price"
+    year: 1999
+    album: "My Love Is Your Love"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 5
+    title: "...Baby One More Time"
+    artist: "Britney Spears"
+    year: 1999
+    album: "...Baby One More Time"
+    genres:
+      - Pop
+    tags:
+      - Cultural phenomenon
+
+  - rank: 6
+    title: "Kiss Me"
+    artist: "Sixpence None the Richer"
+    year: 1999
+    album: "Sixpence None the Richer"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 7
+    title: "Genie in a Bottle"
+    artist: "Christina Aguilera"
+    year: 1999
+    album: "Christina Aguilera"
+    genres:
+      - Pop
+
+  - rank: 8
+    title: "Every Morning"
+    artist: "Sugar Ray"
+    year: 1999
+    album: "14:59"
+    genres:
+      - Pop
+      - Rock
+      - Alternative
+
+  - rank: 9
+    title: "Livin' la Vida Loca"
+    artist: "Ricky Martin"
+    year: 1999
+    album: "Ricky Martin"
+    genres:
+      - Pop
+
+  - rank: 10
+    title: "Smooth"
+    artist: "Santana featuring Rob Thomas"
+    year: 1999
+    album: "Supernatural"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Grammy Record of the Year
+
+  - rank: 11
+    title: "Scar Tissue"
+    artist: "Red Hot Chili Peppers"
+    year: 1999
+    album: "Californication"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 12
+    title: "All Star"
+    artist: "Smash Mouth"
+    year: 1999
+    album: "Astro Lounge"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Cultural icon
+
+  - rank: 13
+    title: "My Own Worst Enemy"
+    artist: "Lit"
+    year: 1999
+    album: "A Place in the Sun"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 14
+    title: "What It's Like"
+    artist: "Everlast"
+    year: 1999
+    album: "Whitey Ford Sings the Blues"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 15
+    title: "Fly Away"
+    artist: "Lenny Kravitz"
+    year: 1999
+    album: "5"
+    genres:
+      - Rock
+
+  - rank: 16
+    title: "Slide"
+    artist: "Goo Goo Dolls"
+    year: 1999
+    album: "Dizzy Up the Girl"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 17
+    title: "I Want It That Way"
+    artist: "Backstreet Boys"
+    year: 1999
+    album: "Millennium"
+    genres:
+      - Pop
+
+  - rank: 18
+    title: "Bailamos"
+    artist: "Enrique Iglesias"
+    year: 1999
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - From Wild Wild West
+
+  - rank: 19
+    title: "Fortunate"
+    artist: "Maxwell"
+    year: 1999
+    soundtrack: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - From Life
+
+  - rank: 20
+    title: "Last Kiss"
+    artist: "Pearl Jam"
+    year: 1999
+    cover: true
+    genres:
+      - Rock
+      - Grunge
+    tags:
+      - Original artist: J. Frank Wilson and the Cavaliers
+
+  - rank: 21
+    title: "Higher"
+    artist: "Creed"
+    year: 1999
+    album: "Human Clay"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 22
+    title: "One"
+    artist: "Creed"
+    year: 1999
+    album: "My Own Prison"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 23
+    title: "Heavy"
+    artist: "Collective Soul"
+    year: 1999
+    album: "Dosage"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 24
+    title: "Whatever"
+    artist: "Godsmack"
+    year: 1999
+    album: "Godsmack"
+    genres:
+      - Hard Rock
+
+  - rank: 25
+    title: "Keep Away"
+    artist: "Godsmack"
+    year: 1999
+    album: "Godsmack"
+    genres:
+      - Hard Rock
+
+  - rank: 26
+    title: "Lit Up"
+    artist: "Buckcherry"
+    year: 1999
+    album: "Buckcherry"
+    solo-hit: true
+    genres:
+      - Hard Rock
+
+  - rank: 27
+    title: "Why I'm Here"
+    artist: "Oleander"
+    year: 1999
+    album: "February Son"
+    solo-hit: true
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 28
+    title: "Learn to Fly"
+    artist: "Foo Fighters"
+    year: 1999
+    album: "There Is Nothing Left to Lose"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 29
+    title: "Nookie"
+    artist: "Limp Bizkit"
+    year: 1999
+    album: "Significant Other"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 30
+    title: "Praise You"
+    artist: "Fatboy Slim"
+    year: 1999
+    album: "You've Come a Long Way, Baby"
+    genres:
+      - Alternative
+      - Funk
+
+  - rank: 31
+    title: "Blue Monday"
+    artist: "Orgy"
+    year: 1999
+    album: "Candyass"
+    cover: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Original artist: New Order
+
+  - rank: 32
+    title: "Someday"
+    artist: "Sugar Ray"
+    year: 1999
+    album: "14:59"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 33
+    title: "The Kids Aren't Alright"
+    artist: "The Offspring"
+    year: 1999
+    album: "Americana"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 34
+    title: "Freak on a Leash"
+    artist: "Korn"
+    year: 1999
+    album: "Follow the Leader"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 35
+    title: "Steal My Sunshine"
+    artist: "Len"
+    year: 1999
+    album: "You Can't Stop the Bum Rush"
+    solo-hit: true
+    genres:
+      - Pop
+      - Alternative
+
+  - rank: 36
+    title: "Bills, Bills, Bills"
+    artist: "Destiny's Child"
+    year: 1999
+    album: "The Writing's on the Wall"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 37
+    title: "Heartbreaker"
+    artist: "Mariah Carey featuring Jay-Z"
+    year: 1999
+    album: "Rainbow"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 38
+    title: "Say My Name"
+    artist: "Destiny's Child"
+    year: 1999
+    album: "The Writing's on the Wall"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 39
+    title: "Nobody's Supposed to Be Here"
+    artist: "Deborah Cox"
+    year: 1999
+    album: "One Wish"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 40
+    title: "Back at One"
+    artist: "Brian McKnight"
+    year: 1999
+    album: "Back at One"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 41
+    title: "Mambo No. 5 (A Little Bit Of...)"
+    artist: "Lou Bega"
+    year: 1999
+    album: "A Little Bit of Mambo"
+    solo-hit: true
+    genres:
+      - Pop
+      - Swing
+
+  - rank: 42
+    title: "You'll Be in My Heart"
+    artist: "Phil Collins"
+    year: 1999
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - From Tarzan
+
+  - rank: 43
+    title: "Beautiful Stranger"
+    artist: "Madonna"
+    year: 1999
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - From Austin Powers: The Spy Who Shagged Me
+
+  - rank: 44
+    title: "Wild Wild West"
+    artist: "Will Smith featuring Dru Hill and Kool Moe Dee"
+    year: 1999
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From Wild Wild West
+
+  - rank: 45
+    title: "What's My Age Again?"
+    artist: "Blink-182"
+    year: 1999
+    album: "Enema of the State"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 46
+    title: "All the Small Things"
+    artist: "Blink-182"
+    year: 1999
+    album: "Enema of the State"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 47
+    title: "Take a Picture"
+    artist: "Filter"
+    year: 1999
+    album: "Title of Record"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 48
+    title: "Coffee & TV"
+    artist: "Blur"
+    year: 1999
+    album: "13"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 49
+    title: "Run"
+    artist: "Collective Soul"
+    year: 1999
+    album: "Dosage"
+    soundtrack: true
+    genres:
+      - Rock
+    tags:
+      - From Varsity Blues
+
+  - rank: 50
+    title: "You Get What You Give"
+    artist: "New Radicals"
+    year: 1999
+    album: "Maybe You've Been Brainwashed Too"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 51
+    title: "I Will Remember You (Live)"
+    artist: "Sarah McLachlan"
+    year: 1999
+    album: "Mirrorball"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 52
+    title: " Bawitdaba"
+    artist: "Kid Rock"
+    year: 1999
+    album: "Devil Without a Cause"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 53
+    title: "Cowboy"
+    artist: "Kid Rock"
+    year: 1999
+    album: "Devil Without a Cause"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 54
+    title: "American Woman"
+    artist: "Lenny Kravitz"
+    year: 1999
+    soundtrack: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - From Austin Powers: The Spy Who Shagged Me
+      - Original artist: The Guess Who
+
+  - rank: 55
+    title: "Ends"
+    artist: "Everlast"
+    year: 1999
+    album: "Whitey Ford Sings the Blues"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 56
+    title: "Army"
+    artist: "Ben Folds Five"
+    year: 1999
+    album: "The Unauthorized Biography of Reinhold Messner"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 57
+    title: "Get Set"
+    artist: "Taxiride"
+    year: 1999
+    album: "Imaginate"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 58
+    title: "Prisoner of Society"
+    artist: "The Living End"
+    year: 1999
+    album: "The Living End"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 59
+    title: "Special"
+    artist: "Garbage"
+    year: 1999
+    album: "Version 2.0"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 60
+    title: "When I Grow Up"
+    artist: "Garbage"
+    year: 1999
+    album: "Version 2.0"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 61
+    title: "Let Forever Be"
+    artist: "The Chemical Brothers"
+    year: 1999
+    album: "Surrender"
+    genres:
+      - Alternative
+      - New Wave
+
+  - rank: 62
+    title: "Bawitdaba"
+    artist: "Kid Rock"
+    year: 1999
+    album: "Devil Without a Cause"
+    genres:
+      - Hard Rock
+
+  - rank: 63
+    title: "When Worlds Collide"
+    artist: "Powerman 5000"
+    year: 1999
+    album: "Tonight the Stars Revolt!"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 64
+    title: "U Know What's Up"
+    artist: "Donell Jones"
+    year: 1999
+    album: "Where I Wanna Be"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 65
+    title: "Satisfy You"
+    artist: "Puff Daddy featuring R. Kelly"
+    year: 1999
+    album: "Forever"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 66
+    title: "Spend My Life with You"
+    artist: "Eric Benét featuring Tamia"
+    year: 1999
+    album: "A Day in the Life"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 67
+    title: "We Can't Be Friends"
+    artist: "Deborah Cox with R.L."
+    year: 1999
+    album: "One Wish"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 68
+    title: "Sweet Lady"
+    artist: "Tyrese"
+    year: 1999
+    album: "Tyrese"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 69
+    title: "Ex-Factor"
+    artist: "Lauryn Hill"
+    year: 1999
+    album: "The Miseducation of Lauryn Hill"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 70
+    title: "24/7"
+    artist: "Kevon Edmonds"
+    year: 1999
+    album: "24/7"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 71
+    title: "Chanté's Got a Man"
+    artist: "Chanté Moore"
+    year: 1999
+    album: "This Moment Is Mine"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 72
+    title: "Happily Ever After"
+    artist: "Case"
+    year: 1999
+    album: "Personal Conversation"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 73
+    title: "When You Believe"
+    artist: "Whitney Houston and Mariah Carey"
+    year: 1999
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From The Prince of Egypt
+
+  - rank: 74
+    title: "This Cat's on a Hot Tin Roof"
+    artist: "The Brian Setzer Orchestra"
+    year: 1999
+    album: "The Dirty Boogie"
+    genres:
+      - Swing
+      - Rockabilly
+
+  - rank: 75
+    title: "You & Me & the Bottle Makes 3 Tonight (Baby)"
+    artist: "Big Bad Voodoo Daddy"
+    year: 1999
+    album: "This Beautiful Life"
+    genres:
+      - Swing
+
+  - rank: 76
+    title: "Chocolate Jesus"
+    artist: "Tom Waits"
+    year: 1999
+    album: "Mule Variations"
+    genres:
+      - Blues
+      - Folk
+
+  - rank: 77
+    title: "House Where Nobody Lives"
+    artist: "Tom Waits"
+    year: 1999
+    album: "Mule Variations"
+    genres:
+      - Blues
+      - Folk
+
+  - rank: 78
+    title: "Grazing in the Grass"
+    artist: "Boney James"
+    year: 1999
+    album: "Body Language"
+    cover: true
+    genres:
+      - Jazz
+    tags:
+      - Original artist: Hugh Masekela
+
+  - rank: 79
+    title: "Race for the Prize"
+    artist: "The Flaming Lips"
+    year: 1999
+    album: "The Soft Bulletin"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 80
+    title: "Mistakes & Regrets"
+    artist: "...And You Will Know Us by the Trail of Dead"
+    year: 1999
+    album: "Madonna"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 81
+    title: "Flame"
+    artist: "Sebadoh"
+    year: 1999
+    album: "The Sebadoh"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 82
+    title: "Make Believe"
+    artist: "Dave Holland"
+    year: 1999
+    album: "Prime Directive"
+    genres:
+      - Jazz
+
+  - rank: 83
+    title: "New Noise"
+    artist: "Refused"
+    year: 1999
+    album: "The Shape of Punk to Come"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 84
+    title: "Spiders"
+    artist: "System of a Down"
+    year: 1999
+    album: "System of a Down"
+    genres:
+      - Hard Rock
+
+  - rank: 85
+    title: "Everyone Says I Love You"
+    artist: "Type O Negative"
+    year: 1999
+    album: "World Coming Down"
+    genres:
+      - Hard Rock
+
+  - rank: 86
+    title: "When I Go"
+    artist: "Dave Carter & Tracy Grammer"
+    year: 1999
+    album: "When I Go"
+    genres:
+      - Folk
+
+  - rank: 87
+    title: "The Mountain"
+    artist: "Steve Earle & The Del McCoury Band"
+    year: 1999
+    album: "The Mountain"
+    genres:
+      - Folk
+
+  - rank: 88
+    title: "Premiere Rhapsodie"
+    artist: "Ted Nash"
+    year: 1999
+    album: "Sidewalk Meeting"
+    genres:
+      - Jazz
+
+  - rank: 89
+    title: "T.C."
+    artist: "Andrew Hill"
+    year: 1999
+    album: "Dusk"
+    genres:
+      - Jazz
+
+  - rank: 90
+    title: "Smells Like Teen Spirit"
+    artist: "The Bad Plus"
+    year: 1999
+    cover: true
+    genres:
+      - Jazz
+    tags:
+      - Original artist: Nirvana
+
+  - rank: 91
+    title: "Jump Jive an' Wail"
+    artist: "The Brian Setzer Orchestra"
+    year: 1999
+    cover: true
+    genres:
+      - Swing
+      - Rockabilly
+    tags:
+      - Original artist: Louis Prima
+      - Fan favorite
+
+  - rank: 92
+    title: "Zoot Suit Riot"
+    artist: "Cherry Poppin' Daddies"
+    year: 1999
+    album: "Zoot Suit Riot"
+    genres:
+      - Swing
+
+  - rank: 93
+    title: "Hell"
+    artist: "Squirrel Nut Zippers"
+    year: 1999
+    album: "Hot"
+    genres:
+      - Swing
+      - Jazz
+
+  - rank: 94
+    title: "Sexual (Li Da Di)"
+    artist: "Amber"
+    year: 1999
+    album: "Amber"
+    genres:
+      - Dance
+      - Pop
+
+  - rank: 95
+    title: "Music Sounds Better with You"
+    artist: "Stardust"
+    year: 1999
+    single: true
+    solo-hit: true
+    genres:
+      - Dance
+      - Funk
+
+  - rank: 96
+    title: "Get Born Again"
+    artist: "Alice in Chains"
+    year: 1999
+    single: true
+    genres:
+      - Rock
+      - Grunge
+
+  - rank: 97
+    title: "Mas Tequila"
+    artist: "Sammy Hagar"
+    year: 1999
+    album: "Red Voodoo"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 98
+    title: "Whiskey in the Jar"
+    artist: "Metallica"
+    year: 1999
+    album: "Garage Inc."
+    cover: true
+    genres:
+      - Hard Rock
+    tags:
+      - Original artist: Thin Lizzy
+
+  - rank: 99
+    title: "Turn the Page"
+    artist: "Metallica"
+    year: 1999
+    album: "Garage Inc."
+    cover: true
+    genres:
+      - Hard Rock
+    tags:
+      - Original artist: Bob Seger
+
+  - rank: 100
+    title: "For the Movies"
+    artist: "Buckcherry"
+    year: 1999
+    album: "Buckcherry"
+    genres:
+      - Hard Rock

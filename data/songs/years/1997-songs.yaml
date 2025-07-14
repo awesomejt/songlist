@@ -1,0 +1,882 @@
+songs:
+  - rank: 1
+    title: "Candle in the Wind 1997"
+    artist: "Elton John"
+    year: 1997
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Tribute to Princess Diana
+      - Best-selling single of all time
+  - rank: 2
+    title: "You Were Meant for Me"
+    artist: "Jewel"
+    year: 1997
+    album: "Pieces of You"
+    genres:
+      - Pop
+      - Folk
+  - rank: 3
+    title: "I'll Be Missing You"
+    artist: "Puff Daddy and Faith Evans featuring 112"
+    year: 1997
+    album: "No Way Out"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Tribute to The Notorious B.I.G.
+      - Mass appeal crossover hit
+  - rank: 4
+    title: "Un-Break My Heart"
+    artist: "Toni Braxton"
+    year: 1997
+    album: "Secrets"
+    genres:
+      - R&B
+      - Pop
+  - rank: 5
+    title: "Can't Nobody Hold Me Down"
+    artist: "Puff Daddy featuring Mase"
+    year: 1997
+    album: "No Way Out"
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Mass appeal crossover hit
+  - rank: 6
+    title: "I Believe I Can Fly"
+    artist: "R. Kelly"
+    year: 1997
+    album: "Space Jam Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 7
+    title: "Don't Let Go (Love)"
+    artist: "En Vogue"
+    year: 1997
+    album: "EV3"
+    soundtrack: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 8
+    title: "Return of the Mack"
+    artist: "Mark Morrison"
+    year: 1997
+    album: "Return of the Mack"
+    solo-hit: true
+    genres:
+      - R&B
+      - Pop
+  - rank: 9
+    title: "How Do I Live"
+    artist: "LeAnn Rimes"
+    year: 1997
+    album: "You Light Up My Life: Inspirational Songs"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Mass appeal crossover hit
+  - rank: 10
+    title: "Wannabe"
+    artist: "Spice Girls"
+    year: 1997
+    album: "Spice"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 11
+    title: "Quit Playing Games (With My Heart)"
+    artist: "Backstreet Boys"
+    year: 1997
+    album: "Backstreet Boys"
+    genres:
+      - Pop
+  - rank: 12
+    title: "MMMBop"
+    artist: "Hanson"
+    year: 1997
+    album: "Middle of Nowhere"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 13
+    title: "For You I Will"
+    artist: "Monica"
+    year: 1997
+    album: "The Boy Is Mine"
+    soundtrack: true
+    genres:
+      - R&B
+      - Pop
+  - rank: 14
+    title: "You Make Me Wanna..."
+    artist: "Usher"
+    year: 1997
+    album: "My Way"
+    genres:
+      - R&B
+      - Soul
+  - rank: 15
+    title: "Bitch"
+    artist: "Meredith Brooks"
+    year: 1997
+    album: "Blurring the Edges"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 16
+    title: "Nobody"
+    artist: "Keith Sweat featuring Athena Cage"
+    year: 1997
+    album: "Keith Sweat"
+    genres:
+      - R&B
+      - Soul
+  - rank: 17
+    title: "Semi-Charmed Life"
+    artist: "Third Eye Blind"
+    year: 1997
+    album: "Third Eye Blind"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 18
+    title: "Barely Breathing"
+    artist: "Duncan Sheik"
+    year: 1997
+    album: "Duncan Sheik"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 19
+    title: "Hard to Say I'm Sorry"
+    artist: "Az Yet featuring Peter Cetera"
+    year: 1997
+    album: "Az Yet"
+    cover: true
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Original artist: Chicago
+  - rank: 20
+    title: "Mo Money Mo Problems"
+    artist: "The Notorious B.I.G. featuring Puff Daddy and Mase"
+    year: 1997
+    album: "Life After Death"
+    genres:
+      - R&B
+      - Funk
+    tags:
+      - Mass appeal crossover hit
+  - rank: 21
+    title: "The Freshmen"
+    artist: "The Verve Pipe"
+    year: 1997
+    album: "Villains"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 22
+    title: "I Want You"
+    artist: "Savage Garden"
+    year: 1997
+    album: "Savage Garden"
+    genres:
+      - Pop
+  - rank: 23
+    title: "No Diggity"
+    artist: "Blackstreet featuring Dr. Dre"
+    year: 1997
+    album: "Another Level"
+    genres:
+      - R&B
+      - Soul
+  - rank: 24
+    title: "I Belong to You (Every Time I See Your Face)"
+    artist: "Rome"
+    year: 1997
+    album: "Rome"
+    solo-hit: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 25
+    title: "Hypnotize"
+    artist: "The Notorious B.I.G."
+    year: 1997
+    album: "Life After Death"
+    genres:
+      - R&B
+    tags:
+      - Mass appeal crossover hit
+  - rank: 26
+    title: "Every Time I Close My Eyes"
+    artist: "Babyface"
+    year: 1997
+    album: "The Day"
+    genres:
+      - R&B
+      - Soul
+  - rank: 27
+    title: "In My Bed"
+    artist: "Dru Hill"
+    year: 1997
+    album: "Dru Hill"
+    genres:
+      - R&B
+      - Soul
+  - rank: 28
+    title: "Say You'll Be There"
+    artist: "Spice Girls"
+    year: 1997
+    album: "Spice"
+    genres:
+      - Pop
+  - rank: 29
+    title: "Do You Know (What It Takes)"
+    artist: "Robyn"
+    year: 1997
+    album: "Robyn Is Here"
+    genres:
+      - Pop
+      - R&B
+  - rank: 30
+    title: "4 Seasons of Loneliness"
+    artist: "Boyz II Men"
+    year: 1997
+    album: "Evolution"
+    genres:
+      - R&B
+      - Soul
+  - rank: 31
+    title: "G.H.E.T.T.O.U.T."
+    artist: "Changing Faces"
+    year: 1997
+    album: "All Day, All Night"
+    genres:
+      - R&B
+      - Soul
+  - rank: 32
+    title: "Honey"
+    artist: "Mariah Carey"
+    year: 1997
+    album: "Butterfly"
+    genres:
+      - Pop
+      - R&B
+  - rank: 33
+    title: "I Believe in You and Me"
+    artist: "Whitney Houston"
+    year: 1997
+    album: "The Preacher's Wife Soundtrack"
+    soundtrack: true
+    cover: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Original artist: The Four Tops
+  - rank: 34
+    title: "Da' Dip"
+    artist: "Freak Nasty"
+    year: 1997
+    album: "Controversee...That's Life...And That's the Way It Is"
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 35
+    title: "2 Become 1"
+    artist: "Spice Girls"
+    year: 1997
+    album: "Spice"
+    genres:
+      - Pop
+  - rank: 36
+    title: "All for You"
+    artist: "Sister Hazel"
+    year: 1997
+    album: "...Somewhere More Familiar"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 37
+    title: "Cupid"
+    artist: "112"
+    year: 1997
+    album: "112"
+    genres:
+      - R&B
+      - Soul
+  - rank: 38
+    title: "Where Have All the Cowboys Gone?"
+    artist: "Paula Cole"
+    year: 1997
+    album: "This Fire"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 39
+    title: "Sunny Came Home"
+    artist: "Shawn Colvin"
+    year: 1997
+    album: "A Few Small Repairs"
+    genres:
+      - Folk
+      - Pop
+  - rank: 40
+    title: "It's Your Love"
+    artist: "Tim McGraw with Faith Hill"
+    year: 1997
+    album: "Everywhere"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Mass appeal crossover hit
+  - rank: 41
+    title: "Ooh Aah... Just a Little Bit"
+    artist: "Gina G"
+    year: 1997
+    album: "Fresh!"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 42
+    title: "Mouth"
+    artist: "Merril Bainbridge"
+    year: 1997
+    album: "The Garden"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 43
+    title: "All Cried Out"
+    artist: "Allure featuring 112"
+    year: 1997
+    album: "Allure"
+    cover: true
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Original artist: Lisa Lisa & Cult Jam
+  - rank: 44
+    title: "I'm Still in Love with You"
+    artist: "New Edition"
+    year: 1997
+    album: "Home Again"
+    genres:
+      - R&B
+      - Soul
+  - rank: 45
+    title: "Invisible Man"
+    artist: "98 Degrees"
+    year: 1997
+    album: "98 Degrees"
+    genres:
+      - Pop
+      - R&B
+  - rank: 46
+    title: "Not Tonight"
+    artist: "Lil' Kim featuring Da Brat, Left Eye, Missy Elliott, and Angie Martinez"
+    year: 1997
+    album: "Hard Core"
+    genres:
+      - R&B
+  - rank: 47
+    title: "Look into My Eyes"
+    artist: "Bone Thugs-n-Harmony"
+    year: 1997
+    album: "The Art of War"
+    soundtrack: true
+    genres:
+      - R&B
+    tags:
+      - Mass appeal crossover hit
+  - rank: 48
+    title: "Get It Together"
+    artist: "702"
+    year: 1997
+    album: "No Doubt"
+    genres:
+      - R&B
+      - Soul
+  - rank: 49
+    title: "All by Myself"
+    artist: "Celine Dion"
+    year: 1997
+    album: "Falling into You"
+    cover: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Original artist: Eric Carmen
+  - rank: 50
+    title: "It's All Coming Back to Me Now"
+    artist: "Celine Dion"
+    year: 1997
+    album: "Falling into You"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 51
+    title: "My Love Is the Shhh!"
+    artist: "Somethin' for the People featuring Trina & Tamara"
+    year: 1997
+    album: "This Time It's Personal"
+    genres:
+      - R&B
+      - Soul
+  - rank: 52
+    title: "Where Do You Go"
+    artist: "No Mercy"
+    year: 1997
+    album: "My Promise"
+    genres:
+      - Pop
+  - rank: 53
+    title: "I Finally Found Someone"
+    artist: "Barbra Streisand and Bryan Adams"
+    year: 1997
+    album: "The Mirror Has Two Faces Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 54
+    title: "I'll Be"
+    artist: "Foxy Brown featuring Jay-Z"
+    year: 1997
+    album: "Ill Na Na"
+    genres:
+      - R&B
+  - rank: 55
+    title: "If It Makes You Happy"
+    artist: "Sheryl Crow"
+    year: 1997
+    album: "Sheryl Crow"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 56
+    title: "Never Make a Promise"
+    artist: "Dru Hill"
+    year: 1997
+    album: "Dru Hill"
+    genres:
+      - R&B
+      - Soul
+  - rank: 57
+    title: "When You Love a Woman"
+    artist: "Journey"
+    year: 1997
+    album: "Trial by Fire"
+    genres:
+      - Rock
+      - Soft Rock
+  - rank: 58
+    title: "Up Jumps da Boogie"
+    artist: "Magoo and Timbaland"
+    year: 1997
+    album: "Welcome to Our World"
+    genres:
+      - R&B
+  - rank: 59
+    title: "I Don't Want To"
+    artist: "Toni Braxton"
+    year: 1997
+    album: "Secrets"
+    genres:
+      - R&B
+      - Pop
+  - rank: 60
+    title: "Everyday Is a Winding Road"
+    artist: "Sheryl Crow"
+    year: 1997
+    album: "Sheryl Crow"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 61
+    title: "Cold Rock a Party"
+    artist: "MC Lyte"
+    year: 1997
+    album: "Bad As I Wanna B"
+    genres:
+      - R&B
+  - rank: 62
+    title: "Pony"
+    artist: "Ginuwine"
+    year: 1997
+    album: "Ginuwine...The Bachelor"
+    genres:
+      - R&B
+      - Soul
+  - rank: 63
+    title: "Building a Mystery"
+    artist: "Sarah McLachlan"
+    year: 1997
+    album: "Surfacing"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 64
+    title: "I Love You Always Forever"
+    artist: "Donna Lewis"
+    year: 1997
+    album: "Now in a Minute"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 65
+    title: "Your Woman"
+    artist: "White Town"
+    year: 1997
+    album: "Women in Technology"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Pop
+  - rank: 66
+    title: "C U When U Get There"
+    artist: "Coolio featuring 40 Thevz"
+    year: 1997
+    album: "My Soul"
+    genres:
+      - R&B
+  - rank: 67
+    title: "Change the World"
+    artist: "Eric Clapton"
+    year: 1997
+    album: "Phenomenon Soundtrack"
+    soundtrack: true
+    genres:
+      - Rock
+      - Blues
+  - rank: 68
+    title: "Tubthumping"
+    artist: "Chumbawamba"
+    year: 1997
+    album: "Tubthumper"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 69
+    title: "Fly"
+    artist: "Sugar Ray"
+    year: 1997
+    album: "Floored"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 70
+    title: "One Headlight"
+    artist: "The Wallflowers"
+    year: 1997
+    album: "Bringing Down the Horse"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 71
+    title: "Bitter Sweet Symphony"
+    artist: "The Verve"
+    year: 1997
+    album: "Urban Hymns"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 72
+    title: "Don't Speak"
+    artist: "No Doubt"
+    year: 1997
+    album: "Tragic Kingdom"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 73
+    title: "Men in Black"
+    artist: "Will Smith"
+    year: 1997
+    album: "Big Willie Style"
+    soundtrack: true
+    genres:
+      - Pop
+      - R&B
+  - rank: 74
+    title: "Criminal"
+    artist: "Fiona Apple"
+    year: 1997
+    album: "Tidal"
+    genres:
+      - Alternative
+      - Jazz
+  - rank: 75
+    title: "On & On"
+    artist: "Erykah Badu"
+    year: 1997
+    album: "Baduizm"
+    genres:
+      - R&B
+      - Soul
+      - Jazz
+  - rank: 76
+    title: "Lovefool"
+    artist: "The Cardigans"
+    year: 1997
+    album: "First Band on the Moon"
+    genres:
+      - Alternative
+      - Pop
+  - rank: 77
+    title: "Song 2"
+    artist: "Blur"
+    year: 1997
+    album: "Blur"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 78
+    title: "Everlong"
+    artist: "Foo Fighters"
+    year: 1997
+    album: "The Colour and the Shape"
+    genres:
+      - Alternative
+      - Rock
+      - Grunge
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 79
+    title: "Push"
+    artist: "Matchbox Twenty"
+    year: 1997
+    album: "Yourself or Someone Like You"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 80
+    title: "3AM"
+    artist: "Matchbox Twenty"
+    year: 1997
+    album: "Yourself or Someone Like You"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 81
+    title: "Sex and Candy"
+    artist: "Marcy Playground"
+    year: 1997
+    album: "Marcy Playground"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 82
+    title: "My Own Prison"
+    artist: "Creed"
+    year: 1997
+    album: "My Own Prison"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+  - rank: 83
+    title: "Touch, Peel and Stand"
+    artist: "Days of the New"
+    year: 1997
+    album: "Days of the New"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+      - Grunge
+  - rank: 84
+    title: "Gone Away"
+    artist: "The Offspring"
+    year: 1997
+    album: "Ixnay on the Hombre"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 85
+    title: "Pink"
+    artist: "Aerosmith"
+    year: 1997
+    album: "Nine Lives"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 86
+    title: "Blue on Black"
+    artist: "Kenny Wayne Shepherd"
+    year: 1997
+    album: "Trouble Is..."
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: "Zoot Suit Riot"
+    artist: "Cherry Poppin' Daddies"
+    year: 1997
+    album: "Zoot Suit Riot: The Swingin' Hits of the Cherry Poppin' Daddies"
+    solo-hit: true
+    genres:
+      - Swing
+      - Big Band
+  - rank: 88
+    title: "The Impression That I Get"
+    artist: "The Mighty Mighty Bosstones"
+    year: 1997
+    album: "Let's Face It"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 89
+    title: "The New Pollution"
+    artist: "Beck"
+    year: 1997
+    album: "Odelay"
+    genres:
+      - Alternative
+      - Funk
+  - rank: 90
+    title: "D'You Know What I Mean?"
+    artist: "Oasis"
+    year: 1997
+    album: "Be Here Now"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 91
+    title: "Walkin' on the Sun"
+    artist: "Smash Mouth"
+    year: 1997
+    album: "Fush Yu Mang"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 92
+    title: "Karma Police"
+    artist: "Radiohead"
+    year: 1997
+    album: "OK Computer"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 93
+    title: "Paranoid Android"
+    artist: "Radiohead"
+    year: 1997
+    album: "OK Computer"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 94
+    title: "Good Riddance (Time of Your Life)"
+    artist: "Green Day"
+    year: 1997
+    album: "Nimrod"
+    genres:
+      - Alternative
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 95
+    title: "Don't Cry for Me Argentina"
+    artist: "Madonna"
+    year: 1997
+    album: "Evita Soundtrack"
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Original artist: Julie Covington
+  - rank: 96
+    title: "Du hast"
+    artist: "Rammstein"
+    year: 1997
+    album: "Sehnsucht"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 97
+    title: "Ænema"
+    artist: "TOOL"
+    year: 1997
+    album: "Ænima"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 98
+    title: "King Nothing"
+    artist: "Metallica"
+    year: 1997
+    album: "Load"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 99
+    title: "Discothèque"
+    artist: "U2"
+    year: 1997
+    album: "Pop"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 100
+    title: "Barbie Girl"
+    artist: "Aqua"
+    year: 1997
+    album: "Aquarium"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Culturally important
+      - Fan favorite

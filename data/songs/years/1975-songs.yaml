@@ -1,0 +1,925 @@
+songs:
+  - rank: 1
+    title: "Love Will Keep Us Together"
+    artist: "Captain & Tennille"
+    year: 1975
+    album: "Love Will Keep Us Together"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 Number 1
+      - Grammy for Record of the Year
+  - rank: 2
+    title: "Rhinestone Cowboy"
+    artist: "Glen Campbell"
+    year: 1975
+    album: "Rhinestone Cowboy"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 3
+    title: "Philadelphia Freedom"
+    artist: "Elton John"
+    year: 1975
+    album: "Captain Fantastic and the Brown Dirt Cowboy"
+    genres:
+      - Pop
+      - Rock
+  - rank: 4
+    title: "Before the Next Teardrop Falls"
+    artist: "Freddy Fender"
+    year: 1975
+    album: "Before the Next Teardrop Falls"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 5
+    title: "My Eyes Adored You"
+    artist: "Frankie Valli"
+    year: 1975
+    album: "Closeup"
+    genres:
+      - Pop
+      - Rock
+  - rank: 6
+    title: "Shining Star"
+    artist: "Earth, Wind & Fire"
+    year: 1975
+    album: "That's the Way of the World"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Grammy winner
+      - Fan favorite
+  - rank: 7
+    title: "Fame"
+    artist: "David Bowie"
+    year: 1975
+    album: "Young Americans"
+    genres:
+      - Rock
+      - Funk
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 8
+    title: "Laughter in the Rain"
+    artist: "Neil Sedaka"
+    year: 1975
+    album: "Sedaka's Back"
+    genres:
+      - Pop
+  - rank: 9
+    title: "One of These Nights"
+    artist: "Eagles"
+    year: 1975
+    album: "One of These Nights"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 10
+    title: "Thank God I'm a Country Boy"
+    artist: "John Denver"
+    year: 1975
+    album: "Back Home Again"
+    genres:
+      - Folk
+      - Pop
+  - rank: 11
+    title: "Jive Talkin'"
+    artist: "Bee Gees"
+    year: 1975
+    album: "Main Course"
+    genres:
+      - Pop
+      - Funk
+  - rank: 12
+    title: "Best of My Love"
+    artist: "Eagles"
+    year: 1975
+    album: "On the Border"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 13
+    title: "Lovin' You"
+    artist: "Minnie Riperton"
+    year: 1975
+    album: "Perfect Angel"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 14
+    title: "Kung Fu Fighting"
+    artist: "Carl Douglas"
+    year: 1975
+    album: "Kung Fu Fighting and Other Great Love Songs"
+    genres:
+      - Funk
+      - Pop
+    solo-hit: true
+  - rank: 15
+    title: "Black Water"
+    artist: "The Doobie Brothers"
+    year: 1975
+    album: "What Were Once Vices Are Now Habits"
+    genres:
+      - Rock
+      - Pop
+  - rank: 16
+    title: "Ballroom Blitz"
+    artist: "Sweet"
+    year: 1975
+    album: "Desolation Boulevard"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 17
+    title: "Fight the Power"
+    artist: "The Isley Brothers"
+    year: 1975
+    album: "The Heat Is On"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Culturally important
+  - rank: 18
+    title: "Lady"
+    artist: "Styx"
+    year: 1975
+    album: "Styx II"
+    genres:
+      - Rock
+      - Pop
+  - rank: 19
+    title: "Have You Never Been Mellow"
+    artist: "Olivia Newton-John"
+    year: 1975
+    album: "Have You Never Been Mellow"
+    genres:
+      - Pop
+      - Folk
+  - rank: 20
+    title: "The Hustle"
+    artist: "Van McCoy & the Soul City Symphony"
+    year: 1975
+    album: "Disco Baby"
+    genres:
+      - Funk
+      - Soul
+    solo-hit: true
+    tags:
+      - Instrumental
+  - rank: 21
+    title: "Please Mr. Please"
+    artist: "Olivia Newton-John"
+    year: 1975
+    album: "Have You Never Been Mellow"
+    genres:
+      - Pop
+      - Folk
+  - rank: 22
+    title: "Fire"
+    artist: "Ohio Players"
+    year: 1975
+    album: "Fire"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 23
+    title: "Magic"
+    artist: "Pilot"
+    year: 1975
+    album: "Pilot"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 24
+    title: "Please Mr. Postman"
+    artist: "The Carpenters"
+    year: 1975
+    album: "Horizon"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: The Marvelettes
+  - rank: 25
+    title: "Sister Golden Hair"
+    artist: "America"
+    year: 1975
+    album: "Hearts"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+  - rank: 26
+    title: "Lucy in the Sky with Diamonds"
+    artist: "Elton John"
+    year: 1975
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: The Beatles
+  - rank: 27
+    title: "Mandy"
+    artist: "Barry Manilow"
+    year: 1975
+    album: "Barry Manilow II"
+    genres:
+      - Pop
+      - Standards
+  - rank: 28
+    title: "Pick Up the Pieces"
+    artist: "Average White Band"
+    year: 1975
+    album: "AWB"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Instrumental
+      - Fan favorite
+  - rank: 29
+    title: "Island Girl"
+    artist: "Elton John"
+    year: 1975
+    album: "Rock of the Westies"
+    genres:
+      - Rock
+      - Pop
+  - rank: 30
+    title: "Listen to What the Man Said"
+    artist: "Wings"
+    year: 1975
+    album: "Venus and Mars"
+    genres:
+      - Rock
+      - Pop
+  - rank: 31
+    title: "He Don't Love You (Like I Love You)"
+    artist: "Tony Orlando and Dawn"
+    year: 1975
+    album: "He Don't Love You (Like I Love You)"
+    genres:
+      - Pop
+    tags:
+      - Original artist: Jerry Butler
+  - rank: 32
+    title: "Lady Marmalade"
+    artist: "Labelle"
+    year: 1975
+    album: "Nightbirds"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 33
+    title: "Why Can't We Be Friends?"
+    artist: "War"
+    year: 1975
+    album: "Why Can't We Be Friends?"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 34
+    title: "Love Won't Let Me Wait"
+    artist: "Major Harris"
+    year: 1975
+    album: "My Way"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    solo-hit: true
+  - rank: 35
+    title: "Boogie On Reggae Woman"
+    artist: "Stevie Wonder"
+    year: 1975
+    album: "Fulfillingness' First Finale"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Grammy winner
+  - rank: 36
+    title: "Wasted Days and Wasted Nights"
+    artist: "Freddy Fender"
+    year: 1975
+    album: "Before the Next Teardrop Falls"
+    genres:
+      - Rock
+      - Pop
+  - rank: 37
+    title: "Angie Baby"
+    artist: "Helen Reddy"
+    year: 1975
+    album: "Free and Easy"
+    genres:
+      - Pop
+  - rank: 38
+    title: "Jackie Blue"
+    artist: "Ozark Mountain Daredevils"
+    year: 1975
+    album: "It'll Shine When It Shines"
+    genres:
+      - Rock
+      - Pop
+    solo-hit: true
+  - rank: 39
+    title: "Chevy Van"
+    artist: "Sammy Johns"
+    year: 1975
+    album: "Sammy Johns"
+    genres:
+      - Rock
+      - Pop
+    solo-hit: true
+  - rank: 40
+    title: "The Rockford Files"
+    artist: "Mike Post"
+    year: 1975
+    album: "The Rockford Files"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Instrumental
+  - rank: 41
+    title: "Some Kind of Wonderful"
+    artist: "Grand Funk Railroad"
+    year: 1975
+    album: "All the Girls in the World Beware!!!"
+    genres:
+      - Rock
+      - Soul
+    tags:
+      - Original artist: Soul Brothers Six
+  - rank: 42
+    title: "When Will I Be Loved"
+    artist: "Linda Ronstadt"
+    year: 1975
+    album: "Heart Like a Wheel"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: The Everly Brothers
+  - rank: 43
+    title: "Bad Blood"
+    artist: "Neil Sedaka"
+    year: 1975
+    album: "The Hungry Years"
+    genres:
+      - Pop
+  - rank: 44
+    title: "Only Yesterday"
+    artist: "The Carpenters"
+    year: 1975
+    album: "Horizon"
+    genres:
+      - Pop
+  - rank: 45
+    title: "At Seventeen"
+    artist: "Janis Ian"
+    year: 1975
+    album: "Between the Lines"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Culturally important
+      - Grammy winner
+  - rank: 46
+    title: "Fly, Robin, Fly"
+    artist: "Silver Convention"
+    year: 1975
+    album: "Save Me"
+    genres:
+      - Funk
+      - Pop
+    solo-hit: true
+  - rank: 47
+    title: "Cat's in the Cradle"
+    artist: "Harry Chapin"
+    year: 1975
+    album: "Verities & Balderdash"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 48
+    title: "Wildfire"
+    artist: "Michael Martin Murphey"
+    year: 1975
+    album: "Blue Sky – Night Thunder"
+    genres:
+      - Folk
+      - Pop
+    solo-hit: true
+  - rank: 49
+    title: "I'm Not Lisa"
+    artist: "Jessi Colter"
+    year: 1975
+    album: "I'm Jessi Colter"
+    genres:
+      - Pop
+      - Folk
+    solo-hit: true
+  - rank: 50
+    title: "You're No Good"
+    artist: "Linda Ronstadt"
+    year: 1975
+    album: "Heart Like a Wheel"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: Betty Everett
+  - rank: 51
+    title: "Born to Run"
+    artist: "Bruce Springsteen"
+    year: 1975
+    album: "Born to Run"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 52
+    title: "Bohemian Rhapsody"
+    artist: "Queen"
+    year: 1975
+    album: "A Night at the Opera"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 53
+    title: "Walk This Way"
+    artist: "Aerosmith"
+    year: 1975
+    album: "Toys in the Attic"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 54
+    title: "Kashmir"
+    artist: "Led Zeppelin"
+    year: 1975
+    album: "Physical Graffiti"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "Tangled Up in Blue"
+    artist: "Bob Dylan"
+    year: 1975
+    album: "Blood on the Tracks"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 56
+    title: "That's the Way of the World"
+    artist: "Earth, Wind & Fire"
+    year: 1975
+    album: "That's the Way of the World"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: "This Will Be (An Everlasting Love)"
+    artist: "Natalie Cole"
+    year: 1975
+    album: "Inseparable"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Grammy winner
+  - rank: 58
+    title: "Let's Do It Again"
+    artist: "The Staple Singers"
+    year: 1975
+    album: "Let's Do It Again"
+    soundtrack: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+  - rank: 59
+    title: "Get Down Tonight"
+    artist: "KC and the Sunshine Band"
+    year: 1975
+    album: "KC and the Sunshine Band"
+    genres:
+      - Funk
+      - Pop
+  - rank: 60
+    title: "Full of Fire"
+    artist: "Al Green"
+    year: 1975
+    album: "Full of Fire"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 61
+    title: "Mister Magic"
+    artist: "Grover Washington Jr."
+    year: 1975
+    album: "Mister Magic"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Instrumental
+      - Fan favorite
+  - rank: 62
+    title: "The Köln Concert (Part I)"
+    artist: "Keith Jarrett"
+    year: 1975
+    album: "The Köln Concert"
+    genres:
+      - Jazz
+    tags:
+      - Instrumental
+      - Culturally important
+  - rank: 63
+    title: "Sweet Emotion"
+    artist: "Aerosmith"
+    year: 1975
+    album: "Toys in the Attic"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 64
+    title: "Slow Ride"
+    artist: "Foghat"
+    year: 1975
+    album: "Fool for the City"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 65
+    title: "Wish You Were Here"
+    artist: "Pink Floyd"
+    year: 1975
+    album: "Wish You Were Here"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 66
+    title: "Thunder Road"
+    artist: "Bruce Springsteen"
+    year: 1975
+    album: "Born to Run"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 67
+    title: "No Woman, No Cry"
+    artist: "Bob Marley & The Wailers"
+    year: 1975
+    album: "Live!"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 68
+    title: "Rock and Roll All Nite"
+    artist: "Kiss"
+    year: 1975
+    album: "Dressed to Kill"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 69
+    title: "Expansions"
+    artist: "Lonnie Liston Smith & The Cosmic Echoes"
+    year: 1975
+    album: "Expansions"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Instrumental
+  - rank: 70
+    title: "Bad Luck"
+    artist: "Harold Melvin & The Blue Notes"
+    year: 1975
+    album: "To Be True"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 71
+    title: "Give Up the Funk (Tear the Roof off the Sucker)"
+    artist: "Parliament"
+    year: 1975
+    album: "Mothership Connection"
+    genres:
+      - Funk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 72
+    title: "How Long"
+    artist: "Ace"
+    year: 1975
+    album: "Five-A-Side"
+    genres:
+      - Rock
+      - Pop
+    solo-hit: true
+  - rank: 73
+    title: "50 Ways to Leave Your Lover"
+    artist: "Paul Simon"
+    year: 1975
+    album: "Still Crazy After All These Years"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Grammy winner
+  - rank: 74
+    title: "Hurricane"
+    artist: "Bob Dylan"
+    year: 1975
+    album: "Desire"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 75
+    title: "Landslide"
+    artist: "Fleetwood Mac"
+    year: 1975
+    album: "Fleetwood Mac"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 76
+    title: "Young Americans"
+    artist: "David Bowie"
+    year: 1975
+    album: "Young Americans"
+    genres:
+      - Rock
+      - Soul
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: "Low Rider"
+    artist: "War"
+    year: 1975
+    album: "Why Can't We Be Friends?"
+    genres:
+      - Funk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 78
+    title: "Take It to the Limit"
+    artist: "Eagles"
+    year: 1975
+    album: "One of These Nights"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: "Evil Woman"
+    artist: "Electric Light Orchestra"
+    year: 1975
+    album: "Face the Music"
+    genres:
+      - Rock
+      - Pop
+  - rank: 80
+    title: "I'm on Fire"
+    artist: "Dwight Twilley Band"
+    year: 1975
+    album: "Sincerely"
+    genres:
+      - Rock
+      - Pop
+  - rank: 81
+    title: "Blue Eyes Crying in the Rain"
+    artist: "Willie Nelson"
+    year: 1975
+    album: "Red Headed Stranger"
+    genres:
+      - Folk
+      - Blues
+    tags:
+      - Original artist: Roy Acuff
+  - rank: 82
+    title: "Wake Up Everybody"
+    artist: "Harold Melvin & The Blue Notes"
+    year: 1975
+    album: "Wake Up Everybody"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Culturally important
+  - rank: 83
+    title: "Dream Weaver"
+    artist: "Gary Wright"
+    year: 1975
+    album: "The Dream Weaver"
+    genres:
+      - Rock
+      - Pop
+  - rank: 84
+    title: "Mr. Jaws"
+    artist: "Dickie Goodman"
+    year: 1975
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 85
+    title: "Nights on Broadway"
+    artist: "Bee Gees"
+    year: 1975
+    album: "Main Course"
+    genres:
+      - Pop
+      - Soul
+  - rank: 86
+    title: "This Will Be"
+    artist: "Natalie Cole"
+    year: 1975
+    album: "Inseparable"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 87
+    title: "Calypso"
+    artist: "John Denver"
+    year: 1975
+    album: "Windsong"
+    genres:
+      - Folk
+      - Pop
+  - rank: 88
+    title: "That's the Way (I Like It)"
+    artist: "KC and the Sunshine Band"
+    year: 1975
+    album: "KC and the Sunshine Band"
+    genres:
+      - Funk
+      - Pop
+  - rank: 89
+    title: "Miracles"
+    artist: "Jefferson Starship"
+    year: 1975
+    album: "Red Octopus"
+    genres:
+      - Rock
+      - Pop
+  - rank: 90
+    title: "Do It Any Way You Wanna"
+    artist: "People's Choice"
+    year: 1975
+    album: "Boogie Down U.S.A."
+    genres:
+      - Funk
+      - Soul
+    solo-hit: true
+  - rank: 91
+    title: "Just Too Many People"
+    artist: "Melissa Manchester"
+    year: 1975
+    album: "Melissa"
+    genres:
+      - Pop
+  - rank: 92
+    title: "Dance with Me"
+    artist: "Orleans"
+    year: 1975
+    album: "Let There Be Music"
+    genres:
+      - Rock
+      - Pop
+  - rank: 93
+    title: "Free Bird"
+    artist: "Lynyrd Skynyrd"
+    year: 1975
+    album: "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 94
+    title: "You Are So Beautiful"
+    artist: "Joe Cocker"
+    year: 1975
+    album: "I Can Stand a Little Rain"
+    genres:
+      - Rock
+      - Blues
+      - Soul
+  - rank: 95
+    title: "Feel Like Makin' Love"
+    artist: "Bad Company"
+    year: 1975
+    album: "Straight Shooter"
+    genres:
+      - Rock
+      - Blues
+  - rank: 96
+    title: "Laughing"
+    artist: "The Guess Who"
+    year: 1975
+    album: "Power in the Music"
+    genres:
+      - Rock
+  - rank: 97
+    title: "I'm Not in Love"
+    artist: "10cc"
+    year: 1975
+    album: "The Original Soundtrack"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: "I Only Have Eyes for You"
+    artist: "Art Garfunkel"
+    year: 1975
+    album: "Breakaway"
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Original artist: The Flamingos
+  - rank: 99
+    title: "Ain't No Way to Treat a Lady"
+    artist: "Helen Reddy"
+    year: 1975
+    album: "No Way to Treat a Lady"
+    genres:
+      - Pop
+  - rank: 100
+    title: "Back Together Again"
+    artist: "Hall & Oates"
+    year: 1975
+    album: "Daryl Hall & John Oates"
+    genres:
+      - Pop
+      - Soul
+      - Rock

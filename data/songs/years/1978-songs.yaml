@@ -1,0 +1,859 @@
+songs:
+  - rank: 1
+    title: "Shadow Dancing"
+    artist: "Andy Gibb"
+    year: 1978
+    album: "Shadow Dancing"
+    genres:
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 2
+    title: "Night Fever"
+    artist: "Bee Gees"
+    year: 1978
+    album: "Saturday Night Fever"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 3
+    title: "You Light Up My Life"
+    artist: "Debby Boone"
+    year: 1978
+    genres:
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 4
+    title: "Stayin' Alive"
+    artist: "Bee Gees"
+    year: 1978
+    album: "Saturday Night Fever"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 5
+    title: "Kiss You All Over"
+    artist: "Exile"
+    year: 1978
+    album: "Mixed Emotions"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 6
+    title: "How Deep Is Your Love"
+    artist: "Bee Gees"
+    year: 1978
+    album: "Saturday Night Fever"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 7
+    title: "Baby Come Back"
+    artist: "Player"
+    year: 1978
+    album: "Player"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 8
+    title: "(Love Is) Thicker Than Water"
+    artist: "Andy Gibb"
+    year: 1978
+    album: "Flowing Rivers"
+    genres:
+      - Pop
+  - rank: 9
+    title: "Boogie Oogie Oogie"
+    artist: "A Taste of Honey"
+    year: 1978
+    album: "A Taste of Honey"
+    solo-hit: true
+    genres:
+      - Funk
+      - Soul
+  - rank: 10
+    title: "Three Times a Lady"
+    artist: "Commodores"
+    year: 1978
+    album: "Natural High"
+    genres:
+      - Soul
+      - Pop
+  - rank: 11
+    title: "Grease"
+    artist: "Frankie Valli"
+    year: 1978
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 12
+    title: "I Go Crazy"
+    artist: "Paul Davis"
+    year: 1978
+    album: "Singer of Songs: Teller of Tales"
+    genres:
+      - Pop
+      - Rock
+  - rank: 13
+    title: "You're the One That I Want"
+    artist: "John Travolta & Olivia Newton-John"
+    year: 1978
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 14
+    title: "Emotion"
+    artist: "Samantha Sang"
+    year: 1978
+    album: "Emotion"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soul
+  - rank: 15
+    title: "Lay Down Sally"
+    artist: "Eric Clapton"
+    year: 1978
+    album: "Slowhand"
+    genres:
+      - Rock
+      - Blues
+  - rank: 16
+    title: "Miss You"
+    artist: "The Rolling Stones"
+    year: 1978
+    album: "Some Girls"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 17
+    title: "Just the Way You Are"
+    artist: "Billy Joel"
+    year: 1978
+    album: "The Stranger"
+    genres:
+      - Pop
+      - Rock
+  - rank: 18
+    title: "With a Little Luck"
+    artist: "Wings"
+    year: 1978
+    album: "London Town"
+    genres:
+      - Rock
+      - Pop
+  - rank: 19
+    title: "If I Can't Have You"
+    artist: "Yvonne Elliman"
+    year: 1978
+    single: true
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 20
+    title: "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)"
+    artist: "Chic"
+    year: 1978
+    album: "Chic"
+    genres:
+      - Funk
+      - Soul
+  - rank: 21
+    title: "Feels So Good"
+    artist: "Chuck Mangione"
+    year: 1978
+    album: "Feels So Good"
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 22
+    title: "Hot Child in the City"
+    artist: "Nick Gilder"
+    year: 1978
+    album: "City Nights"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 23
+    title: "Love Is Like Oxygen"
+    artist: "Sweet"
+    year: 1978
+    album: "Level Headed"
+    genres:
+      - Rock
+  - rank: 24
+    title: "It's a Heartache"
+    artist: "Bonnie Tyler"
+    year: 1978
+    album: "Natural Force"
+    genres:
+      - Pop
+      - Rock
+  - rank: 25
+    title: "We Will Rock You / We Are the Champions"
+    artist: "Queen"
+    year: 1978
+    album: "News of the World"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 26
+    title: "Baker Street"
+    artist: "Gerry Rafferty"
+    year: 1978
+    album: "City to City"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 27
+    title: "Can't Smile Without You"
+    artist: "Barry Manilow"
+    year: 1978
+    album: "Even Now"
+    genres:
+      - Pop
+  - rank: 28
+    title: "Too Much, Too Little, Too Late"
+    artist: "Johnny Mathis & Deniece Williams"
+    year: 1978
+    album: "You Light Up My Life"
+    solo-hit: true
+    genres:
+      - Soul
+      - Pop
+  - rank: 29
+    title: "Dance With Me"
+    artist: "Peter Brown"
+    year: 1978
+    album: "A Fantasy Love Affair"
+    genres:
+      - Funk
+      - Pop
+  - rank: 30
+    title: "Two Out of Three Ain't Bad"
+    artist: "Meat Loaf"
+    year: 1978
+    album: "Bat Out of Hell"
+    genres:
+      - Rock
+      - Pop
+  - rank: 31
+    title: "Jack And Jill"
+    artist: "Raydio"
+    year: 1978
+    album: "Raydio"
+    genres:
+      - Rhythm and Blues
+      - Funk
+  - rank: 32
+    title: "Take a Chance on Me"
+    artist: "ABBA"
+    year: 1978
+    album: "The Album"
+    genres:
+      - Pop
+  - rank: 33
+    title: "Sometimes When We Touch"
+    artist: "Dan Hill"
+    year: 1978
+    album: "Longer Fuse"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 34
+    title: "Last Dance"
+    artist: "Donna Summer"
+    year: 1978
+    single: true
+    soundtrack: true
+    genres:
+      - Soul
+      - Pop
+  - rank: 35
+    title: "Hopelessly Devoted to You"
+    artist: "Olivia Newton-John"
+    year: 1978
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 36
+    title: "Hot Blooded"
+    artist: "Foreigner"
+    year: 1978
+    album: "Double Vision"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 37
+    title: "You're in My Heart (The Final Acclaim)"
+    artist: "Rod Stewart"
+    year: 1978
+    album: "Foot Loose & Fancy Free"
+    genres:
+      - Rock
+      - Pop
+  - rank: 38
+    title: "The Closer I Get to You"
+    artist: "Roberta Flack & Donny Hathaway"
+    year: 1978
+    album: "Blue Lights in the Basement"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 39
+    title: "Dust in the Wind"
+    artist: "Kansas"
+    year: 1978
+    album: "Point of Know Return"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 40
+    title: "Magnet and Steel"
+    artist: "Walter Egan"
+    year: 1978
+    album: "Not Shy"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 41
+    title: "Short People"
+    artist: "Randy Newman"
+    year: 1978
+    album: "Little Criminals"
+    genres:
+      - Pop
+      - Rock
+  - rank: 42
+    title: "Use ta Be My Girl"
+    artist: "The O'Jays"
+    year: 1978
+    album: "So Full of Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 43
+    title: "Our Love"
+    artist: "Natalie Cole"
+    year: 1978
+    album: "Thankful"
+    genres:
+      - Soul
+      - Pop
+  - rank: 44
+    title: "Love Will Find a Way"
+    artist: "Pablo Cruise"
+    year: 1978
+    album: "Worlds Away"
+    genres:
+      - Rock
+      - Pop
+  - rank: 45
+    title: "An Everlasting Love"
+    artist: "Andy Gibb"
+    year: 1978
+    album: "Shadow Dancing"
+    genres:
+      - Pop
+  - rank: 46
+    title: "Love Is in the Air"
+    artist: "John Paul Young"
+    year: 1978
+    album: "Love Is in the Air"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 47
+    title: "Goodbye Girl"
+    artist: "David Gates"
+    year: 1978
+    album: "Goodbye Girl"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 48
+    title: "Slip Slidin' Away"
+    artist: "Paul Simon"
+    year: 1978
+    album: "Greatest Hits, Etc."
+    genres:
+      - Pop
+      - Folk
+  - rank: 49
+    title: "The Groove Line"
+    artist: "Heatwave"
+    year: 1978
+    album: "Central Heating"
+    genres:
+      - Funk
+      - Soul
+  - rank: 50
+    title: "Thunder Island"
+    artist: "Jay Ferguson"
+    year: 1978
+    album: "Thunder Island"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 51
+    title: "Imaginary Lover"
+    artist: "Atlanta Rhythm Section"
+    year: 1978
+    album: "Champagne Jam"
+    genres:
+      - Rock
+  - rank: 52
+    title: "Still the Same"
+    artist: "Bob Seger & The Silver Bullet Band"
+    year: 1978
+    album: "Stranger in Town"
+    genres:
+      - Rock
+  - rank: 53
+    title: "My Angel Baby"
+    artist: "Toby Beau"
+    year: 1978
+    album: "Toby Beau"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 54
+    title: "Disco Inferno"
+    artist: "The Trammps"
+    year: 1978
+    album: "Disco Inferno"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+  - rank: 55
+    title: "On Broadway"
+    artist: "George Benson"
+    year: 1978
+    album: "Weekend in L.A."
+    cover: true
+    genres:
+      - Jazz
+      - Soul
+    tags:
+      - Original artist: The Drifters
+  - rank: 56
+    title: "Come Sail Away"
+    artist: "Styx"
+    year: 1978
+    album: "The Grand Illusion"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: "(Every Time I Turn Around) Back in Love Again"
+    artist: "L.T.D."
+    year: 1978
+    album: "Something to Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 58
+    title: "This Time I'm in It for Love"
+    artist: "Player"
+    year: 1978
+    album: "Player"
+    genres:
+      - Rock
+      - Pop
+  - rank: 59
+    title: "You Belong to Me"
+    artist: "Carly Simon"
+    year: 1978
+    album: "Boys in the Trees"
+    genres:
+      - Pop
+      - Rock
+  - rank: 60
+    title: "Here You Come Again"
+    artist: "Dolly Parton"
+    year: 1978
+    album: "Here You Come Again"
+    genres:
+      - Pop
+  - rank: 61
+    title: "Blue Bayou"
+    artist: "Linda Ronstadt"
+    year: 1978
+    album: "Simple Dreams"
+    cover: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: Roy Orbison
+  - rank: 62
+    title: "Peg"
+    artist: "Steely Dan"
+    year: 1978
+    album: "Aja"
+    genres:
+      - Rock
+      - Jazz
+  - rank: 63
+    title: "You Needed Me"
+    artist: "Anne Murray"
+    year: 1978
+    album: "Let's Keep It That Way"
+    genres:
+      - Pop
+  - rank: 64
+    title: "Shame"
+    artist: "Evelyn 'Champagne' King"
+    year: 1978
+    album: "Smooth Talk"
+    genres:
+      - Soul
+      - Funk
+  - rank: 65
+    title: "Reminiscing"
+    artist: "Little River Band"
+    year: 1978
+    album: "Sleeper Catcher"
+    genres:
+      - Rock
+      - Pop
+  - rank: 66
+    title: "Count On Me"
+    artist: "Jefferson Starship"
+    year: 1978
+    album: "Earth"
+    genres:
+      - Rock
+      - Pop
+  - rank: 67
+    title: "Baby Hold On"
+    artist: "Eddie Money"
+    year: 1978
+    album: "Eddie Money"
+    genres:
+      - Rock
+  - rank: 68
+    title: "Hey Deanie"
+    artist: "Shaun Cassidy"
+    year: 1978
+    album: "Born Late"
+    genres:
+      - Pop
+  - rank: 69
+    title: "Summer Nights"
+    artist: "John Travolta & Olivia Newton-John"
+    year: 1978
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 70
+    title: "What's Your Name"
+    artist: "Lynyrd Skynyrd"
+    year: 1978
+    album: "Street Survivors"
+    genres:
+      - Rock
+  - rank: 71
+    title: "One Nation Under a Groove"
+    artist: "Funkadelic"
+    year: 1978
+    album: "One Nation Under a Groove"
+    genres:
+      - Funk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 72
+    title: "Le Freak"
+    artist: "Chic"
+    year: 1978
+    album: "C'est Chic"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 73
+    title: "September"
+    artist: "Earth, Wind & Fire"
+    year: 1978
+    album: "The Best of Earth, Wind & Fire, Vol. 1"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 74
+    title: "Sultans of Swing"
+    artist: "Dire Straits"
+    year: 1978
+    album: "Dire Straits"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 75
+    title: "Roxanne"
+    artist: "The Police"
+    year: 1978
+    album: "Outlandos d'Amour"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important
+  - rank: 76
+    title: "Just What I Needed"
+    artist: "The Cars"
+    year: 1978
+    album: "The Cars"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: "Pump It Up"
+    artist: "Elvis Costello & The Attractions"
+    year: 1978
+    album: "This Year's Model"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 78
+    title: "Radio, Radio"
+    artist: "Elvis Costello & The Attractions"
+    year: 1978
+    album: "This Year's Model"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 79
+    title: "Flash Light"
+    artist: "Parliament"
+    year: 1978
+    album: "Funkentelechy Vs. the Placebo Syndrome"
+    genres:
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: "Birdland"
+    artist: "Weather Report"
+    year: 1978
+    album: "Heavy Weather"
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 81
+    title: "Hong Kong Garden"
+    artist: "Siouxsie and the Banshees"
+    year: 1978
+    single: true
+    genres:
+      - New Wave
+      - Rock
+  - rank: 82
+    title: "Uptown Top Ranking"
+    artist: "Althea & Donna"
+    year: 1978
+    album: "Uptown Top Ranking"
+    genres:
+      - Pop
+  - rank: 83
+    title: "Denis"
+    artist: "Blondie"
+    year: 1978
+    album: "Plastic Letters"
+    cover: true
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Original artist: Randy & the Rainbows
+  - rank: 84
+    title: "Public Image"
+    artist: "Public Image Ltd"
+    year: 1978
+    album: "Public Image: First Issue"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 85
+    title: "Wishing on a Star"
+    artist: "Rose Royce"
+    year: 1978
+    album: "In Full Bloom"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 86
+    title: "The Gambler"
+    artist: "Kenny Rogers"
+    year: 1978
+    album: "The Gambler"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: "Pancho and Lefty"
+    artist: "Townes Van Zandt"
+    year: 1978
+    album: "The Late Great Townes Van Zandt"
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: "Cocaine"
+    artist: "Eric Clapton"
+    year: 1978
+    album: "Slowhand"
+    cover: true
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Original artist: J.J. Cale
+  - rank: 89
+    title: "Werewolves of London"
+    artist: "Warren Zevon"
+    year: 1978
+    album: "Excitable Boy"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: "Beast of Burden"
+    artist: "The Rolling Stones"
+    year: 1978
+    album: "Some Girls"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: "Badlands"
+    artist: "Bruce Springsteen"
+    year: 1978
+    album: "Darkness on the Edge of Town"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 92
+    title: "Prove It All Night"
+    artist: "Bruce Springsteen"
+    year: 1978
+    album: "Darkness on the Edge of Town"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: "Promised Land"
+    artist: "Bruce Springsteen"
+    year: 1978
+    album: "Darkness on the Edge of Town"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: Chuck Berry
+  - rank: 94
+    title: "Darkness on the Edge of Town"
+    artist: "Bruce Springsteen"
+    year: 1978
+    album: "Darkness on the Edge of Town"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 95
+    title: "Rock Lobster"
+    artist: "The B-52's"
+    year: 1978
+    album: "The B-52's"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important
+  - rank: 96
+    title: "Shot by Both Sides"
+    artist: "Magazine"
+    year: 1978
+    album: "Real Life"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 97
+    title: "Teenage Kicks"
+    artist: "The Undertones"
+    year: 1978
+    album: "The Undertones"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: "Blame It on the Boogie"
+    artist: "The Jacksons"
+    year: 1978
+    album: "Destiny"
+    cover: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Original artist: Mick Jackson
+  - rank: 99
+    title: "Uptown Top Ranking"
+    artist: "Althea & Donna"
+    year: 1978
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 100
+    title: "Peace on Earth"
+    artist: "Hi-Tension"
+    year: 1978
+    album: "Hi-Tension"
+    genres:
+      - Jazz
+      - Funk

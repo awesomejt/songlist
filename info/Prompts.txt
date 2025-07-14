@@ -27,3 +27,4 @@ Indicate if a song is a cover in tags. Do not consider a song a cover if previou
 Exclude Holiday songs.
 Indicate if song was a one-hit-wonder for the artist in the USA in tags as "bottled lightning".
 Exclude songs from <list of artists>
+

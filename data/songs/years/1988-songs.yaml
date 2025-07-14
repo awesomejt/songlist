@@ -1,0 +1,931 @@
+songs:
+  - rank: 1
+    title: "Faith"
+    artist: "George Michael"
+    year: 1988
+    album: "Faith"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Number one song of the year
+
+  - rank: 2
+    title: "Need You Tonight"
+    artist: "INXS"
+    year: 1988
+    album: "Kick"
+    genres:
+      - Rock
+      - New Wave
+
+  - rank: 3
+    title: "Got My Mind Set on You"
+    artist: "George Harrison"
+    year: 1988
+    album: "Cloud Nine"
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: James Ray
+
+  - rank: 4
+    title: "Never Gonna Give You Up"
+    artist: "Rick Astley"
+    year: 1988
+    album: "Whenever You Need Somebody"
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 5
+    title: "Sweet Child o' Mine"
+    artist: "Guns N' Roses"
+    year: 1988
+    album: "Appetite for Destruction"
+    genres:
+      - Hard Rock
+      - Rock
+    tags:
+      - Culturally important song
+
+  - rank: 6
+    title: "So Emotional"
+    artist: "Whitney Houston"
+    year: 1988
+    album: "Whitney"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 7
+    title: "Heaven Is a Place on Earth"
+    artist: "Belinda Carlisle"
+    year: 1988
+    album: "Heaven on Earth"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 8
+    title: "Could've Been"
+    artist: "Tiffany"
+    year: 1988
+    album: "Tiffany"
+    genres:
+      - Pop
+
+  - rank: 9
+    title: "Hands to Heaven"
+    artist: "Breathe"
+    year: 1988
+    album: "All That Jazz"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 10
+    title: "Roll with It"
+    artist: "Steve Winwood"
+    year: 1988
+    album: "Roll with It"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 11
+    title: "One More Try"
+    artist: "George Michael"
+    year: 1988
+    album: "Faith"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 12
+    title: "Wishing Well"
+    artist: "Terence Trent D'Arby"
+    year: 1988
+    album: "Introducing the Hardline According to Terence Trent D'Arby"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 13
+    title: "Anything for You"
+    artist: "Gloria Estefan and Miami Sound Machine"
+    year: 1988
+    album: "Let It Loose"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 14
+    title: "The Flame"
+    artist: "Cheap Trick"
+    year: 1988
+    album: "Lap of Luxury"
+    genres:
+      - Rock
+      - Soft Rock
+
+  - rank: 15
+    title: "Get Outta My Dreams, Get into My Car"
+    artist: "Billy Ocean"
+    year: 1988
+    album: "Tear Down These Walls"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 16
+    title: "Seasons Change"
+    artist: "Exposé"
+    year: 1988
+    album: "Exposure"
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 17
+    title: "Is This Love"
+    artist: "Whitesnake"
+    year: 1988
+    album: "Whitesnake"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 18
+    title: "Wild, Wild West"
+    artist: "The Escape Club"
+    year: 1988
+    album: "Wild Wild West"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 19
+    title: "Pour Some Sugar on Me"
+    artist: "Def Leppard"
+    year: 1988
+    album: "Hysteria"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 20
+    title: "I'll Always Love You"
+    artist: "Taylor Dayne"
+    year: 1988
+    album: "Tell It to My Heart"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 21
+    title: "Man in the Mirror"
+    artist: "Michael Jackson"
+    year: 1988
+    album: "Bad"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Culturally important song
+
+  - rank: 22
+    title: "Shake Your Love"
+    artist: "Debbie Gibson"
+    year: 1988
+    album: "Out of the Blue"
+    genres:
+      - Pop
+
+  - rank: 23
+    title: "Simply Irresistible"
+    artist: "Robert Palmer"
+    year: 1988
+    album: "Heavy Nova"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 24
+    title: "Hold On to the Nights"
+    artist: "Richard Marx"
+    year: 1988
+    album: "Richard Marx"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 25
+    title: "Hungry Eyes"
+    artist: "Eric Carmen"
+    year: 1988
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 26
+    title: "Shattered Dreams"
+    artist: "Johnny Hates Jazz"
+    year: 1988
+    album: "Turn Back the Clock"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 27
+    title: "Father Figure"
+    artist: "George Michael"
+    year: 1988
+    album: "Faith"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 28
+    title: "Naughty Girls (Need Love Too)"
+    artist: "Samantha Fox"
+    year: 1988
+    album: "Samantha Fox"
+    genres:
+      - Pop
+
+  - rank: 29
+    title: "A Groovy Kind of Love"
+    artist: "Phil Collins"
+    year: 1988
+    album: "Buster (soundtrack)"
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Original artist: The Mindbenders
+
+  - rank: 30
+    title: "Love Bites"
+    artist: "Def Leppard"
+    year: 1988
+    album: "Hysteria"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 31
+    title: "Endless Summer Nights"
+    artist: "Richard Marx"
+    year: 1988
+    album: "Richard Marx"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 32
+    title: "Foolish Beat"
+    artist: "Debbie Gibson"
+    year: 1988
+    album: "Out of the Blue"
+    genres:
+      - Pop
+
+  - rank: 33
+    title: "Where Do Broken Hearts Go"
+    artist: "Whitney Houston"
+    year: 1988
+    album: "Whitney"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 34
+    title: "Angel"
+    artist: "Aerosmith"
+    year: 1988
+    album: "Permanent Vacation"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 35
+    title: "A Hazy Shade of Winter"
+    artist: "The Bangles"
+    year: 1988
+    album: "Less Than Zero (soundtrack)"
+    soundtrack: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: Simon & Garfunkel
+
+  - rank: 36
+    title: "The Way You Make Me Feel"
+    artist: "Michael Jackson"
+    year: 1988
+    album: "Bad"
+    genres:
+      - Pop
+      - Funk
+
+  - rank: 37
+    title: "Don't Worry, Be Happy"
+    artist: "Bobby McFerrin"
+    year: 1988
+    album: "Simple Pleasures"
+    solo-hit: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Grammy Award winner
+
+  - rank: 38
+    title: "Make Me Lose Control"
+    artist: "Eric Carmen"
+    year: 1988
+    album: "The Best of Eric Carmen"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 39
+    title: "Red Red Wine"
+    artist: "UB40"
+    year: 1988
+    album: "Labour of Love"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Neil Diamond
+
+  - rank: 40
+    title: "She's Like the Wind"
+    artist: "Patrick Swayze featuring Wendy Fraser"
+    year: 1988
+    album: "Dirty Dancing (soundtrack)"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 41
+    title: "Bad Medicine"
+    artist: "Bon Jovi"
+    year: 1988
+    album: "New Jersey"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 42
+    title: "Kokomo"
+    artist: "The Beach Boys"
+    year: 1988
+    album: "Cocktail (soundtrack)"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 43
+    title: "I Don't Wanna Go on with You Like That"
+    artist: "Elton John"
+    year: 1988
+    album: "Reg Strikes Back"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 44
+    title: "Together Forever"
+    artist: "Rick Astley"
+    year: 1988
+    album: "Whenever You Need Somebody"
+    genres:
+      - Pop
+
+  - rank: 45
+    title: "Monkey"
+    artist: "George Michael"
+    year: 1988
+    album: "Faith"
+    genres:
+      - Pop
+      - Funk
+
+  - rank: 46
+    title: "Devil Inside"
+    artist: "INXS"
+    year: 1988
+    album: "Kick"
+    genres:
+      - Rock
+      - New Wave
+
+  - rank: 47
+    title: "Should've Known Better"
+    artist: "Richard Marx"
+    year: 1988
+    album: "Richard Marx"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 48
+    title: "I Don't Wanna Live Without Your Love"
+    artist: "Chicago"
+    year: 1988
+    album: "Chicago 19"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 49
+    title: "The Loco-Motion"
+    artist: "Kylie Minogue"
+    year: 1988
+    album: "Kylie"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Little Eva
+
+  - rank: 50
+    title: "What Have I Done to Deserve This?"
+    artist: "Pet Shop Boys with Dusty Springfield"
+    year: 1988
+    album: "Actually"
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 51
+    title: "Make It Real"
+    artist: "The Jets"
+    year: 1988
+    album: "Magic"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 52
+    title: "What's On Your Mind (Pure Energy)"
+    artist: "Information Society"
+    year: 1988
+    album: "Information Society"
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 53
+    title: "Tell It to My Heart"
+    artist: "Taylor Dayne"
+    year: 1988
+    album: "Tell It to My Heart"
+    genres:
+      - Pop
+
+  - rank: 54
+    title: "Out of the Blue"
+    artist: "Debbie Gibson"
+    year: 1988
+    album: "Out of the Blue"
+    genres:
+      - Pop
+
+  - rank: 55
+    title: "Don't You Want Me"
+    artist: "Jody Watley"
+    year: 1988
+    album: "Jody Watley"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 56
+    title: "Desire"
+    artist: "U2"
+    year: 1988
+    album: "Rattle and Hum"
+    genres:
+      - Rock
+
+  - rank: 57
+    title: "I Get Weak"
+    artist: "Belinda Carlisle"
+    year: 1988
+    album: "Heaven on Earth"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 58
+    title: "Sign Your Name"
+    artist: "Terence Trent D'Arby"
+    year: 1988
+    album: "Introducing the Hardline According to Terence Trent D'Arby"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 59
+    title: "I Want to Be Your Man"
+    artist: "Roger"
+    year: 1988
+    album: "Unlimited!"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+
+  - rank: 60
+    title: "Girlfriend"
+    artist: "Pebbles"
+    year: 1988
+    album: "Pebbles"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 61
+    title: "Dirty Diana"
+    artist: "Michael Jackson"
+    year: 1988
+    album: "Bad"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 62
+    title: "1-2-3"
+    artist: "Gloria Estefan and Miami Sound Machine"
+    year: 1988
+    album: "Let It Loose"
+    genres:
+      - Pop
+
+  - rank: 63
+    title: "Mercedes Boy"
+    artist: "Pebbles"
+    year: 1988
+    album: "Pebbles"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 64
+    title: "Perfect World"
+    artist: "Huey Lewis and the News"
+    year: 1988
+    album: "Small World"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 65
+    title: "New Sensation"
+    artist: "INXS"
+    year: 1988
+    album: "Kick"
+    genres:
+      - Rock
+      - New Wave
+
+  - rank: 66
+    title: "Catch Me (I'm Falling)"
+    artist: "Pretty Poison"
+    year: 1988
+    album: "Catch Me I'm Falling"
+    solo-hit: true
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 67
+    title: "If It Isn't Love"
+    artist: "New Edition"
+    year: 1988
+    album: "Heart Break"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 68
+    title: "Rocket 2 U"
+    artist: "The Jets"
+    year: 1988
+    album: "Magic"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 69
+    title: "One Good Woman"
+    artist: "Peter Cetera"
+    year: 1988
+    album: "One More Story"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 70
+    title: "Don't Be Cruel"
+    artist: "Cheap Trick"
+    year: 1988
+    album: "Lap of Luxury"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: Elvis Presley
+
+  - rank: 71
+    title: "Candle in the Wind"
+    artist: "Elton John"
+    year: 1988
+    album: "Live in Australia with the Melbourne Symphony Orchestra"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 72
+    title: "Everything Your Heart Desires"
+    artist: "Daryl Hall & John Oates"
+    year: 1988
+    album: "Ooh Yeah!"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 73
+    title: "Say You Will"
+    artist: "Foreigner"
+    year: 1988
+    album: "Inside Information"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 74
+    title: "I Want Her"
+    artist: "Keith Sweat"
+    year: 1988
+    album: "Make It Last Forever"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 75
+    title: "Pink Cadillac"
+    artist: "Natalie Cole"
+    year: 1988
+    album: "Everlasting"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 76
+    title: "Fast Car"
+    artist: "Tracy Chapman"
+    year: 1988
+    album: "Tracy Chapman"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Culturally important song
+
+  - rank: 77
+    title: "Electric Blue"
+    artist: "Icehouse"
+    year: 1988
+    album: "Man of Colours"
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 78
+    title: "The Valley Road"
+    artist: "Bruce Hornsby and the Range"
+    year: 1988
+    album: "Scenes from the Southside"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 79
+    title: "Don't Be Cruel"
+    artist: "Bobby Brown"
+    year: 1988
+    album: "Don't Be Cruel"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 80
+    title: "Always on My Mind"
+    artist: "Pet Shop Boys"
+    year: 1988
+    album: "Introspective"
+    cover: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Original artist: Willie Nelson
+
+  - rank: 81
+    title: "Piano in the Dark"
+    artist: "Brenda Russell featuring Joe Esposito"
+    year: 1988
+    album: "Get Here"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 82
+    title: "When It's Love"
+    artist: "Van Halen"
+    year: 1988
+    album: "OU812"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 83
+    title: "Don't Shed a Tear"
+    artist: "Paul Carrack"
+    year: 1988
+    album: "One Good Reason"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 84
+    title: "We'll Be Together"
+    artist: "Sting"
+    year: 1988
+    album: "...Nothing Like the Sun"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 85
+    title: "I Hate Myself for Loving You"
+    artist: "Joan Jett and the Blackhearts"
+    year: 1988
+    album: "Up Your Alley"
+    genres:
+      - Rock
+
+  - rank: 86
+    title: "I Don't Want to Live Without You"
+    artist: "Foreigner"
+    year: 1988
+    album: "Inside Information"
+    genres:
+      - Rock
+      - Soft Rock
+
+  - rank: 87
+    title: "Nite and Day"
+    artist: "Al B. Sure!"
+    year: 1988
+    album: "In Effect Mode"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 88
+    title: "Don't You Know What the Night Can Do?"
+    artist: "Steve Winwood"
+    year: 1988
+    album: "Roll with It"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 89
+    title: "One Moment in Time"
+    artist: "Whitney Houston"
+    year: 1988
+    album: "1988 Summer Olympics Album: One Moment in Time"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 90
+    title: "Kissing a Fool"
+    artist: "George Michael"
+    year: 1988
+    album: "Faith"
+    genres:
+      - Pop
+      - Jazz
+
+  - rank: 91
+    title: "Cherry Bomb"
+    artist: "John Mellencamp"
+    year: 1988
+    album: "The Lonesome Jubilee"
+    genres:
+      - Rock
+      - Folk
+
+  - rank: 92
+    title: "I Still Believe"
+    artist: "Brenda K. Starr"
+    year: 1988
+    album: "Brenda K. Starr"
+    solo-hit: true
+    genres:
+      - Pop
+
+  - rank: 93
+    title: "I Found Someone"
+    artist: "Cher"
+    year: 1988
+    album: "Cher"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 94
+    title: "Never Tear Us Apart"
+    artist: "INXS"
+    year: 1988
+    album: "Kick"
+    genres:
+      - Rock
+      - New Wave
+
+  - rank: 95
+    title: "Valerie"
+    artist: "Steve Winwood"
+    year: 1988
+    album: "Talking Back to the Night"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 96
+    title: "Just Like Paradise"
+    artist: "David Lee Roth"
+    year: 1988
+    album: "Skyscraper"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 97
+    title: "Nothin' But a Good Time"
+    artist: "Poison"
+    year: 1988
+    album: "Open Up and Say... Ahh!"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 98
+    title: "Wait"
+    artist: "White Lion"
+    year: 1988
+    album: "Pride"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 99
+    title: "Prove Your Love"
+    artist: "Taylor Dayne"
+    year: 1988
+    album: "Tell It to My Heart"
+    genres:
+      - Pop
+
+  - rank: 100
+    title: "Don't Be Afraid of the Dark"
+    artist: "The Robert Cray Band"
+    year: 1988
+    album: "Don't Be Afraid of the Dark"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Fan favorite

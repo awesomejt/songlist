@@ -1,0 +1,1061 @@
+songs:
+  - rank: 1
+    title: California Dreamin'
+    artist: The Mamas & the Papas
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 2
+    title: 96 Tears
+    artist: ? and the Mysterians
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+  - rank: 3
+    title: What Becomes of the Brokenhearted
+    artist: Jimmy Ruffin
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #6
+  - rank: 4
+    title: Last Train to Clarksville
+    artist: The Monkees
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: Reach Out I'll Be There
+    artist: Four Tops
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 6
+    title: These Boots Are Made for Walkin'
+    artist: Nancy Sinatra
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 7
+    title: Cherish
+    artist: The Association
+    year: 1966
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: Strangers in the Night
+    artist: Frank Sinatra
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: Kicks
+    artist: Paul Revere & the Raiders
+    year: 1966
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 10
+    title: The Ballad of the Green Berets
+    artist: SSgt Barry Sadler
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 11
+    title: Good Lovin'
+    artist: The Young Rascals
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 12
+    title: (You're My) Soul and Inspiration
+    artist: The Righteous Brothers
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 13
+    title: You Can't Hurry Love
+    artist: The Supremes
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 14
+    title: Sunny
+    artist: Bobby Hebb
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #3
+  - rank: 15
+    title: See You in September
+    artist: The Happenings
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 16
+    title: Li'l Red Riding Hood
+    artist: Sam the Sham and the Pharaohs
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 17
+    title: Lightnin' Strikes
+    artist: Lou Christie
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 18
+    title: Poor Side of Town
+    artist: Johnny Rivers
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 19
+    title: Working in the Coal Mine
+    artist: Lee Dorsey
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 20
+    title: A Groovy Kind of Love
+    artist: The Mindbenders
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 21
+    title: You Don't Have to Say You Love Me
+    artist: Dusty Springfield
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 22
+    title: Sunshine Superman
+    artist: Donovan
+    year: 1966
+    single: true
+    genres:
+      - Folk
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 23
+    title: Born a Woman
+    artist: Sandy Posey
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #12
+  - rank: 24
+    title: Monday, Monday
+    artist: The Mamas & the Papas
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 25
+    title: Red Rubber Ball
+    artist: The Cyrkle
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 26
+    title: Born Free
+    artist: Roger Williams
+    year: 1966
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #7
+      - Instrumental
+  - rank: 27
+    title: Walk Away Renée
+    artist: The Left Banke
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Culturally important
+  - rank: 28
+    title: Cool Jerk
+    artist: The Capitols
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #6
+  - rank: 29
+    title: B-A-B-Y
+    artist: Carla Thomas
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #14
+      - Billboard R&B #3
+  - rank: 30
+    title: Hanky Panky
+    artist: Tommy James and the Shondells
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 31
+    title: When a Man Loves a Woman
+    artist: Percy Sledge
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+      - Fan favorite
+  - rank: 32
+    title: Time Won't Let Me
+    artist: The Outsiders
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 33
+    title: Bus Stop
+    artist: The Hollies
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 34
+    title: Paint It Black
+    artist: The Rolling Stones
+    year: 1966
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 35
+    title: Summer in the City
+    artist: The Lovin' Spoonful
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 36
+    title: I'm So Lonesome I Could Cry
+    artist: B. J. Thomas & the Triumphs
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 37
+    title: My Love
+    artist: Petula Clark
+    year: 1966
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 38
+    title: Daydream
+    artist: The Lovin' Spoonful
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 39
+    title: Ain't Too Proud to Beg
+    artist: The Temptations
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 40
+    title: Wild Thing
+    artist: The Troggs
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 41
+    title: Elusive Butterfly
+    artist: Bob Lind
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 42
+    title: I Am a Rock
+    artist: Simon & Garfunkel
+    year: 1966
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+  - rank: 43
+    title: Dirty Water
+    artist: The Standells
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #11
+      - Fan favorite
+  - rank: 44
+    title: Hooray for Hazel
+    artist: Tommy Roe
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 45
+    title: Crying Time
+    artist: Ray Charles
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #5
+  - rank: 46
+    title: Sweet Pea
+    artist: Tommy Roe
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 47
+    title: Secret Agent Man
+    artist: Johnny Rivers
+    year: 1966
+    single: true
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Fan favorite
+  - rank: 48
+    title: Did You Ever Have to Make Up Your Mind?
+    artist: The Lovin' Spoonful
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 49
+    title: We Can Work It Out
+    artist: The Beatles
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 50
+    title: Bang Bang (My Baby Shot Me Down)
+    artist: Cher
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+  - rank: 51
+    title: Message to Michael
+    artist: Dionne Warwick
+    year: 1966
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 52
+    title: Love Is a Hurtin' Thing
+    artist: Lou Rawls
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #1
+  - rank: 53
+    title: Barbara Ann
+    artist: The Beach Boys
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 54
+    title: Gloria
+    artist: The Shadows of Knight
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #10
+      - Fan favorite
+  - rank: 55
+    title: The Pied Piper
+    artist: Crispian St. Peters
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 56
+    title: Time Won't Let Me
+    artist: The Outsiders
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 57
+    title: Wouldn't It Be Nice
+    artist: The Beach Boys
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+      - Fan favorite
+  - rank: 58
+    title: I'm a Believer
+    artist: The Monkees
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 59
+    title: Good Vibrations
+    artist: The Beach Boys
+    year: 1966
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 60
+    title: When a Man Loves a Woman
+    artist: Percy Sledge
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 61
+    title: Reach Out I'll Be There
+    artist: Four Tops
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 62
+    title: You Keep Me Hangin' On
+    artist: The Supremes
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 63
+    title: Ain't Too Proud to Beg
+    artist: The Temptations
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 64
+    title: Uptight (Everything's Alright)
+    artist: Stevie Wonder
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+  - rank: 65
+    title: Land of 1000 Dances
+    artist: Wilson Pickett
+    year: 1966
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #1
+  - rank: 66
+    title: Hold On! I'm a Comin'
+    artist: Sam & Dave
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #21
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 67
+    title: Knock on Wood
+    artist: Eddie Floyd
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #28
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 68
+    title: Beauty Is Only Skin Deep
+    artist: The Temptations
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+  - rank: 69
+    title: Baby Scratch My Back
+    artist: Slim Harpo
+    year: 1966
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard Hot 100 #37
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 70
+    title: 634-5789 (Soulsville, U.S.A.)
+    artist: Wilson Pickett
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #1
+  - rank: 71
+    title: Barefootin'
+    artist: Robert Parker
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #2
+  - rank: 72
+    title: Cool Jerk
+    artist: The Capitols
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #6
+  - rank: 73
+    title: Love Makes the World Go Round
+    artist: Deon Jackson
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #11
+      - Billboard R&B #3
+  - rank: 74
+    title: Let's Go Get Stoned
+    artist: Ray Charles
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #31
+      - Billboard R&B #1
+  - rank: 75
+    title: S.Y.S.L.J.F.M. (The Letter Song)
+    artist: Joe Tex
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #39
+      - Billboard R&B #9
+  - rank: 76
+    title: Good Time Charlie
+    artist: Bobby Bland
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #6
+  - rank: 77
+    title: Open the Door to Your Heart
+    artist: Darrell Banks
+    year: 1966
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #27
+      - Billboard R&B #2
+  - rank: 78
+    title: Warm and Tender Love
+    artist: Percy Sledge
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #17
+      - Billboard R&B #5
+  - rank: 79
+    title: You Left the Water Running
+    artist: Otis Redding
+    year: 1966
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: Crosscut Saw
+    artist: Albert King
+    year: 1966
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard R&B #34
+      - Fan favorite
+  - rank: 81
+    title: Speak No Evil
+    artist: Wayne Shorter
+    year: 1966
+    album: Speak No Evil
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 82
+    title: Witch Hunt
+    artist: Wayne Shorter
+    year: 1966
+    album: Speak No Evil
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 83
+    title: Components
+    artist: Bobby Hutcherson
+    year: 1966
+    album: Components
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 84
+    title: Juju
+    artist: Bobby Hutcherson
+    year: 1966
+    album: Components
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: Maiden Voyage
+    artist: Herbie Hancock
+    year: 1966
+    album: Maiden Voyage
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 86
+    title: Eye of the Hurricane
+    artist: Herbie Hancock
+    year: 1966
+    album: Maiden Voyage
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: Mama Too Tight
+    artist: Archie Shepp
+    year: 1966
+    album: Mama Too Tight
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 88
+    title: Theme from Mr. Broadway
+    artist: Oliver Nelson
+    year: 1966
+    album: The Blues and the Abstract Truth
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 89
+    title: Unit Structures
+    artist: Cecil Taylor
+    year: 1966
+    album: Unit Structures
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 90
+    title: Steps
+    artist: Cecil Taylor
+    year: 1966
+    album: Unit Structures
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: Blonde on Blonde
+    artist: Bob Dylan
+    year: 1966
+    album: Blonde on Blonde
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 92
+    title: Visions of Johanna
+    artist: Bob Dylan
+    year: 1966
+    album: Blonde on Blonde
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: Today!
+    artist: Skip James
+    year: 1966
+    album: Today!
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 94
+    title: Devil Got My Woman
+    artist: Skip James
+    year: 1966
+    album: Today!
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 95
+    title: The Real Folk Blues
+    artist: Howlin' Wolf
+    year: 1966
+    album: The Real Folk Blues
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 96
+    title: Killing Floor
+    artist: Howlin' Wolf
+    year: 1966
+    album: The Real Folk Blues
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 97
+    title: Animalisms
+    artist: The Animals
+    year: 1966
+    album: Animalisms
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 98
+    title: Don't Bring Me Down
+    artist: The Animals
+    year: 1966
+    album: Animalisms
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 99
+    title: Tim Hardin 1
+    artist: Tim Hardin
+    year: 1966
+    album: Tim Hardin 1
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 100
+    title: Reason to Believe
+    artist: Tim Hardin
+    year: 1966
+    album: Tim Hardin 1
+    genres:
+      - Folk
+    tags:
+      - Fan favorite

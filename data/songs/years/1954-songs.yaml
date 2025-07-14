@@ -1,0 +1,919 @@
+songs:
+  - rank: 1
+    title: Rock Around The Clock
+    artist: Bill Haley & His Comets
+    year: 1954
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Pop hit
+  - rank: 2
+    title: Shake, Rattle And Roll
+    artist: Joe Turner
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - R&B hit
+  - rank: 3
+    title: Earth Angel
+    artist: Penguins
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 4
+    title: Sh-Boom
+    artist: Chords
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 5
+    title: That's All Right
+    artist: Elvis Presley with Scotty and Bill
+    year: 1954
+    single: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Rock hit
+  - rank: 6
+    title: Pledging My Love
+    artist: Johnny Ace
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 7
+    title: Goodnite, Sweetheart, Goodnite
+    artist: Spaniels
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 8
+    title: I've Got A Woman
+    artist: Ray Charles
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - R&B hit
+  - rank: 9
+    title: White Christmas
+    artist: Drifters featuring Clyde McPhatter
+    year: 1954
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 10
+    title: Work With Me Annie
+    artist: Midnighters
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 11
+    title: Sincerely
+    artist: Moonglows
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 12
+    title: Tweedlee Dee
+    artist: Lavern Baker
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 13
+    title: Good Rocking Tonight
+    artist: Elvis Presley with Scotty and Bill
+    year: 1954
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Rock hit
+  - rank: 14
+    title: The Things That I Used to Do
+    artist: Guitar Slim
+    year: 1954
+    single: true
+    genres:
+      - Blues
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 15
+    title: Hearts Of Stone
+    artist: Charms
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 16
+    title: Honey Love
+    artist: Drifters featuring Clyde McPhatter
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 17
+    title: Lovey Dovey
+    artist: Clovers
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 18
+    title: Hoochie Coochie Man
+    artist: Muddy Waters
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 19
+    title: Rock Island Line
+    artist: Lonnie Donegan
+    year: 1954
+    single: true
+    genres:
+      - Folk
+    tags:
+      - Folk hit
+  - rank: 20
+    title: The Wind
+    artist: Diablos
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 21
+    title: Blue Moon Of Kentucky
+    artist: Elvis Presley with Scotty and Bill
+    year: 1954
+    single: true
+    genres:
+      - Rock
+      - Country
+    tags:
+      - Rock hit
+  - rank: 22
+    title: Your Cash Ain't Nothing But Trash
+    artist: Clovers
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 23
+    title: Such A Night
+    artist: Drifters featuring Clyde McPhatter
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 24
+    title: Annie Had A Baby
+    artist: Midnighters
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 25
+    title: Gloria
+    artist: Cadillacs
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 26
+    title: Cherry Pie
+    artist: Marvin & Johnny
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 27
+    title: Oh, What A Dream
+    artist: Ruth Brown
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 28
+    title: You'll Never Walk Alone
+    artist: Roy Hamilton
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - R&B hit
+  - rank: 29
+    title: You Upset Me Baby
+    artist: B.B. King
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 30
+    title: Riot In Cell Block # 9
+    artist: Robins
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 31
+    title: Ling Ting Tong
+    artist: Five Keys
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 32
+    title: Sexy Ways
+    artist: Midnighters
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 33
+    title: Everyday I Have The Blues
+    artist: B.B. King
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 34
+    title: Evil Is Goin' On
+    artist: Howlin' Wolf
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 35
+    title: Tick Tock
+    artist: Marvin & Johnny
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 36
+    title: I'm Ready
+    artist: Muddy Waters
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 37
+    title: Reconsider Baby
+    artist: Lowell Fulson
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 38
+    title: You Don't Have To Go
+    artist: Jimmy Reed
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 39
+    title: Bip Bam
+    artist: Drifters featuring Clyde McPhatter
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 40
+    title: Ko Ko Mo
+    artist: Gene & Eunice
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 41
+    title: I Feel So Bad
+    artist: Chuck Willis
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 42
+    title: It Should've Been Me
+    artist: Ray Charles
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 43
+    title: Little Mama
+    artist: Clovers
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 44
+    title: Just Make Love To Me
+    artist: Muddy Waters
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 45
+    title: If I Loved You
+    artist: Roy Hamilton
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 46
+    title: I'm Slippin In
+    artist: Spiders
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 47
+    title: That's All Right
+    artist: Joe Turner and His Blues Kings
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 48
+    title: I Do
+    artist: The 5 Royales
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 49
+    title: Darling Dear
+    artist: The Counts
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 50
+    title: Mama, Talk To Your Daughter
+    artist: J.B. Lenoir
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 51
+    title: I've Got My Eyes On You
+    artist: Clovers
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 52
+    title: Little School Girl
+    artist: Fats Domino
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 53
+    title: I Love You Madly
+    artist: Charlie & Ray
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 54
+    title: In The Chapel In The Moonlight
+    artist: Orioles
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 55
+    title: Lucille
+    artist: Drifters featuring Clyde McPhatter
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 56
+    title: Tipitina
+    artist: Professor Longhair
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 57
+    title: I Don't Hurt Anymore
+    artist: Hank Snow
+    year: 1954
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 58
+    title: Jam Up
+    artist: Tommy Ridgley
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 59
+    title: Baby Let's Play House
+    artist: Arthur Gunter
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 60
+    title: Jump Children
+    artist: Flamingos
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 61
+    title: Bye Bye Young Men
+    artist: Ruth Brown
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 62
+    title: Sneakin' Around
+    artist: B.B. King
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 63
+    title: I Was Wrong
+    artist: Moonglows
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 64
+    title: Blue Monday
+    artist: Smiley Lewis
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 65
+    title: All Night Long
+    artist: Joe Houston
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 66
+    title: I Don't Care if the Sun Don't Shine
+    artist: Elvis Presley with Scotty and Bill
+    year: 1954
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Rock hit
+  - rank: 67
+    title: Any Day Now
+    artist: Buddy & Ella Johnson
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 68
+    title: The Bells of St. Mary's
+    artist: Drifters featuring Clyde McPhatter
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 69
+    title: Adios, My Desert Love
+    artist: Diablos
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 70
+    title: God Only Knows
+    artist: Capris
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 71
+    title: Secret Love
+    artist: Moonglows
+    year: 1954
+    single: true
+    cover: true
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 72
+    title: Space Guitar
+    artist: Young John Watson
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 73
+    title: No Place To Go
+    artist: Howlin' Wolf
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 74
+    title: When My Heart Beats Like A Hammer
+    artist: B.B. King
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 75
+    title: My Lovin' Baby
+    artist: El Dorados
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 76
+    title: Two Hearts
+    artist: Charms
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 77
+    title: Poison Ivy
+    artist: Willie Mabon
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 78
+    title: The Letter
+    artist: Medallions
+    year: 1954
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 79
+    title: Framed
+    artist: Robins
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 80
+    title: Mambo Baby
+    artist: Ruth Brown
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 81
+    title: In The Jailhouse Now
+    artist: Webb Pierce
+    year: 1954
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 82
+    title: Smoke From Your Cigarette
+    artist: Mellows
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 83
+    title: Teach Me Tonight
+    artist: Dinah Washington
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Jazz
+    tags:
+      - R&B hit
+  - rank: 84
+    title: Hey There
+    artist: Rosemary Clooney
+    year: 1954
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Pop hit
+  - rank: 85
+    title: Dim, Dim The Lights
+    artist: Bill Haley & His Comets
+    year: 1954
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Rock hit
+  - rank: 86
+    title: Hurts Me To My Heart
+    artist: Faye Adams
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 87
+    title: Come Back
+    artist: Ray Charles
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 88
+    title: Where Did You Stay
+    artist: Fats Domino
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 89
+    title: Sexy Ways
+    artist: Hank Ballard & The Midnighters
+    year: 1954
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 90
+    title: TV Mama
+    artist: B.B. King
+    year: 1954
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 91
+    title: Misty
+    artist: Erroll Garner
+    year: 1954
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 92
+    title: Fly Me To The Moon
+    artist: Bart Howard
+    year: 1954
+    genres:
+      - Jazz
+      - Standards
+    tags:
+      - Jazz standard
+  - rank: 93
+    title: Smile
+    artist: Nat King Cole
+    year: 1954
+    single: true
+    soundtrack: true
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Jazz standard
+  - rank: 94
+    title: Airegin
+    artist: Sonny Rollins
+    year: 1954
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 95
+    title: All Of You
+    artist: Cole Porter
+    year: 1954
+    genres:
+      - Jazz
+      - Standards
+    tags:
+      - Jazz standard
+  - rank: 96
+    title: Bags Groove
+    artist: Milt Jackson
+    year: 1954
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 97
+    title: Blue Monk
+    artist: Thelonious Monk
+    year: 1954
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 98
+    title: Four
+    artist: Miles Davis
+    year: 1954
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 99
+    title: Joy Spring
+    artist: Clifford Brown
+    year: 1954
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 100
+    title: Solar
+    artist: Miles Davis
+    year: 1954
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard

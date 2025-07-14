@@ -1,0 +1,1037 @@
+---
+songs:
+  - rank: 1
+    title: Sugar, Sugar
+    artist: The Archies
+    year: 1969
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: Aquarius/Let The Sunshine In
+    artist: The 5th Dimension
+    year: 1969
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Crossover hit
+  - rank: 3
+    title: I Can't Get Next to You
+    artist: The Temptations
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 4
+    title: Honky Tonk Women
+    artist: The Rolling Stones
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 5
+    title: Everyday People
+    artist: Sly & the Family Stone
+    year: 1969
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 6
+    title: Dizzy
+    artist: Tommy Roe
+    year: 1969
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: Hot Fun in the Summertime
+    artist: Sly & the Family Stone
+    year: 1969
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #3
+  - rank: 8
+    title: I'll Never Fall in Love Again
+    artist: Tom Jones
+    year: 1969
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 9
+    title: Build Me Up Buttercup
+    artist: The Foundations
+    year: 1969
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 10
+    title: Crimson and Clover
+    artist: Tommy James and the Shondells
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: One
+    artist: Three Dog Night
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 12
+    title: Crystal Blue Persuasion
+    artist: Tommy James and the Shondells
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 13
+    title: Hair
+    artist: The Cowsills
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 14
+    title: Too Busy Thinking About My Baby
+    artist: Marvin Gaye
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 15
+    title: Love Theme from Romeo and Juliet
+    artist: Henry Mancini
+    year: 1969
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Instrumental
+  - rank: 16
+    title: Get Together
+    artist: The Youngbloods
+    year: 1969
+    single: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Culturally important
+  - rank: 17
+    title: Someday We'll Be Together
+    artist: Diana Ross & the Supremes
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 18
+    title: Worst That Could Happen
+    artist: Brooklyn Bridge
+    year: 1969
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 19
+    title: Touch Me
+    artist: The Doors
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 20
+    title: Lay Lady Lay
+    artist: Bob Dylan
+    year: 1969
+    single: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Billboard Hot 100 #7
+      - Culturally important
+  - rank: 21
+    title: Easy to Be Hard
+    artist: Three Dog Night
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 22
+    title: Proud Mary
+    artist: Creedence Clearwater Revival
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+      - Fan favorite
+  - rank: 23
+    title: I Heard It Through the Grapevine
+    artist: Marvin Gaye
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 24
+    title: Bad Moon Rising
+    artist: Creedence Clearwater Revival
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Fan favorite
+  - rank: 25
+    title: Green River
+    artist: Creedence Clearwater Revival
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Fan favorite
+  - rank: 26
+    title: Suite: Judy Blue Eyes
+    artist: Crosby, Stills & Nash
+    year: 1969
+    single: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Billboard Hot 100 #21
+      - Culturally important
+      - Fan favorite
+  - rank: 27
+    title: Gimme Shelter
+    artist: The Rolling Stones
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 28
+    title: Whole Lotta Love
+    artist: Led Zeppelin
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+      - Culturally important
+      - Fan favorite
+  - rank: 29
+    title: Fortunate Son
+    artist: Creedence Clearwater Revival
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+      - Fan favorite
+  - rank: 30
+    title: Pinball Wizard
+    artist: The Who
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #19
+      - Culturally important
+      - Fan favorite
+  - rank: 31
+    title: Space Oddity
+    artist: David Bowie
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #124
+      - Culturally important
+      - Fan favorite
+  - rank: 32
+    title: The Boxer
+    artist: Simon & Garfunkel
+    year: 1969
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+      - Culturally important
+      - Fan favorite
+  - rank: 33
+    title: Both Sides Now
+    artist: Joni Mitchell
+    year: 1969
+    single: true
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 34
+    title: Kick Out the Jams
+    artist: MC5
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 35
+    title: Come Together
+    artist: The Beatles
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 36
+    title: Something
+    artist: The Beatles
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Fan favorite
+  - rank: 37
+    title: Suspicious Minds
+    artist: Elvis Presley
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 38
+    title: In the Ghetto
+    artist: Elvis Presley
+    year: 1969
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+  - rank: 39
+    title: Twenty-Five Miles
+    artist: Edwin Starr
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #6
+  - rank: 40
+    title: Choice of Colors
+    artist: The Impressions
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #21
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 41
+    title: Color Him Father
+    artist: The Winstons
+    year: 1969
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #2
+  - rank: 42
+    title: Black Pearl
+    artist: Sonny Charles & the Checkmates, Ltd.
+    year: 1969
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #8
+  - rank: 43
+    title: Mother Popcorn
+    artist: James Brown
+    year: 1969
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #11
+      - Billboard R&B #1
+  - rank: 44
+    title: The Chokin' Kind
+    artist: Joe Simon
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #1
+  - rank: 45
+    title: Time Is Tight
+    artist: Booker T. & the M.G.'s
+    year: 1969
+    single: true
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Instrumental
+  - rank: 46
+    title: Cissy Strut
+    artist: The Meters
+    year: 1969
+    single: true
+    genres:
+      - Funk
+    tags:
+      - Billboard Hot 100 #23
+      - Billboard R&B #4
+      - Culturally important
+  - rank: 47
+    title: Only the Strong Survive
+    artist: Jerry Butler
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 48
+    title: Runaway Child, Running Wild
+    artist: The Temptations
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #1
+  - rank: 49
+    title: Cloud Nine
+    artist: The Temptations
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #2
+  - rank: 50
+    title: Baby, I'm for Real
+    artist: The Originals
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #14
+      - Billboard R&B #1
+  - rank: 51
+    title: Share Your Love with Me
+    artist: Aretha Franklin
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #1
+  - rank: 52
+    title: Oh, What a Night
+    artist: The Dells
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #1
+  - rank: 53
+    title: What Does It Take (To Win Your Love)
+    artist: Jr. Walker & the All Stars
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 54
+    title: That's the Way Love Is
+    artist: Marvin Gaye
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #2
+  - rank: 55
+    title: Too Busy Thinking About My Baby
+    artist: Marvin Gaye
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 56
+    title: Can I Change My Mind
+    artist: Tyrone Davis
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #1
+  - rank: 57
+    title: Walk on By
+    artist: Isaac Hayes
+    year: 1969
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #30
+      - Billboard R&B #13
+      - Culturally important
+  - rank: 58
+    title: I Turned You On
+    artist: The Isley Brothers
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #23
+      - Billboard R&B #6
+  - rank: 59
+    title: It's Your Thing
+    artist: The Isley Brothers
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+  - rank: 60
+    title: My Cherie Amour
+    artist: Stevie Wonder
+    year: 1969
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #4
+  - rank: 61
+    title: In a Silent Way
+    artist: Miles Davis
+    year: 1969
+    album: In a Silent Way
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 62
+    title: Karma
+    artist: Pharoah Sanders
+    year: 1969
+    album: Karma
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 63
+    title: People in Sorrow
+    artist: Art Ensemble of Chicago
+    year: 1969
+    album: People in Sorrow
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 64
+    title: Mu
+    artist: Don Cherry
+    year: 1969
+    album: Mu
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 65
+    title: Quiet Now
+    artist: Bill Evans
+    year: 1969
+    album: Quiet Now
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 66
+    title: Fat Albert Rotunda
+    artist: Herbie Hancock
+    year: 1969
+    album: Fat Albert Rotunda
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 67
+    title: Atlantis
+    artist: Sun Ra
+    year: 1969
+    album: Atlantis
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 68
+    title: Huntington Ashram Monastery
+    artist: Alice Coltrane
+    year: 1969
+    album: Huntington Ashram Monastery
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 69
+    title: King Of The Blues Guitar
+    artist: Albert King
+    year: 1969
+    album: King Of The Blues Guitar
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 70
+    title: Second Winter
+    artist: Johnny Winter
+    year: 1969
+    album: Second Winter
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 71
+    title: The Pious Bird of Good Omen
+    artist: Fleetwood Mac
+    year: 1969
+    album: The Pious Bird of Good Omen
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 72
+    title: Fast Fingers
+    artist: Jimmy Dawkins
+    year: 1969
+    album: Fast Fingers
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 73
+    title: Completely Well
+    artist: B.B. King
+    year: 1969
+    album: Completely Well
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 74
+    title: The Thrill Is Gone
+    artist: B.B. King
+    year: 1969
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard Hot 100 #15
+      - Billboard R&B #3
+      - Culturally important
+      - Fan favorite
+  - rank: 75
+    title: Five Leaves Left
+    artist: Nick Drake
+    year: 1969
+    album: Five Leaves Left
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 76
+    title: Crosby, Stills & Nash
+    artist: Crosby, Stills & Nash
+    year: 1969
+    album: Crosby, Stills & Nash
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 77
+    title: The Band
+    artist: The Band
+    year: 1969
+    album: The Band
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 78
+    title: Volunteers
+    artist: Jefferson Airplane
+    year: 1969
+    album: Volunteers
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 79
+    title: Illuminations
+    artist: Buffy Sainte-Marie
+    year: 1969
+    album: Illuminations
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 80
+    title: Liege & Lief
+    artist: Fairport Convention
+    year: 1969
+    album: Liege & Lief
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 81
+    title: Clouds
+    artist: Joni Mitchell
+    year: 1969
+    album: Clouds
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 82
+    title: Songs from a Room
+    artist: Leonard Cohen
+    year: 1969
+    album: Songs from a Room
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 83
+    title: Basket of Light
+    artist: Pentangle
+    year: 1969
+    album: Basket of Light
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 84
+    title: Happy Sad
+    artist: Tim Buckley
+    year: 1969
+    album: Happy Sad
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 85
+    title: Whole Lotta Love
+    artist: Led Zeppelin
+    year: 1969
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+      - Culturally important
+      - Fan favorite
+  - rank: 86
+    title: Dazed and Confused
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: Communication Breakdown
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: Ramble On
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 89
+    title: Heartbreaker
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: Thank You
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: Bring It On Home
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 92
+    title: The Lemon Song
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: Living Loving Maid (She's Just a Woman)
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 94
+    title: Moby Dick
+    artist: Led Zeppelin
+    year: 1969
+    album: Led Zeppelin II
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Instrumental
+  - rank: 95
+    title: The Thrill Is Gone
+    artist: B.B. King
+    year: 1969
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard Hot 100 #15
+      - Billboard R&B #3
+      - Culturally important
+      - Fan favorite
+  - rank: 96
+    title: Five Leaves Left
+    artist: Nick Drake
+    year: 1969
+    album: Five Leaves Left
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 97
+    title: Time Has Told Me
+    artist: Nick Drake
+    year: 1969
+    album: Five Leaves Left
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: River Man
+    artist: Nick Drake
+    year: 1969
+    album: Five Leaves Left
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 99
+    title: Three Hours
+    artist: Nick Drake
+    year: 1969
+    album: Five Leaves Left
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 100
+    title: Way to Blue
+    artist: Nick Drake
+    year: 1969
+    album: Five Leaves Left
+    genres:
+      - Folk
+    tags:
+      - Fan favorite

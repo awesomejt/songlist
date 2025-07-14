@@ -1,0 +1,1013 @@
+songs:
+  - rank: 1
+    title: To Sir With Love
+    artist: Lulu
+    year: 1967
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 2
+    title: The Letter
+    artist: The Box Tops
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 3
+    title: Ode to Billie Joe
+    artist: Bobbie Gentry
+    year: 1967
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 4
+    title: Windy
+    artist: The Association
+    year: 1967
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: I'm a Believer
+    artist: The Monkees
+    year: 1967
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 6
+    title: Light My Fire
+    artist: The Doors
+    year: 1967
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 7
+    title: Somethin' Stupid
+    artist: Nancy Sinatra & Frank Sinatra
+    year: 1967
+    single: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: Happy Together
+    artist: The Turtles
+    year: 1967
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 9
+    title: Groovin'
+    artist: The Young Rascals
+    year: 1967
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: Respect
+    artist: Aretha Franklin
+    year: 1967
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+      - Fan favorite
+  - rank: 11
+    title: A Day in the Life
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 12
+    title: Purple Haze
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #65
+      - Culturally important
+      - Fan favorite
+  - rank: 13
+    title: Soul Man
+    artist: Sam & Dave
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 14
+    title: Strawberry Fields Forever
+    artist: The Beatles
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+      - Culturally important
+      - Fan favorite
+  - rank: 15
+    title: Sunshine of Your Love
+    artist: Cream
+    year: 1967
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Culturally important
+      - Fan favorite
+  - rank: 16
+    title: A Whiter Shade of Pale
+    artist: Procol Harum
+    year: 1967
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+      - Culturally important
+  - rank: 17
+    title: For What It's Worth
+    artist: Buffalo Springfield
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #7
+      - Culturally important
+      - Fan favorite
+  - rank: 18
+    title: Brown Eyed Girl
+    artist: Van Morrison
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #10
+      - Culturally important
+      - Fan favorite
+  - rank: 19
+    title: Somebody to Love
+    artist: Jefferson Airplane
+    year: 1967
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Culturally important
+      - Fan favorite
+  - rank: 20
+    title: Heroes and Villains
+    artist: The Beach Boys
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #12
+      - Fan favorite
+  - rank: 21
+    title: Penny Lane
+    artist: The Beatles
+    year: 1967
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 22
+    title: I Never Loved a Man (The Way I Love You)
+    artist: Aretha Franklin
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 23
+    title: Chain of Fools
+    artist: Aretha Franklin
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 24
+    title: Baby I Love You
+    artist: Aretha Franklin
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 25
+    title: I Was Made to Love Her
+    artist: Stevie Wonder
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 26
+    title: Tramp
+    artist: Otis Redding & Carla Thomas
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #26
+      - Billboard R&B #2
+      - Fan favorite
+  - rank: 27
+    title: Jimmy Mack
+    artist: Martha and The Vandellas
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #1
+  - rank: 28
+    title: Your Precious Love
+    artist: Marvin Gaye & Tammi Terrell
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #2
+  - rank: 29
+    title: Ain't No Mountain High Enough
+    artist: Marvin Gaye & Tammi Terrell
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #19
+      - Billboard R&B #3
+      - Fan favorite
+  - rank: 30
+    title: I Heard It Through the Grapevine
+    artist: Gladys Knight & The Pips
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 31
+    title: (Your Love Keeps Lifting Me) Higher and Higher
+    artist: Jackie Wilson
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 32
+    title: Cold Sweat
+    artist: James Brown & The Famous Flames
+    year: 1967
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 33
+    title: Funky Broadway
+    artist: Wilson Pickett
+    year: 1967
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #1
+  - rank: 34
+    title: Born Under a Bad Sign
+    artist: Albert King
+    year: 1967
+    album: Born Under a Bad Sign
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 35
+    title: The Crosscut Saw
+    artist: Albert King
+    year: 1967
+    album: Born Under a Bad Sign
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 36
+    title: As Long as I Have You
+    artist: Albert King
+    year: 1967
+    album: Born Under a Bad Sign
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 37
+    title: The Hunter
+    artist: Albert King
+    year: 1967
+    album: Born Under a Bad Sign
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 38
+    title: The Very Thought of You
+    artist: Albert King
+    year: 1967
+    album: Born Under a Bad Sign
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 39
+    title: The Soul of a Bell
+    artist: William Bell
+    year: 1967
+    album: The Soul of a Bell
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 40
+    title: Everybody Loves a Winner
+    artist: William Bell
+    year: 1967
+    album: The Soul of a Bell
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 41
+    title: You Got My Mind Messed Up
+    artist: James Carr
+    year: 1967
+    album: You Got My Mind Messed Up
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 42
+    title: The Dark End of the Street
+    artist: James Carr
+    year: 1967
+    album: You Got My Mind Messed Up
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 43
+    title: Small Faces
+    artist: Small Faces
+    year: 1967
+    album: Small Faces
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 44
+    title: (Tell Me) Have You Ever Seen Me
+    artist: Small Faces
+    year: 1967
+    album: Small Faces
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 45
+    title: I Never Loved a Man the Way I Love You
+    artist: Aretha Franklin
+    year: 1967
+    album: I Never Loved a Man the Way I Love You
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 46
+    title: Do Right Woman, Do Right Man
+    artist: Aretha Franklin
+    year: 1967
+    album: I Never Loved a Man the Way I Love You
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 47
+    title: A Change Is Gonna Come
+    artist: Aretha Franklin
+    year: 1967
+    album: I Never Loved a Man the Way I Love You
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 48
+    title: Lady Soul
+    artist: Aretha Franklin
+    year: 1967
+    album: Lady Soul
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 49
+    title: Chain of Fools
+    artist: Aretha Franklin
+    year: 1967
+    album: Lady Soul
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 50
+    title: People Get Ready
+    artist: Aretha Franklin
+    year: 1967
+    album: Lady Soul
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 51
+    title: Ain't No Way
+    artist: Aretha Franklin
+    year: 1967
+    album: Lady Soul
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 52
+    title: Sgt. Pepper's Lonely Hearts Club Band
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 53
+    title: With a Little Help from My Friends
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 54
+    title: Lucy in the Sky with Diamonds
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: Getting Better
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 56
+    title: Fixing a Hole
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: She's Leaving Home
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 58
+    title: Being for the Benefit of Mr. Kite!
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 59
+    title: Within You Without You
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 60
+    title: When I'm Sixty-Four
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 61
+    title: Lovely Rita
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 62
+    title: Good Morning Good Morning
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 63
+    title: Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 64
+    title: A Day in the Life
+    artist: The Beatles
+    year: 1967
+    album: Sgt. Pepper's Lonely Hearts Club Band
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 65
+    title: The Doors
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 66
+    title: Break On Through (To the Other Side)
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 67
+    title: Soul Kitchen
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 68
+    title: The Crystal Ship
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 69
+    title: Twentieth Century Fox
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 70
+    title: Alabama Song (Whisky Bar)
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 71
+    title: Light My Fire
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 72
+    title: Back Door Man
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 73
+    title: I Looked at You
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: End of the Night
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 75
+    title: Take It as It Comes
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 76
+    title: The End
+    artist: The Doors
+    year: 1967
+    album: The Doors
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: Are You Experienced?
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 78
+    title: Foxy Lady
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: Manic Depression
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: Hey Joe
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 81
+    title: Love or Confusion
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 82
+    title: May This Be Love
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 83
+    title: I Don't Live Today
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 84
+    title: The Wind Cries Mary
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: Fire
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 86
+    title: Third Stone from the Sun
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: Are You Experienced?
+    artist: The Jimi Hendrix Experience
+    year: 1967
+    album: Are You Experienced?
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: Strange Days
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 89
+    title: Strange Days
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: You're Lost Little Girl
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: Love Me Two Times
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 92
+    title: Unhappy Girl
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: Horse Latitudes
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 94
+    title: Moonlight Drive
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 95
+    title: People Are Strange
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 96
+    title: My Eyes Have Seen You
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 97
+    title: I Can't See Your Face in My Mind
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: When the Music's Over
+    artist: The Doors
+    year: 1967
+    album: Strange Days
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 99
+    title: Disraeli Gears
+    artist: Cream
+    year: 1967
+    album: Disraeli Gears
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 100
+    title: Strange Brew
+    artist: Cream
+    year: 1967
+    album: Disraeli Gears
+    genres:
+      - Rock
+    tags:
+      - Fan favorite

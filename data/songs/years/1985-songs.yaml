@@ -1,0 +1,1040 @@
+songs:
+  - rank: 1
+    title: "Careless Whisper"
+    artist: "Wham!"
+    year: 1985
+    album: "Make It Big"
+    genres:
+      - Pop
+      - Soft Rock
+      - Soul
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 2
+    title: "Like a Virgin"
+    artist: "Madonna"
+    year: 1985
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 #1 for 6 weeks
+      - Culturally important
+  - rank: 3
+    title: "Wake Me Up Before You Go-Go"
+    artist: "Wham!"
+    year: 1985
+    album: "Make It Big"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 4
+    title: "I Want to Know What Love Is"
+    artist: "Foreigner"
+    year: 1985
+    album: "Agent Provocateur"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 5
+    title: "I Feel for You"
+    artist: "Chaka Khan"
+    year: 1985
+    cover: true
+    album: "I Feel for You"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Original artist: Prince
+  - rank: 6
+    title: "Out of Touch"
+    artist: "Daryl Hall & John Oates"
+    year: 1985
+    album: "Big Bam Boom"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 7
+    title: "Everybody Wants to Rule the World"
+    artist: "Tears for Fears"
+    year: 1985
+    album: "Songs from the Big Chair"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+      - Fan favorite
+      - Culturally important
+  - rank: 8
+    title: "Money for Nothing"
+    artist: "Dire Straits"
+    year: 1985
+    album: "Brothers in Arms"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+      - Grammy Best Rock Performance by a Duo or Group
+  - rank: 9
+    title: "Crazy for You"
+    artist: "Madonna"
+    year: 1985
+    album: "Vision Quest"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 10
+    title: "Take On Me"
+    artist: "a-ha"
+    year: 1985
+    album: "Hunting High and Low"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+      - Fan favorite
+      - Culturally important
+  - rank: 11
+    title: "Everytime You Go Away"
+    artist: "Paul Young"
+    year: 1985
+    album: "The Secret of Association"
+    cover: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+      - Original artist: Daryl Hall & John Oates
+  - rank: 12
+    title: "Easy Lover"
+    artist: "Philip Bailey and Phil Collins"
+    year: 1985
+    album: "Chinese Wall"
+    genres:
+      - Pop
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 13
+    title: "Can't Fight This Feeling"
+    artist: "REO Speedwagon"
+    year: 1985
+    album: "Wheels Are Turnin'"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 14
+    title: "We Built This City"
+    artist: "Starship"
+    year: 1985
+    album: "Knee Deep in the Hoopla"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 15
+    title: "The Power of Love"
+    artist: "Huey Lewis and the News"
+    year: 1985
+    album: "Back to the Future"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 16
+    title: "Don't You (Forget About Me)"
+    artist: "Simple Minds"
+    year: 1985
+    album: "The Breakfast Club"
+    soundtrack: true
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+      - Fan favorite
+      - Culturally important
+  - rank: 17
+    title: "Cherish"
+    artist: "Kool & the Gang"
+    year: 1985
+    album: "Emergency"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 18
+    title: "St. Elmo's Fire (Man in Motion)"
+    artist: "John Parr"
+    year: 1985
+    album: "St. Elmo's Fire"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 19
+    title: "The Heat Is On"
+    artist: "Glenn Frey"
+    year: 1985
+    album: "Beverly Hills Cop"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 20
+    title: "We Are the World"
+    artist: "USA for Africa"
+    year: 1985
+    album: "We Are the World"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 4 weeks
+      - Grammy Song of the Year
+      - Culturally important
+  - rank: 21
+    title: "Shout"
+    artist: "Tears for Fears"
+    year: 1985
+    album: "Songs from the Big Chair"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 22
+    title: "Part-Time Lover"
+    artist: "Stevie Wonder"
+    year: 1985
+    album: "In Square Circle"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 23
+    title: "Saving All My Love for You"
+    artist: "Whitney Houston"
+    year: 1985
+    album: "Whitney Houston"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 24
+    title: "Heaven"
+    artist: "Bryan Adams"
+    year: 1985
+    album: "Reckless"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 25
+    title: "Everything She Wants"
+    artist: "Wham!"
+    year: 1985
+    album: "Make It Big"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 26
+    title: "Cool It Now"
+    artist: "New Edition"
+    year: 1985
+    album: "New Edition"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 27
+    title: "Miami Vice Theme"
+    artist: "Jan Hammer"
+    year: 1985
+    album: "Miami Vice"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 28
+    title: "Loverboy"
+    artist: "Billy Ocean"
+    year: 1985
+    album: "Suddenly"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 29
+    title: "Lovergirl"
+    artist: "Teena Marie"
+    year: 1985
+    album: "Starchild"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Soul
+  - rank: 30
+    title: "You Belong to the City"
+    artist: "Glenn Frey"
+    year: 1985
+    album: "Miami Vice"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 31
+    title: "Oh Sheila"
+    artist: "Ready for the World"
+    year: 1985
+    album: "Ready for the World"
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 32
+    title: "Rhythm of the Night"
+    artist: "DeBarge"
+    year: 1985
+    album: "Rhythm of the Night"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 33
+    title: "One More Night"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 34
+    title: "Sea of Love"
+    artist: "The Honeydrippers"
+    year: 1985
+    album: "The Honeydrippers: Volume One"
+    cover: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Original artist: Phil Phillips
+  - rank: 35
+    title: "A View to a Kill"
+    artist: "Duran Duran"
+    year: 1985
+    album: "A View to a Kill"
+    soundtrack: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 36
+    title: "The Wild Boys"
+    artist: "Duran Duran"
+    year: 1985
+    album: "Arena"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 37
+    title: "You're the Inspiration"
+    artist: "Chicago"
+    year: 1985
+    album: "Chicago 17"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 38
+    title: "Neutron Dance"
+    artist: "The Pointer Sisters"
+    year: 1985
+    album: "Break Out"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Funk
+  - rank: 39
+    title: "We Belong"
+    artist: "Pat Benatar"
+    year: 1985
+    album: "Tropico"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 40
+    title: "Nightshift"
+    artist: "Commodores"
+    year: 1985
+    album: "Nightshift"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 41
+    title: "Things Can Only Get Better"
+    artist: "Howard Jones"
+    year: 1985
+    album: "Dream into Action"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 42
+    title: "All I Need"
+    artist: "Jack Wagner"
+    year: 1985
+    album: "All I Need"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 43
+    title: "Freeway of Love"
+    artist: "Aretha Franklin"
+    year: 1985
+    album: "Who's Zoomin' Who?"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 44
+    title: "Never Surrender"
+    artist: "Corey Hart"
+    year: 1985
+    album: "Boy in the Box"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 45
+    title: "Sussudio"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 46
+    title: "Strut"
+    artist: "Sheena Easton"
+    year: 1985
+    album: "A Private Heaven"
+    genres:
+      - Pop
+      - Disco
+  - rank: 47
+    title: "You Give Good Love"
+    artist: "Whitney Houston"
+    year: 1985
+    album: "Whitney Houston"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 48
+    title: "The Search Is Over"
+    artist: "Survivor"
+    year: 1985
+    album: "Vital Signs"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 49
+    title: "Missing You"
+    artist: "Diana Ross"
+    year: 1985
+    album: "Swept Away"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+  - rank: 50
+    title: "Separate Lives"
+    artist: "Phil Collins and Marilyn Martin"
+    year: 1985
+    album: "White Nights"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 51
+    title: "Raspberry Beret"
+    artist: "Prince & the Revolution"
+    year: 1985
+    album: "Around the World in a Day"
+    genres:
+      - Funk
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 52
+    title: "Suddenly"
+    artist: "Billy Ocean"
+    year: 1985
+    album: "Suddenly"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 53
+    title: "The Boys of Summer"
+    artist: "Don Henley"
+    year: 1985
+    album: "Building the Perfect Beast"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Fan favorite
+  - rank: 54
+    title: "One Night in Bangkok"
+    artist: "Murray Head"
+    year: 1985
+    album: "Chess"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 55
+    title: "If You Love Somebody Set Them Free"
+    artist: "Sting"
+    year: 1985
+    album: "The Dream of the Blue Turtles"
+    genres:
+      - Rock
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 56
+    title: "Obsession"
+    artist: "Animotion"
+    year: 1985
+    album: "Animotion"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 57
+    title: "We Don't Need Another Hero (Thunderdome)"
+    artist: "Tina Turner"
+    year: 1985
+    album: "Mad Max Beyond Thunderdome"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 58
+    title: "Material Girl"
+    artist: "Madonna"
+    year: 1985
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+  - rank: 59
+    title: "Better Be Good to Me"
+    artist: "Tina Turner"
+    year: 1985
+    album: "Private Dancer"
+    genres:
+      - Rock
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 60
+    title: "Head over Heels"
+    artist: "Tears for Fears"
+    year: 1985
+    album: "Songs from the Big Chair"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 61
+    title: "Axel F"
+    artist: "Harold Faltermeyer"
+    year: 1985
+    album: "Beverly Hills Cop"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Fan favorite
+  - rank: 62
+    title: "Smooth Operator"
+    artist: "Sade"
+    year: 1985
+    album: "Diamond Life"
+    genres:
+      - Rhythm and Blues
+      - Jazz
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 63
+    title: "In My House"
+    artist: "Mary Jane Girls"
+    year: 1985
+    album: "Only Four You"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Disco
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 64
+    title: "Don't Lose My Number"
+    artist: "Phil Collins"
+    year: 1985
+    album: "No Jacket Required"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 65
+    title: "All Through the Night"
+    artist: "Cyndi Lauper"
+    year: 1985
+    album: "She's So Unusual"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 66
+    title: "Run to You"
+    artist: "Bryan Adams"
+    year: 1985
+    album: "Reckless"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 67
+    title: "Glory Days"
+    artist: "Bruce Springsteen"
+    year: 1985
+    album: "Born in the U.S.A."
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Fan favorite
+  - rank: 68
+    title: "Voices Carry"
+    artist: "'Til Tuesday"
+    year: 1985
+    album: "Voices Carry"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 69
+    title: "Misled"
+    artist: "Kool & the Gang"
+    year: 1985
+    album: "Emergency"
+    genres:
+      - Funk
+      - Pop
+      - Rhythm and Blues
+  - rank: 70
+    title: "Would I Lie to You?"
+    artist: "Eurythmics"
+    year: 1985
+    album: "Be Yourself Tonight"
+    genres:
+      - New Wave
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 71
+    title: "Be Near Me"
+    artist: "ABC"
+    year: 1985
+    album: "How to Be a ... Zillionaire!"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 72
+    title: "No More Lonely Nights"
+    artist: "Paul McCartney"
+    year: 1985
+    album: "Give My Regards to Broad Street"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 73
+    title: "I Can't Hold Back"
+    artist: "Survivor"
+    year: 1985
+    album: "Vital Signs"
+    genres:
+      - Rock
+      - Soft Rock
+  - rank: 74
+    title: "Summer of '69"
+    artist: "Bryan Adams"
+    year: 1985
+    album: "Reckless"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Fan favorite
+      - Culturally important
+  - rank: 75
+    title: "Walking on Sunshine"
+    artist: "Katrina and the Waves"
+    year: 1985
+    album: "Katrina and the Waves"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #9
+      - Fan favorite
+  - rank: 76
+    title: "Freedom"
+    artist: "Wham!"
+    year: 1985
+    album: "Make It Big"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 77
+    title: "Too Late for Goodbyes"
+    artist: "Julian Lennon"
+    year: 1985
+    album: "Valotte"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 78
+    title: "Valotte"
+    artist: "Julian Lennon"
+    year: 1985
+    album: "Valotte"
+    genres:
+      - Pop
+      - Rock
+  - rank: 79
+    title: "Some Like It Hot"
+    artist: "The Power Station"
+    year: 1985
+    album: "The Power Station"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 80
+    title: "Solid"
+    artist: "Ashford & Simpson"
+    year: 1985
+    album: "Solid"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+  - rank: 81
+    title: "Angel"
+    artist: "Madonna"
+    year: 1985
+    album: "Like a Virgin"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 82
+    title: "I'm on Fire"
+    artist: "Bruce Springsteen"
+    year: 1985
+    album: "Born in the U.S.A."
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 83
+    title: "Method of Modern Love"
+    artist: "Daryl Hall & John Oates"
+    year: 1985
+    album: "Big Bam Boom"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 84
+    title: "Lay Your Hands on Me"
+    artist: "Thompson Twins"
+    year: 1985
+    album: "Here's to Future Days"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 85
+    title: "Who's Holding Donna Now"
+    artist: "DeBarge"
+    year: 1985
+    album: "Rhythm of the Night"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 86
+    title: "Lonely Ol' Night"
+    artist: "John Cougar Mellencamp"
+    year: 1985
+    album: "Scarecrow"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 87
+    title: "What About Love"
+    artist: "Heart"
+    year: 1985
+    album: "Heart"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 88
+    title: "California Girls"
+    artist: "David Lee Roth"
+    year: 1985
+    album: "Crazy from the Heat"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: The Beach Boys
+      - Billboard Hot 100 #3
+  - rank: 89
+    title: "Fresh"
+    artist: "Kool & the Gang"
+    year: 1985
+    album: "Emergency"
+    genres:
+      - Funk
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 90
+    title: "Do What You Do"
+    artist: "Jermaine Jackson"
+    year: 1985
+    album: "Jermaine Jackson"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 91
+    title: "Jungle Love"
+    artist: "The Time"
+    year: 1985
+    album: "Ice Cream Castle"
+    genres:
+      - Funk
+      - Rhythm and Blues
+      - Pop
+  - rank: 92
+    title: "Born in the U.S.A."
+    artist: "Bruce Springsteen"
+    year: 1985
+    album: "Born in the U.S.A."
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+      - Culturally important
+  - rank: 93
+    title: "Private Dancer"
+    artist: "Tina Turner"
+    year: 1985
+    album: "Private Dancer"
+    genres:
+      - Rock
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 94
+    title: "Who's Zoomin' Who"
+    artist: "Aretha Franklin"
+    year: 1985
+    album: "Who's Zoomin' Who?"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 95
+    title: "Fortress Around Your Heart"
+    artist: "Sting"
+    year: 1985
+    album: "The Dream of the Blue Turtles"
+    genres:
+      - Rock
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 96
+    title: "Penny Lover"
+    artist: "Lionel Richie"
+    year: 1985
+    album: "Can't Slow Down"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 97
+    title: "All She Wants to Do Is Dance"
+    artist: "Don Henley"
+    year: 1985
+    album: "Building the Perfect Beast"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 98
+    title: "Relax"
+    artist: "Frankie Goes to Hollywood"
+    year: 1985
+    album: "Welcome to the Pleasuredome"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #10
+      - Culturally important
+  - rank: 99
+    title: "I Wonder If I Take You Home"
+    artist: "Lisa Lisa and Cult Jam with Full Force"
+    year: 1985
+    album: "Lisa Lisa & Cult Jam with Full Force"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Funk
+  - rank: 100
+    title: "19"
+    artist: "Paul Hardcastle"
+    year: 1985
+    album: "Paul Hardcastle"
+    solo-hit: true
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #15
+      - Culturally important

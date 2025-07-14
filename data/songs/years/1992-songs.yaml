@@ -1,0 +1,649 @@
+songs:
+  - rank: 1
+    title: "End of the Road"
+    artist: "Boyz II Men"
+    year: 1992
+    album: "Cooleyhighharmony"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 Year-End #1
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: "Baby Got Back"
+    artist: "Sir Mix-a-Lot"
+    year: 1992
+    album: "Mack Daddy"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 3
+    title: "Jump"
+    artist: "Kris Kross"
+    year: 1992
+    album: "Totally Krossed Out"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: "Save the Best for Last"
+    artist: "Vanessa Williams"
+    year: 1992
+    album: "The Comfort Zone"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "Baby-Baby-Baby"
+    artist: "TLC"
+    year: 1992
+    album: "Ooooooohhh... On the TLC Tip"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 6
+    title: "Tears in Heaven"
+    artist: "Eric Clapton"
+    year: 1992
+    album: "Rush"
+    soundtrack: true
+    genres:
+      - Soft Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #2
+      - Grammy winner
+  - rank: 7
+    title: "My Lovin' (You're Never Gonna Get It)"
+    artist: "En Vogue"
+    year: 1992
+    album: "Funky Divas"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 8
+    title: "Under the Bridge"
+    artist: "Red Hot Chili Peppers"
+    year: 1992
+    album: "Blood Sugar Sex Magik"
+    genres:
+      - Alternative
+      - Funk
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+  - rank: 9
+    title: "All 4 Love"
+    artist: "Color Me Badd"
+    year: 1992
+    album: "C.M.B."
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: "Masterpiece"
+    artist: "Atlantic Starr"
+    year: 1992
+    album: "Love Crazy"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 11
+    title: "Just Another Day"
+    artist: "Jon Secada"
+    year: 1992
+    album: "Jon Secada"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 12
+    title: "I Love Your Smile"
+    artist: "Shanice"
+    year: 1992
+    album: "Inner Child"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 13
+    title: "To Be with You"
+    artist: "Mr. Big"
+    year: 1992
+    album: "Lean into It"
+    genres:
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 14
+    title: "The Best Things in Life Are Free"
+    artist: "Luther Vandross and Janet Jackson"
+    year: 1992
+    album: "Mo' Money Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 15
+    title: "Ain't 2 Proud 2 Beg"
+    artist: "TLC"
+    year: 1992
+    album: "Ooooooohhh... On the TLC Tip"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 16
+    title: "November Rain"
+    artist: "Guns N' Roses"
+    year: 1992
+    album: "Use Your Illusion I"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 17
+    title: "Life Is a Highway"
+    artist: "Tom Cochrane"
+    year: 1992
+    album: "Mad Mad World"
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 18
+    title: "Remember the Time"
+    artist: "Michael Jackson"
+    year: 1992
+    album: "Dangerous"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 19
+    title: "Finally"
+    artist: "CeCe Peniston"
+    year: 1992
+    album: "Finally"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 20
+    title: "This Used to Be My Playground"
+    artist: "Madonna"
+    year: 1992
+    album: "A League of Their Own Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 21
+    title: "Sometimes Love Just Ain't Enough"
+    artist: "Patty Smyth with Don Henley"
+    year: 1992
+    album: "Patty Smyth"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 22
+    title: "Can't Stop"
+    artist: "After 7"
+    year: 1992
+    album: "After 7"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 23
+    title: "Diamonds and Pearls"
+    artist: "Prince and The New Power Generation"
+    year: 1992
+    album: "Diamonds and Pearls"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 24
+    title: "Don't Let the Sun Go Down on Me"
+    artist: "George Michael/Elton John"
+    year: 1992
+    album: "Two Rooms: Celebrating the Songs of Elton John & Bernie Taupin"
+    cover: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Original artist: Elton John
+      - Billboard Hot 100 #1
+  - rank: 25
+    title: "The One"
+    artist: "Elton John"
+    year: 1992
+    album: "The One"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 26
+    title: "Set Adrift on Memory Bliss"
+    artist: "P.M. Dawn"
+    year: 1992
+    album: "Of the Heart, of the Soul and of the Cross: The Utopian Experience"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: "Tennessee"
+    artist: "Arrested Development"
+    year: 1992
+    album: "3 Years, 5 Months and 2 Days in the Life Of..."
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 28
+    title: "The Way I Feel About You"
+    artist: "Karyn White"
+    year: 1992
+    album: "Ritual of Love"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #12
+  - rank: 29
+    title: "Hazard"
+    artist: "Richard Marx"
+    year: 1992
+    album: "Rush Street"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 30
+    title: "Move This"
+    artist: "Technotronic featuring Ya Kid K"
+    year: 1992
+    album: "Pump Up the Jam: The Album"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 31
+    title: "Bohemian Rhapsody"
+    artist: "Queen"
+    year: 1992
+    album: "Classic Queen"
+    soundtrack: true
+    genres:
+      - Rock
+    tags:
+      - Re-release
+      - Billboard Hot 100 #2
+  - rank: 32
+    title: "Make It Happen"
+    artist: "Mariah Carey"
+    year: 1992
+    album: "Emotions"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 33
+    title: "Too Funky"
+    artist: "George Michael"
+    year: 1992
+    album: "Red Hot + Dance"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 34
+    title: "Smells Like Teen Spirit"
+    artist: "Nirvana"
+    year: 1992
+    album: "Nevermind"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Hot 100 #6
+      - Culturally important
+  - rank: 35
+    title: "If You Asked Me To"
+    artist: "Celine Dion"
+    year: 1992
+    album: "Celine Dion"
+    cover: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Original artist: Patti LaBelle
+      - Billboard Hot 100 #4
+  - rank: 36
+    title: "Give It Away"
+    artist: "Red Hot Chili Peppers"
+    year: 1992
+    album: "Blood Sugar Sex Magik"
+    genres:
+      - Alternative
+      - Funk
+    tags:
+      - Billboard Alternative #1
+  - rank: 37
+    title: "Come As You Are"
+    artist: "Nirvana"
+    year: 1992
+    album: "Nevermind"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Alternative #3
+  - rank: 38
+    title: "Right Now"
+    artist: "Van Halen"
+    year: 1992
+    album: "For Unlawful Carnal Knowledge"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #2
+  - rank: 39
+    title: "Let's Get Rocked"
+    artist: "Def Leppard"
+    year: 1992
+    album: "Adrenalize"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 40
+    title: "Everything About You"
+    artist: "Ugly Kid Joe"
+    year: 1992
+    album: "America's Least Wanted"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #3
+  - rank: 41
+    title: "Remedy"
+    artist: "The Black Crowes"
+    year: 1992
+    album: "The Southern Harmony and Musical Companion"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 42
+    title: "Even Better Than the Real Thing"
+    artist: "U2"
+    year: 1992
+    album: "Achtung Baby"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 43
+    title: "Jeremy"
+    artist: "Pearl Jam"
+    year: 1992
+    album: "Ten"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #5
+      - Culturally important
+  - rank: 44
+    title: "One"
+    artist: "U2"
+    year: 1992
+    album: "Achtung Baby"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #1
+  - rank: 45
+    title: "Tomorrow"
+    artist: "Morrissey"
+    year: 1992
+    album: "Your Arsenal"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 46
+    title: "Teen Angst (What the World Needs Now)"
+    artist: "Cracker"
+    year: 1992
+    album: "Cracker"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 47
+    title: "Weirdo"
+    artist: "The Charlatans"
+    year: 1992
+    album: "Between 10th and 11th"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 48
+    title: "Friday I'm in Love"
+    artist: "The Cure"
+    year: 1992
+    album: "Wish"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 49
+    title: "Would?"
+    artist: "Alice in Chains"
+    year: 1992
+    album: "Dirt"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Alternative #19
+      - Culturally important
+  - rank: 50
+    title: "Digging in the Dirt"
+    artist: "Peter Gabriel"
+    year: 1992
+    album: "Us"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #1
+  - rank: 51
+    title: "Not Enough Time"
+    artist: "INXS"
+    year: 1992
+    album: "Welcome to Wherever You Are"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #2
+  - rank: 52
+    title: "Drive"
+    artist: "R.E.M."
+    year: 1992
+    album: "Automatic for the People"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 53
+    title: "These Are Days"
+    artist: "10,000 Maniacs"
+    year: 1992
+    album: "Our Time in Eden"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 54
+    title: "Somebody to Shove"
+    artist: "Soul Asylum"
+    year: 1992
+    album: "Grave Dancers Union"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 55
+    title: "I Will Always Love You"
+    artist: "Whitney Houston"
+    year: 1992
+    album: "The Bodyguard Soundtrack"
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Original artist: Dolly Parton
+      - Billboard Hot 100 #1
+      - Longest running #1
+  - rank: 56
+    title: "Humpin' Around"
+    artist: "Bobby Brown"
+    year: 1992
+    album: "Bobby"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 57
+    title: "Mr. Loverman"
+    artist: "Shabba Ranks"
+    year: 1992
+    album: "Rough & Ready Volume 1"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #2
+  - rank: 58
+    title: "They Want EFX"
+    artist: "Das EFX"
+    year: 1992
+    album: "Dead Serious"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 59
+    title: "I Got a Man"
+    artist: "Positive K"
+    year: 1992
+    album: "The Skills Dat Pay da Bills"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 60
+    title: "If I Ever Fall in Love"
+    artist: "Shai"
+    year: 1992
+    album: "...If I Ever Fall in Love"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 61
+    title: "Rump Shaker"
+    artist: "Wreckx-n-Effect"
+    year: 1992
+    album: "Hard or Smooth"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 62
+    title: "Dazzey Duks"
+    artist: "Duice"
+    year: 1992
+    album: "Dazzey Duks"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #12
+  - rank: 63
+    title: "Sweet Thing"
+    artist: "Mary J. Blige"
+    year: 1992
+    album: "What's the 411?"
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Original artist: Rufus featuring Chaka Khan
+      - Billboard R&B #1
+  - rank: 64
+    title: "Cats in the Cradle"
+    artist: "Ugly Kid Joe"
+    year: 1992
+    album: "America's Least Wanted"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: Harry Chapin
+      - Billboard Hot 100 #6
+  - rank: 65
+    title: "Killing Floor"
+    artist: "Vigilantes of Love"
+    year: 1992
+    album: "Killing Floor"
+    genres:
+      - Folk
+    tags:
+      - Influential folk rock

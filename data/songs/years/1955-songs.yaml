@@ -1,0 +1,577 @@
+songs:
+  - title: Cherry Pink And Apple Blossom White
+    artist: Perez Prado
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Rock Around the Clock
+    artist: Bill Haley & His Comets
+    year: 1955
+    single: true
+    genres:
+      - Rock
+    soundtrack: true
+  - title: The Yellow Rose of Texas
+    artist: Mitch Miller
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Autumn Leaves
+    artist: Roger Williams
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Unchained Melody
+    artist: Les Baxter
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+  - title: The Ballad of Davy Crockett
+    artist: Bill Hayes
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+    solo-hit: true
+  - title: Love Is a Many-Splendored Thing
+    artist: The Four Aces
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+  - title: Sincerely
+    artist: The McGuire Sisters
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Ain't That a Shame
+    artist: Pat Boone
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    cover: true
+  - title: The Wallflower (Dance with Me, Henry)
+    artist: Georgia Gibbs
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    cover: true
+    solo-hit: false
+  - title: The Crazy Otto Medley
+    artist: Johnny Maddox
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Melody of Love
+    artist: Billy Vaughn
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Sixteen Tons
+    artist: Tennessee Ernie Ford
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Learnin' the Blues
+    artist: Frank Sinatra
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Hearts of Stone
+    artist: The Fontane Sisters
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Tweedle Dee
+    artist: Georgia Gibbs
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    cover: true
+  - title: Moments to Remember
+    artist: The Four Lads
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Mr. Sandman
+    artist: The Chordettes
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Let Me Go, Lover!
+    artist: Joan Weber
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: A Blossom Fell
+    artist: Nat King Cole
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Unchained Melody
+    artist: Al Hibbler
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    soundtrack: true
+  - title: The Ballad of Davy Crockett
+    artist: Fess Parker
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+    solo-hit: true
+  - title: Honey-Babe
+    artist: Art Mooney
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: The Ballad of Davy Crockett
+    artist: Tennessee Ernie Ford
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+  - title: Ko Ko Mo (I Love You So)
+    artist: Perry Como
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Hard to Get
+    artist: Gisele MacKenzie
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: The Naughty Lady of Shady Lane
+    artist: The Ames Brothers
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: That's All I Want from You
+    artist: Jaye P. Morgan
+    year: 1955
+    single: true
+    genres:
+      - Pop
+  - title: Only You (And You Alone)
+    artist: The Platters
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: It's a Sin to Tell a Lie
+    artist: Somethin' Smith and the Redheads
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Unchained Melody
+    artist: Roy Hamilton
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    soundtrack: true
+  - title: Seventeen
+    artist: Boyd Bennett
+    year: 1955
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: I Hear You Knocking
+    artist: Gale Storm
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Maybellene
+    artist: Chuck Berry
+    year: 1955
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+  - title: He
+    artist: Al Hibbler
+    year: 1955
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    cover: true
+  - title: At My Front Door (Crazy Little Mama)
+    artist: Pat Boone
+    year: 1955
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Ain't It a Shame
+    artist: Fats Domino
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+  - title: Burn That Candle
+    artist: Bill Haley & His Comets
+    year: 1955
+    single: true
+    genres:
+      - Rock
+  - title: Pledging My Love
+    artist: Johnny Ace
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false
+  - title: Earth Angel (Will You Be Mine)
+    artist: The Penguins
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Hurt
+    artist: Roy Hamilton
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: My Babe
+    artist: Little Walter and His Jukes
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Ling, Ting, Tong
+    artist: The Five Keys
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: When You Dance
+    artist: The Turbans
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: My Boy - Flat Top
+    artist: Boyd Bennett
+    year: 1955
+    single: true
+    genres:
+      - Rock
+  - title: The Wallflower
+    artist: Etta James
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Every Day (I Have the Blues)
+    artist: Count Basie
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Don't Be Angry
+    artist: Nappy Brown
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Hands Off
+    artist: Jay McShann and His Orchestra
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Bo Diddley
+    artist: Bo Diddley
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+  - title: All by Myself
+    artist: Fats Domino
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Adorable
+    artist: The Drifters
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: A Fool for You
+    artist: Ray Charles
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Why Don't You Write Me?
+    artist: The Jacks
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: White Christmas
+    artist: The Drifters
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: What'cha Gonna Do
+    artist: The Drifters
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Thirty Days (To Come Back Home)
+    artist: Chuck Berry
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+  - title: Story Untold
+    artist: The Nutmegs
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Play It Fair
+    artist: LaVern Baker
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: It's Love Baby (24 Hours a Day)
+    artist: Louis Brooks and His Hi-Toppers
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: I Hear You Knocking
+    artist: Smiley Lewis
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Flip, Flop and Fly
+    artist: Joe Turner
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Feel So Good
+    artist: Shirley & Lee
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Every Day (I Have the Blues)
+    artist: Count Basie
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I Want to Do More
+    artist: Ruth Brown
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Hide and Seek
+    artist: Joe Turner
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Don't Start Me Talkin'
+    artist: Sonny Boy Williamson [2°]
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Bop-Ting-A-Ling
+    artist: LaVern Baker
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: The Door Is Still Open
+    artist: The Cardinals
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Soldier Boy
+    artist: The Four Fellows
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: It's Love Baby (24 Hours of the Day)
+    artist: Ruth Brown
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Come Home
+    artist: Bubber Johnson
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: You Don't Have to Go
+    artist: Jimmy Reed
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Witchcraft
+    artist: The Spiders
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Steamboat
+    artist: The Drifters
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Most of All
+    artist: The Moonglows
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Walking the Blues
+    artist: Willie Dixon and the Allstars
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Walking the Blues
+    artist: Jack Dupree and Mr. Bear
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: That's All I Need
+    artist: LaVern Baker
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Roller Coaster
+    artist: Little Walter and His Jukes
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Ko Ko Mo
+    artist: Gene & Eunice
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Johnny Has Gone
+    artist: Varetta Dillard
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I Can't Go On
+    artist: Fats Domino
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Good Rockin' Daddy
+    artist: Etta James
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Those Lonely, Lonely Nights
+    artist: Earl King [Earl Johnson]
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: I Can See Everybody's Baby
+    artist: Ruth Brown
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Drown in My Own Tears
+    artist: Ray Charles
+    year: 1955
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul

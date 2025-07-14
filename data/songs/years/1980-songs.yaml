@@ -1,0 +1,1018 @@
+songs:
+  - rank: 1
+    title: "Call Me"
+    artist: "Blondie"
+    year: 1980
+    album: "American Gigolo"
+    soundtrack: true
+    genres:
+      - New Wave
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important new wave hit
+  - rank: 2
+    title: "Another Brick in the Wall, Part II"
+    artist: "Pink Floyd"
+    year: 1980
+    album: "The Wall"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important protest song
+  - rank: 3
+    title: "Magic"
+    artist: "Olivia Newton-John"
+    year: 1980
+    album: "Xanadu"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 4
+    title: "Rock with You"
+    artist: "Michael Jackson"
+    year: 1980
+    album: "Off the Wall"
+    genres:
+      - Soul
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 5
+    title: "Do That to Me One More Time"
+    artist: "Captain & Tennille"
+    year: 1980
+    album: "Make Your Move"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 6
+    title: "Crazy Little Thing Called Love"
+    artist: "Queen"
+    year: 1980
+    album: "The Game"
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 7
+    title: "Coming Up"
+    artist: "Paul McCartney"
+    year: 1980
+    album: "McCartney II"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 8
+    title: "Funkytown"
+    artist: "Lipps Inc."
+    year: 1980
+    album: "Mouth to Mouth"
+    solo-hit: true
+    genres:
+      - Funk
+      - Disco
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 9
+    title: "It's Still Rock and Roll to Me"
+    artist: "Billy Joel"
+    year: 1980
+    album: "Glass Houses"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 10
+    title: "The Rose"
+    artist: "Bette Midler"
+    year: 1980
+    album: "The Rose"
+    soundtrack: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 11
+    title: "Escape (The Piña Colada Song)"
+    artist: "Rupert Holmes"
+    year: 1980
+    album: "Partners in Crime"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 12
+    title: "Cars"
+    artist: "Gary Numan"
+    year: 1980
+    album: "The Pleasure Principle"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 9
+      - Culturally important synth hit
+  - rank: 13
+    title: "Cruisin'"
+    artist: "Smokey Robinson"
+    year: 1980
+    album: "Warm Thoughts"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 14
+    title: "Working My Way Back to You/Forgive Me, Girl"
+    artist: "The Spinners"
+    year: 1980
+    album: "Dancin' and Lovin'"
+    cover: true
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Original artist: The Four Seasons
+      - Billboard Hot 100 number 2
+  - rank: 15
+    title: "Lost in Love"
+    artist: "Air Supply"
+    year: 1980
+    album: "Lost in Love"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 16
+    title: "Little Jeannie"
+    artist: "Elton John"
+    year: 1980
+    album: "21 at 33"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 17
+    title: "Ride Like the Wind"
+    artist: "Christopher Cross"
+    year: 1980
+    album: "Christopher Cross"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 18
+    title: "Upside Down"
+    artist: "Diana Ross"
+    year: 1980
+    album: "Diana"
+    genres:
+      - Soul
+      - Disco
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 19
+    title: "Please Don't Go"
+    artist: "KC and the Sunshine Band"
+    year: 1980
+    album: "Do You Wanna Go Party"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 20
+    title: "Babe"
+    artist: "Styx"
+    year: 1980
+    album: "Cornerstone"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 21
+    title: "With You I'm Born Again"
+    artist: "Billy Preston and Syreeta"
+    year: 1980
+    album: "Late at Night"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 22
+    title: "Shining Star"
+    artist: "The Manhattans"
+    year: 1980
+    album: "After Midnight"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 23
+    title: "Still"
+    artist: "Commodores"
+    year: 1980
+    album: "Midnight Magic"
+    genres:
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 24
+    title: "Yes, I'm Ready"
+    artist: "Teri DeSario & KC"
+    year: 1980
+    album: "Moonlight Madness"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Barbara Mason
+      - Billboard Hot 100 number 2
+  - rank: 25
+    title: "Sexy Eyes"
+    artist: "Dr. Hook"
+    year: 1980
+    album: "Sometimes You Win"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 26
+    title: "Steal Away"
+    artist: "Robbie Dupree"
+    year: 1980
+    album: "Robbie Dupree"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 27
+    title: "Biggest Part of Me"
+    artist: "Ambrosia"
+    year: 1980
+    album: "One Eighty"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 28
+    title: "This Is It"
+    artist: "Kenny Loggins"
+    year: 1980
+    album: "Keep the Fire"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 29
+    title: "Cupid/I've Loved You for a Long Time"
+    artist: "The Spinners"
+    year: 1980
+    album: "Love Trippin'"
+    cover: true
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Original artist: Sam Cooke (Cupid)
+      - Billboard Hot 100 number 4
+  - rank: 30
+    title: "Let's Get Serious"
+    artist: "Jermaine Jackson"
+    year: 1980
+    album: "Let's Get Serious"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot Soul Singles number 1
+  - rank: 31
+    title: "Don't Fall in Love with a Dreamer"
+    artist: "Kenny Rogers & Kim Carnes"
+    year: 1980
+    album: "Gideon"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+      - Crossover hit
+  - rank: 32
+    title: "Sailing"
+    artist: "Christopher Cross"
+    year: 1980
+    album: "Christopher Cross"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 33
+    title: "Longer"
+    artist: "Dan Fogelberg"
+    year: 1980
+    album: "Phoenix"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 34
+    title: "Coward of the County"
+    artist: "Kenny Rogers"
+    year: 1980
+    album: "Kenny"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+      - Crossover hit
+  - rank: 35
+    title: "Ladies' Night"
+    artist: "Kool & the Gang"
+    year: 1980
+    album: "Ladies' Night"
+    genres:
+      - Funk
+      - Disco
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 36
+    title: "Too Hot"
+    artist: "Kool & the Gang"
+    year: 1980
+    album: "Ladies' Night"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 37
+    title: "Take Your Time (Do It Right)"
+    artist: "The S.O.S. Band"
+    year: 1980
+    album: "S.O.S."
+    genres:
+      - Funk
+      - Disco
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 38
+    title: "No More Tears (Enough Is Enough)"
+    artist: "Barbra Streisand & Donna Summer"
+    year: 1980
+    album: "Wet"
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 39
+    title: "More Love"
+    artist: "Kim Carnes"
+    year: 1980
+    album: "Romance Dance"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Smokey Robinson & the Miracles
+      - Billboard Hot 100 number 10
+  - rank: 40
+    title: "Pop Muzik"
+    artist: "M"
+    year: 1980
+    album: "New York • London • Paris • Munich"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 41
+    title: "Brass in Pocket"
+    artist: "The Pretenders"
+    year: 1980
+    album: "Pretenders"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Billboard Hot 100 number 14
+  - rank: 42
+    title: "Special Lady"
+    artist: "Ray, Goodman & Brown"
+    year: 1980
+    album: "Ray, Goodman & Brown"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 43
+    title: "Send One Your Love"
+    artist: "Stevie Wonder"
+    year: 1980
+    album: "Journey Through the Secret Life of Plants"
+    genres:
+      - Soul
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 44
+    title: "The Second Time Around"
+    artist: "Shalamar"
+    year: 1980
+    album: "Big Fun"
+    genres:
+      - Soul
+      - Disco
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 45
+    title: "We Don't Talk Anymore"
+    artist: "Cliff Richard"
+    year: 1980
+    album: "I'm No Hero"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 46
+    title: "Heartache Tonight"
+    artist: "Eagles"
+    year: 1980
+    album: "The Long Run"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 47
+    title: "Stomp!"
+    artist: "The Brothers Johnson"
+    year: 1980
+    album: "Light Up the Night"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 48
+    title: "Tired of Toein' the Line"
+    artist: "Rocky Burnette"
+    year: 1980
+    album: "The Son of Rock and Roll"
+    solo-hit: true
+    genres:
+      - Rock
+      - Rockabilly
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 49
+    title: "Better Love Next Time"
+    artist: "Dr. Hook"
+    year: 1980
+    album: "Sometimes You Win"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 12
+  - rank: 50
+    title: "He's So Shy"
+    artist: "Pointer Sisters"
+    year: 1980
+    album: "Special Things"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 51
+    title: "Celebration"
+    artist: "Kool & the Gang"
+    year: 1980
+    album: "Celebrate!"
+    genres:
+      - Funk
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important party anthem
+  - rank: 52
+    title: "Give Me the Night"
+    artist: "George Benson"
+    year: 1980
+    album: "Give Me the Night"
+    genres:
+      - Soul
+      - Funk
+      - Jazz
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 53
+    title: "And the Beat Goes On"
+    artist: "The Whispers"
+    year: 1980
+    album: "The Whispers"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot Soul Singles number 1
+  - rank: 54
+    title: "One in a Million You"
+    artist: "Larry Graham"
+    year: 1980
+    album: "One in a Million You"
+    genres:
+      - Soul
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 55
+    title: "Let My Love Open the Door"
+    artist: "Pete Townshend"
+    year: 1980
+    album: "Empty Glass"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 56
+    title: "Whip It"
+    artist: "Devo"
+    year: 1980
+    album: "Freedom of Choice"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Billboard Hot 100 number 14
+      - Culturally important
+  - rank: 57
+    title: "Misunderstanding"
+    artist: "Genesis"
+    year: 1980
+    album: "Duke"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 14
+  - rank: 58
+    title: "Another One Bites the Dust"
+    artist: "Queen"
+    year: 1980
+    album: "The Game"
+    genres:
+      - Rock
+      - Funk
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 59
+    title: "I'm Coming Out"
+    artist: "Diana Ross"
+    year: 1980
+    album: "Diana"
+    genres:
+      - Soul
+      - Disco
+    tags:
+      - Billboard Hot 100 number 5
+      - Culturally important empowerment song
+  - rank: 60
+    title: "Hungry Heart"
+    artist: "Bruce Springsteen"
+    year: 1980
+    album: "The River"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 5
+      - Fan favorite
+  - rank: 61
+    title: "You Shook Me All Night Long"
+    artist: "AC/DC"
+    year: 1980
+    album: "Back in Black"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 35
+      - Fan favorite hard rock classic
+  - rank: 62
+    title: "Back in Black"
+    artist: "AC/DC"
+    year: 1980
+    album: "Back in Black"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 63
+    title: "Ace of Spades"
+    artist: "Motörhead"
+    year: 1980
+    album: "Ace of Spades"
+    genres:
+      - Rock
+    tags:
+      - Culturally important metal classic
+  - rank: 64
+    title: "Love Will Tear Us Apart"
+    artist: "Joy Division"
+    year: 1980
+    single: true
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Culturally important post-punk song
+  - rank: 65
+    title: "Games Without Frontiers"
+    artist: "Peter Gabriel"
+    year: 1980
+    album: "Peter Gabriel"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 66
+    title: "Ashes to Ashes"
+    artist: "David Bowie"
+    year: 1980
+    album: "Scary Monsters (and Super Creeps)"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - UK number 1
+      - Culturally important
+  - rank: 67
+    title: "Once in a Lifetime"
+    artist: "Talking Heads"
+    year: 1980
+    album: "Remain in Light"
+    genres:
+      - New Wave
+      - Rock
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 68
+    title: "Vienna"
+    artist: "Ultravox"
+    year: 1980
+    album: "Vienna"
+    genres:
+      - New Wave
+    tags:
+      - UK number 2
+  - rank: 69
+    title: "Fashion"
+    artist: "David Bowie"
+    year: 1980
+    album: "Scary Monsters (and Super Creeps)"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 70
+    title: "Private Idaho"
+    artist: "The B-52's"
+    year: 1980
+    album: "Wild Planet"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 71
+    title: "Don't Stand So Close to Me"
+    artist: "The Police"
+    year: 1980
+    album: "Zenyatta Mondatta"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 72
+    title: "While You See a Chance"
+    artist: "Stevie Wonder"
+    year: 1980
+    album: "Hotter than July"
+    genres:
+      - Soul
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 73
+    title: "Master Blaster (Jammin')"
+    artist: "Stevie Wonder"
+    year: 1980
+    album: "Hotter than July"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 74
+    title: "I'm Alright"
+    artist: "Kenny Loggins"
+    year: 1980
+    album: "Caddyshack"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 75
+    title: "Let Me Be Your Angel"
+    artist: "Stacy Lattisaw"
+    year: 1980
+    album: "Let Me Be Your Angel"
+    genres:
+      - Soul
+    tags:
+      - Billboard Hot Soul Singles number 8
+  - rank: 76
+    title: "Tunnel of Love"
+    artist: "Dire Straits"
+    year: 1980
+    album: "Making Movies"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: "Romeo's Tune"
+    artist: "Steve Forbert"
+    year: 1980
+    album: "Jackrabbit Slim"
+    solo-hit: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 78
+    title: "Don't Do Me Like That"
+    artist: "Tom Petty and the Heartbreakers"
+    year: 1980
+    album: "Damn the Torpedoes"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 79
+    title: "JoJo"
+    artist: "Boz Scaggs"
+    year: 1980
+    album: "Middle Man"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 17
+  - rank: 80
+    title: "Hurt So Bad"
+    artist: "Linda Ronstadt"
+    year: 1980
+    album: "Mad Love"
+    cover: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: Little Anthony & the Imperials
+      - Billboard Hot 100 number 8
+  - rank: 81
+    title: "Off the Wall"
+    artist: "Michael Jackson"
+    year: 1980
+    album: "Off the Wall"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 82
+    title: "What I Like About You"
+    artist: "The Romantics"
+    year: 1980
+    album: "The Romantics"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 49
+      - Culturally important
+  - rank: 83
+    title: "Xanadu"
+    artist: "Olivia Newton-John & Electric Light Orchestra"
+    year: 1980
+    album: "Xanadu"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 84
+    title: "Head Games"
+    artist: "Foreigner"
+    year: 1980
+    album: "Head Games"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: "The Long Run"
+    artist: "Eagles"
+    year: 1980
+    album: "The Long Run"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 86
+    title: "The Wanderer"
+    artist: "Donna Summer"
+    year: 1980
+    album: "The Wanderer"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 87
+    title: "Rapper's Delight"
+    artist: "The Sugarhill Gang"
+    year: 1980
+    single: true
+    genres:
+      - Funk
+    tags:
+      - Billboard Hot 100 number 36
+      - Culturally important
+  - rank: 88
+    title: "I Can't Help It"
+    artist: "Andy Gibb & Olivia Newton-John"
+    year: 1980
+    album: "After Dark"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 12
+  - rank: 89
+    title: "Lookin' for Love"
+    artist: "Johnny Lee"
+    year: 1980
+    album: "Lookin' for Love"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+      - Crossover hit
+  - rank: 90
+    title: "Don't Know Much"
+    artist: "Linda Ronstadt feat. Aaron Neville"
+    year: 1980
+    album: "Cry Like a Rainstorm, Howl Like the Wind"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 91
+    title: "Cool Change"
+    artist: "Little River Band"
+    year: 1980
+    album: "First Under the Wire"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 92
+    title: "You're Only Lonely"
+    artist: "J.D. Souther"
+    year: 1980
+    album: "You're Only Lonely"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 93
+    title: "Heart Hotels"
+    artist: "Dan Fogelberg"
+    year: 1980
+    album: "Phoenix"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 number 21
+  - rank: 94
+    title: "Hey There Lonely Girl"
+    artist: "Robert John"
+    year: 1980
+    album: "Robert John"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Eddie Holman
+      - Billboard Hot 100 number 31
+  - rank: 95
+    title: "Should've Never Let You Go"
+    artist: "Neil & Dara Sedaka"
+    year: 1980
+    album: "In the Pocket"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 19
+  - rank: 96
+    title: "Pilot of the Airwaves"
+    artist: "Charlie Dore"
+    year: 1980
+    album: "Where to Now"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 97
+    title: "Into the Night"
+    artist: "Benny Mardones"
+    year: 1980
+    album: "Never Run, Never Hide"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 98
+    title: "Three Times in Love"
+    artist: "Tommy James"
+    year: 1980
+    album: "Three Times in Love"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 19
+  - rank: 99
+    title: "I Pledge My Love"
+    artist: "Peaches & Herb"
+    year: 1980
+    album: "Twice the Fire"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 19
+  - rank: 100
+    title: "The Good Times Are Coming"
+    artist: "Cass Elliot"
+    year: 1980
+    album: "Don't Call Me Mama Anymore"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Fan favorite

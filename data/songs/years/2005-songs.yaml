@@ -1,0 +1,583 @@
+songs:
+  - rank: 1
+    title: "We Belong Together"
+    artist: "Mariah Carey"
+    year: 2005
+    album: "The Emancipation of Mimi"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 for 14 weeks
+      - Hot 100 song of the decade
+      - Grammy winner for Best Female R&B Vocal Performance
+  - rank: 2
+    title: "Hollaback Girl"
+    artist: "Gwen Stefani"
+    year: 2005
+    album: "Love. Angel. Music. Baby."
+    genres:
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 3
+    title: "Let Me Love You"
+    artist: "Mario"
+    year: 2005
+    album: "Turning Point"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 for 9 weeks
+  - rank: 4
+    title: "Since U Been Gone"
+    artist: "Kelly Clarkson"
+    year: 2005
+    album: "Breakaway"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Grammy winner for Best Female Pop Vocal Performance
+      - Fan favorite
+  - rank: 5
+    title: "1, 2 Step"
+    artist: "Ciara featuring Missy Elliott"
+    year: 2005
+    album: "Goodies"
+    genres:
+      - R&B
+      - Pop
+  - rank: 6
+    title: "Gold Digger"
+    artist: "Kanye West featuring Jamie Foxx"
+    year: 2005
+    album: "Late Registration"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on Billboard Hot 100 for 10 weeks
+      - Grammy winner for Best Rap Solo Performance
+      - Crossover hit with mass appeal
+  - rank: 7
+    title: "Boulevard of Broken Dreams"
+    artist: "Green Day"
+    year: 2005
+    album: "American Idiot"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Grammy winner for Record of the Year
+      - Number one on Modern Rock Tracks
+      - Culturally important
+  - rank: 8
+    title: "Pon de Replay"
+    artist: "Rihanna"
+    year: 2005
+    album: "Music of the Sun"
+    genres:
+      - Pop
+      - R&B
+  - rank: 9
+    title: "My Humps"
+    artist: "The Black Eyed Peas"
+    year: 2005
+    album: "Monkey Business"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 10
+    title: "Sugar, We're Goin Down"
+    artist: "Fall Out Boy"
+    year: 2005
+    album: "From Under the Cork Tree"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 11
+    title: "Photograph"
+    artist: "Nickelback"
+    year: 2005
+    album: "All the Right Reasons"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 12
+    title: "Caught Up"
+    artist: "Usher"
+    year: 2005
+    album: "Confessions"
+    genres:
+      - R&B
+      - Soul
+  - rank: 13
+    title: "Disco Inferno"
+    artist: "50 Cent"
+    year: 2005
+    album: "The Massacre"
+    genres:
+      - R&B
+      - Disco
+    tags:
+      - Crossover hit
+  - rank: 14
+    title: "You and Me"
+    artist: "Lifehouse"
+    year: 2005
+    album: "Lifehouse"
+    genres:
+      - Rock
+      - Soft Rock
+      - Pop
+  - rank: 15
+    title: "Feel Good Inc."
+    artist: "Gorillaz"
+    year: 2005
+    album: "Demon Days"
+    genres:
+      - Alternative
+      - Rock
+      - Funk
+    tags:
+      - Number one on Modern Rock Tracks
+      - Grammy winner for Best Pop Collaboration with Vocals
+      - Culturally important
+      - Fan favorite
+  - rank: 16
+    title: "Lose Control"
+    artist: "Missy Elliott featuring Ciara and Fatman Scoop"
+    year: 2005
+    album: "The Cookbook"
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Number one on Billboard Hot 100
+  - rank: 17
+    title: "Beverly Hills"
+    artist: "Weezer"
+    year: 2005
+    album: "Make Believe"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 18
+    title: "Shake It Off"
+    artist: "Mariah Carey"
+    year: 2005
+    album: "The Emancipation of Mimi"
+    genres:
+      - R&B
+      - Pop
+  - rank: 19
+    title: "Don't Cha"
+    artist: "The Pussycat Dolls featuring Busta Rhymes"
+    year: 2005
+    album: "PCD"
+    genres:
+      - Pop
+      - R&B
+  - rank: 20
+    title: "Scars"
+    artist: "Papa Roach"
+    year: 2005
+    album: "Getting Away with Murder"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 21
+    title: "Holiday"
+    artist: "Green Day"
+    year: 2005
+    album: "American Idiot"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 22
+    title: "Lonely No More"
+    artist: "Rob Thomas"
+    year: 2005
+    album: "Something to Be"
+    genres:
+      - Pop
+      - Rock
+  - rank: 23
+    title: "Drop It Like It's Hot"
+    artist: "Snoop Dogg featuring Pharrell"
+    year: 2005
+    album: "R&G (Rhythm & Gangsta): The Masterpiece"
+    genres:
+      - R&B
+      - Funk
+    tags:
+      - Crossover hit
+  - rank: 24
+    title: "Best of You"
+    artist: "Foo Fighters"
+    year: 2005
+    album: "In Your Honor"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Mainstream Rock Tracks
+  - rank: 25
+    title: "Behind These Hazel Eyes"
+    artist: "Kelly Clarkson"
+    year: 2005
+    album: "Breakaway"
+    genres:
+      - Pop
+      - Rock
+  - rank: 26
+    title: "Wake Me Up When September Ends"
+    artist: "Green Day"
+    year: 2005
+    album: "American Idiot"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Fan favorite
+  - rank: 27
+    title: "Listen to Your Heart"
+    artist: "D.H.T."
+    year: 2005
+    album: "Listen to Your Heart"
+    cover: true
+    genres:
+      - Pop
+      - Dance
+    tags:
+      - Original artist: Roxette
+  - rank: 28
+    title: "Speed of Sound"
+    artist: "Coldplay"
+    year: 2005
+    album: "X&Y"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 29
+    title: "Just a Lil Bit"
+    artist: "50 Cent"
+    year: 2005
+    album: "The Massacre"
+    genres:
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 30
+    title: "Chariot"
+    artist: "Gavin DeGraw"
+    year: 2005
+    album: "Chariot"
+    genres:
+      - Pop
+      - Rock
+  - rank: 31
+    title: "The Hand That Feeds"
+    artist: "Nine Inch Nails"
+    year: 2005
+    album: "With Teeth"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 32
+    title: "Mr. Brightside"
+    artist: "The Killers"
+    year: 2005
+    album: "Hot Fuss"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 33
+    title: "How to Save a Life"
+    artist: "The Fray"
+    year: 2005
+    album: "How to Save a Life"
+    genres:
+      - Rock
+      - Alternative
+      - Pop
+      - Fan favorite
+  - rank: 34
+    title: "Be Yourself"
+    artist: "Audioslave"
+    year: 2005
+    album: "Out of Exile"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+    tags:
+      - Number one on Mainstream Rock Tracks
+  - rank: 35
+    title: "Right Here"
+    artist: "Staind"
+    year: 2005
+    album: "Chapter V"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 36
+    title: "Remedy"
+    artist: "Seether"
+    year: 2005
+    album: "Karma & Effect"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number one on Mainstream Rock Tracks
+  - rank: 37
+    title: "Dakota"
+    artist: "Stereophonics"
+    year: 2005
+    album: "Language. Sex. Violence. Other?"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 38
+    title: "Blue Orchid"
+    artist: "The White Stripes"
+    year: 2005"
+    album: "Get Behind Me Satan"
+    genres:
+      - Rock
+      - Blues
+      - Alternative
+    tags:
+      - Number one on Modern Rock Tracks
+  - rank: 39
+    title: "All These Things That I've Done"
+    artist: "The Killers"
+    year: 2005
+    album: "Hot Fuss"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 40
+    title: "Soul Meets Body"
+    artist: "Death Cab for Cutie"
+    year: 2005
+    album: "Plans"
+    genres:
+      - Alternative
+      - Rock
+      - Folk
+  - rank: 41
+    title: "B.Y.O.B."
+    artist: "System of a Down"
+    year: 2005"
+    album: "Mesmerize"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+    tags:
+      - Grammy winner for Best Hard Rock Performance
+  - rank: 42
+    title: "Fix You"
+    artist: "Coldplay"
+    year: 2005
+    album: "X&Y"
+    genres:
+      - Rock
+      - Alternative
+      - Soft Rock
+    tags:
+      - Fan favorite
+  - rank: 43
+    title: "Bad Day"
+    artist: "Daniel Powter"
+    year: 2005
+    album: "Daniel Powter"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+      - Easy Listening
+    tags:
+      - Number one on Billboard Hot 100 for 5 weeks
+  - rank: 44
+    title: "1 Thing"
+    artist: "Amerie"
+    year: 2005
+    album: "Touch"
+    genres:
+      - R&B"
+      - Funk
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 45
+    title: "Chicago"
+    artist: "Sufjan Stevens"
+    year: 2005
+    album: "Illinois"
+    genres:
+      - Folk
+      - Alternative
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 46
+    title: "Hounds of Love"
+    artist: "The Futureheads"
+    year: 2005
+    album: "The Futureheads"
+    cover: true
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+    tags:
+      - Original artist: Kate Bush
+  - rank: 47
+    title: "Hope There's Someone"
+    artist: "Antony and the Johnsons"
+    year: 2005
+    album: "I Am a Bird Now"
+    genres:
+      - Alternative
+      - Folk
+      - Pop
+    tags:
+      - Pitchfork top song
+  - rank: 48
+    title: "Do You Want To"
+    artist: "Franz Ferdinand"
+    year: 2005"
+    album: "You Could Have It So Much Better"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 49
+    title: "King Without a Crown"
+    artist: "Matisyahu"
+    year: 2005"
+    album: "Youth"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 50
+    title: "Pacific Coast Highway"
+    artist: "Nils"
+    year: 2005
+    album: "Pacific Coast Highway"
+    genres:
+      - Jazz
+      - Easy Listening
+    tags:
+      - Top smooth jazz song
+  - rank: 51
+    title: "Be Without You"
+    artist: "Mary J. Blige"
+    year: 2005
+    album: "The Breakthrough"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number one on R&B chart for 15 weeks
+      - Grammy winner for Best R&B Song
+  - rank: 52
+    title: "Galvanize"
+    artist: "The Chemical Brothers"
+    year: 2005
+    album: "Push the Button"
+    genres:
+      - Pop
+      - Funk
+      - New Wave
+    tags:
+      - Grammy winner for Best Dance Recording
+  - rank: 53
+    title: "Dare"
+    artist: "Gorillaz"
+    year: 2005
+    album: "Demon Days"
+    genres:
+      - Alternative
+      - Funk
+  - rank: 54
+    title: "Sitting, Waiting, Wishing"
+    artist: "Jack Johnson"
+    year: 2005
+    album: "In Between Dreams"
+    genres:
+      - Folk
+      - Soft Rock
+      - Pop
+  - rank: 55
+    title: "I Predict a Riot"
+    artist: "Kaiser Chiefs"
+    year: 2005
+    album: "Employment"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 56
+    title: "The Denial Twist"
+    artist: "The White Stripes"
+    year: 2005
+    album: "Get Behind Me Satan"
+    genres:
+      - Rock
+      - Blues
+      - Alternative
+  - rank: 57
+    title: "Juicebox"
+    artist: "The Strokes"
+    year: 2005
+    album: "First Impressions of Earth"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 58
+    title: "Cash Machine"
+    artist: "Hard-Fi"
+    year: 2005
+    album: "Stars of CCTV"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 59
+    title: "Middle of Nowhere"
+    artist: "Hot Hot Heat"
+    year: 2005
+    album: "Elevator"
+    genres:
+      - Rock
+      - Alternative
+      - New Wave
+  - rank: 60
+    title: "Number One"
+    artist: "Manu Katché"
+    year: 2005
+    album: "Neighbourhood"
+    genres:
+      - Jazz
+    tags:
+      - Top jazz track

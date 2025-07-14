@@ -1,0 +1,1009 @@
+songs:
+  - rank: 1
+    title: Bridge Over Troubled Water
+    artist: Simon & Garfunkel
+    year: 1970
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 2
+    title: (They Long to Be) Close to You
+    artist: The Carpenters
+    year: 1970
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 3
+    title: American Woman
+    artist: The Guess Who
+    year: 1970
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: Raindrops Keep Fallin' on My Head
+    artist: B.J. Thomas
+    year: 1970
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: War
+    artist: Edwin Starr
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #3
+      - Culturally important
+  - rank: 6
+    title: Ain't No Mountain High Enough
+    artist: Diana Ross
+    year: 1970
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 7
+    title: I'll Be There
+    artist: The Jackson 5
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 8
+    title: Get Ready
+    artist: Rare Earth
+    year: 1970
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 9
+    title: Let It Be
+    artist: The Beatles
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 10
+    title: Band of Gold
+    artist: Freda Payne
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #20
+  - rank: 11
+    title: Mama Told Me (Not to Come)
+    artist: Three Dog Night
+    year: 1970
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 12
+    title: Signed, Sealed, Delivered I'm Yours
+    artist: Stevie Wonder
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+  - rank: 13
+    title: The Love You Save
+    artist: The Jackson 5
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 14
+    title: The Long and Winding Road
+    artist: The Beatles
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 15
+    title: Thank You (Falettinme Be Mice Elf Agin)
+    artist: Sly & the Family Stone
+    year: 1970
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 16
+    title: Spill the Wine
+    artist: Eric Burdon & War
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Funk
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 17
+    title: O-o-h Child
+    artist: The Five Stairsteps
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #14
+      - Culturally important
+  - rank: 18
+    title: Spirit in the Sky
+    artist: Norman Greenbaum
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 19
+    title: Lay Down (Candles in the Rain)
+    artist: Melanie
+    year: 1970
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 20
+    title: Ball of Confusion (That's What the World Is Today)
+    artist: The Temptations
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #2
+      - Culturally important
+  - rank: 21
+    title: All Right Now
+    artist: Free
+    year: 1970
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+      - Fan favorite
+  - rank: 22
+    title: Julie, Do Ya Love Me
+    artist: Bobby Sherman
+    year: 1970
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 23
+    title: Green-Eyed Lady
+    artist: Sugarloaf
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 24
+    title: Signed, Sealed, Delivered I'm Yours
+    artist: Stevie Wonder
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+  - rank: 25
+    title: Heaven Help Us All
+    artist: Stevie Wonder
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+      - Billboard R&B #2
+  - rank: 26
+    title: Give Me Just a Little More Time
+    artist: Chairmen of the Board
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #8
+  - rank: 27
+    title: Love Grows (Where My Rosemary Goes)
+    artist: Edison Lighthouse
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 28
+    title: Venus
+    artist: Shocking Blue
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 29
+    title: Instant Karma!
+    artist: John Lennon
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+  - rank: 30
+    title: Patches
+    artist: Clarence Carter
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #2
+  - rank: 31
+    title: Look What You Done for Me
+    artist: Al Green
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #2
+  - rank: 32
+    title: The Rapper
+    artist: The Jaggerz
+    year: 1970
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 33
+    title: Evil Ways
+    artist: Santana
+    year: 1970
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+      - Fan favorite
+  - rank: 34
+    title: No Time
+    artist: The Guess Who
+    year: 1970
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 35
+    title: Didn't I (Blow Your Mind This Time)
+    artist: The Delfonics
+    year: 1970
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #3
+  - rank: 36
+    title: The Thrill Is Gone
+    artist: B.B. King
+    year: 1970
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard Hot 100 #15
+      - Billboard R&B #3
+      - Culturally important
+  - rank: 37
+    title: Lola
+    artist: The Kinks
+    year: 1970
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+      - Culturally important
+      - Fan favorite
+  - rank: 38
+    title: The Boxer
+    artist: Simon & Garfunkel
+    year: 1970
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+      - Fan favorite
+  - rank: 39
+    title: The Long and Winding Road
+    artist: The Beatles
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 40
+    title: For You Blue
+    artist: The Beatles
+    year: 1970
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 41
+    title: Let It Be
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 42
+    title: Across the Universe
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 43
+    title: Dig a Pony
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 44
+    title: Two of Us
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 45
+    title: I Me Mine
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 46
+    title: I've Got a Feeling
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 47
+    title: One After 909
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 48
+    title: The Long and Winding Road
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 49
+    title: For You Blue
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 50
+    title: Get Back
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 51
+    title: Let It Be
+    artist: The Beatles
+    year: 1970
+    album: Let It Be
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 52
+    title: Led Zeppelin III
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 53
+    title: Immigrant Song
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 54
+    title: Friends
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: Celebration Day
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 56
+    title: Since I've Been Loving You
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: Out on the Tiles
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 58
+    title: Gallows Pole
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 59
+    title: Tangerine
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 60
+    title: That's the Way
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 61
+    title: Bron-Y-Aur Stomp
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 62
+    title: Hats Off to (Roy) Harper
+    artist: Led Zeppelin
+    year: 1970
+    album: Led Zeppelin III
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 63
+    title: Black Sabbath
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 64
+    title: Black Sabbath
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 65
+    title: The Wizard
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 66
+    title: Behind the Wall of Sleep
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 67
+    title: N.I.B.
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 68
+    title: Evil Woman
+    artist: Black Sabbath
+    year: 1969
+    album: Black Sabbath
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 69
+    title: Sleeping Village
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 70
+    title: Warning
+    artist: Black Sabbath
+    year: 1970
+    album: Black Sabbath
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 71
+    title: Paranoid
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 72
+    title: War Pigs
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 73
+    title: Paranoid
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: Planet Caravan
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 75
+    title: Iron Man
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 76
+    title: Electric Funeral
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: Hand of Doom
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 78
+    title: Rat Salad
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Instrumental
+  - rank: 79
+    title: Fairies Wear Boots
+    artist: Black Sabbath
+    year: 1970
+    album: Paranoid
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: Bitches Brew
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 81
+    title: Pharaoh's Dance
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 82
+    title: Bitches Brew
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 83
+    title: Spanish Key
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 84
+    title: John McLaughlin
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: Miles Runs the Voodoo Down
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 86
+    title: Sanctuary
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: Feio
+    artist: Miles Davis
+    year: 1970
+    album: Bitches Brew
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: The Chicago Transit Authority
+    artist: Chicago
+    year: 1970
+    album: The Chicago Transit Authority
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 89
+    title: Does Anybody Really Know What Time It Is?
+    artist: Chicago
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Billboard Hot 100 #7
+      - Fan favorite
+  - rank: 90
+    title: Beginnings
+    artist: Chicago
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Billboard Hot 100 #7
+      - Fan favorite
+  - rank: 91
+    title: Questions 67 and 68
+    artist: Chicago
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Billboard Hot 100 #24
+      - Fan favorite
+  - rank: 92
+    title: I'm a Man
+    artist: Chicago
+    year: 1970
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: Make Me Smile
+    artist: Chicago
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Billboard Hot 100 #9
+      - Fan favorite
+  - rank: 94
+    title: Colour My World
+    artist: Chicago
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Billboard Hot 100 #7
+      - Fan favorite
+  - rank: 95
+    title: 25 or 6 to 4
+    artist: Chicago
+    year: 1970
+    single: true
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Billboard Hot 100 #4
+      - Fan favorite
+  - rank: 96
+    title: Free Form Guitar
+    artist: Chicago
+    year: 1970
+    album: Chicago Transit Authority
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+      - Instrumental
+  - rank: 97
+    title: South California Purples
+    artist: Chicago
+    year: 1970
+    album: Chicago Transit Authority
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: Poem 58
+    artist: Chicago
+    year: 1970
+    album: Chicago Transit Authority
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 99
+    title: Liberation
+    artist: Chicago
+    year: 1970
+    album: Chicago Transit Authority
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 100
+    title: Prologue, August 29, 1968
+    artist: Chicago
+    year: 1970
+    album: Chicago Transit Authority
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite

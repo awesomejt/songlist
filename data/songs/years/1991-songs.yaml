@@ -1,0 +1,631 @@
+songs:
+  - rank: 1
+    title: "(Everything I Do) I Do It for You"
+    artist: "Bryan Adams"
+    year: 1991
+    album: "Waking Up the Neighbours"
+    soundtrack: true
+    genres:
+      - Soft Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 Year-End #1
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: "I Wanna Sex You Up"
+    artist: "Color Me Badd"
+    year: 1991
+    album: "C.M.B."
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 3
+    title: "Gonna Make You Sweat (Everybody Dance Now)"
+    artist: "C+C Music Factory"
+    year: 1991
+    album: "Gonna Make You Sweat"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: "Rush Rush"
+    artist: "Paula Abdul"
+    year: 1991
+    album: "Spellbound"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "One More Try"
+    artist: "Timmy T"
+    year: 1991
+    album: "Time After Time"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "Unbelievable"
+    artist: "EMF"
+    year: 1991
+    album: "Schubert Dip"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: "More Than Words"
+    artist: "Extreme"
+    year: 1991
+    album: "Pornograffitti"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: "I Like the Way (The Kissing Game)"
+    artist: "Hi-Five"
+    year: 1991
+    album: "Hi-Five"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "The First Time"
+    artist: "Surface"
+    year: 1991
+    album: "3 Deep"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: "Baby Baby"
+    artist: "Amy Grant"
+    year: 1991
+    album: "Heart in Motion"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: "Motownphilly"
+    artist: "Boyz II Men"
+    year: 1991
+    album: "Cooleyhighharmony"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 12
+    title: "Because I Love You (The Postman Song)"
+    artist: "Stevie B"
+    year: 1991
+    album: "Love & Emotion"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 13
+    title: "Someday"
+    artist: "Mariah Carey"
+    year: 1991
+    album: "Mariah Carey"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 14
+    title: "High Enough"
+    artist: "Damn Yankees"
+    year: 1991
+    album: "Damn Yankees"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 15
+    title: "From a Distance"
+    artist: "Bette Midler"
+    year: 1991
+    album: "Some People's Lives"
+    cover: true
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Original artist: Nanci Griffith
+      - Billboard Hot 100 #2
+  - rank: 16
+    title: "All the Man That I Need"
+    artist: "Whitney Houston"
+    year: 1991
+    album: "I'm Your Baby Tonight"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 17
+    title: "Right Here, Right Now"
+    artist: "Jesus Jones"
+    year: 1991
+    album: "Doubt"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 18
+    title: "I Adore Mi Amor"
+    artist: "Color Me Badd"
+    year: 1991
+    album: "C.M.B."
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 19
+    title: "Love Will Never Do (Without You)"
+    artist: "Janet Jackson"
+    year: 1991
+    album: "Janet Jackson's Rhythm Nation 1814"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 20
+    title: "Good Vibrations"
+    artist: "Marky Mark and the Funky Bunch featuring Loleatta Holloway"
+    year: 1991
+    album: "Music for the People"
+    solo-hit: true
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 21
+    title: "Justify My Love"
+    artist: "Madonna"
+    year: 1991
+    album: "The Immaculate Collection"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 22
+    title: "Emotions"
+    artist: "Mariah Carey"
+    year: 1991
+    album: "Emotions"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 23
+    title: "Joyride"
+    artist: "Roxette"
+    year: 1991
+    album: "Joyride"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 24
+    title: "Romantic"
+    artist: "Karyn White"
+    year: 1991
+    album: "Ritual of Love"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 25
+    title: "Hold You Tight"
+    artist: "Tara Kemp"
+    year: 1991
+    album: "Tara Kemp"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 26
+    title: "I Don't Wanna Cry"
+    artist: "Mariah Carey"
+    year: 1991
+    album: "Mariah Carey"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: "You're in Love"
+    artist: "Wilson Phillips"
+    year: 1991
+    album: "Wilson Phillips"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 28
+    title: "Every Heartbeat"
+    artist: "Amy Grant"
+    year: 1991
+    album: "Heart in Motion"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 29
+    title: "Sensitivity"
+    artist: "Ralph Tresvant"
+    year: 1991
+    album: "Ralph Tresvant"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 30
+    title: "Touch Me (All Night Long)"
+    artist: "Cathy Dennis"
+    year: 1991
+    album: "Move to This"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Wish featuring Fonda Rae
+      - Billboard Hot 100 #2
+  - rank: 31
+    title: "I've Been Thinking About You"
+    artist: "Londonbeat"
+    year: 1991
+    album: "In the Blood"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 32
+    title: "Do Anything"
+    artist: "Natural Selection"
+    year: 1991
+    album: "Natural Selection"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 33
+    title: "Losing My Religion"
+    artist: "R.E.M."
+    year: 1991
+    album: "Out of Time"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+      - Grammy winner
+  - rank: 34
+    title: "Coming Out of the Dark"
+    artist: "Gloria Estefan"
+    year: 1991
+    album: "Into the Light"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 35
+    title: "It Ain't Over 'til It's Over"
+    artist: "Lenny Kravitz"
+    year: 1991
+    album: "Mama Said"
+    genres:
+      - Rock
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 36
+    title: "Here We Go"
+    artist: "C+C Music Factory"
+    year: 1991
+    album: "Gonna Make You Sweat"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 37
+    title: "Where Does My Heart Beat Now"
+    artist: "Celine Dion"
+    year: 1991
+    album: "Unison"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 38
+    title: "Summertime"
+    artist: "DJ Jazzy Jeff & The Fresh Prince"
+    year: 1991
+    album: "Homebase"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 39
+    title: "Wind of Change"
+    artist: "Scorpions"
+    year: 1991
+    album: "Crazy World"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 40
+    title: "P.A.S.S.I.O.N."
+    artist: "Rythm Syndicate"
+    year: 1991
+    album: "Rythm Syndicate"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 41
+    title: "All This Time"
+    artist: "Sting"
+    year: 1991
+    album: "The Soul Cages"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 42
+    title: "She Talks to Angels"
+    artist: "The Black Crowes"
+    year: 1991
+    album: "Shake Your Money Maker"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 43
+    title: "Silent Lucidity"
+    artist: "Queensrÿche"
+    year: 1991
+    album: "Empire"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 44
+    title: "Lift Me Up"
+    artist: "Yes"
+    year: 1991
+    album: "Union"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 45
+    title: "Poundcake"
+    artist: "Van Halen"
+    year: 1991
+    album: "For Unlawful Carnal Knowledge"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 46
+    title: "Learning to Fly"
+    artist: "Tom Petty and the Heartbreakers"
+    year: 1991
+    album: "Into the Great Wide Open"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 47
+    title: "Runaround"
+    artist: "Van Halen"
+    year: 1991
+    album: "For Unlawful Carnal Knowledge"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 48
+    title: "Out in the Cold"
+    artist: "Tom Petty and the Heartbreakers"
+    year: 1991
+    album: "Into the Great Wide Open"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 49
+    title: "Dreamline"
+    artist: "Rush"
+    year: 1991
+    album: "Roll the Bones"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 50
+    title: "Top of the World"
+    artist: "Van Halen"
+    year: 1991
+    album: "For Unlawful Carnal Knowledge"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 51
+    title: "Smells Like Teen Spirit"
+    artist: "Nirvana"
+    year: 1991
+    album: "Nevermind"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Culturally important
+      - Billboard Alternative #1
+  - rank: 52
+    title: "Mysterious Ways"
+    artist: "U2"
+    year: 1991
+    album: "Achtung Baby"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #1
+  - rank: 53
+    title: "Rush"
+    artist: "Big Audio Dynamite"
+    year: 1991
+    album: "The Globe"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 54
+    title: "Kiss Them For Me"
+    artist: "Siouxsie and the Banshees"
+    year: 1991
+    album: "Superstition"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 55
+    title: "Get the Message"
+    artist: "Electronic"
+    year: 1991
+    album: "Electronic"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 56
+    title: "Until She Comes"
+    artist: "The Psychedelic Furs"
+    year: 1991
+    album: "World Outside"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 57
+    title: "Alive"
+    artist: "Pearl Jam"
+    year: 1991
+    album: "Ten"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 58
+    title: "Enter Sandman"
+    artist: "Metallica"
+    year: 1991
+    album: "Metallica"
+    genres:
+      - Hard Rock
+    tags:
+      - Culturally important
+  - rank: 59
+    title: "Love Me Down"
+    artist: "Freddie Jackson"
+    year: 1991
+    album: "Do Me Again"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 60
+    title: "Love Makes Things Happen"
+    artist: "Pebbles and Babyface"
+    year: 1991
+    album: "Always"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 61
+    title: "Damn Right, I've Got the Blues"
+    artist: "Buddy Guy"
+    year: 1991
+    album: "Damn Right, I've Got the Blues"
+    genres:
+      - Blues
+    tags:
+      - Iconic blues track
+  - rank: 62
+    title: "Rumor and Sigh"
+    artist: "Richard Thompson"
+    year: 1991
+    album: "Rumor and Sigh"
+    genres:
+      - Folk
+    tags:
+      - Influential folk rock
+  - rank: 63
+    title: "We Are In Love"
+    artist: "Harry Connick Jr."
+    year: 1991
+    album: "We Are In Love"
+    genres:
+      - Jazz
+      - Standards
+    tags:
+      - Top jazz track
+  - rank: 64
+    title: "Hard to Handle"
+    artist: "The Black Crowes"
+    year: 1991
+    album: "Shake Your Money Maker"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Original artist: Otis Redding
+  - rank: 65
+    title: "Give It Away"
+    artist: "Red Hot Chili Peppers"
+    year: 1991
+    album: "Blood Sugar Sex Magik"
+    genres:
+      - Alternative
+      - Funk
+    tags:
+      - Culturally important

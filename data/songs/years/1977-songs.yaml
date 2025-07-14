@@ -1,0 +1,913 @@
+songs:
+  - rank: 1
+    title: "Tonight's the Night (Gonna Be Alright)"
+    artist: "Rod Stewart"
+    year: 1977
+    album: "A Night on the Town"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 Number 1
+  - rank: 2
+    title: "I Just Want to Be Your Everything"
+    artist: "Andy Gibb"
+    year: 1977
+    album: "Flowing Rivers"
+    genres:
+      - Pop
+  - rank: 3
+    title: "Best of My Love"
+    artist: "The Emotions"
+    year: 1977
+    album: "Rejoice"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 4
+    title: "Evergreen (Love Theme from A Star Is Born)"
+    artist: "Barbra Streisand"
+    year: 1977
+    album: "A Star Is Born"
+    soundtrack: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Academy Award winner
+  - rank: 5
+    title: "Angel in Your Arms"
+    artist: "Hot"
+    year: 1977
+    album: "Hot"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    solo-hit: true
+  - rank: 6
+    title: "I Like Dreamin'"
+    artist: "Kenny Nolan"
+    year: 1977
+    album: "Kenny Nolan"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 7
+    title: "Don't Leave Me This Way"
+    artist: "Thelma Houston"
+    year: 1977
+    album: "Any Way You Like It"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Original artist: Harold Melvin & the Blue Notes
+  - rank: 8
+    title: "(Your Love Has Lifted Me) Higher and Higher"
+    artist: "Rita Coolidge"
+    year: 1977
+    album: "Anytime...Anywhere"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Original artist: Jackie Wilson
+  - rank: 9
+    title: "Undercover Angel"
+    artist: "Alan O'Day"
+    year: 1977
+    album: "Appetizers"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 10
+    title: "Torn Between Two Lovers"
+    artist: "Mary MacGregor"
+    year: 1977
+    album: "Torn Between Two Lovers"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 11
+    title: "I'm Your Boogie Man"
+    artist: "KC and the Sunshine Band"
+    year: 1977
+    album: "Part 3"
+    genres:
+      - Funk
+      - Pop
+  - rank: 12
+    title: "Dancing Queen"
+    artist: "ABBA"
+    year: 1977
+    album: "Arrival"
+    genres:
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 13
+    title: "You Make Me Feel Like Dancing"
+    artist: "Leo Sayer"
+    year: 1977
+    album: "Endless Flight"
+    genres:
+      - Pop
+      - Funk
+  - rank: 14
+    title: "Margaritaville"
+    artist: "Jimmy Buffett"
+    year: 1977
+    album: "Changes in Latitudes, Changes in Attitudes"
+    genres:
+      - Pop
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 15
+    title: "Telephone Line"
+    artist: "Electric Light Orchestra"
+    year: 1977
+    album: "A New World Record"
+    genres:
+      - Rock
+      - Pop
+  - rank: 16
+    title: "Whatcha Gonna Do?"
+    artist: "Pablo Cruise"
+    year: 1977
+    album: "A Place in the Sun"
+    genres:
+      - Rock
+      - Pop
+  - rank: 17
+    title: "Do You Wanna Make Love"
+    artist: "Peter McCann"
+    year: 1977
+    album: "Peter McCann"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 18
+    title: "Sir Duke"
+    artist: "Stevie Wonder"
+    year: 1977
+    album: "Songs in the Key of Life"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 19
+    title: "Hotel California"
+    artist: "Eagles"
+    year: 1977
+    album: "Hotel California"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 20
+    title: "Got to Give It Up"
+    artist: "Marvin Gaye"
+    year: 1977
+    album: "Live at the London Palladium"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 21
+    title: "Gonna Fly Now"
+    artist: "Bill Conti"
+    year: 1977
+    album: "Rocky"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Instrumental
+  - rank: 22
+    title: "Southern Nights"
+    artist: "Glen Campbell"
+    year: 1977
+    album: "Southern Nights"
+    genres:
+      - Pop
+      - Folk
+  - rank: 23
+    title: "Rich Girl"
+    artist: "Hall & Oates"
+    year: 1977
+    album: "Bigger Than Both of Us"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+  - rank: 24
+    title: "When I Need You"
+    artist: "Leo Sayer"
+    year: 1977
+    album: "Endless Flight"
+    genres:
+      - Pop
+  - rank: 25
+    title: "Hot Line"
+    artist: "The Sylvers"
+    year: 1977
+    album: "Something Special"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 26
+    title: "Car Wash"
+    artist: "Rose Royce"
+    year: 1977
+    album: "Car Wash"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 27
+    title: "You Don't Have to Be a Star (To Be in My Show)"
+    artist: "Marilyn McCoo & Billy Davis Jr."
+    year: 1977
+    album: "I Hope We Get to Love in Time"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 28
+    title: "Fly Like an Eagle"
+    artist: "Steve Miller Band"
+    year: 1977
+    album: "Fly Like an Eagle"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 29
+    title: "Don't Give Up on Us"
+    artist: "David Soul"
+    year: 1977
+    album: "David Soul"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 30
+    title: "On and On"
+    artist: "Stephen Bishop"
+    year: 1977
+    album: "Careless"
+    genres:
+      - Pop
+      - Folk
+  - rank: 31
+    title: "Feels Like the First Time"
+    artist: "Foreigner"
+    year: 1977
+    album: "Foreigner"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 32
+    title: "Couldn't Get It Right"
+    artist: "Climax Blues Band"
+    year: 1977
+    album: "Gold Plated"
+    genres:
+      - Rock
+      - Blues
+    solo-hit: true
+  - rank: 33
+    title: "Easy"
+    artist: "Commodores"
+    year: 1977
+    album: "Commodores"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 34
+    title: "Right Time of the Night"
+    artist: "Jennifer Warnes"
+    year: 1977
+    album: "Jennifer Warnes"
+    genres:
+      - Pop
+    solo-hit: true
+  - rank: 35
+    title: "I've Got Love on My Mind"
+    artist: "Natalie Cole"
+    year: 1977
+    album: "Unpredictable"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 36
+    title: "Blinded by the Light"
+    artist: "Manfred Mann's Earth Band"
+    year: 1977
+    album: "The Roaring Silence"
+    genres:
+      - Rock
+      - Pop
+  - rank: 37
+    title: "Looks Like We Made It"
+    artist: "Barry Manilow"
+    year: 1977
+    album: "This One's for You"
+    genres:
+      - Pop
+  - rank: 38
+    title: "So in to You"
+    artist: "Atlanta Rhythm Section"
+    year: 1977
+    album: "A Rock and Roll Alternative"
+    genres:
+      - Rock
+      - Pop
+  - rank: 39
+    title: "Dreams"
+    artist: "Fleetwood Mac"
+    year: 1977
+    album: "Rumours"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 40
+    title: "Enjoy Yourself"
+    artist: "The Jacksons"
+    year: 1977
+    album: "The Jacksons"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 41
+    title: "Dazz"
+    artist: "Brick"
+    year: 1977
+    album: "Good High"
+    genres:
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 42
+    title: "I'm in You"
+    artist: "Peter Frampton"
+    year: 1977
+    album: "I'm in You"
+    genres:
+      - Rock
+      - Pop
+  - rank: 43
+    title: "Lucille"
+    artist: "Kenny Rogers"
+    year: 1977
+    album: "Kenny Rogers"
+    genres:
+      - Pop
+      - Folk
+  - rank: 44
+    title: "The Things We Do for Love"
+    artist: "10cc"
+    year: 1977
+    album: "Deceptive Bends"
+    genres:
+      - Rock
+      - Pop
+  - rank: 45
+    title: "Da Doo Ron Ron"
+    artist: "Shaun Cassidy"
+    year: 1977
+    album: "Shaun Cassidy"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: The Crystals
+  - rank: 46
+    title: "Handy Man"
+    artist: "James Taylor"
+    year: 1977
+    album: "JT"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Original artist: Jimmy Jones
+  - rank: 47
+    title: "Just a Song Before I Go"
+    artist: "Crosby, Stills & Nash"
+    year: 1977
+    album: "CSN"
+    genres:
+      - Rock
+      - Folk
+  - rank: 48
+    title: "You and Me"
+    artist: "Alice Cooper"
+    year: 1977
+    album: "Lace and Whiskey"
+    genres:
+      - Rock
+      - Pop
+  - rank: 49
+    title: "Swayin' to the Music (Slow Dancing)"
+    artist: "Johnny Rivers"
+    year: 1977
+    album: "Outside Help"
+    genres:
+      - Pop
+      - Rock
+  - rank: 50
+    title: "Lonely Boy"
+    artist: "Andrew Gold"
+    year: 1977
+    album: "What's Wrong with This Picture?"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 51
+    title: "Heroes"
+    artist: "David Bowie"
+    year: 1977
+    album: "Heroes"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 52
+    title: "Go Your Own Way"
+    artist: "Fleetwood Mac"
+    year: 1977
+    album: "Rumours"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 53
+    title: "Psycho Killer"
+    artist: "Talking Heads"
+    year: 1977
+    album: "Talking Heads: 77"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 54
+    title: "We Will Rock You/We Are The Champions"
+    artist: "Queen"
+    year: 1977
+    album: "News of the World"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "God Save the Queen"
+    artist: "Sex Pistols"
+    year: 1977
+    album: "Never Mind the Bollocks, Here's the Sex Pistols"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 56
+    title: "Serpentine Fire"
+    artist: "Earth, Wind & Fire"
+    year: 1977
+    album: "All 'n All"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: "Float On"
+    artist: "The Floaters"
+    year: 1977
+    album: "Floaters"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    solo-hit: true
+  - rank: 58
+    title: "I Wish"
+    artist: "Stevie Wonder"
+    year: 1977
+    album: "Songs in the Key of Life"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+  - rank: 59
+    title: "Brick House"
+    artist: "Commodores"
+    year: 1977
+    album: "Commodores"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 60
+    title: "Solsbury Hill"
+    artist: "Peter Gabriel"
+    year: 1977
+    album: "Peter Gabriel"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 61
+    title: "Like a Hurricane"
+    artist: "Neil Young"
+    year: 1977
+    album: "American Stars 'n Bars"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 62
+    title: "Alison"
+    artist: "Elvis Costello"
+    year: 1977
+    album: "My Aim Is True"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 63
+    title: "Birdland"
+    artist: "Weather Report"
+    year: 1977
+    album: "Heavy Weather"
+    genres:
+      - Jazz
+    tags:
+      - Instrumental
+      - Fan favorite
+  - rank: 64
+    title: "Wonderful Tonight"
+    artist: "Eric Clapton"
+    year: 1977
+    album: "Slowhand"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 65
+    title: "Barracuda"
+    artist: "Heart"
+    year: 1977
+    album: "Little Queen"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 66
+    title: "The Chain"
+    artist: "Fleetwood Mac"
+    year: 1977
+    album: "Rumours"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 67
+    title: "Cocaine"
+    artist: "Eric Clapton"
+    year: 1977
+    album: "Slowhand"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 68
+    title: "Jamming"
+    artist: "Bob Marley & The Wailers"
+    year: 1977
+    album: "Exodus"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 69
+    title: "Slide"
+    artist: "Slave"
+    year: 1977
+    album: "Slave"
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 70
+    title: "I Feel Love"
+    artist: "Donna Summer"
+    year: 1977
+    album: "I Remember Yesterday"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 71
+    title: "As"
+    artist: "Stevie Wonder"
+    year: 1977
+    album: "Songs in the Key of Life"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 72
+    title: "Lovely Day"
+    artist: "Bill Withers"
+    year: 1977
+    album: "Menagerie"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 73
+    title: "Peg"
+    artist: "Steely Dan"
+    year: 1977
+    album: "Aja"
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: "Deacon Blues"
+    artist: "Steely Dan"
+    year: 1977
+    album: "Aja"
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 75
+    title: "Running on Empty"
+    artist: "Jackson Browne"
+    year: 1977
+    album: "Running on Empty"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 76
+    title: "Black Betty"
+    artist: "Ram Jam"
+    year: 1977
+    album: "Ram Jam"
+    genres:
+      - Rock
+    solo-hit: true
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: "Sweet Talkin' Woman"
+    artist: "Electric Light Orchestra"
+    year: 1977
+    album: "Out of the Blue"
+    genres:
+      - Rock
+      - Pop
+  - rank: 78
+    title: "Dust in the Wind"
+    artist: "Kansas"
+    year: 1977
+    album: "Point of Know Return"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: "We Are the Champions"
+    artist: "Queen"
+    year: 1977
+    album: "News of the World"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: "Vienna"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 81
+    title: "Movin' Out (Anthony's Song)"
+    artist: "Billy Joel"
+    year: 1977
+    album: "The Stranger"
+    genres:
+      - Rock
+      - Pop
+  - rank: 82
+    title: "Baby Hold On"
+    artist: "Eddie Money"
+    year: 1977
+    album: "Eddie Money"
+    genres:
+      - Rock
+      - Pop
+  - rank: 83
+    title: "Two Out of Three Ain't Bad"
+    artist: "Meat Loaf"
+    year: 1977
+    album: "Bat Out of Hell"
+    genres:
+      - Rock
+      - Pop
+  - rank: 84
+    title: "Strawberry Letter 23"
+    artist: "The Brothers Johnson"
+    year: 1977
+    album: "Right on Time"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: "Flash Light"
+    artist: "Parliament"
+    year: 1977
+    album: "Funkentelechy Vs. the Placebo Syndrome"
+    genres:
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 86
+    title: "One Love / People Get Ready"
+    artist: "Bob Marley & The Wailers"
+    year: 1977
+    album: "Exodus"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 87
+    title: "Aja"
+    artist: "Steely Dan"
+    year: 1977
+    album: "Aja"
+    genres:
+      - Rock
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: "Lust for Life"
+    artist: "Iggy Pop"
+    year: 1977
+    album: "Lust for Life"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 89
+    title: "Complete Control"
+    artist: "The Clash"
+    year: 1977
+    album: "The Clash"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 90
+    title: "Marquee Moon"
+    artist: "Television"
+    year: 1977
+    album: "Marquee Moon"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: "Sheena Is a Punk Rocker"
+    artist: "Ramones"
+    year: 1977
+    album: "Rocket to Russia"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 92
+    title: "Pretty Vacant"
+    artist: "Sex Pistols"
+    year: 1977
+    album: "Never Mind the Bollocks, Here's the Sex Pistols"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 93
+    title: "Trans-Europe Express"
+    artist: "Kraftwerk"
+    year: 1977
+    album: "Trans-Europe Express"
+    genres:
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 94
+    title: "Josie"
+    artist: "Steely Dan"
+    year: 1977
+    album: "Aja"
+    genres:
+      - Rock
+      - Jazz
+  - rank: 95
+    title: "Fantasy"
+    artist: "Earth, Wind & Fire"
+    year: 1977
+    album: "All 'n All"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 96
+    title: "Lay Down Sally"
+    artist: "Eric Clapton"
+    year: 1977
+    album: "Slowhand"
+    genres:
+      - Rock
+      - Blues
+  - rank: 97
+    title: "Ffun"
+    artist: "Con Funk Shun"
+    year: 1977
+    album: "Secrets"
+    genres:
+      - Funk
+  - rank: 98
+    title: "Reach for It"
+    artist: "George Duke"
+    year: 1977
+    album: "Reach for It"
+    genres:
+      - Funk
+      - Jazz
+  - rank: 99
+    title: "The Survivors' Suite"
+    artist: "Keith Jarrett"
+    year: 1977
+    album: "The Survivors' Suite"
+    genres:
+      - Jazz
+    tags:
+      - Instrumental
+  - rank: 100
+    title: "Elegant Gypsy Suite"
+    artist: "Al Di Meola"
+    year: 1977
+    album: "Elegant Gypsy"
+    genres:
+      - Jazz
+    tags:
+      - Instrumental

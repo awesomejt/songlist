@@ -1,0 +1,1015 @@
+---
+songs:
+  - rank: 1
+    title: Hey Jude
+    artist: The Beatles
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 2
+    title: Love is Blue
+    artist: Paul Mauriat
+    year: 1968
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Instrumental
+  - rank: 3
+    title: Honey
+    artist: Bobby Goldsboro
+    year: 1968
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: (Sittin' On) The Dock of the Bay
+    artist: Otis Redding
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+      - Fan favorite
+  - rank: 5
+    title: People Got to Be Free
+    artist: The Rascals
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: Sunshine of Your Love
+    artist: Cream
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #5
+      - Culturally important
+      - Fan favorite
+  - rank: 7
+    title: This Guy's in Love With You
+    artist: Herb Alpert
+    year: 1968
+    single: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: The Good, the Bad and the Ugly
+    artist: Hugo Montenegro
+    year: 1968
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #2
+  - rank: 9
+    title: Mrs. Robinson
+    artist: Simon & Garfunkel
+    year: 1968
+    single: true
+    soundtrack: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 10
+    title: Tighten Up
+    artist: Archie Bell & the Drells
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 11
+    title: Harper Valley P.T.A.
+    artist: Jeannie C. Riley
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Crossover hit
+  - rank: 12
+    title: Little Green Apples
+    artist: O. C. Smith
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #2
+  - rank: 13
+    title: Mony Mony
+    artist: Tommy James and the Shondells
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 14
+    title: Hello, I Love You
+    artist: The Doors
+    year: 1968
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 15
+    title: Young Girl
+    artist: Gary Puckett & The Union Gap
+    year: 1968
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 16
+    title: Cry Like a Baby
+    artist: The Box Tops
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 17
+    title: Stoned Soul Picnic
+    artist: The 5th Dimension
+    year: 1968
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #2
+  - rank: 18
+    title: Grazing in the Grass
+    artist: Hugh Masekela
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Instrumental
+  - rank: 19
+    title: Midnight Confessions
+    artist: The Grass Roots
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 20
+    title: Dance to the Music
+    artist: Sly & the Family Stone
+    year: 1968
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #9
+      - Culturally important
+  - rank: 21
+    title: The Horse
+    artist: Cliff Nobles & Co.
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #2
+      - Instrumental
+  - rank: 22
+    title: I Wish It Would Rain
+    artist: The Temptations
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 23
+    title: La-La Means I Love You
+    artist: The Delfonics
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #2
+  - rank: 24
+    title: Stay in My Corner
+    artist: The Dells
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #1
+  - rank: 25
+    title: Light My Fire
+    artist: José Feliciano
+    year: 1968
+    single: true
+    cover: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 26
+    title: Ain't Nothing Like the Real Thing
+    artist: Marvin Gaye & Tammi Terrell
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #1
+  - rank: 27
+    title: I Second That Emotion
+    artist: Smokey Robinson & the Miracles
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 28
+    title: Hello, I Love You
+    artist: The Doors
+    year: 1968
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 29
+    title: Who's Making Love
+    artist: Johnnie Taylor
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #1
+  - rank: 30
+    title: Born to Be Wild
+    artist: Steppenwolf
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+      - Fan favorite
+  - rank: 31
+    title: Cowboys to Girls
+    artist: The Intruders
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #1
+  - rank: 32
+    title: Simon Says
+    artist: 1910 Fruitgum Company
+    year: 1968
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 33
+    title: Lady Willpower
+    artist: Gary Puckett & The Union Gap
+    year: 1968
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 34
+    title: A Beautiful Morning
+    artist: The Rascals
+    year: 1968
+    single: true
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 35
+    title: The Look of Love
+    artist: Sergio Mendes & Brasil '66
+    year: 1968
+    single: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 36
+    title: Spooky
+    artist: Classics IV
+    year: 1968
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 37
+    title: Hello, I Love You
+    artist: The Doors
+    year: 1968
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 38
+    title: Young Girl
+    artist: Gary Puckett & The Union Gap
+    year: 1968
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 39
+    title: Spooky
+    artist: Classics IV
+    year: 1968
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 40
+    title: Harper Valley P.T.A.
+    artist: Jeannie C. Riley
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 41
+    title: Little Green Apples
+    artist: O. C. Smith
+    year: 1968
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 42
+    title: Chain of Fools
+    artist: Aretha Franklin
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 43
+    title: (Sweet Sweet Baby) Since You've Been Gone
+    artist: Aretha Franklin
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #1
+  - rank: 44
+    title: Ain't Nothing Like the Real Thing
+    artist: Marvin Gaye & Tammi Terrell
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #1
+  - rank: 45
+    title: Everyday People
+    artist: Sly & the Family Stone
+    year: 1968
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 46
+    title: Dance to the Music
+    artist: Sly & the Family Stone
+    year: 1968
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #9
+  - rank: 47
+    title: I Heard It Through the Grapevine
+    artist: Marvin Gaye
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 48
+    title: For Once in My Life
+    artist: Stevie Wonder
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #2
+  - rank: 49
+    title: Who's Making Love
+    artist: Johnnie Taylor
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #1
+  - rank: 50
+    title: Stay in My Corner
+    artist: The Dells
+    year: 1968
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #1
+  - rank: 51
+    title: Sgt. Pepper's Lonely Hearts Club Band
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 52
+    title: Back in the U.S.S.R.
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 53
+    title: Dear Prudence
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 54
+    title: Ob-La-Di, Ob-La-Da
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: While My Guitar Gently Weeps
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 56
+    title: Happiness Is a Warm Gun
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: Martha My Dear
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 58
+    title: I'm so Tired
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 59
+    title: Blackbird
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 60
+    title: Piggies
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 61
+    title: Rocky Raccoon
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 62
+    title: Don't Pass Me By
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 63
+    title: Why Don't We Do It in the Road?
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 64
+    title: I Will
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 65
+    title: Julia
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 66
+    title: Birthday
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 67
+    title: Yer Blues
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 68
+    title: Mother Nature's Son
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 69
+    title: Everybody's Got Something to Hide Except Me and My Monkey
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 70
+    title: Sexy Sadie
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 71
+    title: Helter Skelter
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 72
+    title: Long, Long, Long
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 73
+    title: Revolution 1
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: Honey Pie
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 75
+    title: Savoy Truffle
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 76
+    title: Cry Baby Cry
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: Revolution 9
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 78
+    title: Good Night
+    artist: The Beatles
+    year: 1968
+    album: The Beatles (White Album)
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: Electric Ladyland
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 80
+    title: Have You Ever Been (To Electric Ladyland)
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 81
+    title: Crosstown Traffic
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 82
+    title: Voodoo Chile
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 83
+    title: Little Miss Strange
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 84
+    title: Long Hot Summer Night
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: Come On (Let the Good Times Roll)
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 86
+    title: Gypsy Eyes
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 87
+    title: Burning of the Midnight Lamp
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: Rainy Day, Dream Away
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 89
+    title: 1983... (A Merman I Should Turn to Be)
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: Moon, Turn the Tides... Gently Gently Away
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: Still Raining, Still Dreaming
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 92
+    title: House Burning Down
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: All Along the Watchtower
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    single: true
+    album: Electric Ladyland
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #20
+      - Culturally important
+      - Fan favorite
+  - rank: 94
+    title: Voodoo Child (Slight Return)
+    artist: The Jimi Hendrix Experience
+    year: 1968
+    album: Electric Ladyland
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 95
+    title: Beggars Banquet
+    artist: The Rolling Stones
+    year: 1968
+    album: Beggars Banquet
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 96
+    title: Sympathy for the Devil
+    artist: The Rolling Stones
+    year: 1968
+    album: Beggars Banquet
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 97
+    title: No Expectations
+    artist: The Rolling Stones
+    year: 1968
+    album: Beggars Banquet
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: Dear Doctor
+    artist: The Rolling Stones
+    year: 1968
+    album: Beggars Banquet
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 99
+    title: Parachute Woman
+    artist: The Rolling Stones
+    year: 1968
+    album: Beggars Banquet
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 100
+    title: Jigsaw Puzzle
+    artist: The Rolling Stones
+    year: 1968
+    album: Beggars Banquet
+    genres:
+      - Rock
+    tags:
+      - Fan favorite

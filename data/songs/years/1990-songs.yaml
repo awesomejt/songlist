@@ -1,0 +1,635 @@
+songs:
+  - rank: 1
+    title: "Hold On"
+    artist: "Wilson Phillips"
+    year: 1990
+    album: "Wilson Phillips"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 Year-End #1
+  - rank: 2
+    title: "It Must Have Been Love"
+    artist: "Roxette"
+    year: 1990
+    album: "Pretty Woman Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 3
+    title: "Nothing Compares 2 U"
+    artist: "Sinéad O'Connor"
+    year: 1990
+    album: "I Do Not Want What I Haven't Got"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Billboard Hot 100 #1
+      - Grammy nominee
+  - rank: 4
+    title: "Vogue"
+    artist: "Madonna"
+    year: 1990
+    album: "I'm Breathless"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "Vision of Love"
+    artist: "Mariah Carey"
+    year: 1990
+    album: "Mariah Carey"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Mariah Carey's debut hit
+  - rank: 6
+    title: "Another Day in Paradise"
+    artist: "Phil Collins"
+    year: 1990
+    album: "...But Seriously"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: "Hold On"
+    artist: "En Vogue"
+    year: 1990
+    album: "Born to Sing"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 8
+    title: "Cradle of Love"
+    artist: "Billy Idol"
+    year: 1990
+    album: "Charmed Life"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 9
+    title: "Blaze of Glory"
+    artist: "Jon Bon Jovi"
+    year: 1990
+    album: "Blaze of Glory"
+    soundtrack: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: "How Am I Supposed to Live Without You"
+    artist: "Michael Bolton"
+    year: 1990
+    album: "Soul Provider"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: "Opposites Attract"
+    artist: "Paula Abdul"
+    year: 1990
+    album: "Forever Your Girl"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 12
+    title: "Escapade"
+    artist: "Janet Jackson"
+    year: 1990
+    album: "Rhythm Nation 1814"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 13
+    title: "All I Wanna Do Is Make Love to You"
+    artist: "Heart"
+    year: 1990
+    album: "Brigade"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 14
+    title: "Close to You"
+    artist: "Maxi Priest"
+    year: 1990
+    album: "Bonafide"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 15
+    title: "Black Velvet"
+    artist: "Alannah Myles"
+    year: 1990
+    album: "Alannah Myles"
+    solo-hit: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 16
+    title: "Release Me"
+    artist: "Wilson Phillips"
+    year: 1990
+    album: "Wilson Phillips"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 17
+    title: "Don't Know Much"
+    artist: "Linda Ronstadt featuring Aaron Neville"
+    year: 1990
+    album: "Cry Like a Rainstorm, Howl Like the Wind"
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 18
+    title: "All Around the World"
+    artist: "Lisa Stansfield"
+    year: 1990
+    album: "Affection"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 19
+    title: "Rub You the Right Way"
+    artist: "Johnny Gill"
+    year: 1990
+    album: "Johnny Gill"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 20
+    title: "If Wishes Came True"
+    artist: "Sweet Sensation"
+    year: 1990
+    album: "Love Child"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 21
+    title: "Love Will Lead You Back"
+    artist: "Taylor Dayne"
+    year: 1990
+    album: "Can't Fight Fate"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 22
+    title: "Don't Wanna Fall in Love"
+    artist: "Jane Child"
+    year: 1990
+    album: "Jane Child"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 23
+    title: "Unskinny Bop"
+    artist: "Poison"
+    year: 1990
+    album: "Flesh & Blood"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 24
+    title: "Dangerous"
+    artist: "Roxette"
+    year: 1990
+    album: "Look Sharp!"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 25
+    title: "We Didn't Start the Fire"
+    artist: "Billy Joel"
+    year: 1990
+    album: "Storm Front"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 26
+    title: "I Don't Have the Heart"
+    artist: "James Ingram"
+    year: 1990
+    album: "It's Real"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: "Downtown Train"
+    artist: "Rod Stewart"
+    year: 1990
+    album: "The Best of Rod Stewart"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 28
+    title: "Rhythm Nation"
+    artist: "Janet Jackson"
+    year: 1990
+    album: "Rhythm Nation 1814"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 29
+    title: "Roam"
+    artist: "The B-52's"
+    year: 1990
+    album: "Cosmic Thing"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 30
+    title: "Everything"
+    artist: "Jody Watley"
+    year: 1990
+    album: "Larger Than Life"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 31
+    title: "Back to Life (However Do You Want Me)"
+    artist: "Soul II Soul featuring Caron Wheeler"
+    year: 1990
+    album: "Keep On Movin'"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 32
+    title: "Here and Now"
+    artist: "Luther Vandross"
+    year: 1990
+    album: "The Best of Luther Vandross... The Best of Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 33
+    title: "Alright"
+    artist: "Janet Jackson"
+    year: 1990
+    album: "Rhythm Nation 1814"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 34
+    title: "Blame It on the Rain"
+    artist: "Milli Vanilli"
+    year: 1990
+    album: "Girl You Know It's True"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 35
+    title: "With Every Beat of My Heart"
+    artist: "Taylor Dayne"
+    year: 1990
+    album: "Can't Fight Fate"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 36
+    title: "Come Back to Me"
+    artist: "Janet Jackson"
+    year: 1990
+    album: "Rhythm Nation 1814"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 37
+    title: "Praying for Time"
+    artist: "George Michael"
+    year: 1990
+    album: "Listen Without Prejudice Vol. 1"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 38
+    title: "How Can We Be Lovers"
+    artist: "Michael Bolton"
+    year: 1990
+    album: "Soul Provider"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 39
+    title: "Do You Remember?"
+    artist: "Phil Collins"
+    year: 1990
+    album: "...But Seriously"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 40
+    title: "What It Takes"
+    artist: "Aerosmith"
+    year: 1990
+    album: "Pump"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 41
+    title: "Bad Love"
+    artist: "Eric Clapton"
+    year: 1990
+    album: "Journeyman"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 42
+    title: "High Enough"
+    artist: "Damn Yankees"
+    year: 1990
+    album: "Damn Yankees"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard Mainstream Rock #2
+  - rank: 43
+    title: "Suicide Blonde"
+    artist: "INXS"
+    year: 1990
+    album: "X"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 44
+    title: "Jealous Again"
+    artist: "The Black Crowes"
+    year: 1990
+    album: "Shake Your Money Maker"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #5
+  - rank: 45
+    title: "Cliffs of Dover"
+    artist: "Eric Johnson"
+    year: 1990
+    album: "Ah Via Musicom"
+    genres:
+      - Rock
+    tags:
+      - Instrumental
+      - Grammy winner
+  - rank: 46
+    title: "Cuts You Up"
+    artist: "Peter Murphy"
+    year: 1990
+    album: "Deep"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 47
+    title: "Policy of Truth"
+    artist: "Depeche Mode"
+    year: 1990
+    album: "Violator"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 48
+    title: "Here's Where the Story Ends"
+    artist: "The Sundays"
+    year: 1990
+    album: "Reading, Writing and Arithmetic"
+    genres:
+      - Alternative
+    tags:
+      - Cult favorite
+  - rank: 49
+    title: "Metropolis"
+    artist: "The Church"
+    year: 1990
+    album: "Gold Afternoon Fix"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 50
+    title: "Joey"
+    artist: "Concrete Blonde"
+    year: 1990
+    album: "Bloodletting"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 51
+    title: "Blue Sky Mine"
+    artist: "Midnight Oil"
+    year: 1990
+    album: "Blue Sky Mining"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Alternative #1
+  - rank: 52
+    title: "Been Caught Stealing"
+    artist: "Jane's Addiction"
+    year: 1990
+    album: "Ritual de lo Habitual"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 53
+    title: "Head Like a Hole"
+    artist: "Nine Inch Nails"
+    year: 1990
+    album: "Pretty Hate Machine"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 54
+    title: "Tender Lover"
+    artist: "Babyface"
+    year: 1990
+    album: "Tender Lover"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 55
+    title: "I'll Be Good to You"
+    artist: "Quincy Jones featuring Ray Charles & Chaka Khan"
+    year: 1990
+    album: "Back on the Block"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #1
+  - rank: 56
+    title: "Make You Sweat"
+    artist: "Keith Sweat"
+    year: 1990
+    album: "I'll Give All My Love to You"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 57
+    title: "Damn Right, I've Got the Blues"
+    artist: "Buddy Guy"
+    year: 1990
+    album: "Damn Right, I've Got the Blues"
+    genres:
+      - Blues
+    tags:
+      - Iconic blues track
+  - rank: 58
+    title: "Still Got the Blues"
+    artist: "Gary Moore"
+    year: 1990
+    album: "Still Got the Blues"
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 59
+    title: "Hard to Handle"
+    artist: "The Black Crowes"
+    year: 1990
+    album: "Shake Your Money Maker"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Original artist: Otis Redding
+  - rank: 60
+    title: "No Depression"
+    artist: "Uncle Tupelo"
+    year: 1990
+    album: "No Depression"
+    genres:
+      - Folk
+      - Alternative
+    tags:
+      - Influential in alt-country
+  - rank: 61
+    title: "I've Got That Old Feeling"
+    artist: "Alison Krauss"
+    year: 1990
+    album: "I've Got That Old Feeling"
+    genres:
+      - Folk
+    tags:
+      - Grammy winner
+  - rank: 62
+    title: "Man in the Box"
+    artist: "Alice in Chains"
+    year: 1990
+    album: "Facelift"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Early grunge hit
+  - rank: 63
+    title: "Enjoy the Silence"
+    artist: "Depeche Mode"
+    year: 1990
+    album: "Violator"
+    genres:
+      - New Wave
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 64
+    title: "Ashes to Ashes"
+    artist: "Joe Sample"
+    year: 1990
+    album: "Ashes to Ashes"
+    genres:
+      - Jazz
+    tags:
+      - Contemporary jazz
+  - rank: 65
+    title: "So Much 2 Say"
+    artist: "Take 6"
+    year: 1990
+    album: "So Much 2 Say"
+    genres:
+      - Jazz
+    tags:
+      - A cappella jazz

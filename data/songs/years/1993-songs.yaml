@@ -1,0 +1,637 @@
+songs:
+  - rank: 1
+    title: "I Will Always Love You"
+    artist: "Whitney Houston"
+    year: 1993
+    album: "The Bodyguard"
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 Year-End #1
+      - Billboard Hot 100 #1
+      - Original artist: Dolly Parton
+  - rank: 2
+    title: "Whoomp! (There It Is)"
+    artist: "Tag Team"
+    year: 1993
+    album: "Whoomp! (There It Is)"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 3
+    title: "Can't Help Falling in Love"
+    artist: "UB40"
+    year: 1993
+    album: "Promises and Lies"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Original artist: Elvis Presley
+  - rank: 4
+    title: "That's the Way Love Goes"
+    artist: "Janet Jackson"
+    year: 1993
+    album: "Janet"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "Freak Me"
+    artist: "Silk"
+    year: 1993
+    album: "Lose Control"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "Weak"
+    artist: "SWV"
+    year: 1993
+    album: "It's About Time"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: "If I Ever Fall in Love"
+    artist: "Shai"
+    year: 1993
+    album: "...If I Ever Fall in Love"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 8
+    title: "Dreamlover"
+    artist: "Mariah Carey"
+    year: 1993
+    album: "Music Box"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "Rump Shaker"
+    artist: "Wreckx-n-Effect"
+    year: 1993
+    album: "Hard or Smooth"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 10
+    title: "Informer"
+    artist: "Snow"
+    year: 1993
+    album: "12 Inches of Snow"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: "Love Is"
+    artist: "Vanessa Williams and Brian McKnight"
+    year: 1993
+    album: "Beverly Hills, 90210: The Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 12
+    title: "Runaway Train"
+    artist: "Soul Asylum"
+    year: 1993
+    album: "Grave Dancers Union"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 13
+    title: "Two Princes"
+    artist: "Spin Doctors"
+    year: 1993
+    album: "Pocket Full of Kryptonite"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 14
+    title: "The River of Dreams"
+    artist: "Billy Joel"
+    year: 1993
+    album: "River of Dreams"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 15
+    title: "I'm Gonna Be (500 Miles)"
+    artist: "The Proclaimers"
+    year: 1993
+    album: "Sunshine on Leith"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 16
+    title: "Ordinary World"
+    artist: "Duran Duran"
+    year: 1993
+    album: "Duran Duran"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 17
+    title: "I'd Do Anything for Love (But I Won't Do That)"
+    artist: "Meat Loaf"
+    year: 1993
+    album: "Bat Out of Hell II: Back into Hell"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 18
+    title: "Bed of Roses"
+    artist: "Bon Jovi"
+    year: 1993
+    album: "Keep the Faith"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 19
+    title: "What's Up?"
+    artist: "4 Non Blondes"
+    year: 1993
+    album: "Bigger, Better, Faster, More!"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Hot 100 #14
+  - rank: 20
+    title: "All That She Wants"
+    artist: "Ace of Base"
+    year: 1993
+    album: "The Sign"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 21
+    title: "Have I Told You Lately"
+    artist: "Rod Stewart"
+    year: 1993
+    album: "Unplugged...and Seated"
+    cover: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Original artist: Van Morrison
+      - Billboard Hot 100 #5
+  - rank: 22
+    title: "Come Undone"
+    artist: "Duran Duran"
+    year: 1993
+    album: "Duran Duran"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 23
+    title: "I Don't Wanna Fight"
+    artist: "Tina Turner"
+    year: 1993
+    album: "What's Love Got to Do with It"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 24
+    title: "I'd Die Without You"
+    artist: "P.M. Dawn"
+    year: 1993
+    album: "The Bliss Album...?"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 25
+    title: "Another Sad Love Song"
+    artist: "Toni Braxton"
+    year: 1993
+    album: "Toni Braxton"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 26
+    title: "Will You Be There"
+    artist: "Michael Jackson"
+    year: 1993
+    album: "Dangerous"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 27
+    title: "One Last Cry"
+    artist: "Brian McKnight"
+    year: 1993
+    album: "Brian McKnight"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #13
+  - rank: 28
+    title: "Just Kickin' It"
+    artist: "Xscape"
+    year: 1993
+    album: "Hummin' Comin' at 'Cha"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 29
+    title: "I Get Around"
+    artist: "2Pac"
+    year: 1993
+    album: "Strictly 4 My N.I.G.G.A.Z..."
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #11
+  - rank: 30
+    title: "Real Love"
+    artist: "Mary J. Blige"
+    year: 1993
+    album: "What's the 411?"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 31
+    title: "Stand Up (Kick Love into Motion)"
+    artist: "Def Leppard"
+    year: 1993
+    album: "Adrenalize"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 32
+    title: "Don't Tear Me Up"
+    artist: "Mick Jagger"
+    year: 1993
+    album: "Wandering Spirit"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 33
+    title: "Won't Get Fooled Again"
+    artist: "Van Halen"
+    year: 1993
+    album: "Live: Right Here, Right Now"
+    cover: true
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+      - Original artist: The Who
+  - rank: 34
+    title: "Pride and Joy"
+    artist: "Coverdale and Page"
+    year: 1993
+    album: "Coverdale/Page"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 35
+    title: "Livin' on the Edge"
+    artist: "Aerosmith"
+    year: 1993
+    album: "Get a Grip"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 36
+    title: "Are You Gonna Go My Way"
+    artist: "Lenny Kravitz"
+    year: 1993
+    album: "Are You Gonna Go My Way"
+    genres:
+      - Rock
+      - Funk
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 37
+    title: "Plush"
+    artist: "Stone Temple Pilots"
+    year: 1993
+    album: "Core"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 38
+    title: "Big Gun"
+    artist: "AC/DC"
+    year: 1993
+    album: "Last Action Hero Soundtrack"
+    soundtrack: true
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 39
+    title: "Cryin'"
+    artist: "Aerosmith"
+    year: 1993
+    album: "Get a Grip"
+    genres:
+      - Hard Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 40
+    title: "What If I Came Knocking"
+    artist: "John Mellencamp"
+    year: 1993
+    album: "Human Wheels"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 41
+    title: "Peace Pipe"
+    artist: "Cry of Love"
+    year: 1993
+    album: "Brother"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 42
+    title: "No Rain"
+    artist: "Blind Melon"
+    year: 1993
+    album: "Blind Melon"
+    solo-hit: true
+    genres:
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 43
+    title: "Stick It Out"
+    artist: "Rush"
+    year: 1993
+    album: "Counterparts"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 44
+    title: "Mary Jane's Last Dance"
+    artist: "Tom Petty and the Heartbreakers"
+    year: 1993
+    album: "Greatest Hits"
+    genres:
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 45
+    title: "Daughter"
+    artist: "Pearl Jam"
+    year: 1993
+    album: "Vs."
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 46
+    title: "The Devil You Know"
+    artist: "Jesus Jones"
+    year: 1993
+    album: "Perverse"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 47
+    title: "Feed the Tree"
+    artist: "Belly"
+    year: 1993
+    album: "Star"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 48
+    title: "I Feel You"
+    artist: "Depeche Mode"
+    year: 1993
+    album: "Songs of Faith and Devotion"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 49
+    title: "Regret"
+    artist: "New Order"
+    year: 1993
+    album: "Republic"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 50
+    title: "Walking in My Shoes"
+    artist: "Depeche Mode"
+    year: 1993
+    album: "Songs of Faith and Devotion"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 51
+    title: "Pets"
+    artist: "Porno for Pyros"
+    year: 1993
+    album: "Porno for Pyros"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 52
+    title: "Break It Down Again"
+    artist: "Tears for Fears"
+    year: 1993
+    album: "Elemental"
+    genres:
+      - Alternative
+      - New Wave
+    tags:
+      - Billboard Alternative #1
+  - rank: 53
+    title: "Soul to Squeeze"
+    artist: "Red Hot Chili Peppers"
+    year: 1993
+    album: "Coneheads Soundtrack"
+    soundtrack: true
+    genres:
+      - Alternative
+      - Funk
+    tags:
+      - Billboard Alternative #1
+  - rank: 54
+    title: "My Sister"
+    artist: "The Juliana Hatfield Three"
+    year: 1993
+    album: "Become What You Are"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 55
+    title: "Heart-Shaped Box"
+    artist: "Nirvana"
+    year: 1993
+    album: "In Utero"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+      - Culturally important
+  - rank: 56
+    title: "Into Your Arms"
+    artist: "The Lemonheads"
+    year: 1993
+    album: "Come on Feel the Lemonheads"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 57
+    title: "Creep"
+    artist: "Radiohead"
+    year: 1993
+    album: "Pablo Honey"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 58
+    title: "Cannonball"
+    artist: "The Breeders"
+    year: 1993
+    album: "Last Splash"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 59
+    title: "Breathe Again"
+    artist: "Toni Braxton"
+    year: 1993
+    album: "Toni Braxton"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #1
+  - rank: 60
+    title: "Again"
+    artist: "Janet Jackson"
+    year: 1993
+    album: "Janet"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 61
+    title: "Gangsta Lean"
+    artist: "DRS"
+    year: 1993
+    album: "Gangsta Lean"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 62
+    title: "Blue Light 'Til Dawn"
+    artist: "Cassandra Wilson"
+    year: 1993
+    album: "Blue Light 'Til Dawn"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 63
+    title: "Portrait of a Delta Bluesman"
+    artist: "Pinetop Perkins"
+    year: 1993
+    album: "Portrait of a Delta Bluesman"
+    genres:
+      - Blues
+    tags:
+      - Title track
+  - rank: 64
+    title: "Night Train"
+    artist: "Bill Morrissey"
+    year: 1993
+    album: "Night Train"
+    genres:
+      - Folk
+    tags:
+      - Title track
+  - rank: 65
+    title: "Today"
+    artist: "The Smashing Pumpkins"
+    year: 1993
+    album: "Siamese Dream"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important

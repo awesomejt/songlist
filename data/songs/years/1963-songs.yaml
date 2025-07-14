@@ -1,0 +1,1086 @@
+songs:
+  - rank: 1
+    title: Sugar Shack
+    artist: Jimmy Gilmer and The Fireballs
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 2
+    title: Surfin' U.S.A.
+    artist: The Beach Boys
+    year: 1963
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+      - Fan favorite
+  - rank: 3
+    title: The End of the World
+    artist: Skeeter Davis
+    year: 1963
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Crossover hit
+  - rank: 4
+    title: Rhythm of the Rain
+    artist: The Cascades
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 5
+    title: He's So Fine
+    artist: The Chiffons
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 6
+    title: Blue Velvet
+    artist: Bobby Vinton
+    year: 1963
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: Hey Paula
+    artist: Paul & Paula
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 8
+    title: Fingertips - Part 2
+    artist: Little Stevie Wonder
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 9
+    title: Washington Square
+    artist: The Village Stompers
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 10
+    title: It's All Right
+    artist: The Impressions
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 11
+    title: Easier Said Than Done
+    artist: The Essex
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 12
+    title: Sally Go 'Round the Roses
+    artist: The Jaynetts
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #4
+  - rank: 13
+    title: Be My Baby
+    artist: The Ronettes
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #4
+      - Culturally important
+      - Fan favorite
+  - rank: 14
+    title: South Street
+    artist: The Orlons
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #4
+  - rank: 15
+    title: Surf City
+    artist: Jan & Dean
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #3
+      - Culturally important
+  - rank: 16
+    title: Sukiyaki
+    artist: Kyu Sakamoto
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 17
+    title: Pipeline
+    artist: The Chantays
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+      - Instrumental
+  - rank: 18
+    title: Wipe Out
+    artist: The Surfaris
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #10
+      - Instrumental
+      - Culturally important
+  - rank: 19
+    title: Puff, the Magic Dragon
+    artist: Peter, Paul and Mary
+    year: 1963
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+      - Fan favorite
+  - rank: 20
+    title: Blowin' in the Wind
+    artist: Peter, Paul and Mary
+    year: 1963
+    single: true
+    cover: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+      - Fan favorite
+  - rank: 21
+    title: Our Day Will Come
+    artist: Ruby and the Romantics
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 22
+    title: Heat Wave
+    artist: Martha and The Vandellas
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 23
+    title: Cry Baby
+    artist: Garnet Mimms & The Enchanters
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+  - rank: 24
+    title: Part Time Love
+    artist: Little Johnny Taylor
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Blues
+    tags:
+      - Billboard Hot 100 #19
+      - Billboard R&B #1
+  - rank: 25
+    title: My Boyfriend's Back
+    artist: The Angels
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #2
+      - Culturally important
+  - rank: 26
+    title: Mockingbird
+    artist: Inez Foxx
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #2
+  - rank: 27
+    title: Just One Look
+    artist: Doris Troy
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #3
+  - rank: 28
+    title: Monkey Time
+    artist: Major Lance
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #2
+  - rank: 29
+    title: Mickey's Monkey
+    artist: The Miracles
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #3
+  - rank: 30
+    title: Pride And Joy
+    artist: Marvin Gaye
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #2
+  - rank: 31
+    title: Walk Like a Man
+    artist: The Four Seasons
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #3
+  - rank: 32
+    title: If You Wanna Be Happy
+    artist: Jimmy Soul
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 33
+    title: If I Had a Hammer
+    artist: Trini Lopez
+    year: 1963
+    single: true
+    cover: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 34
+    title: Louie Louie
+    artist: The Kingsmen
+    year: 1963
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+      - Fan favorite
+  - rank: 35
+    title: She Loves You
+    artist: The Beatles
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 36
+    title: Dominique
+    artist: The Singing Nun
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 37
+    title: Hello Stranger
+    artist: Barbara Lewis
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 38
+    title: On Broadway
+    artist: The Drifters
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+      - Billboard R&B #7
+      - Culturally important
+  - rank: 39
+    title: In Dreams
+    artist: Roy Orbison
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+      - Culturally important
+      - Fan favorite
+  - rank: 40
+    title: One Fine Day
+    artist: The Chiffons
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #6
+  - rank: 41
+    title: Da Doo Ron Ron
+    artist: The Crystals
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #5
+      - Culturally important
+  - rank: 42
+    title: Then He Kissed Me
+    artist: The Crystals
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #8
+      - Culturally important
+  - rank: 43
+    title: Little Deuce Coupe
+    artist: The Beach Boys
+    year: 1963
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #15
+      - Fan favorite
+  - rank: 44
+    title: I Want to Hold Your Hand
+    artist: The Beatles
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 45
+    title: Please Please Me
+    artist: The Beatles
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+      - Fan favorite
+  - rank: 46
+    title: I Saw Her Standing There
+    artist: The Beatles
+    year: 1963
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #14
+      - Culturally important
+      - Fan favorite
+  - rank: 47
+    title: Twist and Shout
+    artist: The Beatles
+    year: 1963
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+      - Fan favorite
+  - rank: 48
+    title: All My Loving
+    artist: The Beatles
+    year: 1963
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #45
+      - Culturally important
+      - Fan favorite
+  - rank: 49
+    title: Don't Think Twice, It's All Right
+    artist: Bob Dylan
+    year: 1963
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 50
+    title: Masters of War
+    artist: Bob Dylan
+    year: 1963
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 51
+    title: A Hard Rain's a-Gonna Fall
+    artist: Bob Dylan
+    year: 1963
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 52
+    title: Can I Get a Witness
+    artist: Marvin Gaye
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #22
+      - Billboard R&B #15
+      - Culturally important
+  - rank: 53
+    title: It's My Party
+    artist: Lesley Gore
+    year: 1963
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 54
+    title: Two Lovers
+    artist: Mary Wells
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #1
+  - rank: 55
+    title: You've Really Got a Hold on Me
+    artist: The Miracles
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 56
+    title: Baby Workout
+    artist: Jackie Wilson
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #1
+  - rank: 57
+    title: If You Need Me
+    artist: Solomon Burke
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #37
+      - Billboard R&B #2
+      - Culturally important
+  - rank: 58
+    title: Ring of Fire
+    artist: Johnny Cash
+    year: 1963
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard Hot 100 #17
+      - Crossover hit
+      - Culturally important
+      - Fan favorite
+  - rank: 59
+    title: Up on the Roof
+    artist: The Drifters
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #4
+      - Culturally important
+  - rank: 60
+    title: Hello Stranger
+    artist: Barbara Lewis
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 61
+    title: The Black Saint and the Sinner Lady
+    artist: Charles Mingus
+    year: 1963
+    album: The Black Saint and the Sinner Lady
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 62
+    title: Monk's Dream
+    artist: Thelonious Monk
+    year: 1963
+    album: Monk's Dream
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 63
+    title: Impressions
+    artist: John Coltrane
+    year: 1963
+    album: Impressions
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 64
+    title: Midnight Blue
+    artist: Kenny Burrell
+    year: 1963
+    album: Midnight Blue
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 65
+    title: The Sidewinder
+    artist: Lee Morgan
+    year: 1963
+    album: The Sidewinder
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 66
+    title: Page One
+    artist: Joe Henderson
+    year: 1963
+    album: Page One
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 67
+    title: Caravan
+    artist: Art Blakey & The Jazz Messengers
+    year: 1963
+    album: Caravan
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 68
+    title: Conversations with Myself
+    artist: Bill Evans Trio
+    year: 1963
+    album: Conversations with Myself
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 69
+    title: Silver's Serenade
+    artist: Horace Silver
+    year: 1963
+    album: Silver's Serenade
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 70
+    title: Money Jungle
+    artist: Duke Ellington
+    year: 1963
+    album: Money Jungle
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 71
+    title: My People
+    artist: Duke Ellington
+    year: 1963
+    album: My People
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 72
+    title: The Symphonic Ellington
+    artist: Duke Ellington
+    year: 1963
+    album: The Symphonic Ellington
+    genres:
+      - Jazz
+      - Big Band
+    tags:
+      - Culturally important
+  - rank: 73
+    title: Katanga!
+    artist: Dupree Bolton
+    year: 1963
+    album: Katanga!
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 74
+    title: Jazz Samba Encore!
+    artist: Stan Getz
+    year: 1963
+    album: Jazz Samba Encore!
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 75
+    title: The Great Jazz Piano of Phineas Newborn Jr.
+    artist: Phineas Newborn Jr.
+    year: 1963
+    album: The Great Jazz Piano of Phineas Newborn Jr.
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 76
+    title: The Cry!
+    artist: Prince Lasha & Sonny Simmons
+    year: 1963
+    album: The Cry!
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 77
+    title: Sonny Meets Hawk!
+    artist: Sonny Rollins & Coleman Hawkins
+    year: 1963
+    album: Sonny Meets Hawk!
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 78
+    title: In Concert
+    artist: Joan Baez
+    year: 1963
+    album: In Concert
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 79
+    title: Four Strong Winds
+    artist: Ian & Sylvia
+    year: 1963
+    album: Four Strong Winds
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 80
+    title: The Freewheelin' Bob Dylan
+    artist: Bob Dylan
+    year: 1963
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 81
+    title: In the Wind
+    artist: Peter, Paul and Mary
+    year: 1963
+    album: In the Wind
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 82
+    title: All Kinds of Blues
+    artist: Memphis Slim
+    year: 1963
+    album: All Kinds of Blues
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 83
+    title: Back To The Blues
+    artist: Dinah Washington
+    year: 1963
+    album: Back To The Blues
+    genres:
+      - Blues
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 84
+    title: B.B. King
+    artist: B.B. King
+    year: 1963
+    album: B.B. King
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 85
+    title: High Flying Bird
+    artist: Judy Henske
+    year: 1963
+    album: High Flying Bird
+    genres:
+      - Blues
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 86
+    title: Got a Mind to Ramble
+    artist: Tom Rush
+    year: 1963
+    album: Got a Mind to Ramble
+    genres:
+      - Blues
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 87
+    title: Another Saturday Night
+    artist: Sam Cooke
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 88
+    title: Deep Purple
+    artist: Nino Tempo & April Stevens
+    year: 1963
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 89
+    title: Denise
+    artist: Randy & the Rainbows
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Doo-wop
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 90
+    title: Popsicles and Icicles
+    artist: The Murmaids
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 91
+    title: So Much in Love
+    artist: The Tymes
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #4
+  - rank: 92
+    title: Candy Girl
+    artist: The Four Seasons
+    year: 1963
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #13
+  - rank: 93
+    title: Foolish Little Girl
+    artist: The Shirelles
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #9
+  - rank: 94
+    title: Memphis
+    artist: Lonnie Mack
+    year: 1963
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+      - Instrumental
+  - rank: 95
+    title: More
+    artist: Kai Winding
+    year: 1963
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #8
+      - Instrumental
+  - rank: 96
+    title: I Love You Because
+    artist: Al Martino
+    year: 1963
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 97
+    title: Losing You
+    artist: Brenda Lee
+    year: 1963
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 98
+    title: Days of Wine and Roses
+    artist: Henry Mancini
+    year: 1963
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #33
+      - Instrumental
+  - rank: 99
+    title: The Monkey Time
+    artist: Major Lance
+    year: 1963
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #2
+  - rank: 100
+    title: Still
+    artist: Bill Anderson
+    year: 1963
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+      - Crossover hit

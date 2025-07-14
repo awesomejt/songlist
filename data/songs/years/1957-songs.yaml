@@ -1,0 +1,785 @@
+songs:
+  - title: All Shook Up
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Love Letters in the Sand
+    artist: Pat Boone
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Little Darlin'
+    artist: The Diamonds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Young Love
+    artist: Tab Hunter
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    solo-hit: false
+  - title: So Rare
+    artist: Jimmy Dorsey
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Don't Forbid Me
+    artist: Pat Boone
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Singing the Blues
+    artist: Guy Mitchell
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Young Love
+    artist: Sonny James
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Too Much
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Round and Round
+    artist: Perry Como
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Bye Bye Love
+    artist: The Everly Brothers
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Tammy
+    artist: Debbie Reynolds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+    solo-hit: true
+  - title: Party Doll
+    artist: Buddy Knox
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    solo-hit: false
+  - title: (Let Me Be Your) Teddy Bear
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Day-O (The Banana Boat Song)
+    artist: Harry Belafonte
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Jailhouse Rock
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    soundtrack: true
+  - title: A White Sport Coat (and a Pink Carnation)
+    artist: Marty Robbins
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Come Go with Me
+    artist: The Del-Vikings
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Wake Up Little Susie
+    artist: The Everly Brothers
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: You Send Me
+    artist: Sam Cooke
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Searchin'
+    artist: The Coasters
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: School Days
+    artist: Chuck Berry
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Gone
+    artist: Ferlin Husky
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Diana
+    artist: Paul Anka
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: A Teenager's Romance
+    artist: Ricky Nelson
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: The Banana Boat Song
+    artist: The Tarriers
+    year: 1957
+    single: true
+    genres:
+      - Folk
+  - title: Honeycomb
+    artist: Jimmie Rodgers
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Whole Lotta Shakin' Goin On
+    artist: Jerry Lee Lewis
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Dark Moon
+    artist: Gale Storm
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: That'll Be the Day
+    artist: Buddy Holly
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Butterfly
+    artist: Charlie Gracie
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Moonlight Gambler
+    artist: Frankie Laine
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Teen-Age Crush
+    artist: Tommy Sands
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: It's Not for Me to Say
+    artist: Johnny Mathis
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Silhouettes
+    artist: The Rays
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Butterfly
+    artist: Andy Williams
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Marianne
+    artist: The Easy Riders
+    year: 1957
+    single: true
+    genres:
+      - Folk
+    solo-hit: true
+  - title: I'm Walkin'
+    artist: Fats Domino
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Chances Are
+    artist: Johnny Mathis
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Send for Me
+    artist: Nat King Cole
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Rainbow
+    artist: Russ Hamilton
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Be-Bop Baby
+    artist: Ricky Nelson
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Short Fat Fannie
+    artist: Larry Williams
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Green Door
+    artist: Jim Lowe
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: I'm Gonna Sit Right Down and Write Myself a Letter
+    artist: Billy Williams
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Old Cape Cod
+    artist: Patti Page
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Mr. Lee
+    artist: The Bobbettes
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Blueberry Hill
+    artist: Fats Domino
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Whispering Bells
+    artist: The Del-Vikings
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Blue Monday
+    artist: Fats Domino
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Diana
+    artist: Paul Anka
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: That'll Be the Day
+    artist: Buddy Holly
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Wake Up Little Susie
+    artist: The Everly Brothers
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Young Love
+    artist: Tab Hunter
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Great Balls of Fire
+    artist: Jerry Lee Lewis
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Butterfly
+    artist: Andy Williams
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: (Let Me Be Your) Teddy Bear
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Love Letters in the Sand
+    artist: Pat Boone
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: At the Hop
+    artist: Danny & the Juniors
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Too Much
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Little Darlin'
+    artist: The Diamonds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Bye Bye Love
+    artist: The Everly Brothers
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Peggy Sue
+    artist: Buddy Holly
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Banana Boat (Day-O)
+    artist: Harry Belafonte
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: He's Got the Whole World (In His Hands)
+    artist: Laurie London
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Raunchy
+    artist: Bill Justis
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Whole Lotta Shakin' Goin' On
+    artist: Jerry Lee Lewis
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Butterfly
+    artist: Charlie Gracie
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Honeycomb
+    artist: Jimmie Rodgers [pop singer]
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Kisses Sweeter Than Wine
+    artist: Jimmie Rodgers [pop singer]
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: You Send Me
+    artist: Sam Cooke
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Party Doll
+    artist: Buddy Knox
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Stood Up
+    artist: Ricky Nelson
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Oh Boy!
+    artist: Buddy Holly
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: I'm Walkin'
+    artist: Fats Domino
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: School Day
+    artist: Chuck Berry
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Chances Are
+    artist: Johnny Mathis
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Searchin'
+    artist: The Coasters
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I'm Gonna Sit Right Down and Write Myself a Letter
+    artist: Billy Williams
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Short Fat Fannie
+    artist: Larry Williams
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: So Rare
+    artist: Jimmy Dorsey and His Orchestra
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Teenage Crush
+    artist: Tommy Sands
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: My Special Angel
+    artist: Bobby Helms
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Raunchy
+    artist: Ernie Freeman
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Silhouettes
+    artist: The Rays
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Come Go with Me
+    artist: The Del-Vikings
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Be-Bop Baby
+    artist: Ricky Nelson
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Keep-A-Knockin'
+    artist: Little Richard
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Jenny, Jenny
+    artist: Little Richard
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Valley of Tears
+    artist: Fats Domino
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: The Stroll
+    artist: The Diamonds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Bony Moronie
+    artist: Larry Williams
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Star Dust
+    artist: The Dominoes
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Rainbow
+    artist: Russ Hamilton
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: I'm Walking
+    artist: Ricky Nelson
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Happy, Happy Birthday Baby
+    artist: The Tune Weavers
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Send for Me
+    artist: Nat King Cole
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Mr. Lee
+    artist: The Bobbettes
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Little Bitty Pretty One
+    artist: Thurston Harris
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Lucille
+    artist: Little Richard
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Young Blood
+    artist: The Coasters
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Over the Mountain, Across the Sea
+    artist: Johnnie & Joe
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Rock and Roll Music
+    artist: Chuck Berry
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: The Girl Can't Help It
+    artist: Little Richard
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    soundtrack: true
+  - title: Whispering Bells
+    artist: The Del-Vikings
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Love Is Strange
+    artist: Mickey & Sylvia
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: C.C. Rider
+    artist: Chuck Willis
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Hula Love
+    artist: Buddy Knox
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Silhouettes
+    artist: The Diamonds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Buzz, Buzz, Buzz
+    artist: The Hollywood Flames
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: The Big Beat
+    artist: Fats Domino
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Mama Look at Bubu
+    artist: Harry Belafonte
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Lotta Lovin'
+    artist: Gene Vincent
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Cool Shake
+    artist: The Del-Vikings
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I'll Come Running Back to You
+    artist: Sam Cooke
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I'm Stickin' with You
+    artist: Jimmy Bowen
+    year: 1957
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: He's Mine
+    artist: The Platters
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Words of Love
+    artist: The Diamonds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Treat Me Nice
+    artist: Elvis Presley
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: She's Got It
+    artist: Little Richard
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Waitin' in School
+    artist: Ricky Nelson
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Without Love (There Is Nothing)
+    artist: Clyde McPhatter
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Zip Zip
+    artist: The Diamonds
+    year: 1957
+    single: true
+    genres:
+      - Pop
+  - title: Sittin' in the Balcony
+    artist: Eddie Cochran
+    year: 1957
+    single: true
+    genres:
+      - Rock
+  - title: Tear Drops
+    artist: Lee Andrews & the Hearts
+    year: 1957
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Black Slacks
+    artist: Joe Bennett & the Sparkletones
+    year: 1957
+    single: true
+    genres:
+      - Rock
+    solo-hit: true

@@ -1,0 +1,921 @@
+songs:
+  - title: Volare (Nel blu dipinto di blu)
+    artist: Domenico Modugno
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: All I Have to Do Is Dream / Claudette
+    artist: The Everly Brothers
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Don't / I Beg of You
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Witch Doctor
+    artist: Ross Bagdasarian
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: false
+  - title: Patricia
+    artist: Perez Prado
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Sail Along, Silv'ry Moon / Raunchy
+    artist: Billy Vaughn
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Catch a Falling Star / Magic Moments
+    artist: Perry Como
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Tequila
+    artist: The Champs
+    year: 1958
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: It's All in the Game
+    artist: Tommy Edwards
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Return to Me
+    artist: Dean Martin
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: It's Only Make Believe
+    artist: Conway Twitty
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: The Purple People Eater
+    artist: Sheb Wooley
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Bird Dog / Devoted to You
+    artist: The Everly Brothers
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Get a Job
+    artist: The Silhouettes
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Little Star
+    artist: The Elegants
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Twilight Time
+    artist: The Platters
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: Stood Up / Waitin' in School
+    artist: Ricky Nelson
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: He's Got the Whole World in His Hands
+    artist: Laurie London
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Secretly
+    artist: Jimmie Rodgers
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: At the Hop
+    artist: Danny & the Juniors
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Yakety Yak
+    artist: The Coasters
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Wear My Ring Around Your Neck / Doncha' Think It's Time
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Rockin' Robin / Over and Over
+    artist: Bobby Day
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Poor Little Fool
+    artist: Ricky Nelson
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: A Wonderful Time Up There / It's Too Soon to Know
+    artist: Pat Boone
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Just a Dream
+    artist: Jimmy Clanton
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: false
+  - title: Sugartime
+    artist: The McGuire Sisters
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Tom Dooley
+    artist: The Kingston Trio
+    year: 1958
+    single: true
+    genres:
+      - Folk
+  - title: Sweet Little Sixteen
+    artist: Chuck Berry
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Topsy II / Topsy I
+    artist: Cozy Cole
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Looking Back / Do I Like It
+    artist: Nat King Cole
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Book of Love
+    artist: The Monotones
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Tea for Two Cha Cha
+    artist: Tommy Dorsey Orchestra & Warren Covington
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Tears on My Pillow
+    artist: Little Anthony and the Imperials
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Short Shorts
+    artist: The Royal Teens
+    year: 1958
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Great Balls of Fire
+    artist: Jerry Lee Lewis
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Lollipop
+    artist: The Chordettes
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Splish Splash
+    artist: Bobby Darin
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Who's Sorry Now?
+    artist: Connie Francis
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: My True Love / Leroy
+    artist: Jack Scott
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Endless Sleep
+    artist: Jody Reynolds
+    year: 1958
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Do You Want to Dance?
+    artist: Bobby Freeman
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false
+  - title: When
+    artist: The Kalin Twins
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: To Know Him Is to Love Him
+    artist: The Teddy Bears
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: April Love
+    artist: Pat Boone
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+  - title: Rebel-'Rouser
+    artist: Duane Eddy
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Oh Julie
+    artist: The Crescendos
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: The Stroll
+    artist: The Diamonds
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Hard Headed Woman / Don't Ask Me Why
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Peggy Sue
+    artist: Buddy Holly
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: All I Have to Do Is Dream
+    artist: The Everly Brothers
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Smoke Gets in Your Eyes
+    artist: The Platters
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: Bird Dog
+    artist: The Everly Brothers
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Hard Headed Woman
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Don't
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: It's Only Make Believe
+    artist: Conway Twitty
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: To Know Him, Is to Love Him
+    artist: The Teddy Bears
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Twilight Time
+    artist: The Platters
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Poor Little Fool
+    artist: Ricky Nelson
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Wear My Ring Around Your Neck
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: When
+    artist: The Kalin Twins
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Who's Sorry Now?
+    artist: Connie Francis
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Tequila
+    artist: The Champs
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: One Night
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Tom Dooley
+    artist: The Kingston Trio
+    year: 1958
+    single: true
+    genres:
+      - Folk
+  - title: Stagger Lee
+    artist: Lloyd Price
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: Big Man
+    artist: The Four Preps
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Patricia
+    artist: Perez Prado
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: My Happiness
+    artist: Connie Francis
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Lollipop
+    artist: The Chordettes
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Witch Doctor
+    artist: David Seville
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Yakety Yak
+    artist: The Coasters
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: The Purple People Eater
+    artist: Sheb Wooley
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Little Star
+    artist: The Elegants
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Sweet Little Sixteen
+    artist: Chuck Berry
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Tea for Two Cha Cha
+    artist: Tommy Dorsey and His Orchestra
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: My True Love
+    artist: Jack Scott
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Born Too Late
+    artist: The Poni-Tails
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Rockin' Robin
+    artist: Bobby Day
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Fever
+    artist: Peggy Lee
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: Splish Splash
+    artist: Bobby Darin
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Get a Job
+    artist: The Silhouettes
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Breathless
+    artist: Jerry Lee Lewis
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Volare (Nel Blu Dipinto Di Blu)
+    artist: Domenico Modugno
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: The All American Boy
+    artist: Bobby Bare
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: false
+  - title: You Are My Destiny
+    artist: Paul Anka
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Donna
+    artist: Ritchie Valens
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Topsy II
+    artist: Cozy Cole
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Chantilly Lace
+    artist: The Big Bopper
+    year: 1958
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Maybe Baby
+    artist: Buddy Holly
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Baby Face
+    artist: Little Richard
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Sixteen Candles
+    artist: The Crests
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: 26 Miles (Santa Catalina)
+    artist: The Four Preps
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Good Golly, Miss Molly
+    artist: Little Richard
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Rebel-'Rouser
+    artist: Duane Eddy
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Western Movies
+    artist: The Olympics
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false
+  - title: Oh-Oh, I'm Falling in Love Again
+    artist: Jimmie Rodgers [pop singer]
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Short Shorts
+    artist: The Royal Teens
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Susie Darlin'
+    artist: Robin Luke
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Just a Dream
+    artist: Jimmy Clanton
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Tears on My Pillow
+    artist: Little Anthony & the Imperials
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Believe What You Say
+    artist: Ricky Nelson
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Secretly
+    artist: Jimmie Rodgers [pop singer]
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Gotta Travel On
+    artist: Billy Grammer
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Summertime Blues
+    artist: Eddie Cochran
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Looking Back
+    artist: Nat King Cole
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Do You Wanna Dance?
+    artist: Bobby Freeman
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: The Book of Love
+    artist: The Monotones
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Oh Julie
+    artist: The Crescendos
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: A Lover's Question
+    artist: Clyde McPhatter
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Queen of the Hop
+    artist: Bobby Darin
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Endless Sleep
+    artist: Jody Reynolds
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: High School Confidential
+    artist: Jerry Lee Lewis
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Whole Lotta Loving
+    artist: Fats Domino
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I Cried a Tear
+    artist: LaVern Baker
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Lonely Teardrops
+    artist: Jackie Wilson
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Chanson d'amour (Song of Love)
+    artist: Art and Dotty Todd
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Ginger Bread
+    artist: Frankie Avalon
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: I Beg of You
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: One Summer Night
+    artist: The Danleers
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Dinner with Drac (Part 1)
+    artist: John Zacherle the Cool Ghoul
+    year: 1958
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: The Walk
+    artist: Jimmy McCracklin
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Johnny B. Goode
+    artist: Chuck Berry
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: DeDe Dinah
+    artist: Frankie Avalon
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: What Am I Living For
+    artist: Chuck Willis
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Willie and the Hand Jive
+    artist: The Johnny Otis Show
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Jennie Lee
+    artist: Jan and Arnie
+    year: 1958
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Tunnel of Love
+    artist: Doris Day
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Oh Lonesome Me
+    artist: Don Gibson
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Rock and Roll Is Here to Stay
+    artist: Danny & the Juniors
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: I Wish
+    artist: The Platters
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: There's Only One of You
+    artist: The Four Lads
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Skinny Minnie
+    artist: Bill Haley & His Comets
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: For Your Love
+    artist: Ed Townsend
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Breathless
+    artist: Jerry Lee Lewis
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Happy Years
+    artist: The Diamonds
+    year: 1958
+    single: true
+    genres:
+      - Pop
+  - title: Johnny B. Goode
+    artist: Chuck Berry
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: Maybe
+    artist: The Chantels
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false
+  - title: Don't Let Go
+    artist: Roy Hamilton
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: To Be Loved
+    artist: Jackie Wilson
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Roc-A-Chicka
+    artist: Warner Mack
+    year: 1958
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: Don't Ask Me Why
+    artist: Elvis Presley
+    year: 1958
+    single: true
+    genres:
+      - Rock
+  - title: I'll Get By (As Long as I Have You)
+    artist: Billy Williams
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Lover's Island
+    artist: The Blue Jays
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: You Cheated
+    artist: The Shields
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Down the Aisle of Love
+    artist: The Quin-Tones
+    year: 1958
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Rockin' Around the Christmas Tree
+    artist: Brenda Lee
+    year: 1958
+    single: true
+    genres:
+      - Pop

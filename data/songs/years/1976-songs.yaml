@@ -1,0 +1,887 @@
+songs:
+  - rank: 1
+    title: "Silly Love Songs"
+    artist: "Wings"
+    year: 1976
+    album: "Wings at the Speed of Sound"
+    genres:
+      - Pop
+      - Rock
+  - rank: 2
+    title: "Don't Go Breaking My Heart"
+    artist: "Elton John & Kiki Dee"
+    year: 1976
+    single: true
+    genres:
+      - Pop
+  - rank: 3
+    title: "Disco Lady"
+    artist: "Johnnie Taylor"
+    year: 1976
+    album: "Eargasm"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 4
+    title: "December, 1963 (Oh, What a Night)"
+    artist: "The Four Seasons"
+    year: 1976
+    album: "Who Loves You"
+    genres:
+      - Pop
+      - Rock
+  - rank: 5
+    title: "Play That Funky Music"
+    artist: "Wild Cherry"
+    year: 1976
+    album: "Wild Cherry"
+    solo-hit: true
+    genres:
+      - Funk
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 6
+    title: "Kiss and Say Goodbye"
+    artist: "The Manhattans"
+    year: 1976
+    album: "The Manhattans"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 7
+    title: "Love Machine"
+    artist: "The Miracles"
+    year: 1976
+    album: "City of Angels"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 8
+    title: "50 Ways to Leave Your Lover"
+    artist: "Paul Simon"
+    year: 1976
+    album: "Still Crazy After All These Years"
+    genres:
+      - Pop
+      - Folk
+  - rank: 9
+    title: "Love Is Alive"
+    artist: "Gary Wright"
+    year: 1976
+    album: "The Dream Weaver"
+    genres:
+      - Rock
+      - Pop
+  - rank: 10
+    title: "A Fifth of Beethoven"
+    artist: "Walter Murphy & The Big Apple Band"
+    year: 1976
+    album: "A Fifth of Beethoven"
+    solo-hit: true
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Instrumental
+  - rank: 11
+    title: "Sara Smile"
+    artist: "Daryl Hall & John Oates"
+    year: 1976
+    album: "Daryl Hall & John Oates"
+    genres:
+      - Pop
+      - Soul
+      - Rock
+  - rank: 12
+    title: "Afternoon Delight"
+    artist: "Starland Vocal Band"
+    year: 1976
+    album: "Starland Vocal Band"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 13
+    title: "I Write the Songs"
+    artist: "Barry Manilow"
+    year: 1976
+    album: "Tryin' to Get the Feeling"
+    genres:
+      - Pop
+      - Standards
+  - rank: 14
+    title: "Fly, Robin, Fly"
+    artist: "Silver Convention"
+    year: 1976
+    album: "Save Me"
+    genres:
+      - Funk
+      - Pop
+    tags:
+      - Instrumental
+  - rank: 15
+    title: "Love Hangover"
+    artist: "Diana Ross"
+    year: 1976
+    album: "Diana Ross"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 16
+    title: "Get Closer"
+    artist: "Seals and Crofts"
+    year: 1976
+    album: "Get Closer"
+    genres:
+      - Pop
+      - Folk
+  - rank: 17
+    title: "More, More, More"
+    artist: "Andrea True Connection"
+    year: 1976
+    album: "More, More, More"
+    solo-hit: true
+    genres:
+      - Funk
+      - Pop
+  - rank: 18
+    title: "Bohemian Rhapsody"
+    artist: "Queen"
+    year: 1976
+    album: "A Night at the Opera"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 19
+    title: "Misty Blue"
+    artist: "Dorothy Moore"
+    year: 1976
+    album: "Misty Blue"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 20
+    title: "Boogie Fever"
+    artist: "The Sylvers"
+    year: 1976
+    album: "Showcase"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 21
+    title: "I'd Really Love to See You Tonight"
+    artist: "England Dan & John Ford Coley"
+    year: 1976
+    album: "Nights Are Forever"
+    genres:
+      - Pop
+      - Folk
+  - rank: 22
+    title: "You Sexy Thing"
+    artist: "Hot Chocolate"
+    year: 1976
+    album: "Hot Chocolate"
+    genres:
+      - Pop
+      - Soul
+  - rank: 23
+    title: "Love Hurts"
+    artist: "Nazareth"
+    year: 1976
+    album: "Hair of the Dog"
+    genres:
+      - Rock
+    tags:
+      - Original artist: The Everly Brothers
+  - rank: 24
+    title: "Get Up and Boogie"
+    artist: "Silver Convention"
+    year: 1976
+    album: "Get Up and Boogie"
+    genres:
+      - Funk
+      - Pop
+  - rank: 25
+    title: "Take It to the Limit"
+    artist: "Eagles"
+    year: 1976
+    album: "One of These Nights"
+    genres:
+      - Rock
+      - Pop
+  - rank: 26
+    title: "(Shake, Shake, Shake) Shake Your Booty"
+    artist: "KC and the Sunshine Band"
+    year: 1976
+    album: "Part 3"
+    genres:
+      - Funk
+      - Pop
+  - rank: 27
+    title: "Sweet Love"
+    artist: "Commodores"
+    year: 1976
+    album: "Movin' On"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 28
+    title: "Right Back Where We Started From"
+    artist: "Maxine Nightingale"
+    year: 1976
+    album: "Right Back Where We Started From"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soul
+  - rank: 29
+    title: "Theme from S.W.A.T."
+    artist: "Rhythm Heritage"
+    year: 1976
+    album: "Disco-Fied"
+    soundtrack: true
+    genres:
+      - Funk
+      - Pop
+    tags:
+      - Instrumental
+  - rank: 30
+    title: "Love Rollercoaster"
+    artist: "Ohio Players"
+    year: 1976
+    album: "Honey"
+    genres:
+      - Funk
+      - Rhythm and Blues
+      - Soul
+  - rank: 31
+    title: "You Should Be Dancing"
+    artist: "Bee Gees"
+    year: 1976
+    album: "Children of the World"
+    genres:
+      - Pop
+      - Funk
+  - rank: 32
+    title: "You'll Never Find Another Love Like Mine"
+    artist: "Lou Rawls"
+    year: 1976
+    album: "All Things in Time"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 33
+    title: "Golden Years"
+    artist: "David Bowie"
+    year: 1976
+    album: "Station to Station"
+    genres:
+      - Rock
+      - Funk
+      - Pop
+  - rank: 34
+    title: "Moonlight Feels Right"
+    artist: "Starbuck"
+    year: 1976
+    album: "Moonlight Feels Right"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 35
+    title: "Only Sixteen"
+    artist: "Dr. Hook"
+    year: 1976
+    album: "A Little Bit More"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: Sam Cooke
+  - rank: 36
+    title: "Let Your Love Flow"
+    artist: "The Bellamy Brothers"
+    year: 1976
+    album: "Let Your Love Flow"
+    genres:
+      - Pop
+      - Folk
+  - rank: 37
+    title: "Dream Weaver"
+    artist: "Gary Wright"
+    year: 1976
+    album: "The Dream Weaver"
+    genres:
+      - Rock
+      - Pop
+  - rank: 38
+    title: "Turn the Beat Around"
+    artist: "Vicki Sue Robinson"
+    year: 1976
+    album: "Never Gonna Let You Go"
+    solo-hit: true
+    genres:
+      - Funk
+      - Pop
+  - rank: 39
+    title: "Lonely Night (Angel Face)"
+    artist: "Captain & Tennille"
+    year: 1976
+    album: "Song of Joy"
+    genres:
+      - Pop
+  - rank: 40
+    title: "All by Myself"
+    artist: "Eric Carmen"
+    year: 1976
+    album: "Eric Carmen"
+    genres:
+      - Pop
+      - Rock
+  - rank: 41
+    title: "Love to Love You Baby"
+    artist: "Donna Summer"
+    year: 1976
+    album: "Love to Love You Baby"
+    genres:
+      - Funk
+      - Soul
+      - Pop
+  - rank: 42
+    title: "Deep Purple"
+    artist: "Donny & Marie Osmond"
+    year: 1976
+    album: "Featuring Songs from Their Television Show"
+    genres:
+      - Pop
+    tags:
+      - Original artist: Nino Tempo & April Stevens
+  - rank: 43
+    title: "Theme from Mahogany (Do You Know Where You're Going To)"
+    artist: "Diana Ross"
+    year: 1976
+    album: "Mahogany"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soul
+  - rank: 44
+    title: "Sweet Thing"
+    artist: "Rufus"
+    year: 1976
+    album: "Rufus featuring Chaka Khan"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 45
+    title: "That's the Way (I Like It)"
+    artist: "KC and the Sunshine Band"
+    year: 1976
+    album: "KC and the Sunshine Band"
+    genres:
+      - Funk
+      - Pop
+  - rank: 46
+    title: "A Little Bit More"
+    artist: "Dr. Hook"
+    year: 1976
+    album: "A Little Bit More"
+    genres:
+      - Pop
+      - Rock
+  - rank: 47
+    title: "Shannon"
+    artist: "Henry Gross"
+    year: 1976
+    album: "Release"
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+  - rank: 48
+    title: "If You Leave Me Now"
+    artist: "Chicago"
+    year: 1976
+    album: "Chicago X"
+    genres:
+      - Rock
+      - Pop
+  - rank: 49
+    title: "Lowdown"
+    artist: "Boz Scaggs"
+    year: 1976
+    album: "Silk Degrees"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+  - rank: 50
+    title: "Show Me the Way"
+    artist: "Peter Frampton"
+    year: 1976
+    album: "Frampton Comes Alive!"
+    genres:
+      - Rock
+      - Pop
+  - rank: 51
+    title: "Dream On"
+    artist: "Aerosmith"
+    year: 1976
+    album: "Aerosmith"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 52
+    title: "I Love Music"
+    artist: "The O'Jays"
+    year: 1976
+    album: "Family Reunion"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 53
+    title: "Say You Love Me"
+    artist: "Fleetwood Mac"
+    year: 1976
+    album: "Fleetwood Mac"
+    genres:
+      - Rock
+      - Pop
+  - rank: 54
+    title: "Times of Your Life"
+    artist: "Paul Anka"
+    year: 1976
+    album: "Times of Your Life"
+    genres:
+      - Pop
+      - Standards
+  - rank: 55
+    title: "Devil Woman"
+    artist: "Cliff Richard"
+    year: 1976
+    album: "I'm Nearly Famous"
+    genres:
+      - Rock
+      - Pop
+  - rank: 56
+    title: "Fooled Around and Fell in Love"
+    artist: "Elvin Bishop"
+    year: 1976
+    album: "Struttin' My Stuff"
+    genres:
+      - Rock
+      - Blues
+  - rank: 57
+    title: "Convoy"
+    artist: "C. W. McCall"
+    year: 1976
+    album: "Black Bear Road"
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+  - rank: 58
+    title: "Welcome Back"
+    artist: "John Sebastian"
+    year: 1976
+    album: "Welcome Back"
+    soundtrack: true
+    genres:
+      - Pop
+      - Folk
+  - rank: 59
+    title: "Sing a Song"
+    artist: "Earth, Wind & Fire"
+    year: 1976
+    album: "Gratitude"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+  - rank: 60
+    title: "Heaven Must Be Missing an Angel"
+    artist: "Tavares"
+    year: 1976
+    album: "Sky High!"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 61
+    title: "I'll Be Good to You"
+    artist: "The Brothers Johnson"
+    year: 1976
+    album: "Look Out for #1"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 62
+    title: "Rock and Roll Music"
+    artist: "The Beach Boys"
+    year: 1976
+    album: "15 Big Ones"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: Chuck Berry
+  - rank: 63
+    title: "Shop Around"
+    artist: "Captain & Tennille"
+    year: 1976
+    album: "Song of Joy"
+    genres:
+      - Pop
+    tags:
+      - Original artist: The Miracles
+  - rank: 64
+    title: "Saturday Night"
+    artist: "Bay City Rollers"
+    year: 1976
+    album: "Bay City Rollers"
+    genres:
+      - Pop
+      - Rock
+  - rank: 65
+    title: "Island Girl"
+    artist: "Elton John"
+    year: 1976
+    album: "Rock of the Westies"
+    genres:
+      - Rock
+      - Pop
+  - rank: 66
+    title: "Let's Do It Again"
+    artist: "The Staple Singers"
+    year: 1976
+    album: "Let's Do It Again"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 67
+    title: "Let 'Em In"
+    artist: "Wings"
+    year: 1976
+    album: "Wings at the Speed of Sound"
+    genres:
+      - Pop
+      - Rock
+  - rank: 68
+    title: "Baby Face"
+    artist: "Wing and a Prayer Fife and Drum Corps"
+    year: 1976
+    album: "Baby Face"
+    genres:
+      - Pop
+      - Standards
+  - rank: 69
+    title: "This Masquerade"
+    artist: "George Benson"
+    year: 1976
+    album: "Breezin'"
+    genres:
+      - Jazz
+      - Pop
+      - Soul
+  - rank: 70
+    title: "Evil Woman"
+    artist: "Electric Light Orchestra"
+    year: 1976
+    album: "Face the Music"
+    genres:
+      - Rock
+      - Pop
+  - rank: 71
+    title: "Wham Bam"
+    artist: "Silver"
+    year: 1976
+    album: "Silver"
+    genres:
+      - Rock
+      - Pop
+  - rank: 72
+    title: "I'm Easy"
+    artist: "Keith Carradine"
+    year: 1976
+    album: "I'm Easy"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+  - rank: 73
+    title: "Wake Up Everybody"
+    artist: "Harold Melvin & the Blue Notes"
+    year: 1976
+    album: "Wake Up Everybody"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 74
+    title: "Summer"
+    artist: "War"
+    year: 1976
+    album: "Love Is All Around"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+  - rank: 75
+    title: "Hotel California"
+    artist: "Eagles"
+    year: 1976
+    album: "Hotel California"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 76
+    title: "More Than a Feeling"
+    artist: "Boston"
+    year: 1976
+    album: "Boston"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: "Anarchy in the U.K."
+    artist: "Sex Pistols"
+    year: 1976
+    album: "Never Mind the Bollocks, Here's the Sex Pistols"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 78
+    title: "(Don't Fear) The Reaper"
+    artist: "Blue Oyster Cult"
+    year: 1976
+    album: "Agents of Fortune"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: "Night Moves"
+    artist: "Bob Seger"
+    year: 1976
+    album: "Night Moves"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: "Blitzkrieg Bop"
+    artist: "Ramones"
+    year: 1976
+    album: "Ramones"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 81
+    title: "The Boys Are Back in Town"
+    artist: "Thin Lizzy"
+    year: 1976
+    album: "Jailbreak"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 82
+    title: "I Wish"
+    artist: "Stevie Wonder"
+    year: 1976
+    album: "Songs in the Key of Life"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 83
+    title: "Car Wash"
+    artist: "Rose Royce"
+    year: 1976
+    album: "Car Wash"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 84
+    title: "Sir Duke"
+    artist: "Stevie Wonder"
+    year: 1976
+    album: "Songs in the Key of Life"
+    genres:
+      - Funk
+      - Soul
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 85
+    title: "Dazz"
+    artist: "Brick"
+    year: 1976
+    album: "Good High"
+    genres:
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+  - rank: 86
+    title: "Rubberband Man"
+    artist: "The Spinners"
+    year: 1976
+    album: "Happiness Is Being with the Spinners"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 87
+    title: "Black Market"
+    artist: "Weather Report"
+    year: 1976
+    album: "Black Market"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Instrumental
+  - rank: 88
+    title: "Romantic Warrior"
+    artist: "Return to Forever"
+    year: 1976
+    album: "Romantic Warrior"
+    genres:
+      - Jazz
+    tags:
+      - Instrumental
+  - rank: 89
+    title: "Tom Traubert's Blues"
+    artist: "Tom Waits"
+    year: 1976
+    album: "Small Change"
+    genres:
+      - Jazz
+      - Blues
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: "Dirty Deeds Done Dirt Cheap"
+    artist: "AC/DC"
+    year: 1976
+    album: "Dirty Deeds Done Dirt Cheap"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: "American Girl"
+    artist: "Tom Petty & the Heartbreakers"
+    year: 1976
+    album: "Tom Petty & the Heartbreakers"
+    genres:
+      - Rock
+  - rank: 92
+    title: "Detroit Rock City"
+    artist: "Kiss"
+    year: 1976
+    album: "Destroyer"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: "Cherry Bomb"
+    artist: "The Runaways"
+    year: 1976
+    album: "The Runaways"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 94
+    title: "Get Up Offa That Thing"
+    artist: "James Brown"
+    year: 1976
+    album: "Get Up Offa That Thing"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 95
+    title: "New Rose"
+    artist: "The Damned"
+    year: 1976
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 96
+    title: "Police and Thieves"
+    artist: "Junior Murvin"
+    year: 1976
+    album: "Police and Thieves"
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 97
+    title: "Young Hearts Run Free"
+    artist: "Candi Staton"
+    year: 1976
+    album: "Young Hearts Run Free"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 98
+    title: "Beth"
+    artist: "Kiss"
+    year: 1976
+    album: "Destroyer"
+    genres:
+      - Rock
+      - Pop
+  - rank: 99
+    title: "Achilles Last Stand"
+    artist: "Led Zeppelin"
+    year: 1976
+    album: "Presence"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 100
+    title: "Back in the Saddle"
+    artist: "Aerosmith"
+    year: 1976
+    album: "Rocks"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite

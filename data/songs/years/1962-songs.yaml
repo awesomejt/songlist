@@ -1,0 +1,1040 @@
+songs:
+  - rank: 1
+    title: Stranger On The Shore
+    artist: Mr. Acker Bilk
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #1
+      - Instrumental
+      - Culturally important
+  - rank: 2
+    title: I Can't Stop Loving You
+    artist: Ray Charles
+    year: 1962
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 3
+    title: Mashed Potato Time
+    artist: Dee Dee Sharp
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #1
+  - rank: 4
+    title: Roses Are Red (My Love)
+    artist: Bobby Vinton
+    year: 1962
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: The Stripper
+    artist: David Rose
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Instrumental
+  - rank: 6
+    title: Johnny Angel
+    artist: Shelley Fabares
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: The Loco-Motion
+    artist: Little Eva
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 8
+    title: Let Me In
+    artist: The Sensations
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #2
+  - rank: 9
+    title: The Twist
+    artist: Chubby Checker
+    year: 1962
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 10
+    title: Soldier Boy
+    artist: The Shirelles
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #3
+  - rank: 11
+    title: Hey! Baby
+    artist: Bruce Channel
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #2
+  - rank: 12
+    title: The Wanderer
+    artist: Dion
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #10
+      - Culturally important
+  - rank: 13
+    title: Duke Of Earl
+    artist: Gene Chandler
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 14
+    title: Palisades Park
+    artist: Freddy Cannon
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 15
+    title: Breaking Up Is Hard To Do
+    artist: Neil Sedaka
+    year: 1962
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 16
+    title: Wolverton Mountain
+    artist: Claude King
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Billboard Hot 100 #6
+      - Crossover hit
+  - rank: 17
+    title: Slow Twistin'
+    artist: Chubby Checker
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #3
+  - rank: 18
+    title: Good Luck Charm
+    artist: Elvis Presley
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 19
+    title: Sheila
+    artist: Tommy Roe
+    year: 1962
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #6
+  - rank: 20
+    title: Twistin' The Night Away
+    artist: Sam Cooke
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 21
+    title: Tall Oak Tree
+    artist: Dorsey Burnette
+    year: 1962
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #23
+  - rank: 22
+    title: Ramblin' Rose
+    artist: Nat King Cole
+    year: 1962
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #7
+  - rank: 23
+    title: The Wah-Watusi
+    artist: The Orlons
+    year: 1962
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+      - Billboard R&B #5
+  - rank: 24
+    title: Peppermint Twist
+    artist: Joey Dee & The Starliters
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #8
+  - rank: 25
+    title: Lover Please
+    artist: Clyde McPhatter
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #4
+  - rank: 26
+    title: Norman
+    artist: Sue Thompson
+    year: 1962
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 27
+    title: The Man Who Shot Liberty Valance
+    artist: Gene Pitney
+    year: 1962
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 28
+    title: Crying In The Rain
+    artist: The Everly Brothers
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 29
+    title: Lovers Who Wander
+    artist: Dion
+    year: 1962
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 30
+    title: Playboy
+    artist: The Marvelettes
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #4
+  - rank: 31
+    title: Sherry
+    artist: The Four Seasons
+    year: 1962
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 32
+    title: Don't Play That Song (You Lied)
+    artist: Ben E. King
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #11
+      - Billboard R&B #2
+  - rank: 33
+    title: Surfin' Safari
+    artist: The Beach Boys
+    year: 1962
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #14
+      - Culturally important
+  - rank: 34
+    title: Party Lights
+    artist: Claudine Clark
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+      - Billboard R&B #3
+  - rank: 35
+    title: The One Who Really Loves You
+    artist: Mary Wells
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #2
+  - rank: 36
+    title: Green Onions
+    artist: Booker T. & the M.G.'s
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+      - Instrumental
+      - Culturally important
+  - rank: 37
+    title: You Belong To Me
+    artist: The Duprees
+    year: 1962
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 38
+    title: Baby It's You
+    artist: The Shirelles
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #3
+  - rank: 39
+    title: Twistin' The Night Away
+    artist: Sam Cooke
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+      - Billboard R&B #1
+      - Fan favorite
+  - rank: 40
+    title: Make It Easy On Yourself
+    artist: Jerry Butler
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #20
+      - Billboard R&B #18
+      - Culturally important
+  - rank: 41
+    title: You've Really Got A Hold On Me
+    artist: The Miracles
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 42
+    title: Any Day Now (My Wild Beautiful Bird)
+    artist: Chuck Jackson
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #23
+      - Billboard R&B #2
+  - rank: 43
+    title: Bring It On Home To Me
+    artist: Sam Cooke
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #13
+      - Billboard R&B #3
+      - Culturally important
+      - Fan favorite
+  - rank: 44
+    title: Having A Party
+    artist: Sam Cooke
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #17
+      - Billboard R&B #4
+  - rank: 45
+    title: Letter Full Of Tears
+    artist: Gladys Knight & The Pips
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #19
+      - Billboard R&B #3
+  - rank: 46
+    title: Twist And Shout
+    artist: The Isley Brothers
+    year: 1962
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - Billboard Hot 100 #17
+      - Billboard R&B #2
+      - Culturally important
+  - rank: 47
+    title: Soul Twist
+    artist: King Curtis
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #17
+      - Billboard R&B #1
+      - Instrumental
+  - rank: 48
+    title: I Know (You Don't Love Me No More)
+    artist: Barbara George
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+  - rank: 49
+    title: Night Train
+    artist: James Brown
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #35
+      - Billboard R&B #5
+      - Instrumental
+  - rank: 50
+    title: Snap Your Fingers
+    artist: Joe Henderson
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #2
+  - rank: 51
+    title: Lover Please
+    artist: Clyde McPhatter
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #4
+  - rank: 52
+    title: Tuff
+    artist: Ace Cannon
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #17
+      - Instrumental
+  - rank: 53
+    title: Lover's Island
+    artist: The Blue Jays
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #31
+      - Billboard R&B #15
+  - rank: 54
+    title: Shout And Shimmy
+    artist: James Brown
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #16
+      - Fan favorite
+  - rank: 55
+    title: Rinky Dink
+    artist: Dave Baby Cortez
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #10
+      - Billboard R&B #9
+      - Instrumental
+  - rank: 56
+    title: What's Your Name
+    artist: Don and Juan
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 57
+    title: Strange I Know
+    artist: The Marvelettes
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #10
+  - rank: 58
+    title: You Beat Me To The Punch
+    artist: Mary Wells
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #9
+      - Billboard R&B #1
+  - rank: 59
+    title: If You Gotta Make A Fool Of Somebody
+    artist: James Ray
+    year: 1962
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #22
+      - Billboard R&B #10
+  - rank: 60
+    title: Letter Full Of Tears
+    artist: Gladys Knight & The Pips
+    year: 1962
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #19
+      - Billboard R&B #3
+  - rank: 61
+    title: Modern Sounds in Country and Western Music
+    artist: Ray Charles
+    year: 1962
+    album: Modern Sounds in Country and Western Music
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 62
+    title: Tijuana Moods
+    artist: Charles Mingus
+    year: 1962
+    album: Tijuana Moods
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 63
+    title: Waltz for Debby
+    artist: Bill Evans Trio
+    year: 1962
+    album: Waltz for Debby
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 64
+    title: Evidence
+    artist: Steve Lacy
+    year: 1962
+    album: Evidence
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 65
+    title: Jazz Samba
+    artist: Stan Getz & Charlie Byrd
+    year: 1962
+    album: Jazz Samba
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 66
+    title: Burnin'
+    artist: John Lee Hooker
+    year: 1962
+    album: Burnin'
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 67
+    title: R&B from The Marquee
+    artist: Alexis Korner's Blues Incorporated
+    year: 1962
+    album: R&B from The Marquee
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 68
+    title: Big Bill Broonzy Sings Folk Songs
+    artist: Big Bill Broonzy
+    year: 1962
+    album: Big Bill Broonzy Sings Folk Songs
+    genres:
+      - Blues
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 69
+    title: Lightnin' Strikes
+    artist: Lightnin' Hopkins
+    year: 1962
+    album: Lightnin' Strikes
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 70
+    title: Folksinger
+    artist: Dave Van Ronk
+    year: 1962
+    album: Folksinger
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 71
+    title: The Midnight Special
+    artist: Harry Belafonte
+    year: 1962
+    album: The Midnight Special
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 72
+    title: Woody Guthrie Sings Folk Songs
+    artist: Woody Guthrie
+    year: 1962
+    album: Woody Guthrie Sings Folk Songs
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 73
+    title: Peter, Paul and Mary
+    artist: Peter, Paul and Mary
+    year: 1962
+    album: Peter, Paul and Mary
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 74
+    title: Odetta and the Blues
+    artist: Odetta
+    year: 1962
+    album: Odetta and the Blues
+    genres:
+      - Folk
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 75
+    title: The Freewheelin' Bob Dylan
+    artist: Bob Dylan
+    year: 1962
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 76
+    title: Boom Boom
+    artist: John Lee Hooker
+    year: 1962
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard Hot 100 #60
+      - Billboard R&B #16
+      - Culturally important
+      - Fan favorite
+  - rank: 77
+    title: Process
+    artist: John Lee Hooker
+    year: 1962
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 78
+    title: Dimples
+    artist: John Lee Hooker
+    year: 1962
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 79
+    title: Boom Boom (Out Go The Lights)
+    artist: Little Walter
+    year: 1962
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 80
+    title: My Babe
+    artist: Little Walter
+    year: 1962
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 81
+    title: The Masquerade Is Over
+    artist: Jimmy Smith
+    year: 1962
+    album: Bashin' - The Unpredictable Jimmy Smith
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 82
+    title: Desafinado
+    artist: Stan Getz & Charlie Byrd
+    year: 1962
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Billboard Hot 100 #15
+      - Culturally important
+  - rank: 83
+    title: Samba Triste
+    artist: Stan Getz & Charlie Byrd
+    year: 1962
+    album: Jazz Samba
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 84
+    title: Dizzy Moods
+    artist: Charles Mingus
+    year: 1962
+    album: Tijuana Moods
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 85
+    title: Los Mariachis
+    artist: Charles Mingus
+    year: 1962
+    album: Tijuana Moods
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 86
+    title: Waltz for Debby
+    artist: Bill Evans Trio
+    year: 1962
+    album: Waltz for Debby
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 87
+    title: My Romance
+    artist: Bill Evans Trio
+    year: 1962
+    album: Waltz for Debby
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: Evidence
+    artist: Steve Lacy
+    year: 1962
+    album: Evidence
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 89
+    title: Let's Call The Whole Thing Off
+    artist: Steve Lacy
+    year: 1962
+    album: Evidence
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: Samba Dees Days
+    artist: Stan Getz & Charlie Byrd
+    year: 1962
+    album: Jazz Samba
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 91
+    title: O Pato
+    artist: Stan Getz & Charlie Byrd
+    year: 1962
+    album: Jazz Samba
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 92
+    title: 409
+    artist: The Beach Boys
+    year: 1962
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #76
+      - Fan favorite
+  - rank: 93
+    title: Lemon Tree
+    artist: Peter, Paul and Mary
+    year: 1962
+    single: true
+    genres:
+      - Folk
+    tags:
+      - Billboard Hot 100 #35
+      - Fan favorite
+  - rank: 94
+    title: If I Had a Hammer
+    artist: Peter, Paul and Mary
+    year: 1962
+    single: true
+    cover: true
+    genres:
+      - Folk
+    tags:
+      - Billboard Hot 100 #10
+      - Culturally important
+  - rank: 95
+    title: Midnight Special
+    artist: Harry Belafonte
+    year: 1962
+    album: The Midnight Special
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 96
+    title: Crawdad Song
+    artist: Harry Belafonte
+    year: 1962
+    album: The Midnight Special
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 97
+    title: Dink's Song
+    artist: Dave Van Ronk
+    year: 1962
+    album: Folksinger
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 98
+    title: He Was A Friend Of Mine
+    artist: Dave Van Ronk
+    year: 1962
+    album: Folksinger
+    genres:
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 99
+    title: The Unicorn
+    artist: The Irish Rovers
+    year: 1962
+    album: The Unicorn
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 100
+    title: The Patriot Game
+    artist: The Clancy Brothers
+    year: 1962
+    album: Come Fill Your Glass With Us
+    genres:
+      - Folk
+    tags:
+      - Fan favorite

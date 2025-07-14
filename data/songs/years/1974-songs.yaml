@@ -1,0 +1,916 @@
+songs:
+  - rank: 1
+    title: "The Way We Were"
+    artist: "Barbra Streisand"
+    year: 1974
+    album: "The Way We Were"
+    soundtrack: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Academy Award for Best Original Song
+      - Grammy for Song of the Year
+  - rank: 2
+    title: "Seasons in the Sun"
+    artist: "Terry Jacks"
+    year: 1974
+    album: "Seasons in the Sun"
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 3
+    title: "Love's Theme"
+    artist: "Love Unlimited Orchestra"
+    year: 1974
+    album: "Rhapsody in White"
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Instrumental hit
+  - rank: 4
+    title: "Come and Get Your Love"
+    artist: "Redbone"
+    year: 1974
+    album: "Wovoka"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 5
+    title: "Dancing Machine"
+    artist: "The Jackson 5"
+    year: 1974
+    album: "Dancing Machine"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 6
+    title: "The Loco-Motion"
+    artist: "Grand Funk Railroad"
+    year: 1974
+    album: "Shinin' On"
+    genres:
+      - Rock
+    tags:
+      - Original artist: Little Eva
+  - rank: 7
+    title: "TSOP (The Sound of Philadelphia)"
+    artist: "MFSB & The Three Degrees"
+    year: 1974
+    album: "Love is the Message"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Instrumental with vocals
+  - rank: 8
+    title: "Bennie and the Jets"
+    artist: "Elton John"
+    year: 1974
+    album: "Goodbye Yellow Brick Road"
+    genres:
+      - Rock
+      - Pop
+  - rank: 9
+    title: "Until You Come Back to Me (That's What I'm Gonna Do)"
+    artist: "Aretha Franklin"
+    year: 1974
+    album: "Let Me in Your Life"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Original artist: Stevie Wonder
+  - rank: 10
+    title: "Jungle Boogie"
+    artist: "Kool & the Gang"
+    year: 1974
+    album: "Wild and Peaceful"
+    genres:
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Cultural important
+  - rank: 11
+    title: "Midnight at the Oasis"
+    artist: "Maria Muldaur"
+    year: 1974
+    album: "Maria Muldaur"
+    genres:
+      - Pop
+      - Folk
+      - Blues
+    solo-hit: true
+  - rank: 12
+    title: "You Make Me Feel Brand New"
+    artist: "The Stylistics"
+    year: 1974
+    album: "Rockin' Roll Baby"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 13
+    title: "Show and Tell"
+    artist: "Al Wilson"
+    year: 1974
+    album: "Show and Tell"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    solo-hit: true
+  - rank: 14
+    title: "Rock On"
+    artist: "David Essex"
+    year: 1974
+    album: "Rock On"
+    genres:
+      - Rock
+      - Pop
+    solo-hit: true
+  - rank: 15
+    title: "Sunshine on My Shoulders"
+    artist: "John Denver"
+    year: 1974
+    album: "Poems, Prayers & Promises"
+    genres:
+      - Folk
+      - Pop
+  - rank: 16
+    title: "Sideshow"
+    artist: "Blue Magic"
+    year: 1974
+    album: "Blue Magic"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    solo-hit: true
+  - rank: 17
+    title: "Hooked on a Feeling"
+    artist: "Blue Swede"
+    year: 1974
+    album: "Hooked on a Feeling"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: B.J. Thomas
+    solo-hit: true
+  - rank: 18
+    title: "Band on the Run"
+    artist: "Paul McCartney and Wings"
+    year: 1974
+    album: "Band on the Run"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 19
+    title: "Time in a Bottle"
+    artist: "Jim Croce"
+    year: 1974
+    album: "You Don't Mess Around with Jim"
+    genres:
+      - Folk
+      - Pop
+  - rank: 20
+    title: "Annie's Song"
+    artist: "John Denver"
+    year: 1974
+    album: "Back Home Again"
+    genres:
+      - Folk
+      - Pop
+  - rank: 21
+    title: "Sundown"
+    artist: "Gordon Lightfoot"
+    year: 1974
+    album: "Sundown"
+    genres:
+      - Folk
+      - Pop
+  - rank: 22
+    title: "Rock Me Gently"
+    artist: "Andy Kim"
+    year: 1974
+    album: "Andy Kim"
+    genres:
+      - Pop
+      - Rock
+  - rank: 23
+    title: "Boogie Down"
+    artist: "Eddie Kendricks"
+    year: 1974
+    album: "Boogie Down!"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 24
+    title: "You're Sixteen"
+    artist: "Ringo Starr"
+    year: 1974
+    album: "Ringo"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: Johnny Burnette
+  - rank: 25
+    title: "Best Thing That Ever Happened to Me"
+    artist: "Gladys Knight & the Pips"
+    year: 1974
+    album: "Imagination"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Original artist: Jim Weatherly
+  - rank: 26
+    title: "Feel Like Makin' Love"
+    artist: "Roberta Flack"
+    year: 1974
+    album: "Feel Like Makin' Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 27
+    title: "Just Don't Want to Be Lonely"
+    artist: "The Main Ingredient"
+    year: 1974
+    album: "Euphrates River"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 28
+    title: "Nothing from Nothing"
+    artist: "Billy Preston"
+    year: 1974
+    album: "The Kids & Me"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 29
+    title: "Rock Your Baby"
+    artist: "George McCrae"
+    year: 1974
+    album: "Rock Your Baby"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    solo-hit: true
+    tags:
+      - Cultural important
+  - rank: 30
+    title: "The Joker"
+    artist: "Steve Miller Band"
+    year: 1974
+    album: "The Joker"
+    genres:
+      - Rock
+      - Blues
+  - rank: 31
+    title: "I've Got to Use My Imagination"
+    artist: "Gladys Knight & the Pips"
+    year: 1974
+    album: "Imagination"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 32
+    title: "The Show Must Go On"
+    artist: "Three Dog Night"
+    year: 1974
+    album: "Hard Labor"
+    genres:
+      - Rock
+      - Pop
+  - rank: 33
+    title: "Rock the Boat"
+    artist: "The Hues Corporation"
+    year: 1974
+    album: "Freedom for the Stallion"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    solo-hit: true
+  - rank: 34
+    title: "Smokin' in the Boys Room"
+    artist: "Brownsville Station"
+    year: 1974
+    album: "Yeah!"
+    genres:
+      - Rock
+    solo-hit: true
+  - rank: 35
+    title: "Living for the City"
+    artist: "Stevie Wonder"
+    year: 1974
+    album: "Innervisions"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 36
+    title: "Then Came You"
+    artist: "Dionne Warwick & The Spinners"
+    year: 1974
+    album: "New and Improved"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 37
+    title: "The Entertainer"
+    artist: "Marvin Hamlisch"
+    year: 1974
+    album: "The Sting"
+    soundtrack: true
+    genres:
+      - Standards
+      - Jazz
+    tags:
+      - Instrumental
+  - rank: 38
+    title: "Waterloo"
+    artist: "ABBA"
+    year: 1974
+    album: "Waterloo"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Eurovision winner
+  - rank: 39
+    title: "The Air That I Breathe"
+    artist: "The Hollies"
+    year: 1974
+    album: "The Hollies"
+    genres:
+      - Rock
+      - Pop
+  - rank: 40
+    title: "Rikki Don't Lose That Number"
+    artist: "Steely Dan"
+    year: 1974
+    album: "Pretzel Logic"
+    genres:
+      - Rock
+      - Jazz
+  - rank: 41
+    title: "Mockingbird"
+    artist: "Carly Simon & James Taylor"
+    year: 1974
+    album: "Hotcakes"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Original artist: Inez and Charlie Foxx
+  - rank: 42
+    title: "Help Me"
+    artist: "Joni Mitchell"
+    year: 1974
+    album: "Court and Spark"
+    genres:
+      - Folk
+      - Pop
+      - Jazz
+  - rank: 43
+    title: "Never, Never Gonna Give You Up"
+    artist: "Barry White"
+    year: 1974
+    album: "Stone Gon'"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 44
+    title: "Tell Me Something Good"
+    artist: "Rufus & Chaka Khan"
+    year: 1974
+    album: "Rags To Rufus"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Grammy winner
+  - rank: 45
+    title: "Rock and Roll Heaven"
+    artist: "The Righteous Brothers"
+    year: 1974
+    album: "Give It to the People"
+    genres:
+      - Rock
+      - Pop
+  - rank: 46
+    title: "Hollywood Swinging"
+    artist: "Kool & the Gang"
+    year: 1974
+    album: "Wild and Peaceful"
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 47
+    title: "Be Thankful for What You Got"
+    artist: "William DeVaughn"
+    year: 1974
+    album: "Be Thankful for What You Got"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    solo-hit: true
+  - rank: 48
+    title: "Takin' Care of Business"
+    artist: "Bachman-Turner Overdrive"
+    year: 1974
+    album: "Bachman–Turner Overdrive II"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 49
+    title: "Radar Love"
+    artist: "Golden Earring"
+    year: 1974
+    album: "Moontan"
+    genres:
+      - Rock
+    solo-hit: true
+    tags:
+      - Fan favorite
+  - rank: 50
+    title: "Lookin' for a Love"
+    artist: "Bobby Womack"
+    year: 1974
+    album: "Lookin' for a Love Again"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 51
+    title: "Put Your Hands Together"
+    artist: "The O'Jays"
+    year: 1974
+    album: "Ship Ahoy"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 52
+    title: "On and On"
+    artist: "Gladys Knight & the Pips"
+    year: 1974
+    album: "Claudine"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 53
+    title: "Oh Very Young"
+    artist: "Cat Stevens"
+    year: 1974
+    album: "Buddha and the Chocolate Box"
+    genres:
+      - Folk
+      - Pop
+  - rank: 54
+    title: "Goodbye Yellow Brick Road"
+    artist: "Elton John"
+    year: 1974
+    album: "Goodbye Yellow Brick Road"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "(I've Been) Searchin' So Long"
+    artist: "Chicago"
+    year: 1974
+    album: "Chicago VII"
+    genres:
+      - Rock
+      - Pop
+      - Jazz
+  - rank: 56
+    title: "For the Love of Money"
+    artist: "The O'Jays"
+    year: 1974
+    album: "Ship Ahoy"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Cultural important
+  - rank: 57
+    title: "I Shot the Sheriff"
+    artist: "Eric Clapton"
+    year: 1974
+    album: "461 Ocean Boulevard"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 58
+    title: "Jet"
+    artist: "Paul McCartney and Wings"
+    year: 1974
+    album: "Band on the Run"
+    genres:
+      - Rock
+      - Pop
+  - rank: 59
+    title: "Don't Let the Sun Go Down on Me"
+    artist: "Elton John"
+    year: 1974
+    album: "Caribou"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 60
+    title: "Tubular Bells"
+    artist: "Mike Oldfield"
+    year: 1974
+    album: "Tubular Bells"
+    soundtrack: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Instrumental
+      - From The Exorcist
+  - rank: 61
+    title: "Hello It's Me"
+    artist: "Todd Rundgren"
+    year: 1974
+    album: "Something/Anything?"
+    genres:
+      - Rock
+      - Pop
+  - rank: 62
+    title: "I'll Have to Say I Love You in a Song"
+    artist: "Jim Croce"
+    year: 1974
+    album: "I Got a Name"
+    genres:
+      - Folk
+      - Pop
+  - rank: 63
+    title: "Don't You Worry 'bout a Thing"
+    artist: "Stevie Wonder"
+    year: 1974
+    album: "Innervisions"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+  - rank: 64
+    title: "Beach Baby"
+    artist: "The First Class"
+    year: 1974
+    album: "The First Class"
+    genres:
+      - Pop
+      - Rock
+    solo-hit: true
+  - rank: 65
+    title: "Me and Baby Brother"
+    artist: "War"
+    year: 1974
+    album: "Deliver the Word"
+    genres:
+      - Funk
+      - Rhythm and Blues
+      - Soul
+  - rank: 66
+    title: "I Honestly Love You"
+    artist: "Olivia Newton-John"
+    year: 1974
+    album: "Long Live Love"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Grammy for Record of the Year
+  - rank: 67
+    title: "Call on Me"
+    artist: "Chicago"
+    year: 1974
+    album: "Chicago VII"
+    genres:
+      - Rock
+      - Pop
+      - Jazz
+  - rank: 68
+    title: "Wild Thing"
+    artist: "Fancy"
+    year: 1974
+    album: "Wild Thing"
+    genres:
+      - Rock
+    tags:
+      - Original artist: The Troggs
+  - rank: 69
+    title: "Mighty Love"
+    artist: "The Spinners"
+    year: 1974
+    album: "Mighty Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 70
+    title: "Sweet Home Alabama"
+    artist: "Lynyrd Skynyrd"
+    year: 1974
+    album: "Second Helping"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 71
+    title: "Killer Queen"
+    artist: "Queen"
+    year: 1974
+    album: "Sheer Heart Attack"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 72
+    title: "Rebel Rebel"
+    artist: "David Bowie"
+    year: 1974
+    album: "Diamond Dogs"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 73
+    title: "You Ain't Seen Nothing Yet"
+    artist: "Bachman-Turner Overdrive"
+    year: 1974
+    album: "Not Fragile"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: "Can't Get Enough"
+    artist: "Bad Company"
+    year: 1974
+    album: "Bad Company"
+    genres:
+      - Rock
+      - Blues
+  - rank: 75
+    title: "Lady Marmalade"
+    artist: "LaBelle"
+    year: 1974
+    album: "Nightbirds"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 76
+    title: "No Woman, No Cry"
+    artist: "Bob Marley and the Wailers"
+    year: 1974
+    album: "Natty Dread"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 77
+    title: "The Payback"
+    artist: "James Brown"
+    year: 1974
+    album: "The Payback"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 78
+    title: "Skin Tight"
+    artist: "Ohio Players"
+    year: 1974
+    album: "Skin Tight"
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 79
+    title: "You're No Good"
+    artist: "Linda Ronstadt"
+    year: 1974
+    album: "Heart Like a Wheel"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+    tags:
+      - Original artist: Dee Dee Warwick
+  - rank: 80
+    title: "Feel Like Makin' Love"
+    artist: "Bad Company"
+    year: 1974
+    album: "Straight Shooter"
+    genres:
+      - Rock
+      - Blues
+  - rank: 81
+    title: "Expansions"
+    artist: "Lonnie Liston Smith & The Cosmic Echoes"
+    year: 1974
+    album: "Expansions"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 82
+    title: "Burn"
+    artist: "Deep Purple"
+    year: 1974
+    album: "Burn"
+    genres:
+      - Rock
+  - rank: 83
+    title: "Finding My Way"
+    artist: "Rush"
+    year: 1974
+    album: "Rush"
+    genres:
+      - Rock
+  - rank: 84
+    title: "Butterfly"
+    artist: "Herbie Hancock"
+    year: 1974
+    album: "Thrust"
+    genres:
+      - Jazz
+      - Funk
+  - rank: 85
+    title: "Actual Proof"
+    artist: "Herbie Hancock"
+    year: 1974
+    album: "Thrust"
+    genres:
+      - Jazz
+      - Funk
+  - rank: 86
+    title: "You Got the Love"
+    artist: "Rufus & Chaka Khan"
+    year: 1974
+    album: "Rags to Rufus"
+    genres:
+      - Funk
+      - Soul
+  - rank: 87
+    title: "Ain't No Love in the Heart of the City"
+    artist: "Bobby Bland"
+    year: 1974
+    album: "Dreamer"
+    genres:
+      - Blues
+      - Soul
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: "The Same Love That Made Me Laugh"
+    artist: "Bill Withers"
+    year: 1974
+    album: "+Justments"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 89
+    title: "Fire"
+    artist: "Ohio Players"
+    year: 1974
+    album: "Fire"
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 90
+    title: "Free Man in Paris"
+    artist: "Joni Mitchell"
+    year: 1974
+    album: "Court and Spark"
+    genres:
+      - Folk
+      - Jazz
+  - rank: 91
+    title: "Raised on Robbery"
+    artist: "Joni Mitchell"
+    year: 1974
+    album: "Court and Spark"
+    genres:
+      - Folk
+      - Rock
+  - rank: 92
+    title: "Let's Straighten It Out"
+    artist: "Latimore"
+    year: 1974
+    album: "More, More, More"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 93
+    title: "Can't Get Enough of Your Love, Babe"
+    artist: "Barry White"
+    year: 1974
+    album: "Can't Get Enough"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 94
+    title: "Papa Don't Take No Mess"
+    artist: "James Brown"
+    year: 1974
+    album: "Hell"
+    genres:
+      - Funk
+      - Soul
+  - rank: 95
+    title: "You Haven't Done Nothing"
+    artist: "Stevie Wonder"
+    year: 1974
+    album: "Fulfillingness' First Finale"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 96
+    title: "Pick Up the Pieces"
+    artist: "Average White Band"
+    year: 1974
+    album: "AWB"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Instrumental
+  - rank: 97
+    title: "Summer Madness"
+    artist: "Kool & the Gang"
+    year: 1974
+    album: "Light of Worlds"
+    genres:
+      - Funk
+      - Jazz
+    tags:
+      - Instrumental
+      - Fan favorite
+  - rank: 98
+    title: "Move on Up"
+    artist: "Curtis Mayfield"
+    year: 1974
+    album: "Curtis"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 99
+    title: "Why I Sing the Blues"
+    artist: "B.B. King"
+    year: 1974
+    album: "Live in Africa"
+    genres:
+      - Blues
+    tags:
+      - Live recording
+  - rank: 100
+    title: "Chameleon"
+    artist: "Herbie Hancock"
+    year: 1974
+    album: "Head Hunters"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Instrumental
+      - Fan favorite

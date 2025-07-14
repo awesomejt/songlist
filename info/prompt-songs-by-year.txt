@@ -1,0 +1,34 @@
+Provide the top hits (100 or less) for the year 2009 focused on rock/rock and roll, hard rock, alternative, grunge, easy listening, soft rock, doo-wop, rockabilly, R&B, standards, soul, disco, swing, pop, folk, funk, new wave, blues, jazz, big band, and related genres - include crossover hits or very strong hits (top 10) in other genres that have mass appeal. Consider any credible sources for top songs of each year when Billboard charts aren't available. Include cultural important songs and fan favorites even if not chart toppers.
+
+Mark cover songs with cover: true - but don't count a song as a cover if the origin was not commercially successful or did not chart.
+Mark songs not part of an album as a single with single: true
+Represent genres and tags as list instead of in-line.
+Mark one-hit wonders as: solo-hit: true - base one-hit status based on USA charts only
+Standardize "Rock and Roll" as simply "Rock". Expand "R&B".
+Mark songs written for a movie or film as soundtrack: true
+Exclude holiday songs. May evaluate compilations or "best of" albums.
+
+Songs YAML format: root element "songs" each song list element should contain title, artist, year, album, single, solo-hit, soundtrack, genres, tags. elements with value false should be omitted. Elements with an empty value should be omitted. Empty lists should be omitted.
+
+YAML example structure:
+---
+songs:
+    - rank: 1
+      title: "Song Title"
+      artist: "Artist Name"
+      year: 19XX
+      album: "Album name" # if not a single
+      single: true # omit if false
+      solo-hit: true # omit if false
+      soundtrack: true # omit if false
+      cover: true # omit if false
+      genres:
+      - Rock
+      - Pop
+      tags:
+	    - Important information
+	    - important accolade
+	    - Original artist # if cover song
+	    - Hits listing
+
+Put YAML into code block for easy copy and paste.

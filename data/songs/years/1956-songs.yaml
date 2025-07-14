@@ -1,0 +1,706 @@
+songs:
+  - title: Heartbreak Hotel
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Don't Be Cruel
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Lisbon Antigua
+    artist: Nelson Riddle
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: My Prayer
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    cover: true
+  - title: The Wayward Wind
+    artist: Gogi Grant
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Hound Dog
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+    cover: true
+  - title: The Poor People of Paris
+    artist: Les Baxter
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Que Sera, Sera (Whatever Will Be, Will Be)
+    artist: Doris Day
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+  - title: Memories Are Made of This
+    artist: Dean Martin
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: (The) Rock and Roll Waltz
+    artist: Kay Starr
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: false
+  - title: Moonglow and Theme from Picnic
+    artist: Morris Stoloff
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+    solo-hit: true
+  - title: The Great Pretender
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I Almost Lost My Mind
+    artist: Pat Boone
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    cover: true
+  - title: I Want You, I Need You, I Love You
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Love Me Tender
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+    soundtrack: true
+  - title: Hot Diggity (Dog Ziggity Boom)
+    artist: Perry Como
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Canadian Sunset
+    artist: Eddie Heywood & Hugo Winterhalter
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Blue Suede Shoes
+    artist: Carl Perkins
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Green Door
+    artist: Jim Lowe
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: No, Not Much
+    artist: The Four Lads
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Honky Tonk
+    artist: Bill Doggett
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Sixteen Tons
+    artist: Tennessee Ernie Ford
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Just Walkin' in the Rain
+    artist: Johnnie Ray
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Allegheny Moon
+    artist: Patti Page
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: I'm in Love Again
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Tonight You Belong to Me
+    artist: Patience and Prudence
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Be-Bop-A-Lula
+    artist: Gene Vincent
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Why Do Fools Fall in Love
+    artist: Frankie Lymon and the Teenagers
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false
+  - title: Standing on the Corner
+    artist: The Four Lads
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: The Flying Saucer
+    artist: Buchanan & Goodman
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: Moonglow and Theme from Picnic
+    artist: George Cates
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+    solo-hit: true
+  - title: See You Later Alligator
+    artist: Bill Haley & His Comets
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: I'll Be Home
+    artist: Pat Boone
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: On the Street Where You Live
+    artist: Vic Damone
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: (You've Got) The Magic Touch
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Born to Be with You
+    artist: The Chordettes
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Band of Gold
+    artist: Don Cherry
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: More
+    artist: Perry Como
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Singing the Blues
+    artist: Guy Mitchell
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Blueberry Hill
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: The Fool
+    artist: Sanford Clark
+    year: 1956
+    single: true
+    genres:
+      - Rock
+    solo-hit: true
+  - title: The Happy Whistler
+    artist: Don Robertson
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: True Love
+    artist: Bing Crosby & Grace Kelly
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    soundtrack: true
+  - title: Long Tall Sally
+    artist: Little Richard
+    year: 1956
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+  - title: A Sweet Old Fashioned Girl
+    artist: Teresa Brewer
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Transfusion
+    artist: Nervous Norvus
+    year: 1956
+    single: true
+    genres:
+      - Pop
+    solo-hit: true
+  - title: It Only Hurts for a Little While
+    artist: The Ames Brothers
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: A Tear Fell
+    artist: Teresa Brewer
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Rock Island Line
+    artist: Lonnie Donegan
+    year: 1956
+    single: true
+    genres:
+      - Folk
+  - title: Singing the Blues
+    artist: Guy Mitchell
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Don't Forbid Me
+    artist: Pat Boone
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Young Love
+    artist: Sonny James
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Blue Suede Shoes
+    artist: Carl Perkins
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Long Tall Sally
+    artist: Little Richard
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Don't Be Cruel
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: I'm in Love Again
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: See You Later, Alligator
+    artist: Bill Haley & His Comets
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: The Banana Boat Song
+    artist: The Tarriers
+    year: 1956
+    single: true
+    genres:
+      - Folk
+    cover: true
+  - title: Honky Tonk (Parts 1 & 2)
+    artist: Bill Doggett
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Love Me
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Blue Monday
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Canadian Sunset
+    artist: Hugo Winterhalter and Eddie Heywood
+    year: 1956
+    single: true
+    genres:
+      - Pop
+  - title: Be-Bop-A-Lula
+    artist: Gene Vincent
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: The Banana Boat Song
+    artist: The Tarriers
+    year: 1956
+    single: true
+    genres:
+      - Folk
+  - title: Treasure of Love
+    artist: Clyde McPhatter
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Rip It Up
+    artist: Little Richard
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Tutti Frutti
+    artist: Little Richard
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Since I Met You Baby
+    artist: Ivory Joe Hunter
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Ivory Tower
+    artist: The Charms
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: I Want You to Be My Girl
+    artist: Frankie Lymon & the Teenagers
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: When My Dreamboat Comes Home
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Eddie My Love
+    artist: The Teen Queens
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: You'll Never Never Know
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Jim Dandy
+    artist: LaVern Baker
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Stranded in the Jungle
+    artist: The Cadets
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: It Isn't Right
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Let the Good Times Roll
+    artist: Shirley & Lee
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Slow Walk
+    artist: Sil Austin
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: My Blue Heaven
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Fever
+    artist: Little Willie John
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: That's All There Is to That
+    artist: Nat King Cole
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Ain't Got No Home
+    artist: Clarence Henry
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false
+  - title: Confidential
+    artist: Sonny Knight
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: R-O-C-K
+    artist: Bill Haley & His Comets
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Stranded in the Jungle
+    artist: The Vibrations
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: On My Word of Honor
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: (I Remember) In the Still of the Nite
+    artist: The Five Satins
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Any Way You Want Me (That's How I Will Be)
+    artist: Elvis Presley
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: I Can't Love You Enough
+    artist: LaVern Baker
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Slow Walk
+    artist: Bill Doggett
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Roll Over Beethoven
+    artist: Chuck Berry
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: See Saw
+    artist: The Moonglows
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Honey Chile
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Ka-Ding Dong
+    artist: The G-Clefs
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Out of Sight, Out of Mind
+    artist: The Five Keys
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: A Casual Look
+    artist: The Six Teens
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Slippin' and Slidin' (Peepin' and Hidin')
+    artist: Little Richard
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Love, Love, Love
+    artist: The Clovers
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: April in Paris
+    artist: Count Basie
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Corrina, Corrina
+    artist: Joe Turner
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: I Feel Good
+    artist: Shirley & Lee
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Seven Days
+    artist: Clyde McPhatter
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Bo Weevil
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Love, Love, Love
+    artist: The Diamonds
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    cover: true
+  - title: Ka-Ding-Dong
+    artist: The Diamonds
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: So-Long
+    artist: Fats Domino
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: A Thousand Miles Away
+    artist: The Heartbeats
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Tricky
+    artist: Gus Jenkins
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: true
+  - title: Ready Teddy
+    artist: Little Richard
+    year: 1956
+    single: true
+    genres:
+      - Rock
+  - title: Heaven on Earth
+    artist: The Platters
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+  - title: Little Girl of Mine
+    artist: The Cleftones
+    year: 1956
+    single: true
+    genres:
+      - Rhythm and Blues
+    solo-hit: false

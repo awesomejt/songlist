@@ -1,0 +1,856 @@
+songs:
+  - rank: 1
+    title: "In da Club"
+    artist: "50 Cent"
+    year: 2003
+    album: "Get Rich or Die Tryin'"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Number-one on Billboard Hot 100 year-end
+
+  - rank: 2
+    title: "Ignition (Remix)"
+    artist: "R. Kelly"
+    year: 2003
+    album: "Chocolate Factory"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 3
+    title: "Crazy in Love"
+    artist: "Beyoncé featuring Jay-Z"
+    year: 2003
+    album: "Dangerously in Love"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 4
+    title: "Get Busy"
+    artist: "Sean Paul"
+    year: 2003
+    album: "Dutty Rock"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 5
+    title: "When I'm Gone"
+    artist: "3 Doors Down"
+    year: 2003
+    album: "Away from the Sun"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 6
+    title: "Unwell"
+    artist: "Matchbox Twenty"
+    year: 2003
+    album: "More Than You Think You Are"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 7
+    title: "Bring Me to Life"
+    artist: "Evanescence featuring Paul McCoy"
+    year: 2003
+    album: "Fallen"
+    soundtrack: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - From Daredevil
+
+  - rank: 8
+    title: "Cry Me a River"
+    artist: "Justin Timberlake"
+    year: 2003
+    album: "Justified"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 9
+    title: "Shake Ya Tailfeather"
+    artist: "Nelly, P. Diddy & Murphy Lee"
+    year: 2003
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From Bad Boys II
+
+  - rank: 10
+    title: "Headstrong"
+    artist: "Trapt"
+    year: 2003
+    album: "Trapt"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 11
+    title: "Lose Yourself"
+    artist: "Eminem"
+    year: 2003
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - From 8 Mile
+      - Cultural phenomenon
+
+  - rank: 12
+    title: "Rock Your Body"
+    artist: "Justin Timberlake"
+    year: 2003
+    album: "Justified"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 13
+    title: "Are You Gonna Be My Girl"
+    artist: "Jet"
+    year: 2003
+    album: "Get Born"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 14
+    title: "Seven Nation Army"
+    artist: "The White Stripes"
+    year: 2003
+    album: "Elephant"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Cultural icon
+
+  - rank: 15
+    title: "Hey Ya!"
+    artist: "OutKast"
+    year: 2003
+    album: "Speakerboxxx/The Love Below"
+    genres:
+      - Pop
+      - Funk
+      - Soul
+    tags:
+      - Cultural phenomenon
+
+  - rank: 16
+    title: "Like a Stone"
+    artist: "Audioslave"
+    year: 2003
+    album: "Audioslave"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 17
+    title: "Numb"
+    artist: "Linkin Park"
+    year: 2003
+    album: "Meteora"
+    genres:
+      - Rock
+      - Alternative
+      - Hard Rock
+
+  - rank: 18
+    title: "Clocks"
+    artist: "Coldplay"
+    year: 2003
+    album: "A Rush of Blood to the Head"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 19
+    title: "Someday"
+    artist: "Nickelback"
+    year: 2003
+    album: "The Long Road"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 20
+    title: "Faint"
+    artist: "Linkin Park"
+    year: 2003
+    album: "Meteora"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+
+  - rank: 21
+    title: "Stacy's Mom"
+    artist: "Fountains of Wayne"
+    year: 2003
+    album: "Welcome Interstate Managers"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 22
+    title: "So Far Away"
+    artist: "Staind"
+    year: 2003
+    album: "14 Shades of Grey"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 23
+    title: "Here Without You"
+    artist: "3 Doors Down"
+    year: 2003
+    album: "Away from the Sun"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 24
+    title: "Going Under"
+    artist: "Evanescence"
+    year: 2003
+    album: "Fallen"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 25
+    title: "Somewhere I Belong"
+    artist: "Linkin Park"
+    year: 2003
+    album: "Meteora"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 26
+    title: "Still Waiting"
+    artist: "Sum 41"
+    year: 2003
+    album: "Does This Look Infected?"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 27
+    title: "Bottom of a Bottle"
+    artist: "Smile Empty Soul"
+    year: 2003
+    album: "Smile Empty Soul"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 28
+    title: "Show Me How to Live"
+    artist: "Audioslave"
+    year: 2003
+    album: "Audioslave"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 29
+    title: "Times Like These"
+    artist: "Foo Fighters"
+    year: 2003
+    album: "One by One"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 30
+    title: "The Red"
+    artist: "Chevelle"
+    year: 2003
+    album: "Wonder What's Next"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 31
+    title: "Baby Boy"
+    artist: "Beyoncé featuring Sean Paul"
+    year: 2003
+    album: "Dangerously in Love"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 32
+    title: "Step in the Name of Love"
+    artist: "R. Kelly"
+    year: 2003
+    album: "Chocolate Factory"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 33
+    title: "Frontin'"
+    artist: "Pharrell Williams featuring Jay-Z"
+    year: 2003
+    album: "The Neptunes Present... Clones"
+    genres:
+      - Rhythm and Blues
+      - Funk
+
+  - rank: 34
+    title: "The Way You Move"
+    artist: "OutKast featuring Sleepy Brown"
+    year: 2003
+    album: "Speakerboxxx/The Love Below"
+    genres:
+      - Rhythm and Blues
+      - Funk
+
+  - rank: 35
+    title: "Snake"
+    artist: "R. Kelly featuring Big Tigger"
+    year: 2003
+    album: "Chocolate Factory"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 36
+    title: "Love Calls"
+    artist: "Kem"
+    year: 2003
+    album: "Kemistry"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 37
+    title: "I Love This Bar"
+    artist: "Toby Keith"
+    year: 2003
+    album: "Shock'n Y'all"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 38
+    title: "Milkshake"
+    artist: "Kelis"
+    year: 2003
+    album: "Tasty"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 39
+    title: "Holidae In"
+    artist: "Chingy featuring Ludacris & Snoop Dogg"
+    year: 2003
+    album: "Jackpot"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 40
+    title: "Stand Up"
+    artist: "Ludacris featuring Shawnna"
+    year: 2003
+    album: "Chicken-n-Beer"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 41
+    title: "Seven Days of Falling"
+    artist: "Esbjörn Svensson Trio"
+    year: 2003
+    album: "Seven Days of Falling"
+    genres:
+      - Jazz
+
+  - rank: 42
+    title: "Stormy"
+    artist: "Morgan Adams Quartet Plus Two, Madlib"
+    year: 2003
+    album: "Shades of Blue"
+    genres:
+      - Jazz
+
+  - rank: 43
+    title: "Angola"
+    artist: "Wayne Shorter"
+    year: 2003
+    album: "Alegría"
+    genres:
+      - Jazz
+
+  - rank: 44
+    title: "Van Gundy's Retreat"
+    artist: "Tim Berne"
+    year: 2003
+    album: "The Sublime And"
+    genres:
+      - Jazz
+
+  - rank: 45
+    title: "Bounce"
+    artist: "Terence Blanchard"
+    year: 2003
+    album: "Bounce"
+    genres:
+      - Jazz
+
+  - rank: 46
+    title: "Sacajawea"
+    artist: "Wayne Shorter"
+    year: 2003
+    album: "Alegría"
+    genres:
+      - Jazz
+
+  - rank: 47
+    title: "The Wind"
+    artist: "Warren Zevon"
+    year: 2003
+    album: "The Wind"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 48
+    title: "Illinois"
+    artist: "Sufjan Stevens"
+    year: 2003
+    album: "Michigan"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 49
+    title: "Mount Eerie"
+    artist: "The Microphones"
+    year: 2003
+    album: "Mount Eerie"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 50
+    title: "The Sea & The Rhythm"
+    artist: "Iron & Wine"
+    year: 2003
+    album: "The Sea & The Rhythm"
+    genres:
+      - Folk
+
+  - rank: 51
+    title: "Keep Me in Your Heart"
+    artist: "Warren Zevon"
+    year: 2003
+    album: "The Wind"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 52
+    title: "Michigan"
+    artist: "Sufjan Stevens"
+    year: 2003
+    album: "Michigan"
+    genres:
+      - Folk
+
+  - rank: 53
+    title: "I Saw a Bird Fly Away"
+    artist: "The Microphones"
+    year: 2003
+    album: "Mount Eerie"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 54
+    title: "Fever Dream"
+    artist: "Iron & Wine"
+    year: 2003
+    album: "Our Endless Numbered Days"
+    genres:
+      - Folk
+
+  - rank: 55
+    title: "Fly Away Little Bird"
+    artist: "Paul Bley, Jimmy Giuffre & Steve Swallow"
+    year: 2003
+    album: "Fly Away Little Bird"
+    genres:
+      - Jazz
+
+  - rank: 56
+    title: "Deep Song"
+    artist: "Kurt Rosenwinkel"
+    year: 2003
+    album: "Deep Song"
+    genres:
+      - Jazz
+
+  - rank: 57
+    title: "These Are the Vistas"
+    artist: "The Bad Plus"
+    year: 2003
+    album: "These Are the Vistas"
+    genres:
+      - Jazz
+
+  - rank: 58
+    title: "Cosmogramma"
+    artist: "Flying Lotus"
+    year: 2003
+    genres:
+      - Jazz
+      - Funk
+
+  - rank: 59
+    title: "Filthy McNasty"
+    artist: "Horace Silver"
+    year: 2003
+    genres:
+      - Jazz
+
+  - rank: 60
+    title: "The Natives Are Restless Tonight"
+    artist: "Horace Silver"
+    year: 2003
+    genres:
+      - Jazz
+
+  - rank: 61
+    title: "Haitian Fight Song"
+    artist: "Charles Mingus"
+    year: 2003
+    genres:
+      - Jazz
+
+  - rank: 62
+    title: "II B.S."
+    artist: "Charles Mingus"
+    year: 2003
+    genres:
+      - Jazz
+
+  - rank: 63
+    title: "I Am Trying to Break Your Heart"
+    artist: "Wilco"
+    year: 2003
+    album: "Yankee Hotel Foxtrot"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 64
+    title: "The Littlest Birds"
+    artist: "The Be Good Tanyas"
+    year: 2003
+    album: "Blue Horse"
+    genres:
+      - Folk
+
+  - rank: 65
+    title: "Lost in Space"
+    artist: "Aimee Mann"
+    year: 2003
+    album: "Lost in Space"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 66
+    title: "EVA"
+    artist: "Jean Jacques Perrey / Camille Yarbrough"
+    year: 2003
+    single: true
+    genres:
+      - Funk
+
+  - rank: 67
+    title: "Suite For Weldon"
+    artist: "Yesterdays New Quintet / Breakestra / Mr Dibbs"
+    year: 2003
+    genres:
+      - Funk
+      - Soul
+
+  - rank: 68
+    title: "Ridin' High"
+    artist: "Platinum Pied Pipers"
+    year: 2003
+    single: true
+    genres:
+      - Funk
+      - Soul
+
+  - rank: 69
+    title: "WannaBwhereUR"
+    artist: "Floetry"
+    year: 2003
+    single: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+
+  - rank: 70
+    title: "Thisizzaluvsong"
+    artist: "Floetry"
+    year: 2003
+    genres:
+      - Soul
+
+  - rank: 71
+    title: "The Housebound Spirit"
+    artist: "Leafcutter John"
+    year: 2003
+    album: "The Housebound Spirit"
+    genres:
+      - Folk
+
+  - rank: 72
+    title: "War Prayers"
+    artist: "Young People"
+    year: 2003
+    album: "War Prayers"
+    genres:
+      - Folk
+
+  - rank: 73
+    title: "Suite For Weldon"
+    artist: "Yesterdays New Quintet"
+    year: 2003
+    genres:
+      - Jazz
+      - Funk
+
+  - rank: 74
+    title: "Tails Out"
+    artist: "Otomo Yoshihide's New Jazz Quintet"
+    year: 2003
+    album: "Tails Out"
+    genres:
+      - Jazz
+
+  - rank: 75
+    title: "Bounce"
+    artist: "Terence Blanchard"
+    year: 2003
+    album: "Bounce"
+    genres:
+      - Jazz
+
+  - rank: 76
+    title: "Uninvisible"
+    artist: "Medeski, Martin & Wood"
+    year: 2003
+    album: "Uninvisible"
+    genres:
+      - Jazz
+      - Funk
+
+  - rank: 77
+    title: "Night Creeper"
+    artist: "Arthur Blythe"
+    year: 2003
+    album: "Focus"
+    genres:
+      - Jazz
+
+  - rank: 78
+    title: "What Goes Around"
+    artist: "Dave Holland"
+    year: 2003
+    album: "What Goes Around"
+    genres:
+      - Jazz
+
+  - rank: 79
+    title: "Live in Paris"
+    artist: "Diana Krall"
+    year: 2003
+    album: "Live in Paris"
+    genres:
+      - Jazz
+      - Standards
+
+  - rank: 80
+    title: "Down by the Sea"
+    artist: "Buddy Guy"
+    year: 2003
+    album: "Sweet Tea"
+    genres:
+      - Blues
+
+  - rank: 81
+    title: "Presumed Innocent"
+    artist: "Marcia Ball"
+    year: 2003
+    album: "Presumed Innocent"
+    genres:
+      - Blues
+
+  - rank: 82
+    title: "2000 Blues"
+    artist: "ZZ Top"
+    year: 2003
+    genres:
+      - Blues
+      - Rock
+
+  - rank: 83
+    title: "Ask Me 'Bout Nothing But The Blues"
+    artist: "Boz Scaggs"
+    year: 2003
+    genres:
+      - Blues
+
+  - rank: 84
+    title: "Born to Be Bad Vol. 3 The Best of Blues-Rock"
+    artist: "Various Artists"
+    year: 2003
+    genres:
+      - Blues
+      - Rock
+
+  - rank: 85
+    title: "Look Up"
+    artist: "Stars"
+    year: 2003
+    genres:
+      - New Wave
+      - Alternative
+
+  - rank: 86
+    title: "Grey Machine"
+    artist: "Pinback"
+    year: 2003
+    genres:
+      - Alternative
+
+  - rank: 87
+    title: "Crayon"
+    artist: "Caribou"
+    year: 2003
+    genres:
+      - Alternative
+
+  - rank: 88
+    title: "Title and Registration"
+    artist: "Death Cab for Cutie"
+    year: 2003
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 89
+    title: "There, There"
+    artist: "Radiohead"
+    year: 2003
+    album: "Hail to the Thief"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 90
+    title: "2+2=5"
+    artist: "Radiohead"
+    year: 2003
+    album: "Hail to the Thief"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 91
+    title: "Suicide Medicine"
+    artist: "Rocky Votolato"
+    year: 2003
+    album: "Suicide Medicine"
+    genres:
+      - Folk
+
+  - rank: 92
+    title: "The Housebound Spirit"
+    artist: "Leafcutter John"
+    year: 2003
+    album: "The Housebound Spirit"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 93
+    title: "War Prayers"
+    artist: "Young People"
+    year: 2003
+    album: "War Prayers"
+    genres:
+      - Folk
+
+  - rank: 94
+    title: "Evelsong"
+    artist: "Magic Carpathians Project"
+    year: 2003
+    genres:
+      - Folk
+
+  - rank: 95
+    title: "Wreck Of The Old 97"
+    artist: "The Folk Masters"
+    year: 2003
+    genres:
+      - Folk
+
+  - rank: 96
+    title: "Midnight Special"
+    artist: "The Folk Masters"
+    year: 2003
+    genres:
+      - Folk
+
+  - rank: 97
+    title: "Little Brown Jug"
+    artist: "The Folk Masters"
+    year: 2003
+    genres:
+      - Folk
+
+  - rank: 98
+    title: "Home On The Range"
+    artist: "The Folk Masters"
+    year: 2003
+    genres:
+      - Folk
+
+  - rank: 99
+    title: "Red River Valley"
+    artist: "The Folk Masters"
+    year: 2003
+    genres:
+      - Folk
+
+  - rank: 100
+    title: "Fast Car"
+    artist: "Tracy Chapman"
+    year: 2003
+    genres:
+      - Folk
+    tags:
+      - Fan favorite

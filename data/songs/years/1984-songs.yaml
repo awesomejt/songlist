@@ -1,0 +1,903 @@
+songs:
+  - rank: 1
+    title: "When Doves Cry"
+    artist: "Prince"
+    year: 1984
+    album: "Purple Rain"
+    soundtrack: true
+    genres:
+      - Funk
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 5 weeks
+      - Culturally important
+  - rank: 2
+    title: "What's Love Got to Do with It"
+    artist: "Tina Turner"
+    year: 1984
+    album: "Private Dancer"
+    genres:
+      - Pop
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+      - Grammy Record of the Year
+      - Grammy Song of the Year
+      - Culturally important
+  - rank: 3
+    title: "Say Say Say"
+    artist: "Paul McCartney and Michael Jackson"
+    year: 1984
+    album: "Pipes of Peace"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1 for 6 weeks
+  - rank: 4
+    title: "Footloose"
+    artist: "Kenny Loggins"
+    year: 1984
+    album: "Footloose"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 5
+    title: "Against All Odds (Take a Look at Me Now)"
+    artist: "Phil Collins"
+    year: 1984
+    album: "Against All Odds"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 6
+    title: "Jump"
+    artist: "Van Halen"
+    year: 1984
+    album: "1984"
+    genres:
+      - Hard Rock
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 5 weeks
+      - Fan favorite
+  - rank: 7
+    title: "Hello"
+    artist: "Lionel Richie"
+    year: 1984
+    album: "Can't Slow Down"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Easy Listening
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 8
+    title: "Owner of a Lonely Heart"
+    artist: "Yes"
+    year: 1984
+    album: "90125"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 9
+    title: "Ghostbusters"
+    artist: "Ray Parker Jr."
+    year: 1984
+    album: "Ghostbusters"
+    soundtrack: true
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+      - Culturally important
+  - rank: 10
+    title: "Karma Chameleon"
+    artist: "Culture Club"
+    year: 1984
+    album: "Colour by Numbers"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+  - rank: 11
+    title: "Missing You"
+    artist: "John Waite"
+    year: 1984
+    album: "No Brakes"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 12
+    title: "All Night Long (All Night)"
+    artist: "Lionel Richie"
+    year: 1984
+    album: "Can't Slow Down"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 13
+    title: "Let's Hear It for the Boy"
+    artist: "Deniece Williams"
+    year: 1984
+    album: "Footloose"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 14
+    title: "Dancing in the Dark"
+    artist: "Bruce Springsteen"
+    year: 1984
+    album: "Born in the U.S.A."
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 15
+    title: "Girls Just Want to Have Fun"
+    artist: "Cyndi Lauper"
+    year: 1984
+    album: "She's So Unusual"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Culturally important
+  - rank: 16
+    title: "The Reflex"
+    artist: "Duran Duran"
+    year: 1984
+    album: "Seven and the Ragged Tiger"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 17
+    title: "Time After Time"
+    artist: "Cyndi Lauper"
+    year: 1984
+    album: "She's So Unusual"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+      - Fan favorite
+  - rank: 18
+    title: "Jump (For My Love)"
+    artist: "The Pointer Sisters"
+    year: 1984
+    album: "Break Out"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 19
+    title: "Talking in Your Sleep"
+    artist: "The Romantics"
+    year: 1984
+    album: "In Heat"
+    solo-hit: true
+    genres:
+      - Rock
+      - New Wave
+  - rank: 20
+    title: "Self Control"
+    artist: "Laura Branigan"
+    year: 1984
+    album: "Self Control"
+    cover: true
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Original artist: Raf
+  - rank: 21
+    title: "Let's Go Crazy"
+    artist: "Prince and The Revolution"
+    year: 1984
+    album: "Purple Rain"
+    soundtrack: true
+    genres:
+      - Funk
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 22
+    title: "Say It Isn't So"
+    artist: "Daryl Hall & John Oates"
+    year: 1984
+    album: "Rock 'n Soul Part 1"
+    genres:
+      - Pop
+      - Rock
+  - rank: 23
+    title: "Hold Me Now"
+    artist: "Thompson Twins"
+    year: 1984
+    album: "Into the Gap"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 24
+    title: "Joanna"
+    artist: "Kool & the Gang"
+    year: 1984
+    album: "In the Heart"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Pop
+  - rank: 25
+    title: "I Just Called to Say I Love You"
+    artist: "Stevie Wonder"
+    year: 1984
+    album: "The Woman in Red"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+      - Academy Award for Best Original Song
+  - rank: 26
+    title: "Somebody's Watching Me"
+    artist: "Rockwell"
+    year: 1984
+    album: "Somebody's Watching Me"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 27
+    title: "Break My Stride"
+    artist: "Matthew Wilder"
+    year: 1984
+    album: "I Don't Speak the Language"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+  - rank: 28
+    title: "99 Luftballons"
+    artist: "Nena"
+    year: 1984
+    album: "Nena"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 29
+    title: "I Can Dream About You"
+    artist: "Dan Hartman"
+    year: 1984
+    album: "Streets of Fire"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 30
+    title: "The Glamorous Life"
+    artist: "Sheila E."
+    year: 1984
+    album: "The Glamorous Life"
+    genres:
+      - Funk
+      - Pop
+  - rank: 31
+    title: "Oh Sherrie"
+    artist: "Steve Perry"
+    year: 1984
+    album: "Street Talk"
+    genres:
+      - Rock
+      - Pop
+  - rank: 32
+    title: "Stuck on You"
+    artist: "Lionel Richie"
+    year: 1984
+    album: "Can't Slow Down"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 33
+    title: "I Guess That's Why They Call It the Blues"
+    artist: "Elton John"
+    year: 1984
+    album: "Too Low for Zero"
+    genres:
+      - Pop
+      - Rock
+  - rank: 34
+    title: "She Bop"
+    artist: "Cyndi Lauper"
+    year: 1984
+    album: "She's So Unusual"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 35
+    title: "Borderline"
+    artist: "Madonna"
+    year: 1984
+    album: "Madonna"
+    genres:
+      - Pop
+      - Disco
+  - rank: 36
+    title: "Sunglasses at Night"
+    artist: "Corey Hart"
+    year: 1984
+    album: "First Offense"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 37
+    title: "Eyes Without a Face"
+    artist: "Billy Idol"
+    year: 1984
+    album: "Rebel Yell"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 38
+    title: "Here Comes the Rain Again"
+    artist: "Eurythmics"
+    year: 1984
+    album: "Touch"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 39
+    title: "Uptown Girl"
+    artist: "Billy Joel"
+    year: 1984
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Rock
+  - rank: 40
+    title: "Sister Christian"
+    artist: "Night Ranger"
+    year: 1984
+    album: "Midnight Madness"
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Fan favorite
+  - rank: 41
+    title: "Drive"
+    artist: "The Cars"
+    year: 1984
+    album: "Heartbeat City"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 42
+    title: "Twist of Fate"
+    artist: "Olivia Newton-John"
+    year: 1984
+    album: "Two of a Kind"
+    soundtrack: true
+    genres:
+      - Pop
+  - rank: 43
+    title: "Union of the Snake"
+    artist: "Duran Duran"
+    year: 1984
+    album: "Seven and the Ragged Tiger"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 44
+    title: "The Heart of Rock & Roll"
+    artist: "Huey Lewis and the News"
+    year: 1984
+    album: "Sports"
+    genres:
+      - Rock
+      - Pop
+  - rank: 45
+    title: "Hard Habit to Break"
+    artist: "Chicago"
+    year: 1984
+    album: "Chicago 17"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 46
+    title: "The Warrior"
+    artist: "Scandal"
+    year: 1984
+    album: "Warrior"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 47
+    title: "If Ever You're in My Arms Again"
+    artist: "Peabo Bryson"
+    year: 1984
+    album: "Straight from the Heart"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Easy Listening
+  - rank: 48
+    title: "Automatic"
+    artist: "The Pointer Sisters"
+    year: 1984
+    album: "Break Out"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 49
+    title: "Let the Music Play"
+    artist: "Shannon"
+    year: 1984
+    album: "Let the Music Play"
+    solo-hit: true
+    genres:
+      - Disco
+      - Pop
+  - rank: 50
+    title: "To All the Girls I've Loved Before"
+    artist: "Julio Iglesias and Willie Nelson"
+    year: 1984
+    album: "1100 Bel Air Place"
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Crossover hit
+  - rank: 51
+    title: "Caribbean Queen (No More Love on the Run)"
+    artist: "Billy Ocean"
+    year: 1984
+    album: "Suddenly"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 52
+    title: "That's All"
+    artist: "Genesis"
+    year: 1984
+    album: "Genesis"
+    genres:
+      - Rock
+      - Pop
+  - rank: 53
+    title: "Running with the Night"
+    artist: "Lionel Richie"
+    year: 1984
+    album: "Can't Slow Down"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 54
+    title: "Sad Songs (Say So Much)"
+    artist: "Elton John"
+    year: 1984
+    album: "Breaking Hearts"
+    genres:
+      - Pop
+      - Rock
+  - rank: 55
+    title: "I Want a New Drug"
+    artist: "Huey Lewis and the News"
+    year: 1984
+    album: "Sports"
+    genres:
+      - Rock
+      - Pop
+  - rank: 56
+    title: "Islands in the Stream"
+    artist: "Kenny Rogers and Dolly Parton"
+    year: 1984
+    album: "Eyes That See in the Dark"
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Crossover hit
+  - rank: 57
+    title: "Love Is a Battlefield"
+    artist: "Pat Benatar"
+    year: 1984
+    album: "Live from Earth"
+    genres:
+      - Rock
+      - Pop
+  - rank: 58
+    title: "Infatuation"
+    artist: "Rod Stewart"
+    year: 1984
+    album: "Camouflage"
+    genres:
+      - Rock
+      - Pop
+  - rank: 59
+    title: "Almost Paradise"
+    artist: "Mike Reno and Ann Wilson"
+    year: 1984
+    album: "Footloose"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 60
+    title: "Legs"
+    artist: "ZZ Top"
+    year: 1984
+    album: "Eliminator"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 61
+    title: "State of Shock"
+    artist: "The Jacksons"
+    year: 1984
+    album: "Victory"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Pop
+  - rank: 62
+    title: "Love Somebody"
+    artist: "Rick Springfield"
+    year: 1984
+    album: "Hard to Hold"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 63
+    title: "Miss Me Blind"
+    artist: "Culture Club"
+    year: 1984
+    album: "Colour by Numbers"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 64
+    title: "If This Is It"
+    artist: "Huey Lewis and the News"
+    year: 1984
+    album: "Sports"
+    genres:
+      - Rock
+      - Pop
+  - rank: 65
+    title: "You Might Think"
+    artist: "The Cars"
+    year: 1984
+    album: "Heartbeat City"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 66
+    title: "Lucky Star"
+    artist: "Madonna"
+    year: 1984
+    album: "Madonna"
+    genres:
+      - Pop
+      - Disco
+  - rank: 67
+    title: "Cover Me"
+    artist: "Bruce Springsteen"
+    year: 1984
+    album: "Born in the U.S.A."
+    genres:
+      - Rock
+      - Pop
+  - rank: 68
+    title: "Cum on Feel the Noize"
+    artist: "Quiet Riot"
+    year: 1984
+    album: "Metal Health"
+    cover: true
+    genres:
+      - Hard Rock
+      - Rock
+    tags:
+      - Original artist: Slade
+  - rank: 69
+    title: "Breakdance"
+    artist: "Irene Cara"
+    year: 1984
+    album: "What a Feelin'"
+    genres:
+      - Pop
+      - Disco
+  - rank: 70
+    title: "Adult Education"
+    artist: "Daryl Hall & John Oates"
+    year: 1984
+    album: "Rock 'n Soul Part 1"
+    genres:
+      - Pop
+      - Rock
+  - rank: 71
+    title: "They Don't Know"
+    artist: "Tracey Ullman"
+    year: 1984
+    album: "You Broke My Heart in 17 Places"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+  - rank: 72
+    title: "An Innocent Man"
+    artist: "Billy Joel"
+    year: 1984
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Rock
+  - rank: 73
+    title: "Cruel Summer"
+    artist: "Bananarama"
+    year: 1984
+    album: "Bananarama"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: "Dance Hall Days"
+    artist: "Wang Chung"
+    year: 1984
+    album: "Points on the Curve"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 75
+    title: "Give It Up"
+    artist: "KC and the Sunshine Band"
+    year: 1984
+    album: "KC Ten"
+    genres:
+      - Disco
+      - Pop
+      - Funk
+  - rank: 76
+    title: "I'm So Excited"
+    artist: "The Pointer Sisters"
+    year: 1984
+    album: "Break Out"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 77
+    title: "I Still Can't Get Over Loving You"
+    artist: "Ray Parker Jr."
+    year: 1984
+    album: "Woman Out of Control"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 78
+    title: "Thriller"
+    artist: "Michael Jackson"
+    year: 1984
+    album: "Thriller"
+    genres:
+      - Pop
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Culturally important
+  - rank: 79
+    title: "Holiday"
+    artist: "Madonna"
+    year: 1984
+    album: "Madonna"
+    genres:
+      - Pop
+      - Disco
+  - rank: 80
+    title: "Breakin'... There's No Stopping Us"
+    artist: "Ollie & Jerry"
+    year: 1984
+    album: "Breakin'"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Funk
+  - rank: 81
+    title: "Nobody Told Me"
+    artist: "John Lennon"
+    year: 1984
+    album: "Milk and Honey"
+    genres:
+      - Rock
+      - Pop
+  - rank: 82
+    title: "Church of the Poison Mind"
+    artist: "Culture Club"
+    year: 1984
+    album: "Colour by Numbers"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 83
+    title: "Think of Laura"
+    artist: "Christopher Cross"
+    year: 1984
+    album: "Another Page"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 84
+    title: "Time Will Reveal"
+    artist: "DeBarge"
+    year: 1984
+    album: "In a Special Way"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 85
+    title: "Wrapped Around Your Finger"
+    artist: "The Police"
+    year: 1984
+    album: "Synchronicity"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 86
+    title: "Pink Houses"
+    artist: "John Cougar Mellencamp"
+    year: 1984
+    album: "Uh-Huh"
+    genres:
+      - Rock
+      - Folk
+  - rank: 87
+    title: "Round and Round"
+    artist: "Ratt"
+    year: 1984
+    album: "Out of the Cellar"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 88
+    title: "Head over Heels"
+    artist: "The Go-Go's"
+    year: 1984
+    album: "Talk Show"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 89
+    title: "The Longest Time"
+    artist: "Billy Joel"
+    year: 1984
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Doo-wop
+  - rank: 90
+    title: "Tonight"
+    artist: "Kool & the Gang"
+    year: 1984
+    album: "In the Heart"
+    genres:
+      - Rhythm and Blues
+      - Funk
+  - rank: 91
+    title: "Got a Hold on Me"
+    artist: "Christine McVie"
+    year: 1984
+    album: "Christine McVie"
+    genres:
+      - Rock
+      - Pop
+  - rank: 92
+    title: "Dancing in the Sheets"
+    artist: "Shalamar"
+    year: 1984
+    album: "Footloose"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+  - rank: 93
+    title: "Undercover of the Night"
+    artist: "The Rolling Stones"
+    year: 1984
+    album: "Undercover"
+    genres:
+      - Rock
+  - rank: 94
+    title: "On the Dark Side"
+    artist: "John Cafferty and the Beaver Brown Band"
+    year: 1984
+    album: "Eddie and the Cruisers"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Rock
+  - rank: 95
+    title: "New Moon on Monday"
+    artist: "Duran Duran"
+    year: 1984
+    album: "Seven and the Ragged Tiger"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 96
+    title: "Major Tom (Coming Home)"
+    artist: "Peter Schilling"
+    year: 1984
+    album: "Error in the System"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+  - rank: 97
+    title: "Magic"
+    artist: "The Cars"
+    year: 1984
+    album: "Heartbeat City"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 98
+    title: "When You Close Your Eyes"
+    artist: "Night Ranger"
+    year: 1984
+    album: "Midnight Madness"
+    genres:
+      - Rock
+  - rank: 99
+    title: "Rock Me Tonite"
+    artist: "Billy Squier"
+    year: 1984
+    album: "Signs of Life"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 100
+    title: "Yah Mo B There"
+    artist: "James Ingram and Michael McDonald"
+    year: 1984
+    album: "It's Your Night"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul

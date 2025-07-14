@@ -1,0 +1,1022 @@
+songs:
+  - rank: 1
+    title: "My Sharona"
+    artist: "The Knack"
+    year: 1979
+    album: "Get the Knack"
+    genres:
+      - Rock
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important as emblematic of power pop revival
+  - rank: 2
+    title: "Bad Girls"
+    artist: "Donna Summer"
+    year: 1979
+    album: "Bad Girls"
+    genres:
+      - Pop
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 3
+    title: "Le Freak"
+    artist: "Chic"
+    year: 1979
+    album: "C'est Chic"
+    genres:
+      - Funk
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Grammy Hall of Fame
+      - Library of Congress artifact
+  - rank: 4
+    title: "Da Ya Think I'm Sexy?"
+    artist: "Rod Stewart"
+    year: 1979
+    album: "Blondes Have More Fun"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 5
+    title: "Reunited"
+    artist: "Peaches & Herb"
+    year: 1979
+    album: "2 Hot"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 6
+    title: "I Will Survive"
+    artist: "Gloria Gaynor"
+    year: 1979
+    album: "Love Tracks"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important as empowerment anthem
+  - rank: 7
+    title: "Hot Stuff"
+    artist: "Donna Summer"
+    year: 1979
+    album: "Bad Girls"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 8
+    title: "Y.M.C.A."
+    artist: "Village People"
+    year: 1979
+    album: "Cruisin'"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+      - Culturally important as gay anthem
+  - rank: 9
+    title: "Ring My Bell"
+    artist: "Anita Ward"
+    year: 1979
+    album: "Songs of Love"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 10
+    title: "Sad Eyes"
+    artist: "Robert John"
+    year: 1979
+    album: "Robert John"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 11
+    title: "Heart of Glass"
+    artist: "Blondie"
+    year: 1979
+    album: "Parallel Lines"
+    genres:
+      - New Wave
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important as new wave breakthrough
+  - rank: 12
+    title: "Tragedy"
+    artist: "Bee Gees"
+    year: 1979
+    album: "Spirits Having Flown"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 13
+    title: "What a Fool Believes"
+    artist: "The Doobie Brothers"
+    year: 1979
+    album: "Minute by Minute"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Grammy Song of the Year
+  - rank: 14
+    title: "Good Times"
+    artist: "Chic"
+    year: 1979
+    album: "Risqué"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important as bassline sampled in hip hop
+  - rank: 15
+    title: "Knock on Wood"
+    artist: "Amii Stewart"
+    year: 1979
+    album: "Knock on Wood"
+    cover: true
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Original artist: Eddie Floyd
+      - Billboard Hot 100 number 1
+  - rank: 16
+    title: "The Logical Song"
+    artist: "Supertramp"
+    year: 1979
+    album: "Breakfast in America"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 17
+    title: "I Want You to Want Me"
+    artist: "Cheap Trick"
+    year: 1979
+    album: "Cheap Trick at Budokan"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 7
+      - Fan favorite live version
+  - rank: 18
+    title: "After the Love Has Gone"
+    artist: "Earth, Wind & Fire"
+    year: 1979
+    album: "I Am"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 2
+      - Grammy for Best R&B Song
+  - rank: 19
+    title: "Rise"
+    artist: "Herb Alpert"
+    year: 1979
+    album: "Rise"
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 20
+    title: "Don't Stop 'Til You Get Enough"
+    artist: "Michael Jackson"
+    year: 1979
+    album: "Off the Wall"
+    genres:
+      - Funk
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important as Michael's solo breakthrough
+  - rank: 21
+    title: "We Are Family"
+    artist: "Sister Sledge"
+    year: 1979
+    album: "We Are Family"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 2
+      - Culturally important as unity anthem
+  - rank: 22
+    title: "Another Brick in the Wall, Pt. 2"
+    artist: "Pink Floyd"
+    year: 1979
+    album: "The Wall"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important protest song
+  - rank: 23
+    title: "London Calling"
+    artist: "The Clash"
+    year: 1979
+    album: "London Calling"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important punk rock anthem
+  - rank: 24
+    title: "Highway to Hell"
+    artist: "AC/DC"
+    year: 1979
+    album: "Highway to Hell"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Culturally important hard rock classic
+  - rank: 25
+    title: "Message in a Bottle"
+    artist: "The Police"
+    year: 1979
+    album: "Reggatta de Blanc"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - UK number 1
+  - rank: 26
+    title: "Roxanne"
+    artist: "The Police"
+    year: 1979
+    album: "Outlandos d'Amour"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Billboard Hot 100 number 32
+      - Culturally important
+  - rank: 27
+    title: "Sultans of Swing"
+    artist: "Dire Straits"
+    year: 1979
+    album: "Dire Straits"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 28
+    title: "Babe"
+    artist: "Styx"
+    year: 1979
+    album: "Cornerstone"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 29
+    title: "Renegade"
+    artist: "Styx"
+    year: 1979
+    album: "Pieces of Eight"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 30
+    title: "What I Like About You"
+    artist: "The Romantics"
+    year: 1979
+    album: "The Romantics"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important
+  - rank: 31
+    title: "Dance the Night Away"
+    artist: "Van Halen"
+    year: 1979
+    album: "Van Halen II"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 15
+  - rank: 32
+    title: "Fool in the Rain"
+    artist: "Led Zeppelin"
+    year: 1979
+    album: "In Through the Out Door"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 21
+  - rank: 33
+    title: "Rock with You"
+    artist: "Michael Jackson"
+    year: 1979
+    album: "Off the Wall"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 34
+    title: "Rapper's Delight"
+    artist: "The Sugarhill Gang"
+    year: 1979
+    single: true
+    genres:
+      - Funk
+    tags:
+      - Billboard Hot 100 number 36
+      - Culturally important as first hip hop hit with mass appeal
+  - rank: 35
+    title: "September"
+    artist: "Earth, Wind & Fire"
+    year: 1979
+    album: "The Best of Earth, Wind & Fire, Vol. 1"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 36
+    title: "Boogie Wonderland"
+    artist: "Earth, Wind & Fire feat. The Emotions"
+    year: 1979
+    album: "I Am"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 37
+    title: "Ain't No Stoppin' Us Now"
+    artist: "McFadden & Whitehead"
+    year: 1979
+    album: "McFadden & Whitehead"
+    solo-hit: true
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 38
+    title: "Ladies' Night"
+    artist: "Kool & the Gang"
+    year: 1979
+    album: "Ladies' Night"
+    genres:
+      - Funk
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 39
+    title: "Got to Be Real"
+    artist: "Cheryl Lynn"
+    year: 1979
+    album: "Cheryl Lynn"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 12
+  - rank: 40
+    title: "He's the Greatest Dancer"
+    artist: "Sister Sledge"
+    year: 1979
+    album: "We Are Family"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 41
+    title: "One Way or Another"
+    artist: "Blondie"
+    year: 1979
+    album: "Parallel Lines"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Billboard Hot 100 number 24
+  - rank: 42
+    title: "Pop Muzik"
+    artist: "M"
+    year: 1979
+    album: "New York • London • Paris • Munich"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 43
+    title: "Cars"
+    artist: "Gary Numan"
+    year: 1979
+    album: "The Pleasure Principle"
+    genres:
+      - New Wave
+    tags:
+      - UK number 1
+      - Culturally important synth-pop hit
+  - rank: 44
+    title: "Video Killed the Radio Star"
+    artist: "The Buggles"
+    year: 1979
+    album: "The Age of Plastic"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - UK number 1
+      - Culturally important as first MTV video
+  - rank: 45
+    title: "Boys Don't Cry"
+    artist: "The Cure"
+    year: 1979
+    album: "Boys Don't Cry"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 46
+    title: "Comfortably Numb"
+    artist: "Pink Floyd"
+    year: 1979
+    album: "The Wall"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Culturally important guitar solo
+  - rank: 47
+    title: "All My Love"
+    artist: "Led Zeppelin"
+    year: 1979
+    album: "In Through the Out Door"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 48
+    title: "Hey Hey, My My (Into the Black)"
+    artist: "Neil Young"
+    year: 1979
+    album: "Rust Never Sleeps"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 49
+    title: "Powderfinger"
+    artist: "Neil Young & Crazy Horse"
+    year: 1979
+    album: "Rust Never Sleeps"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 50
+    title: "Hammond Song"
+    artist: "The Roches"
+    year: 1979
+    album: "The Roches"
+    genres:
+      - Folk
+    tags:
+      - Culturally important folk harmony
+  - rank: 51
+    title: "Bustin' Loose"
+    artist: "Chuck Brown & the Soul Searchers"
+    year: 1979
+    album: "Bustin' Loose"
+    genres:
+      - Funk
+    tags:
+      - Billboard Hot Soul Singles number 1
+  - rank: 52
+    title: "I Wanna Be Your Lover"
+    artist: "Prince"
+    year: 1979
+    album: "Prince"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 53
+    title: "Working My Way Back to You"
+    artist: "The Spinners"
+    year: 1979
+    album: "Dancin' and Lovin'"
+    cover: true
+    genres:
+      - Soul
+    tags:
+      - Original artist: The Four Seasons
+      - Billboard Hot 100 number 2
+  - rank: 54
+    title: "Do You Love What You Feel"
+    artist: "Rufus and Chaka Khan"
+    year: 1979
+    album: "Masterjam"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot Soul Singles number 1
+  - rank: 55
+    title: "Still"
+    artist: "Commodores"
+    year: 1979
+    album: "Midnight Magic"
+    genres:
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 56
+    title: "Cruisin'"
+    artist: "Smokey Robinson"
+    year: 1979
+    album: "Where There's Smoke..."
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 57
+    title: "What Cha Gonna Do with My Lovin'"
+    artist: "Stephanie Mills"
+    year: 1979
+    album: "What Cha Gonna Do with My Lovin'"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot Soul Singles number 8
+  - rank: 58
+    title: "Heaven Must Have Sent You"
+    artist: "Bonnie Pointer"
+    year: 1979
+    album: "Bonnie Pointer"
+    cover: true
+    genres:
+      - Soul
+    tags:
+      - Original artist: The Elgins
+      - Billboard Hot 100 number 11
+  - rank: 59
+    title: "The Gambler"
+    artist: "Kenny Rogers"
+    year: 1979
+    album: "The Gambler"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 number 16
+      - Crossover hit with mass appeal
+  - rank: 60
+    title: "The Devil Went Down to Georgia"
+    artist: "The Charlie Daniels Band"
+    year: 1979
+    album: "Million Mile Reflections"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 number 3
+      - Grammy for Best Country Vocal Performance
+  - rank: 61
+    title: "Making Plans for Nigel"
+    artist: "XTC"
+    year: 1979
+    album: "Drums and Wires"
+    genres:
+      - New Wave
+    tags:
+      - UK number 17
+      - Fan favorite
+  - rank: 62
+    title: "Are 'Friends' Electric?"
+    artist: "Tubeway Army"
+    year: 1979
+    album: "Replicas"
+    genres:
+      - New Wave
+    tags:
+      - UK number 1
+  - rank: 63
+    title: "Transmission"
+    artist: "Joy Division"
+    year: 1979
+    single: true
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Culturally important post-punk single
+  - rank: 64
+    title: "Brass in Pocket"
+    artist: "The Pretenders"
+    year: 1979
+    album: "Pretenders"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - UK number 1
+  - rank: 65
+    title: "Don't Do Me Like That"
+    artist: "Tom Petty & the Heartbreakers"
+    year: 1979
+    album: "Damn the Torpedoes"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 66
+    title: "Refugee"
+    artist: "Tom Petty & the Heartbreakers"
+    year: 1979
+    album: "Damn the Torpedoes"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 15
+  - rank: 67
+    title: "Take the Long Way Home"
+    artist: "Supertramp"
+    year: 1979
+    album: "Breakfast in America"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 68
+    title: "Breakfast in America"
+    artist: "Supertramp"
+    year: 1979
+    album: "Breakfast in America"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - UK number 3
+  - rank: 69
+    title: "Lady"
+    artist: "Little River Band"
+    year: 1979
+    album: "Sleeper Catcher"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 70
+    title: "Lotta Love"
+    artist: "Nicolette Larson"
+    year: 1979
+    album: "Nicolette"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 71
+    title: "Just When I Needed You Most"
+    artist: "Randy VanWarmer"
+    year: 1979
+    album: "Warmer"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 72
+    title: "Makin' It"
+    artist: "David Naughton"
+    year: 1979
+    single: true
+    solo-hit: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+      - From Meatballs soundtrack
+  - rank: 73
+    title: "Fire"
+    artist: "The Pointer Sisters"
+    year: 1979
+    album: "Energy"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 74
+    title: "Shake Your Body (Down to the Ground)"
+    artist: "The Jacksons"
+    year: 1979
+    album: "Destiny"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 75
+    title: "Shake Your Groove Thing"
+    artist: "Peaches & Herb"
+    year: 1979
+    album: "2 Hot"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 76
+    title: "You Can't Change That"
+    artist: "Raydio"
+    year: 1979
+    album: "Rock On"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 77
+    title: "Love You Inside Out"
+    artist: "Bee Gees"
+    year: 1979
+    album: "Spirits Having Flown"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 78
+    title: "Too Much Heaven"
+    artist: "Bee Gees"
+    year: 1979
+    album: "Spirits Having Flown"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 79
+    title: "MacArthur Park"
+    artist: "Donna Summer"
+    year: 1979
+    album: "Live and More"
+    cover: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Original artist: Richard Harris
+      - Billboard Hot 100 number 1
+  - rank: 80
+    title: "In the Navy"
+    artist: "Village People"
+    year: 1979
+    album: "Go West"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 81
+    title: "Music Box Dancer"
+    artist: "Frank Mills"
+    year: 1979
+    album: "Music Box Dancer"
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 number 3
+      - Instrumental hit
+  - rank: 82
+    title: "Gold"
+    artist: "John Stewart"
+    year: 1979
+    album: "Bombs Away Dream Babies"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 83
+    title: "Goodnight Tonight"
+    artist: "Wings"
+    year: 1979
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 84
+    title: "Sharing the Night Together"
+    artist: "Dr. Hook"
+    year: 1979
+    album: "Pleasure and Pain"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 85
+    title: "She Believes in Me"
+    artist: "Kenny Rogers"
+    year: 1979
+    album: "The Gambler"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+      - Crossover hit
+  - rank: 86
+    title: "Hold the Line"
+    artist: "Toto"
+    year: 1979
+    album: "Toto"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 87
+    title: "Mama Can't Buy You Love"
+    artist: "Elton John"
+    year: 1979
+    album: "The Thom Bell Sessions"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 88
+    title: "I Was Made for Dancin'"
+    artist: "Leif Garrett"
+    year: 1979
+    album: "Feel the Need"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 89
+    title: "Heaven Knows"
+    artist: "Donna Summer with Brooklyn Dreams"
+    year: 1979
+    album: "Live and More"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 90
+    title: "Lead Me On"
+    artist: "Maxine Nightingale"
+    year: 1979
+    album: "Lead Me On"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 91
+    title: "Stumblin' In"
+    artist: "Suzi Quatro & Chris Norman"
+    year: 1979
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 92
+    title: "Don't Cry Out Loud"
+    artist: "Melissa Manchester"
+    year: 1979
+    album: "Don't Cry Out Loud"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 93
+    title: "My Life"
+    artist: "Billy Joel"
+    year: 1979
+    album: "52nd Street"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 94
+    title: "I'll Never Love This Way Again"
+    artist: "Dionne Warwick"
+    year: 1979
+    album: "Dionne"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 95
+    title: "The Main Event/Fight"
+    artist: "Barbra Streisand"
+    year: 1979
+    album: "The Main Event"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+      - From The Main Event film
+  - rank: 96
+    title: "You Don't Bring Me Flowers"
+    artist: "Barbra Streisand & Neil Diamond"
+    year: 1979
+    album: "Barbra Streisand's Greatest Hits Volume 2"
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 97
+    title: "A Little More Love"
+    artist: "Olivia Newton-John"
+    year: 1979
+    album: "Totally Hot"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 98
+    title: "When You're in Love with a Beautiful Woman"
+    artist: "Dr. Hook"
+    year: 1979
+    album: "Pleasure and Pain"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 99
+    title: "Shake Your Body (Down to the Ground)"
+    artist: "The Jacksons"
+    year: 1979
+    album: "Destiny"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 100
+    title: "Bela Lugosi's Dead"
+    artist: "Bauhaus"
+    year: 1979
+    single: true
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important goth rock single

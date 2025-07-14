@@ -1,0 +1,774 @@
+songs:
+  - rank: 1
+    title: "Boom Boom Pow"
+    artist: "The Black Eyed Peas"
+    year: 2009
+    album: "The E.N.D."
+    genres:
+      - Pop
+  - rank: 2
+    title: "Poker Face"
+    artist: "Lady Gaga"
+    year: 2009
+    album: "The Fame"
+    genres:
+      - Pop
+  - rank: 3
+    title: "Just Dance"
+    artist: "Lady Gaga featuring Colby O'Donis"
+    year: 2009
+    album: "The Fame"
+    genres:
+      - Pop
+  - rank: 4
+    title: "I Gotta Feeling"
+    artist: "The Black Eyed Peas"
+    year: 2009
+    album: "The E.N.D."
+    genres:
+      - Pop
+  - rank: 5
+    title: "Love Story"
+    artist: "Taylor Swift"
+    year: 2009
+    album: "Fearless"
+    genres:
+      - Pop
+  - rank: 6
+    title: "Right Round"
+    artist: "Flo Rida"
+    year: 2009
+    album: "R.O.O.T.S."
+    genres:
+      - Pop
+  - rank: 7
+    title: "I'm Yours"
+    artist: "Jason Mraz"
+    year: 2009
+    album: "We Sing. We Dance. We Steal Things."
+    genres:
+      - Pop
+      - Soft Rock
+      - Folk
+  - rank: 8
+    title: "Single Ladies (Put a Ring on It)"
+    artist: "Beyoncé"
+    year: 2009
+    album: "I Am... Sasha Fierce"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 9
+    title: "Heartless"
+    artist: "Kanye West"
+    year: 2009
+    album: "808s & Heartbreak"
+    genres:
+      - Rhythm and Blues
+  - rank: 10
+    title: "Gives You Hell"
+    artist: "The All-American Rejects"
+    year: 2009
+    album: "When the World Comes Down"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 11
+    title: "You Belong with Me"
+    artist: "Taylor Swift"
+    year: 2009
+    album: "Fearless"
+    genres:
+      - Pop
+  - rank: 12
+    title: "Dead and Gone"
+    artist: "T.I. featuring Justin Timberlake"
+    year: 2009
+    album: "Paper Trail"
+    genres:
+      - Rhythm and Blues
+  - rank: 13
+    title: "You Found Me"
+    artist: "The Fray"
+    year: 2009
+    album: "The Fray"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 14
+    title: "Use Somebody"
+    artist: "Kings of Leon"
+    year: 2009
+    album: "Only by the Night"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Grammy for Best Rock Song
+  - rank: 15
+    title: "Knock You Down"
+    artist: "Keri Hilson featuring Kanye West and Ne-Yo"
+    year: 2009
+    album: "In a Perfect World..."
+    genres:
+      - Rhythm and Blues
+  - rank: 16
+    title: "Blame It"
+    artist: "Jamie Foxx featuring T-Pain"
+    year: 2009
+    album: "Intuition"
+    genres:
+      - Rhythm and Blues
+  - rank: 17
+    title: "I Know You Want Me (Calle Ocho)"
+    artist: "Pitbull"
+    year: 2009
+    album: "Rebelution"
+    genres:
+      - Pop
+  - rank: 18
+    title: "Live Your Life"
+    artist: "T.I. featuring Rihanna"
+    year: 2009
+    album: "Paper Trail"
+    genres:
+      - Rhythm and Blues
+  - rank: 19
+    title: "Kiss Me thru the Phone"
+    artist: "Soulja Boy Tell 'Em featuring Sammie"
+    year: 2009
+    album: "iSouljaBoyTellem"
+    genres:
+      - Rhythm and Blues
+  - rank: 20
+    title: "Down"
+    artist: "Jay Sean featuring Lil Wayne"
+    year: 2009
+    album: "All or Nothing"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 21
+    title: "The Climb"
+    artist: "Miley Cyrus"
+    year: 2009
+    album: "Hannah Montana: The Movie"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 22
+    title: "Best I Ever Had"
+    artist: "Drake"
+    year: 2009
+    album: "So Far Gone"
+    genres:
+      - Rhythm and Blues
+  - rank: 23
+    title: "My Life Would Suck Without You"
+    artist: "Kelly Clarkson"
+    year: 2009
+    album: "All I Ever Wanted"
+    genres:
+      - Pop
+      - Rock
+  - rank: 24
+    title: "Halo"
+    artist: "Beyoncé"
+    year: 2009
+    album: "I Am... Sasha Fierce"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 25
+    title: "Hot n Cold"
+    artist: "Katy Perry"
+    year: 2009
+    album: "One of the Boys"
+    genres:
+      - Pop
+      - Rock
+  - rank: 26
+    title: "Second Chance"
+    artist: "Shinedown"
+    year: 2009
+    album: "The Sound of Madness"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+  - rank: 27
+    title: "Circus"
+    artist: "Britney Spears"
+    year: 2009
+    album: "Circus"
+    genres:
+      - Pop
+  - rank: 28
+    title: "Party in the U.S.A."
+    artist: "Miley Cyrus"
+    year: 2009
+    album: "The Time of Our Lives"
+    genres:
+      - Pop
+  - rank: 29
+    title: "Don't Trust Me"
+    artist: "3OH!3"
+    year: 2009
+    album: "Want"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 30
+    title: "Let It Rock"
+    artist: "Kevin Rudolf featuring Lil Wayne"
+    year: 2009
+    album: "In the City"
+    genres:
+      - Rock
+      - Pop
+  - rank: 31
+    title: "Fire Burning"
+    artist: "Sean Kingston"
+    year: 2009
+    album: "Tomorrow"
+    genres:
+      - Pop
+  - rank: 32
+    title: "Whatcha Say"
+    artist: "Jason Derulo"
+    year: 2009
+    album: "Jason Derulo"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 33
+    title: "LoveGame"
+    artist: "Lady Gaga"
+    year: 2009
+    album: "The Fame"
+    genres:
+      - Pop
+  - rank: 34
+    title: "Waking Up in Vegas"
+    artist: "Katy Perry"
+    year: 2009
+    album: "One of the Boys"
+    genres:
+      - Pop
+      - Rock
+  - rank: 35
+    title: "Birthday Sex"
+    artist: "Jeremih"
+    year: 2009
+    album: "Jeremih"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+  - rank: 36
+    title: "Sober"
+    artist: "Pink"
+    year: 2009
+    album: "Funhouse"
+    genres:
+      - Pop
+      - Rock
+  - rank: 37
+    title: "Womanizer"
+    artist: "Britney Spears"
+    year: 2009
+    album: "Circus"
+    genres:
+      - Pop
+  - rank: 38
+    title: "Obsessed"
+    artist: "Mariah Carey"
+    year: 2009
+    album: "Memoirs of an Imperfect Angel"
+    genres:
+      - Rhythm and Blues
+  - rank: 39
+    title: "Mad"
+    artist: "Ne-Yo"
+    year: 2009
+    album: "Year of the Gentleman"
+    genres:
+      - Rhythm and Blues
+  - rank: 40
+    title: "Good Girls Go Bad"
+    artist: "Cobra Starship featuring Leighton Meester"
+    year: 2009
+    album: "Hot Mess"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 41
+    title: "Love Lockdown"
+    artist: "Kanye West"
+    year: 2009
+    album: "808s & Heartbreak"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 42
+    title: "So What"
+    artist: "Pink"
+    year: 2009
+    album: "Funhouse"
+    genres:
+      - Pop
+      - Rock
+  - rank: 43
+    title: "If I Were a Boy"
+    artist: "Beyoncé"
+    year: 2009
+    album: "I Am... Sasha Fierce"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 44
+    title: "Turnin Me On"
+    artist: "Keri Hilson featuring Lil Wayne"
+    year: 2009
+    album: "In a Perfect World..."
+    genres:
+      - Rhythm and Blues
+  - rank: 45
+    title: "I Hate This Part"
+    artist: "Pussycat Dolls"
+    year: 2009
+    album: "Doll Domination"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 46
+    title: "Gotta Be Somebody"
+    artist: "Nickelback"
+    year: 2009
+    album: "Dark Horse"
+    genres:
+      - Rock
+  - rank: 47
+    title: "Please Don't Leave Me"
+    artist: "Pink"
+    year: 2009
+    album: "Funhouse"
+    genres:
+      - Pop
+      - Rock
+  - rank: 48
+    title: "Paparazzi"
+    artist: "Lady Gaga"
+    year: 2009
+    album: "The Fame"
+    genres:
+      - Pop
+  - rank: 49
+    title: "Beautiful"
+    artist: "Akon featuring Colby O'Donis and Kardinal Offishall"
+    year: 2009
+    album: "Freedom"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 50
+    title: "Viva la Vida"
+    artist: "Coldplay"
+    year: 2009
+    album: "Viva la Vida or Death and All His Friends"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 51
+    title: "Right Now (Na Na Na)"
+    artist: "Akon"
+    year: 2009
+    album: "Freedom"
+    genres:
+      - Rhythm and Blues
+  - rank: 52
+    title: "Battlefield"
+    artist: "Jordin Sparks"
+    year: 2009
+    album: "Battlefield"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 53
+    title: "Sugar"
+    artist: "Flo Rida featuring Wynter"
+    year: 2009
+    album: "R.O.O.T.S."
+    genres:
+      - Rhythm and Blues
+  - rank: 54
+    title: "Miss Independent"
+    artist: "Ne-Yo"
+    year: 2009
+    album: "Year of the Gentleman"
+    genres:
+      - Rhythm and Blues
+  - rank: 55
+    title: "Fireflies"
+    artist: "Owl City"
+    year: 2009
+    album: "Ocean Eyes"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 56
+    title: "New Divide"
+    artist: "Linkin Park"
+    year: 2009
+    album: "Transformers: Revenge of the Fallen – The Album"
+    soundtrack: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 57
+    title: "Empire State of Mind"
+    artist: "Jay-Z featuring Alicia Keys"
+    year: 2009
+    album: "The Blueprint 3"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 58
+    title: "No Surprise"
+    artist: "Daughtry"
+    year: 2009
+    album: "Leave This Town"
+    genres:
+      - Rock
+  - rank: 59
+    title: "She Wolf"
+    artist: "Shakira"
+    year: 2009
+    album: "She Wolf"
+    genres:
+      - Pop
+  - rank: 60
+    title: "Break Up"
+    artist: "Mario featuring Gucci Mane and Sean Garrett"
+    year: 2009
+    album: "D.N.A."
+    genres:
+      - Rhythm and Blues
+  - rank: 61
+    title: "Sweet Dreams"
+    artist: "Beyoncé"
+    year: 2009
+    album: "I Am... Sasha Fierce"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 62
+    title: "Fallin' for You"
+    artist: "Colbie Caillat"
+    year: 2009
+    album: "Breakthrough"
+    genres:
+      - Pop
+      - Folk
+  - rank: 63
+    title: "Untouched"
+    artist: "The Veronicas"
+    year: 2009
+    album: "Hook Me Up"
+    genres:
+      - Pop
+  - rank: 64
+    title: "If Today Was Your Last Day"
+    artist: "Nickelback"
+    year: 2009
+    album: "Dark Horse"
+    genres:
+      - Rock
+  - rank: 65
+    title: "Love Drunk"
+    artist: "Boys Like Girls"
+    year: 2009
+    album: "Love Drunk"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 66
+    title: "21 Guns"
+    artist: "Green Day"
+    year: 2009
+    album: "21st Century Breakdown"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 67
+    title: "If U Seek Amy"
+    artist: "Britney Spears"
+    year: 2009
+    album: "Circus"
+    genres:
+      - Pop
+  - rank: 68
+    title: "Not Meant to Be"
+    artist: "Theory of a Deadman"
+    year: 2009
+    album: "Scars & Souvenirs"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 69
+    title: "Be on You"
+    artist: "Flo Rida featuring Ne-Yo"
+    year: 2009
+    album: "R.O.O.T.S."
+    genres:
+      - Rhythm and Blues
+  - rank: 70
+    title: "Diva"
+    artist: "Beyoncé"
+    year: 2009
+    album: "I Am... Sasha Fierce"
+    genres:
+      - Rhythm and Blues
+  - rank: 71
+    title: "Replay"
+    artist: "Iyaz"
+    year: 2009
+    album: "Replay"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 72
+    title: "Her Diamonds"
+    artist: "Rob Thomas"
+    year: 2009
+    album: "Cradlesong"
+    genres:
+      - Pop
+      - Rock
+  - rank: 73
+    title: "How Do You Sleep?"
+    artist: "Jesse McCartney featuring Ludacris"
+    year: 2009
+    album: "Departure: Recharged"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 74
+    title: "3"
+    artist: "Britney Spears"
+    year: 2009
+    album: "The Singles Collection"
+    genres:
+      - Pop
+  - rank: 75
+    title: "One Time"
+    artist: "Justin Bieber"
+    year: 2009
+    album: "My World"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 76
+    title: "I Do Not Hook Up"
+    artist: "Kelly Clarkson"
+    year: 2009
+    album: "All I Ever Wanted"
+    genres:
+      - Pop
+      - Rock
+  - rank: 77
+    title: "Green Light"
+    artist: "John Legend featuring André 3000"
+    year: 2009
+    album: "Evolver"
+    genres:
+      - Soul
+      - Funk
+  - rank: 78
+    title: "Already Gone"
+    artist: "Kelly Clarkson"
+    year: 2009
+    album: "All I Ever Wanted"
+    genres:
+      - Pop
+      - Rock
+  - rank: 79
+    title: "Rock & Roll"
+    artist: "Eric Hutchinson"
+    year: 2009
+    album: "Sounds Like This"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+  - rank: 80
+    title: "Goodbye"
+    artist: "Kristinia DeBarge"
+    year: 2009
+    album: "Exposed"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 81
+    title: "Say Hey (I Love You)"
+    artist: "Michael Franti & Spearhead featuring Cherine Anderson"
+    year: 2009
+    album: "All Rebel Rockers"
+    genres:
+      - Pop
+      - Folk
+  - rank: 82
+    title: "Pretty Wings"
+    artist: "Maxwell"
+    year: 2009
+    album: "BLACKsummers'night"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 83
+    title: "Never Say Never"
+    artist: "The Fray"
+    year: 2009
+    album: "The Fray"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 84
+    title: "Love Hurts"
+    artist: "Incubus"
+    year: 2009
+    album: "Light Grenades"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 85
+    title: "Sex on Fire"
+    artist: "Kings of Leon"
+    year: 2009
+    album: "Only by the Night"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 86
+    title: "Panic Switch"
+    artist: "Silversun Pickups"
+    year: 2009
+    album: "Swoon"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 87
+    title: "Feel Good Drag"
+    artist: "Anberlin"
+    year: 2009
+    album: "New Surrender"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 88
+    title: "Know Your Enemy"
+    artist: "Green Day"
+    year: 2009
+    album: "21st Century Breakdown"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 89
+    title: "Sound of Madness"
+    artist: "Shinedown"
+    year: 2009
+    album: "The Sound of Madness"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 90
+    title: "Something in Your Mouth"
+    artist: "Nickelback"
+    year: 2009
+    album: "Dark Horse"
+    genres:
+      - Rock
+  - rank: 91
+    title: "Careless Whisper"
+    artist: "Seether"
+    year: 2009
+    album: "Finding Beauty in Negative Spaces"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: George Michael
+  - rank: 92
+    title: "Eet"
+    artist: "Regina Spektor"
+    year: 2009
+    album: "Far"
+    genres:
+      - Pop
+      - Folk
+  - rank: 93
+    title: "I and Love and You"
+    artist: "The Avett Brothers"
+    year: 2009
+    album: "I and Love and You"
+    genres:
+      - Folk
+      - Rock
+  - rank: 94
+    title: "People Got a Lotta Nerve"
+    artist: "Neko Case"
+    year: 2009
+    album: "Middle Cyclone"
+    genres:
+      - Alternative
+      - Folk
+  - rank: 95
+    title: "Ignorance and Privilege"
+    artist: "John Gorka"
+    year: 2009
+    album: "So Dark You See"
+    genres:
+      - Folk
+  - rank: 96
+    title: "Complicated Shadows"
+    artist: "Elvis Costello"
+    year: 2009
+    album: "Secret, Profane & Sugarcane"
+    genres:
+      - Folk
+  - rank: 97
+    title: "Historicity"
+    artist: "Vijay Iyer Trio"
+    year: 2009
+    album: "Historicity"
+    genres:
+      - Jazz
+  - rank: 98
+    title: "The Bright Mississippi"
+    artist: "Allen Toussaint"
+    year: 2009
+    album: "The Bright Mississippi"
+    genres:
+      - Jazz
+      - Blues
+  - rank: 99
+    title: "Somewhere"
+    artist: "Vijay Iyer Trio"
+    year: 2009
+    album: "Historicity"
+    cover: true
+    genres:
+      - Jazz
+    tags:
+      - Original artist: Leonard Bernstein
+  - rank: 100
+    title: "Bad Year Blues"
+    artist: "Albert Castiglia"
+    year: 2009
+    album: "These Are the Days"
+    genres:
+      - Blues

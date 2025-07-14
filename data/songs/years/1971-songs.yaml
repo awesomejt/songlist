@@ -1,0 +1,1067 @@
+---
+songs:
+  - rank: 1
+    title: "Stairway to Heaven"
+    artist: "Led Zeppelin"
+    year: 1971
+    album: "Led Zeppelin IV"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+      - One of the greatest rock songs of all time
+  - rank: 2
+    title: "Imagine"
+    artist: "John Lennon"
+    year: 1971
+    album: "Imagine"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+    tags:
+      - Culturally important
+      - Peace anthem
+  - rank: 3
+    title: "What's Going On"
+    artist: "Marvin Gaye"
+    year: 1971
+    album: "What's Going On"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Culturally important
+      - Social commentary song
+      - Billboard Hot 100 #2
+  - rank: 4
+    title: "Let's Stay Together"
+    artist: "Al Green"
+    year: 1971
+    album: "Let's Stay Together"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "Maggie May"
+    artist: "Rod Stewart"
+    year: 1971
+    album: "Every Picture Tells a Story"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "American Pie"
+    artist: "Don McLean"
+    year: 1971
+    album: "American Pie"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: "Won't Get Fooled Again"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 8
+    title: "Brown Sugar"
+    artist: "The Rolling Stones"
+    year: 1971
+    album: "Sticky Fingers"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "Just My Imagination (Running Away with Me)"
+    artist: "The Temptations"
+    year: 1971
+    album: "Sky's the Limit"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: "Family Affair"
+    artist: "Sly & the Family Stone"
+    year: 1971
+    album: "There's a Riot Goin' On"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: "Riders on the Storm"
+    artist: "The Doors"
+    year: 1971
+    album: "L.A. Woman"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 12
+    title: "Theme from Shaft"
+    artist: "Isaac Hayes"
+    year: 1971
+    album: "Shaft"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 13
+    title: "Wild Horses"
+    artist: "The Rolling Stones"
+    year: 1971
+    album: "Sticky Fingers"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 14
+    title: "Ain't No Sunshine"
+    artist: "Bill Withers"
+    year: 1971
+    album: "Just As I Am"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+      - Culturally important
+  - rank: 15
+    title: "Me and Bobby McGee"
+    artist: "Janis Joplin"
+    year: 1971
+    album: "Pearl"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+      - Folk
+    tags:
+      - Original artist: Kris Kristofferson
+      - Billboard Hot 100 #1
+  - rank: 16
+    title: "Baba O'Riley"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 17
+    title: "Mercy Mercy Me (The Ecology)"
+    artist: "Marvin Gaye"
+    year: 1971
+    album: "What's Going On"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #4
+      - Social commentary
+  - rank: 18
+    title: "Joy to the World"
+    artist: "Three Dog Night"
+    year: 1971
+    album: "Naturally"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 19
+    title: "Have You Seen Her"
+    artist: "The Chi-Lites"
+    year: 1971
+    album: "(For God's Sake) Give More Power to the People"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 20
+    title: "Draggin' the Line"
+    artist: "Tommy James"
+    year: 1971
+    album: "Christian of the World"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 21
+    title: "It's Too Late"
+    artist: "Carole King"
+    year: 1971
+    album: "Tapestry"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 22
+    title: "One Bad Apple"
+    artist: "The Osmonds"
+    year: 1971
+    album: "Osmonds"
+    genres:
+      - Pop
+      - Rock
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 23
+    title: "Take Me Home, Country Roads"
+    artist: "John Denver"
+    year: 1971
+    album: "Poems, Prayers & Promises"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Fan favorite
+  - rank: 24
+    title: "Mr. Big Stuff"
+    artist: "Jean Knight"
+    year: 1971
+    album: "Mr. Big Stuff"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 25
+    title: "Inner City Blues (Make Me Wanna Holler)"
+    artist: "Marvin Gaye"
+    year: 1971
+    album: "What's Going On"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #9
+      - Social commentary
+  - rank: 26
+    title: "You've Got a Friend"
+    artist: "James Taylor"
+    year: 1971
+    album: "Mud Slide Slim and the Blue Horizon"
+    genres:
+      - Folk
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: "Spanish Harlem"
+    artist: "Aretha Franklin"
+    year: 1971
+    cover: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Original artist: Ben E. King
+      - Billboard Hot 100 #2
+  - rank: 28
+    title: "Tired of Being Alone"
+    artist: "Al Green"
+    year: 1971
+    album: "Al Green Gets Next to You"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #11
+  - rank: 29
+    title: "Black Magic Woman"
+    artist: "Santana"
+    year: 1971
+    album: "Abraxas"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Original artist: Fleetwood Mac
+      - Billboard Hot 100 #4
+  - rank: 30
+    title: "I Feel the Earth Move"
+    artist: "Carole King"
+    year: 1971
+    album: "Tapestry"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 (as double A-side)
+  - rank: 31
+    title: "One Less Bell to Answer"
+    artist: "The 5th Dimension"
+    year: 1971
+    album: "Portrait"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 32
+    title: "Groove Me"
+    artist: "King Floyd"
+    year: 1971
+    album: "King Floyd"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 33
+    title: "The Night They Drove Old Dixie Down"
+    artist: "Joan Baez"
+    year: 1971
+    album: "Blessed Are..."
+    cover: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - Original artist: The Band
+      - Billboard Hot 100 #3
+  - rank: 34
+    title: "Never Can Say Goodbye"
+    artist: "The Jackson 5"
+    year: 1971
+    album: "Maybe Tomorrow"
+    genres:
+      - Soul
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 35
+    title: "How Can You Mend a Broken Heart"
+    artist: "Bee Gees"
+    year: 1971
+    album: "Trafalgar"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 36
+    title: "Bridge over Troubled Water"
+    artist: "Aretha Franklin"
+    year: 1971
+    cover: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Gospel
+    tags:
+      - Original artist: Simon & Garfunkel
+      - Billboard Hot 100 #6
+  - rank: 37
+    title: "Lonely Days"
+    artist: "Bee Gees"
+    year: 1971
+    album: "2 Years On"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 38
+    title: "If"
+    artist: "Bread"
+    year: 1971
+    album: "Manna"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 39
+    title: "Stick-Up"
+    artist: "Honey Cone"
+    year: 1971
+    album: "Soulful Tapestry"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #11
+  - rank: 40
+    title: "Want Ads"
+    artist: "Honey Cone"
+    year: 1971
+    album: "Sweet Replies"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 41
+    title: "Bring the Boys Home"
+    artist: "Freda Payne"
+    year: 1971
+    album: "Contact"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #12
+      - Anti-war song
+  - rank: 42
+    title: "Oye Como Va"
+    artist: "Santana"
+    year: 1971
+    album: "Abraxas"
+    cover: true
+    genres:
+      - Rock
+      - Latin
+    tags:
+      - Original artist: Tito Puente
+      - Billboard Hot 100 #13
+  - rank: 43
+    title: "Proud Mary"
+    artist: "Ike & Tina Turner"
+    year: 1971
+    album: "Workin' Together"
+    cover: true
+    genres:
+      - Rock
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Original artist: Creedence Clearwater Revival
+      - Billboard Hot 100 #4
+  - rank: 44
+    title: "Beginnings"
+    artist: "Chicago"
+    year: 1971
+    album: "Chicago Transit Authority"
+    genres:
+      - Rock
+      - Pop
+      - Jazz
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 45
+    title: "Stay Awhile"
+    artist: "The Bells"
+    year: 1971
+    album: "Fly, Little White Dove, Fly"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 46
+    title: "Sweet City Woman"
+    artist: "The Stampeders"
+    year: 1971
+    album: "Against the Grain"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 47
+    title: "Put Your Hand in the Hand"
+    artist: "Ocean"
+    year: 1971
+    album: "Put Your Hand in the Hand"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 48
+    title: "Have You Ever Seen the Rain"
+    artist: "Creedence Clearwater Revival"
+    year: 1971
+    album: "Pendulum"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #8
+      - Fan favorite
+  - rank: 49
+    title: "Funky Nassau"
+    artist: "The Beginning of the End"
+    year: 1971
+    album: "Funky Nassau"
+    solo-hit: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 50
+    title: "If I Were Your Woman"
+    artist: "Gladys Knight & the Pips"
+    year: 1971
+    album: "If I Were Your Woman"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 51
+    title: "Mama's Pearl"
+    artist: "The Jackson 5"
+    year: 1971
+    album: "Third Album"
+    genres:
+      - Soul
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 52
+    title: "Resurrection Shuffle"
+    artist: "Ashton, Gardner & Dyke"
+    year: 1971
+    album: "Ashton Gardner and Dyke"
+    solo-hit: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #40
+  - rank: 53
+    title: "Timothy"
+    artist: "The Buoys"
+    year: 1971
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #17
+  - rank: 54
+    title: "I Woke Up in Love This Morning"
+    artist: "The Partridge Family"
+    year: 1971
+    album: "Sound Magazine"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #13
+  - rank: 55
+    title: "Thin Line Between Love and Hate"
+    artist: "The Persuaders"
+    year: 1971
+    album: "Thin Line Between Love and Hate"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 56
+    title: "Treat Her Like a Lady"
+    artist: "Cornelius Brothers & Sister Rose"
+    year: 1971
+    album: "Cornelius Brothers & Sister Rose"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 57
+    title: "If You Could Read My Mind"
+    artist: "Gordon Lightfoot"
+    year: 1971
+    album: "Sit Down Young Stranger"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 58
+    title: "I Am... I Said"
+    artist: "Neil Diamond"
+    year: 1971
+    album: "Stones"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 59
+    title: "Another Day"
+    artist: "Paul McCartney"
+    year: 1971
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 60
+    title: "That's the Way I've Always Heard It Should Be"
+    artist: "Carly Simon"
+    year: 1971
+    album: "Carly Simon"
+    genres:
+      - Pop
+      - Folk
+      - Rock
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 61
+    title: "Knock Three Times"
+    artist: "Tony Orlando and Dawn"
+    year: 1971
+    album: "Candida"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 62
+    title: "Indian Reservation (The Lament of the Cherokee Reservation Indian)"
+    artist: "Raiders"
+    year: 1971
+    album: "Indian Reservation"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 63
+    title: "Superstar"
+    artist: "Carpenters"
+    year: 1971
+    album: "Carpenters"
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 64
+    title: "For All We Know"
+    artist: "Carpenters"
+    year: 1971
+    album: "Carpenters"
+    soundtrack: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 65
+    title: "Rainy Days and Mondays"
+    artist: "Carpenters"
+    year: 1971
+    album: "Carpenters"
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 66
+    title: "One Toke Over the Line"
+    artist: "Brewer & Shipley"
+    year: 1971
+    album: "Tarkio"
+    solo-hit: true
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 67
+    title: "Don't Pull Your Love"
+    artist: "Hamilton, Joe Frank & Reynolds"
+    year: 1971
+    album: "Hamilton, Joe Frank & Reynolds"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 68
+    title: "It Don't Come Easy"
+    artist: "Ringo Starr"
+    year: 1971
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 69
+    title: "Signs"
+    artist: "Five Man Electrical Band"
+    year: 1971
+    album: "Good-byes and Butterflies"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 70
+    title: "Don't Knock My Love"
+    artist: "Wilson Pickett"
+    year: 1971
+    album: "Don't Knock My Love"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #13
+  - rank: 71
+    title: "Here Comes That Rainy Day Feeling Again"
+    artist: "The Fortunes"
+    year: 1971
+    album: "Here Comes That Rainy Day Feeling Again"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 72
+    title: "Sweet and Innocent"
+    artist: "Donny Osmond"
+    year: 1971
+    album: "Donny Osmond Album"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 73
+    title: "Me and You and a Dog Named Boo"
+    artist: "Lobo"
+    year: 1971
+    album: "Introducing Lobo"
+    genres:
+      - Pop
+      - Folk
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 74
+    title: "Going Down"
+    artist: "Freddie King"
+    year: 1971
+    album: "Getting Ready..."
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Culturally important blues song
+  - rank: 75
+    title: "Sweet Thang"
+    artist: "Shuggie Otis"
+    year: 1971
+    album: "Freedom Flight"
+    genres:
+      - Blues
+      - Funk
+      - Soul
+    tags:
+      - Fan favorite in blues
+  - rank: 76
+    title: "A Case of You"
+    artist: "Joni Mitchell"
+    year: 1971
+    album: "Blue"
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 77
+    title: "Life on Mars?"
+    artist: "David Bowie"
+    year: 1971
+    album: "Hunky Dory"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 78
+    title: "Changes"
+    artist: "David Bowie"
+    year: 1971
+    album: "Hunky Dory"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 79
+    title: "Aqualung"
+    artist: "Jethro Tull"
+    year: 1971
+    album: "Aqualung"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 80
+    title: "Echoes"
+    artist: "Pink Floyd"
+    year: 1971
+    album: "Meddle"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 81
+    title: "Bang a Gong (Get It On)"
+    artist: "T. Rex"
+    year: 1971
+    album: "Electric Warrior"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 82
+    title: "Behind Blue Eyes"
+    artist: "The Who"
+    year: 1971
+    album: "Who's Next"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 83
+    title: "Move Over"
+    artist: "Janis Joplin"
+    year: 1971
+    album: "Pearl"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 84
+    title: "Tiny Dancer"
+    artist: "Elton John"
+    year: 1971
+    album: "Madman Across the Water"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 85
+    title: "Black Dog"
+    artist: "Led Zeppelin"
+    year: 1971
+    album: "Led Zeppelin IV"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 86
+    title: "When the Levee Breaks"
+    artist: "Led Zeppelin"
+    year: 1971
+    album: "Led Zeppelin IV"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Original artist: Kansas Joe McCoy and Memphis Minnie
+      - Culturally important
+  - rank: 87
+    title: "L.A. Woman"
+    artist: "The Doors"
+    year: 1971
+    album: "L.A. Woman"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: "Hot Pants"
+    artist: "James Brown"
+    year: 1971
+    album: "Hot Pants"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 89
+    title: "Make It Funky"
+    artist: "James Brown"
+    year: 1971
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #22
+  - rank: 90
+    title: "Clean Up Woman"
+    artist: "Betty Wright"
+    year: 1971
+    album: "I Love the Way You Love"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 91
+    title: "Respect Yourself"
+    artist: "The Staple Singers"
+    year: 1971
+    album: "Be Altitude: Respect Yourself"
+    genres:
+      - Soul
+      - Funk
+      - Gospel
+    tags:
+      - Billboard Hot 100 #12
+  - rank: 92
+    title: "I'd Love to Change the World"
+    artist: "Ten Years After"
+    year: 1971
+    album: "A Space in Time"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #40
+      - Culturally important
+  - rank: 93
+    title: "Statesboro Blues"
+    artist: "The Allman Brothers Band"
+    year: 1971
+    album: "At Fillmore East"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Original artist: Blind Willie McTell
+      - Fan favorite
+  - rank: 94
+    title: "The Thrill Is Gone (Live)"
+    artist: "B.B. King"
+    year: 1971
+    album: "Live in Cook County Jail"
+    genres:
+      - Blues
+    tags:
+      - Fan favorite in blues
+  - rank: 95
+    title: "Journey in Satchidananda"
+    artist: "Alice Coltrane"
+    year: 1971
+    album: "Journey in Satchidananda"
+    genres:
+      - Jazz
+    tags:
+      - Culturally important jazz track
+  - rank: 96
+    title: "First Light"
+    artist: "Freddie Hubbard"
+    year: 1971
+    album: "First Light"
+    genres:
+      - Jazz
+    tags:
+      - Important jazz fusion
+  - rank: 97
+    title: "Inner Mounting Flame"
+    artist: "Mahavishnu Orchestra"
+    year: 1971
+    album: "The Inner Mounting Flame"
+    genres:
+      - Jazz
+      - Rock
+    tags:
+      - Title track of influential jazz fusion album
+  - rank: 98
+    title: "Sunday"
+    artist: "Benny Carter"
+    year: 1971
+    genres:
+      - Jazz
+      - Big Band
+    tags:
+      - Swing jazz standard revival
+  - rank: 99
+    title: "We Are Goin' Down Jordan"
+    artist: "Les Humphries Singers"
+    year: 1971
+    genres:
+      - Pop
+      - Rock
+      - Doo-wop elements
+    tags:
+      - Doo-wop revival influence
+  - rank: 100
+    title: "Ain't Got a Thing"
+    artist: "Sonny Burgess"
+    year: 1971
+    genres:
+      - Rockabilly
+    tags:
+      - Rockabilly revival

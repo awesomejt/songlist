@@ -1,0 +1,634 @@
+songs:
+  - rank: 1
+    title: "Bad Day"
+    artist: "Daniel Powter"
+    year: 2006
+    album: "Daniel Powter"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 Year-End Number One
+      - Culturally Important
+  - rank: 2
+    title: "Promiscuous"
+    artist: "Nelly Furtado featuring Timbaland"
+    year: 2006
+    album: "Loose"
+    genres:
+      - Pop
+      - R&B
+  - rank: 3
+    title: "You're Beautiful"
+    artist: "James Blunt"
+    year: 2006
+    album: "Back to Bedlam"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 4
+    title: "Hips Don't Lie"
+    artist: "Shakira featuring Wyclef Jean"
+    year: 2006
+    album: "Oral Fixation, Vol. 2"
+    genres:
+      - Pop
+      - R&B
+  - rank: 5
+    title: "Unwritten"
+    artist: "Natasha Bedingfield"
+    year: 2006
+    album: "Unwritten"
+    genres:
+      - Pop
+  - rank: 6
+    title: "Crazy"
+    artist: "Gnarls Barkley"
+    year: 2006
+    album: "St. Elsewhere"
+    solo-hit: true
+    genres:
+      - Soul
+      - Funk
+      - Alternative
+    tags:
+      - Fan Favorite
+  - rank: 7
+    title: "SexyBack"
+    artist: "Justin Timberlake featuring Timbaland"
+    year: 2006
+    album: "FutureSex/LoveSounds"
+    genres:
+      - Pop
+      - R&B
+      - Funk
+  - rank: 8
+    title: "Temperature"
+    artist: "Sean Paul"
+    year: 2006
+    album: "The Trinity"
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Crossover hit
+  - rank: 9
+    title: "Ridin'"
+    artist: "Chamillionaire featuring Krayzie Bone"
+    year: 2006
+    album: "The Sound of Revenge"
+    solo-hit: true
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Crossover hit
+      - Top 10 Hit
+  - rank: 10
+    title: "Check on It"
+    artist: "Beyoncé featuring Slim Thug"
+    year: 2006
+    album: "#1's"
+    soundtrack: true
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Soundtrack for The Pink Panther
+  - rank: 11
+    title: "Be Without You"
+    artist: "Mary J. Blige"
+    year: 2006
+    album: "The Breakthrough"
+    genres:
+      - R&B
+      - Soul
+    tags:
+      - Number-one R&B hit
+  - rank: 12
+    title: "Over My Head (Cable Car)"
+    artist: "The Fray"
+    year: 2006
+    album: "How to Save a Life"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 13
+    title: "Me & U"
+    artist: "Cassie"
+    year: 2006
+    album: "Cassie"
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 14
+    title: "Buttons"
+    artist: "Pussycat Dolls featuring Snoop Dogg"
+    year: 2006
+    album: "PCD"
+    genres:
+      - Pop
+      - R&B
+  - rank: 15
+    title: "Run It!"
+    artist: "Chris Brown featuring Juelz Santana"
+    year: 2006
+    album: "Chris Brown"
+    genres:
+      - R&B
+      - Pop
+  - rank: 16
+    title: "So Sick"
+    artist: "Ne-Yo"
+    year: 2006
+    album: "In My Own Words"
+    genres:
+      - R&B
+  - rank: 17
+    title: "SOS"
+    artist: "Rihanna"
+    year: 2006
+    album: "A Girl like Me"
+    genres:
+      - Pop
+      - R&B
+  - rank: 18
+    title: "I Write Sins Not Tragedies"
+    artist: "Panic! at the Disco"
+    year: 2006
+    album: "A Fever You Can't Sweat Out"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 19
+    title: "Move Along"
+    artist: "The All-American Rejects"
+    year: 2006
+    album: "Move Along"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 20
+    title: "London Bridge"
+    artist: "Fergie"
+    year: 2006
+    album: "The Dutchess"
+    genres:
+      - Pop
+  - rank: 21
+    title: "Dani California"
+    artist: "Red Hot Chili Peppers"
+    year: 2006
+    album: "Stadium Arcadium"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Top Alternative Song
+  - rank: 22
+    title: "What Hurts the Most"
+    artist: "Rascal Flatts"
+    year: 2006
+    album: "Me and My Gang"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Crossover hit
+  - rank: 23
+    title: "How to Save a Life"
+    artist: "The Fray"
+    year: 2006
+    album: "How to Save a Life"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 24
+    title: "Unfaithful"
+    artist: "Rihanna"
+    year: 2006
+    album: "A Girl like Me"
+    genres:
+      - R&B
+      - Pop
+  - rank: 25
+    title: "Chasing Cars"
+    artist: "Snow Patrol"
+    year: 2006
+    album: "Eyes Open"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 26
+    title: "Lips of an Angel"
+    artist: "Hinder"
+    year: 2006
+    album: "Extreme Behavior"
+    solo-hit: true
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 27
+    title: "Everytime We Touch"
+    artist: "Cascada"
+    year: 2006
+    album: "Everytime We Touch"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 28
+    title: "Ain't No Other Man"
+    artist: "Christina Aguilera"
+    year: 2006
+    album: "Back to Basics"
+    genres:
+      - Pop
+      - R&B
+      - Soul
+  - rank: 29
+    title: "Dance, Dance"
+    artist: "Fall Out Boy"
+    year: 2006
+    album: "From Under the Cork Tree"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 30
+    title: "Photograph"
+    artist: "Nickelback"
+    year: 2006
+    album: "All the Right Reasons"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 31
+    title: "Because of You"
+    artist: "Kelly Clarkson"
+    year: 2006
+    album: "Breakaway"
+    genres:
+      - Pop
+  - rank: 32
+    title: "Stickwitu"
+    artist: "Pussycat Dolls"
+    year: 2006
+    album: "PCD"
+    genres:
+      - Pop
+      - R&B
+  - rank: 33
+    title: "My Humps"
+    artist: "The Black Eyed Peas"
+    year: 2006
+    album: "Monkey Business"
+    genres:
+      - Pop
+      - Funk
+  - rank: 34
+    title: "Where'd You Go"
+    artist: "Fort Minor featuring Holly Brook"
+    year: 2006
+    album: "The Rising Tied"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Pop
+  - rank: 35
+    title: "Yo (Excuse Me Miss)"
+    artist: "Chris Brown"
+    year: 2006
+    album: "Chris Brown"
+    genres:
+      - R&B
+  - rank: 36
+    title: "Walk Away"
+    artist: "Kelly Clarkson"
+    year: 2006
+    album: "Breakaway"
+    genres:
+      - Pop
+  - rank: 37
+    title: "Dirty Little Secret"
+    artist: "The All-American Rejects"
+    year: 2006
+    album: "Move Along"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 38
+    title: "Savin' Me"
+    artist: "Nickelback"
+    year: 2006
+    album: "All the Right Reasons"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 39
+    title: "Don't Forget About Us"
+    artist: "Mariah Carey"
+    year: 2006
+    album: "The Emancipation of Mimi"
+    genres:
+      - R&B
+      - Pop
+  - rank: 40
+    title: "Sexy Love"
+    artist: "Ne-Yo"
+    year: 2006
+    album: "In My Own Words"
+    genres:
+      - R&B
+  - rank: 41
+    title: "Far Away"
+    artist: "Nickelback"
+    year: 2006
+    album: "All the Right Reasons"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 42
+    title: "What's Left of Me"
+    artist: "Nick Lachey"
+    year: 2006
+    album: "What's Left of Me"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 43
+    title: "Black Horse and the Cherry Tree"
+    artist: "KT Tunstall"
+    year: 2006
+    album: "Eye to the Telescope"
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+      - Blues
+  - rank: 44
+    title: "Unpredictable"
+    artist: "Jamie Foxx featuring Ludacris"
+    year: 2006
+    album: "Unpredictable"
+    genres:
+      - R&B
+  - rank: 45
+    title: "My Love"
+    artist: "Justin Timberlake featuring T.I."
+    year: 2006
+    album: "FutureSex/LoveSounds"
+    genres:
+      - Pop
+      - R&B
+  - rank: 46
+    title: "Pullin' Me Back"
+    artist: "Chingy featuring Tyrese"
+    year: 2006
+    album: "Hoodstar"
+    genres:
+      - R&B
+  - rank: 47
+    title: "One Wish"
+    artist: "Ray J"
+    year: 2006
+    album: "Raydiation"
+    genres:
+      - R&B
+  - rank: 48
+    title: "Sugar, We're Goin Down"
+    artist: "Fall Out Boy"
+    year: 2006
+    album: "From Under the Cork Tree"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 49
+    title: "Hate Me"
+    artist: "Blue October"
+    year: 2006
+    album: "Foiled"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 50
+    title: "You and Me"
+    artist: "Lifehouse"
+    year: 2006
+    album: "Lifehouse"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 51
+    title: "Beep"
+    artist: "Pussycat Dolls featuring will.i.am"
+    year: 2006
+    album: "PCD"
+    genres:
+      - Pop
+      - R&B
+  - rank: 52
+    title: "Waiting on the World to Change"
+    artist: "John Mayer"
+    year: 2006
+    album: "Continuum"
+    genres:
+      - Pop
+      - Soft Rock
+      - Blues
+  - rank: 53
+    title: "Pump It"
+    artist: "The Black Eyed Peas"
+    year: 2006
+    album: "Monkey Business"
+    genres:
+      - Pop
+      - Funk
+  - rank: 54
+    title: "Stupid Girls"
+    artist: "Pink"
+    year: 2006
+    album: "I'm Not Dead"
+    genres:
+      - Pop
+      - Rock
+  - rank: 55
+    title: "Feel Good Inc."
+    artist: "Gorillaz"
+    year: 2006
+    album: "Demon Days"
+    genres:
+      - Alternative
+      - Funk
+  - rank: 56
+    title: "Animal I Have Become"
+    artist: "Three Days Grace"
+    year: 2006
+    album: "One-X"
+    genres:
+      - Hard Rock
+      - Alternative
+    tags:
+      - Top Mainstream Rock Song
+  - rank: 57
+    title: "The Kill"
+    artist: "Thirty Seconds to Mars"
+    year: 2006
+    album: "A Beautiful Lie"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 58
+    title: "Miss Murder"
+    artist: "AFI"
+    year: 2006
+    album: "Decemberunderground"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 59
+    title: "Steady, As She Goes"
+    artist: "The Raconteurs"
+    year: 2006
+    album: "Broken Boy Soldiers"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 60
+    title: "Wasteland"
+    artist: "10 Years"
+    year: 2006
+    album: "The Autumn Effect"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 61
+    title: "Through Glass"
+    artist: "Stone Sour"
+    year: 2006
+    album: "Come What(ever) May"
+    genres:
+      - Hard Rock
+      - Alternative
+  - rank: 62
+    title: "Speak"
+    artist: "Godsmack"
+    year: 2006
+    album: "IV"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 63
+    title: "Animals"
+    artist: "Nickelback"
+    year: 2006
+    album: "All the Right Reasons"
+    genres:
+      - Hard Rock
+      - Rock
+  - rank: 64
+    title: "Crazy Bitch"
+    artist: "Buckcherry"
+    year: 2006
+    album: "15"
+    genres:
+      - Hard Rock
+  - rank: 65
+    title: "Winelight"
+    artist: "Paul Brown"
+    year: 2006
+    album: "The City"
+    cover: true
+    genres:
+      - Jazz
+      - Smooth Jazz
+    tags:
+      - Top Smooth Jazz Song
+      - Original artist: Grover Washington Jr.
+  - rank: 66
+    title: "Let's Get Started"
+    artist: "Brian Culbertson"
+    year: 2006
+    album: "It's On Tonight"
+    genres:
+      - Jazz
+      - Smooth Jazz
+  - rank: 67
+    title: "Summer Nights"
+    artist: "Nils"
+    year: 2006
+    album: "Pacific Coast Highway"
+    genres:
+      - Jazz
+      - Smooth Jazz
+  - rank: 68
+    title: "2nd 2 None"
+    artist: "Najee"
+    year: 2006
+    album: "My Point of View"
+    genres:
+      - Jazz
+      - Smooth Jazz
+  - rank: 69
+    title: "Emily"
+    artist: "Joanna Newsom"
+    year: 2006
+    album: "Ys"
+    genres:
+      - Folk
+    tags:
+      - Culturally Important
+      - Fan Favorite
+  - rank: 70
+    title: "Welcome to the Black Parade"
+    artist: "My Chemical Romance"
+    year: 2006
+    album: "The Black Parade"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Culturally Important
+      - Fan Favorite
+  - rank: 71
+    title: "When You Were Young"
+    artist: "The Killers"
+    year: 2006
+    album: "Sam's Town"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan Favorite
+  - rank: 72
+    title: "O Valencia!"
+    artist: "The Decemberists"
+    year: 2006
+    album: "The Crane Wife"
+    genres:
+      - Folk
+      - Rock
+  - rank: 73
+    title: "Saudades"
+    artist: "Trio Beyond"
+    year: 2006
+    album: "Saudades"
+    genres:
+      - Jazz
+    tags:
+      - Important Jazz Track
+  - rank: 74
+    title: "Nu Nu"
+    artist: "Avishai Cohen"
+    year: 2006
+    album: "Continuo"
+    genres:
+      - Jazz
+  - rank: 75
+    title: "Easy Did It"
+    artist: "Dave Holland Quintet"
+    year: 2006
+    album: "Critical Mass"
+    genres:
+      - Jazz

@@ -1,0 +1,1042 @@
+songs:
+  - rank: 1
+    title: "The First Time Ever I Saw Your Face"
+    artist: "Roberta Flack"
+    year: 1972
+    album: "First Take"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 2
+    title: "Alone Again (Naturally)"
+    artist: "Gilbert O'Sullivan"
+    year: 1972
+    album: "Himself"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 3
+    title: "American Pie"
+    artist: "Don McLean"
+    year: 1972
+    album: "American Pie"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 4
+    title: "Without You"
+    artist: "Nilsson"
+    year: 1972
+    album: "Nilsson Schmilsson"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "The Candy Man"
+    artist: "Sammy Davis, Jr."
+    year: 1972
+    album: "Sammy Davis Jr. Now"
+    soundtrack: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "I Gotcha"
+    artist: "Joe Tex"
+    year: 1972
+    album: "I Gotcha"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 7
+    title: "Lean On Me"
+    artist: "Bill Withers"
+    year: 1972
+    album: "Still Bill"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 8
+    title: "Baby Don't Get Hooked On Me"
+    artist: "Mac Davis"
+    year: 1972
+    album: "Baby Don't Get Hooked On Me"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "Brand New Key"
+    artist: "Melanie"
+    year: 1972
+    album: "Gather Me"
+    solo-hit: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: "My Ding-a-Ling"
+    artist: "Chuck Berry"
+    year: 1972
+    album: "The London Chuck Berry Sessions"
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: "Let's Stay Together"
+    artist: "Al Green"
+    year: 1972
+    album: "Let's Stay Together"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 12
+    title: "Heart of Gold"
+    artist: "Neil Young"
+    year: 1972
+    album: "Harvest"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+      - Fan favorite
+  - rank: 13
+    title: "Ben"
+    artist: "Michael Jackson"
+    year: 1972
+    album: "Ben"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 14
+    title: "The Lion Sleeps Tonight"
+    artist: "Robert John"
+    year: 1972
+    cover: true
+    genres:
+      - Pop
+      - Doo-wop
+    tags:
+      - Original artist: The Tokens
+      - Billboard Hot 100 #3
+  - rank: 15
+    title: "Horse With No Name"
+    artist: "America"
+    year: 1972
+    album: "America"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 16
+    title: "Nights in White Satin"
+    artist: "The Moody Blues"
+    year: 1972
+    album: "Days of Future Passed"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Fan favorite
+  - rank: 17
+    title: "Oh Girl"
+    artist: "The Chi-Lites"
+    year: 1972
+    album: "A Lonely Man"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 18
+    title: "I'll Take You There"
+    artist: "The Staple Singers"
+    year: 1972
+    album: "Be Altitude: Respect Yourself"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 19
+    title: "Rocket Man"
+    artist: "Elton John"
+    year: 1972
+    album: "Honky Château"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+      - Culturally important
+      - Fan favorite
+  - rank: 20
+    title: "Papa Was a Rollin' Stone"
+    artist: "The Temptations"
+    year: 1972
+    album: "All Directions"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 21
+    title: "Outa-Space"
+    artist: "Billy Preston"
+    year: 1972
+    album: "I Wrote a Simple Song"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 22
+    title: "Song Sung Blue"
+    artist: "Neil Diamond"
+    year: 1972
+    album: "Moods"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 23
+    title: "I Am Woman"
+    artist: "Helen Reddy"
+    year: 1972
+    album: "I Am Woman"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 24
+    title: "I Can See Clearly Now"
+    artist: "Johnny Nash"
+    year: 1972
+    album: "I Can See Clearly Now"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 25
+    title: "A Cowboy's Work Is Never Done"
+    artist: "Sonny & Cher"
+    year: 1972
+    album: "All I Ever Need Is You"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 26
+    title: "Me and Mrs. Jones"
+    artist: "Billy Paul"
+    year: 1972
+    album: "360 Degrees of Billy Paul"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: "Morning Has Broken"
+    artist: "Cat Stevens"
+    year: 1972
+    album: "Teaser and the Firecat"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 28
+    title: "The City of New Orleans"
+    artist: "Arlo Guthrie"
+    year: 1972
+    album: "Hobo's Lullaby"
+    cover: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Original artist: Steve Goodman
+      - Billboard Hot 100 #18
+  - rank: 29
+    title: "If You Don't Know Me by Now"
+    artist: "Harold Melvin & the Blue Notes"
+    year: 1972
+    album: "Harold Melvin & the Blue Notes"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 30
+    title: "Mother and Child Reunion"
+    artist: "Paul Simon"
+    year: 1972
+    album: "Paul Simon"
+    genres:
+      - Folk
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 31
+    title: "Where Is the Love"
+    artist: "Roberta Flack & Donny Hathaway"
+    year: 1972
+    album: "Roberta Flack & Donny Hathaway"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 32
+    title: "I Saw the Light"
+    artist: "Todd Rundgren"
+    year: 1972
+    album: "Something/Anything?"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #16
+      - Fan favorite
+  - rank: 33
+    title: "How Do You Do?"
+    artist: "Mouth & MacNeal"
+    year: 1972
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 34
+    title: "I Need You"
+    artist: "America"
+    year: 1972
+    album: "America"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 35
+    title: "Day After Day"
+    artist: "Badfinger"
+    year: 1972
+    album: "Straight Up"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 36
+    title: "Superfly"
+    artist: "Curtis Mayfield"
+    year: 1972
+    album: "Superfly"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Culturally important
+  - rank: 37
+    title: "Freddie's Dead"
+    artist: "Curtis Mayfield"
+    year: 1972
+    album: "Superfly"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 38
+    title: "Burning Love"
+    artist: "Elvis Presley"
+    year: 1972
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 39
+    title: "Clean Up Woman"
+    artist: "Betty Wright"
+    year: 1972
+    album: "I Love the Way You Love"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 40
+    title: "Hold Your Head Up"
+    artist: "Argent"
+    year: 1972
+    album: "All Together Now"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 41
+    title: "Jungle Fever"
+    artist: "The Chakachas"
+    year: 1972
+    single: true
+    solo-hit: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 42
+    title: "Everything I Own"
+    artist: "Bread"
+    year: 1972
+    album: "Baby I'm-a Want You"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 43
+    title: "In the Rain"
+    artist: "The Dramatics"
+    year: 1972
+    album: "Whatcha See Is Whatcha Get"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 44
+    title: "Look What You Done for Me"
+    artist: "Al Green"
+    year: 1972
+    album: "I'm Still in Love with You"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 45
+    title: "Slippin' Into Darkness"
+    artist: "War"
+    year: 1972
+    album: "All Day Music"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+    tags:
+      - Billboard Hot 100 #16
+  - rank: 46
+    title: "Starting All Over Again"
+    artist: "Mel & Tim"
+    year: 1972
+    album: "Starting All Over Again"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #19
+  - rank: 47
+    title: "Day Dreaming"
+    artist: "Aretha Franklin"
+    year: 1972
+    album: "Young, Gifted and Black"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 48
+    title: "If Loving You Is Wrong (I Don't Want to Be Right)"
+    artist: "Luther Ingram"
+    year: 1972
+    album: "If Loving You Is Wrong I Don't Want to Be Right"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 49
+    title: "All the King's Horses"
+    artist: "Aretha Franklin"
+    year: 1972
+    album: "Young, Gifted and Black"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #26
+  - rank: 50
+    title: "Happy"
+    artist: "The Rolling Stones"
+    year: 1972
+    album: "Exile on Main St."
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 51
+    title: "Tumbling Dice"
+    artist: "The Rolling Stones"
+    year: 1972
+    album: "Exile on Main St."
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #7
+      - Fan favorite
+  - rank: 52
+    title: "Smoke on the Water"
+    artist: "Deep Purple"
+    year: 1972
+    album: "Machine Head"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 53
+    title: "School's Out"
+    artist: "Alice Cooper"
+    year: 1972
+    album: "School's Out"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #7
+      - Culturally important
+  - rank: 54
+    title: "Ziggy Stardust"
+    artist: "David Bowie"
+    year: 1972
+    album: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"
+    genres:
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 55
+    title: "Starman"
+    artist: "David Bowie"
+    year: 1972
+    album: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 56
+    title: "Suffragette City"
+    artist: "David Bowie"
+    year: 1972
+    album: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 57
+    title: "Superstition"
+    artist: "Stevie Wonder"
+    year: 1972
+    album: "Talking Book"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+      - Fan favorite
+  - rank: 58
+    title: "You Are the Sunshine of My Life"
+    artist: "Stevie Wonder"
+    year: 1972
+    album: "Talking Book"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 59
+    title: "I'll Be Around"
+    artist: "The Spinners"
+    year: 1972
+    album: "Spinners"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 60
+    title: "Back Stabbers"
+    artist: "The O'Jays"
+    year: 1972
+    album: "Back Stabbers"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 61
+    title: "Use Me"
+    artist: "Bill Withers"
+    year: 1972
+    album: "Still Bill"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 62
+    title: "Everybody Plays the Fool"
+    artist: "The Main Ingredient"
+    year: 1972
+    album: "Bitter Sweet"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 63
+    title: "I'm Still in Love with You"
+    artist: "Al Green"
+    year: 1972
+    album: "I'm Still in Love with You"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 64
+    title: "Listen to the Music"
+    artist: "The Doobie Brothers"
+    year: 1972
+    album: "Toulouse Street"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #11
+      - Fan favorite
+  - rank: 65
+    title: "Go All the Way"
+    artist: "Raspberries"
+    year: 1972
+    album: "Raspberries"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 66
+    title: "Bang a Gong (Get It On)"
+    artist: "T. Rex"
+    year: 1972
+    album: "Electric Warrior"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 67
+    title: "Take It Easy"
+    artist: "Eagles"
+    year: 1972
+    album: "Eagles"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #12
+      - Fan favorite
+  - rank: 68
+    title: "All the Young Dudes"
+    artist: "Mott the Hoople"
+    year: 1972
+    album: "All the Young Dudes"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: David Bowie
+      - Billboard Hot 100 #37
+      - Culturally important
+  - rank: 69
+    title: "Walk on the Wild Side"
+    artist: "Lou Reed"
+    year: 1972
+    album: "Transformer"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #16
+      - Culturally important
+  - rank: 70
+    title: "You Don't Mess Around with Jim"
+    artist: "Jim Croce"
+    year: 1972
+    album: "You Don't Mess Around with Jim"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 71
+    title: "If I Could Reach You"
+    artist: "The 5th Dimension"
+    year: 1972
+    album: "Individually & Collectively"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 72
+    title: "Honky Cat"
+    artist: "Elton John"
+    year: 1972
+    album: "Honky Château"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 73
+    title: "Goodbye to Love"
+    artist: "Carpenters"
+    year: 1972
+    album: "A Song for You"
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 74
+    title: "Witchy Woman"
+    artist: "Eagles"
+    year: 1972
+    album: "Eagles"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 75
+    title: "Ventura Highway"
+    artist: "America"
+    year: 1972
+    album: "Homecoming"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+      - Fan favorite
+  - rank: 76
+    title: "Suavecito"
+    artist: "Malo"
+    year: 1972
+    album: "Malo"
+    solo-hit: true
+    genres:
+      - Rock
+      - Funk
+    tags:
+      - Billboard Hot 100 #18
+  - rank: 77
+    title: "I'm Stone in Love with You"
+    artist: "The Stylistics"
+    year: 1972
+    album: "Round 2"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 78
+    title: "Doctor My Eyes"
+    artist: "Jackson Browne"
+    year: 1972
+    album: "Jackson Browne"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 79
+    title: "I'd Love You to Want Me"
+    artist: "Lobo"
+    year: 1972
+    album: "Of a Simple Man"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 80
+    title: "Dancing in the Moonlight"
+    artist: "King Harvest"
+    year: 1972
+    album: "Dancing in the Moonlight"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #13
+      - Fan favorite
+  - rank: 81
+    title: "The Guitar Man"
+    artist: "Bread"
+    year: 1972
+    album: "Guitar Man"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #11
+  - rank: 82
+    title: "Nice to Be with You"
+    artist: "Gallery"
+    year: 1972
+    album: "Nice to Be with You"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 83
+    title: "Popcorn"
+    artist: "Hot Butter"
+    year: 1972
+    album: "Popcorn"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 84
+    title: "Troglodyte (Cave Man)"
+    artist: "The Jimmy Castor Bunch"
+    year: 1972
+    album: "It's Just Begun"
+    solo-hit: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 85
+    title: "Too Late to Turn Back Now"
+    artist: "Cornelius Brothers & Sister Rose"
+    year: 1972
+    album: "Cornelius Brothers & Sister Rose"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 86
+    title: "Pink Moon"
+    artist: "Nick Drake"
+    year: 1972
+    album: "Pink Moon"
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 87
+    title: "Mother Nature's Son"
+    artist: "Paul Simon"
+    year: 1972
+    album: "Paul Simon"
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 88
+    title: "Blue Sky"
+    artist: "The Allman Brothers Band"
+    year: 1972
+    album: "Eat a Peach"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 89
+    title: "Melissa"
+    artist: "The Allman Brothers Band"
+    year: 1972
+    album: "Eat a Peach"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Fan favorite
+  - rank: 90
+    title: "Return to Forever"
+    artist: "Chick Corea"
+    year: 1972
+    album: "Return to Forever"
+    genres:
+      - Jazz
+    tags:
+      - Important jazz fusion
+  - rank: 91
+    title: "Crossings"
+    artist: "Herbie Hancock"
+    year: 1972
+    album: "Crossings"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Culturally important jazz album title track
+  - rank: 92
+    title: "Adios Nonino"
+    artist: "Astor Piazzolla"
+    year: 1972
+    genres:
+      - Jazz
+      - Big Band
+    tags:
+      - Fan favorite in jazz
+  - rank: 93
+    title: "There It Is"
+    artist: "James Brown"
+    year: 1972
+    single: true
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #43
+  - rank: 94
+    title: "Get on the Good Foot"
+    artist: "James Brown"
+    year: 1972
+    album: "Get on the Good Foot"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #18
+  - rank: 95
+    title: "Talking Loud and Saying Nothing"
+    artist: "James Brown"
+    year: 1972
+    album: "There It Is"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 #27
+  - rank: 96
+    title: "Bright Phoebus"
+    artist: "Lal & Mike Waterson"
+    year: 1972
+    album: "Bright Phoebus"
+    genres:
+      - Folk
+    tags:
+      - Culturally important folk track
+  - rank: 97
+    title: "Let My Children Hear Music"
+    artist: "Charles Mingus"
+    year: 1972
+    album: "Let My Children Hear Music"
+    genres:
+      - Jazz
+    tags:
+      - Important jazz track
+  - rank: 98
+    title: "Attica Blues"
+    artist: "Archie Shepp"
+    year: 1972
+    album: "Attica Blues"
+    genres:
+      - Jazz
+      - Funk
+    tags:
+      - Culturally important
+  - rank: 99
+    title: "Darkness, Darkness"
+    artist: "Phil Upchurch"
+    year: 1972
+    album: "Darkness, Darkness"
+    genres:
+      - Funk
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 100
+    title: "It's Just Begun"
+    artist: "The Jimmy Castor Bunch"
+    year: 1972
+    album: "It's Just Begun"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Culturally important in funk

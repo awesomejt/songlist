@@ -1,0 +1,896 @@
+songs:
+  - rank: 1
+    title: "Hanging by a Moment"
+    artist: "Lifehouse"
+    year: 2001
+    album: "No Name Face"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number-one on Billboard Hot 100 year-end
+
+  - rank: 2
+    title: "Fallin'"
+    artist: "Alicia Keys"
+    year: 2001
+    album: "Songs in A Minor"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Grammy winner
+
+  - rank: 3
+    title: "All for You"
+    artist: "Janet Jackson"
+    year: 2001
+    album: "All for You"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 4
+    title: "Drops of Jupiter (Tell Me)"
+    artist: "Train"
+    year: 2001
+    album: "Drops of Jupiter"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Grammy winner
+
+  - rank: 5
+    title: "I'm Real (Murder Remix)"
+    artist: "Jennifer Lopez featuring Ja Rule"
+    year: 2001
+    album: "J. Lo"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 6
+    title: "If You're Gone"
+    artist: "Matchbox Twenty"
+    year: 2001
+    album: "Mad Season"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 7
+    title: "Thank You"
+    artist: "Dido"
+    year: 2001
+    album: "No Angel"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 8
+    title: "Again"
+    artist: "Lenny Kravitz"
+    year: 2001
+    album: "Lenny"
+    genres:
+      - Rock
+
+  - rank: 9
+    title: "Independent Women Part I"
+    artist: "Destiny's Child"
+    year: 2001
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From Charlie's Angels
+
+  - rank: 10
+    title: "Hit 'Em Up Style (Oops!)"
+    artist: "Blu Cantrell"
+    year: 2001
+    album: "So Blu"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 11
+    title: "It's Been Awhile"
+    artist: "Staind"
+    year: 2001
+    album: "Break the Cycle"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 12
+    title: "U Remind Me"
+    artist: "Usher"
+    year: 2001
+    album: "8701"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 13
+    title: "Where the Party At"
+    artist: "Jagged Edge with Nelly"
+    year: 2001
+    album: "Jagged Little Thrill"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 14
+    title: "Angel"
+    artist: "Shaggy featuring Rayvon"
+    year: 2001
+    album: "Hot Shot"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 15
+    title: "Ride wit Me"
+    artist: "Nelly featuring City Spud"
+    year: 2001
+    album: "Country Grammar"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Crossover hit
+
+  - rank: 16
+    title: "Follow Me"
+    artist: "Uncle Kracker"
+    year: 2001
+    album: "Double Wide"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 17
+    title: "Peaches & Cream"
+    artist: "112"
+    year: 2001
+    album: "Part III"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 18
+    title: "Drive"
+    artist: "Incubus"
+    year: 2001
+    album: "Make Yourself"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 19
+    title: "What Would You Do?"
+    artist: "City High"
+    year: 2001
+    album: "City High"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 20
+    title: "Survivor"
+    artist: "Destiny's Child"
+    year: 2001
+    album: "Survivor"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 21
+    title: "Lady Marmalade"
+    artist: "Christina Aguilera, Lil' Kim, Mýa and Pink"
+    year: 2001
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - From Moulin Rouge
+      - Original artist: Labelle
+
+  - rank: 22
+    title: "Love Don't Cost a Thing"
+    artist: "Jennifer Lopez"
+    year: 2001
+    album: "J. Lo"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 23
+    title: "The Way You Love Me"
+    artist: "Faith Hill"
+    year: 2001
+    album: "Breathe"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 24
+    title: "He Loves U Not"
+    artist: "Dream"
+    year: 2001
+    album: "It Was All a Dream"
+    solo-hit: true
+    genres:
+      - Pop
+
+  - rank: 25
+    title: "Butterfly"
+    artist: "Crazy Town"
+    year: 2001
+    album: "The Gift of Game"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 26
+    title: "Put It on Me"
+    artist: "Ja Rule featuring Lil' Mo and Vita"
+    year: 2001
+    album: "Rule 3:36"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 27
+    title: "Family Affair"
+    artist: "Mary J. Blige"
+    year: 2001
+    album: "No More Drama"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 28
+    title: "I Hope You Dance"
+    artist: "Lee Ann Womack"
+    year: 2001
+    album: "I Hope You Dance"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 29
+    title: "South Side"
+    artist: "Moby featuring Gwen Stefani"
+    year: 2001
+    album: "Play"
+    genres:
+      - Pop
+      - Alternative
+
+  - rank: 30
+    title: "Don't Tell Me"
+    artist: "Madonna"
+    year: 2001
+    album: "Music"
+    genres:
+      - Pop
+
+  - rank: 31
+    title: "Crazy"
+    artist: "K-Ci & JoJo"
+    year: 2001
+    album: "X"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 32
+    title: "Fill Me In"
+    artist: "Craig David"
+    year: 2001
+    album: "Born to Do It"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 33
+    title: "Someone to Call My Lover"
+    artist: "Janet Jackson"
+    year: 2001
+    album: "All for You"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 34
+    title: "With Arms Wide Open"
+    artist: "Creed"
+    year: 2001
+    album: "Human Clay"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 35
+    title: "All or Nothing"
+    artist: "O-Town"
+    year: 2001
+    album: "O-Town"
+    genres:
+      - Pop
+
+  - rank: 36
+    title: "Bootylicious"
+    artist: "Destiny's Child"
+    year: 2001
+    album: "Survivor"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 37
+    title: "I'm Like a Bird"
+    artist: "Nelly Furtado"
+    year: 2001
+    album: "Whoa, Nelly!"
+    genres:
+      - Pop
+
+  - rank: 38
+    title: "Kryptonite"
+    artist: "3 Doors Down"
+    year: 2001
+    album: "The Better Life"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 39
+    title: "Fiesta"
+    artist: "R. Kelly featuring Jay-Z"
+    year: 2001
+    album: "TP-2.com"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 40
+    title: "When It's Over"
+    artist: "Sugar Ray"
+    year: 2001
+    album: "Sugar Ray"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 41
+    title: "Jaded"
+    artist: "Aerosmith"
+    year: 2001
+    album: "Just Push Play"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 42
+    title: "Promise"
+    artist: "Jagged Edge"
+    year: 2001
+    album: "J.E. Heartbreak"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 43
+    title: "Missing You"
+    artist: "Case"
+    year: 2001
+    album: "Open Letter"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 44
+    title: "Differences"
+    artist: "Ginuwine"
+    year: 2001
+    album: "The Life"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 45
+    title: "This I Promise You"
+    artist: "NSYNC"
+    year: 2001
+    album: "No Strings Attached"
+    genres:
+      - Pop
+
+  - rank: 46
+    title: "How You Remind Me"
+    artist: "Nickelback"
+    year: 2001
+    album: "Silver Side Up"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 47
+    title: "In the End"
+    artist: "Linkin Park"
+    year: 2001
+    album: "Hybrid Theory"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+
+  - rank: 48
+    title: "Schism"
+    artist: "Tool"
+    year: 2001
+    album: "Lateralus"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 49
+    title: "Hemorrhage (In My Hands)"
+    artist: "Fuel"
+    year: 2001
+    album: "Something Like Human"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 50
+    title: "Crawling"
+    artist: "Linkin Park"
+    year: 2001
+    album: "Hybrid Theory"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 51
+    title: "Awake"
+    artist: "Godsmack"
+    year: 2001
+    album: "Awake"
+    genres:
+      - Hard Rock
+
+  - rank: 52
+    title: "Fat Lip"
+    artist: "Sum 41"
+    year: 2001
+    album: "All Killer No Filler"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 53
+    title: "Smooth Criminal"
+    artist: "Alien Ant Farm"
+    year: 2001
+    album: "Anthology"
+    cover: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Original artist: Michael Jackson
+
+  - rank: 54
+    title: "Hash Pipe"
+    artist: "Weezer"
+    year: 2001
+    album: "Weezer (Green Album)"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 55
+    title: "Last Nite"
+    artist: "The Strokes"
+    year: 2001
+    album: "Is This It"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Cultural icon
+
+  - rank: 56
+    title: "Clint Eastwood"
+    artist: "Gorillaz"
+    year: 2001
+    album: "Gorillaz"
+    genres:
+      - Alternative
+      - Pop
+
+  - rank: 57
+    title: "Island in the Sun"
+    artist: "Weezer"
+    year: 2001
+    album: "Weezer (Green Album)"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 58
+    title: "Chop Suey!"
+    artist: "System of a Down"
+    year: 2001
+    album: "Toxicity"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 59
+    title: "Wish You Were Here"
+    artist: "Incubus"
+    year: 2001
+    album: "Morning View"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 60
+    title: "Control"
+    artist: "Puddle of Mudd"
+    year: 2001
+    album: "Come Clean"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 61
+    title: "Down with the Sickness"
+    artist: "Disturbed"
+    year: 2001
+    album: "The Sickness"
+    genres:
+      - Hard Rock
+
+  - rank: 62
+    title: "Bodies"
+    artist: "Drowning Pool"
+    year: 2001
+    album: "Sinner"
+    solo-hit: true
+    genres:
+      - Hard Rock
+
+  - rank: 63
+    title: "Alive"
+    artist: "P.O.D."
+    year: 2001
+    album: "Satellite"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 64
+    title: "Click Click Boom"
+    artist: "Saliva"
+    year: 2001
+    album: "Every Six Seconds"
+    genres:
+      - Hard Rock
+
+  - rank: 65
+    title: "The Rock Show"
+    artist: "Blink-182"
+    year: 2001
+    album: "Take Off Your Pants and Jacket"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 66
+    title: "Lateralus"
+    artist: "Tool"
+    year: 2001
+    album: "Lateralus"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 67
+    title: "Your Disease"
+    artist: "Saliva"
+    year: 2001
+    album: "Every Six Seconds"
+    genres:
+      - Hard Rock
+
+  - rank: 68
+    title: "Fell in Love with a Girl"
+    artist: "The White Stripes"
+    year: 2001
+    album: "White Blood Cells"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 69
+    title: "Get Ur Freak On"
+    artist: "Missy Elliott"
+    year: 2001
+    album: "Miss E... So Addictive"
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Cultural phenomenon
+
+  - rank: 70
+    title: "U Got It Bad"
+    artist: "Usher"
+    year: 2001
+    album: "8701"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 71
+    title: "Livin' It Up"
+    artist: "Ja Rule featuring Case"
+    year: 2001
+    album: "Pain Is Love"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 72
+    title: "Rock the Boat"
+    artist: "Aaliyah"
+    year: 2001
+    album: "Aaliyah"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 73
+    title: "We Need a Resolution"
+    artist: "Aaliyah featuring Timbaland"
+    year: 2001
+    album: "Aaliyah"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 74
+    title: "Contagious"
+    artist: "The Isley Brothers featuring R. Kelly & Chanté Moore"
+    year: 2001
+    album: "Eternal"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 75
+    title: "Loverboy"
+    artist: "Mariah Carey featuring Cameo"
+    year: 2001
+    album: "Glitter"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 76
+    title: "Maybe"
+    artist: "Chanté Moore"
+    year: 2001
+    album: "Exposed"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 77
+    title: "One Minute Man"
+    artist: "Missy Elliott featuring Ludacris"
+    year: 2001
+    album: "Miss E... So Addictive"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 78
+    title: "More Than a Woman"
+    artist: "Aaliyah"
+    year: 2001
+    album: "Aaliyah"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 79
+    title: "Can't Believe"
+    artist: "Faith Evans featuring Carl Thomas"
+    year: 2001
+    album: "Faithfully"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 80
+    title: "Things Have Changed"
+    artist: "Bob Dylan"
+    year: 2001
+    soundtrack: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - From Wonder Boys
+      - Academy Award winner
+
+  - rank: 81
+    title: "Mississippi"
+    artist: "Bob Dylan"
+    year: 2001
+    album: "Love and Theft"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 82
+    title: "Revelator"
+    artist: "Gillian Welch"
+    year: 2001
+    album: "Time (The Revelator)"
+    genres:
+      - Folk
+
+  - rank: 83
+    title: "Ease Down the Road"
+    artist: "Bonnie 'Prince' Billy"
+    year: 2001
+    album: "Ease Down the Road"
+    genres:
+      - Folk
+
+  - rank: 84
+    title: "Sweet Tea"
+    artist: "Buddy Guy"
+    year: 2001
+    album: "Sweet Tea"
+    genres:
+      - Blues
+
+  - rank: 85
+    title: "Presumed Innocent"
+    artist: "Marcia Ball"
+    year: 2001
+    album: "Presumed Innocent"
+    genres:
+      - Blues
+
+  - rank: 86
+    title: "Inside Out"
+    artist: "Keith Jarrett"
+    year: 2001
+    album: "Inside Out"
+    genres:
+      - Jazz
+
+  - rank: 87
+    title: "O'Neal's Porch"
+    artist: "William Parker"
+    year: 2001
+    album: "O'Neal's Porch"
+    genres:
+      - Jazz
+
+  - rank: 88
+    title: "Julani"
+    artist: "Yesterday's New Quintet"
+    year: 2001
+    album: "Angles Without Edges"
+    genres:
+      - Jazz
+      - Funk
+
+  - rank: 89
+    title: "Ek"
+    artist: "Akosh S. Unit"
+    year: 2001
+    genres:
+      - Jazz
+
+  - rank: 90
+    title: "Rumba Quajira - Live"
+    artist: "Jerry Gonzalez & The Fort Apache Band"
+    year: 2001
+    album: "Fiesta Picante"
+    genres:
+      - Jazz
+
+  - rank: 91
+    title: "So oder so"
+    artist: "Nils Petter Molvær"
+    year: 2001
+    album: "NP3"
+    genres:
+      - Jazz
+
+  - rank: 92
+    title: "Heavy Mental (For Wayne Krantz)"
+    artist: "Susie Ibarra"
+    year: 2001
+    album: "Songbird Suite"
+    genres:
+      - Jazz
+
+  - rank: 93
+    title: "Billows Of Rhythm"
+    artist: "Roland Guerin"
+    year: 2001
+    album: "You Don't Have To See It To Believe It"
+    genres:
+      - Jazz
+
+  - rank: 94
+    title: "Saigon"
+    artist: "Erik Truffaz"
+    year: 2001
+    album: "Mantis"
+    genres:
+      - Jazz
+
+  - rank: 95
+    title: "Crystal"
+    artist: "New Order"
+    year: 2001
+    album: "Get Ready"
+    genres:
+      - New Wave
+      - Rock
+
+  - rank: 96
+    title: "60 Miles an Hour"
+    artist: "New Order"
+    year: 2001
+    album: "Get Ready"
+    genres:
+      - New Wave
+      - Alternative
+
+  - rank: 97
+    title: "Digital Love"
+    artist: "Daft Punk"
+    year: 2001
+    album: "Discovery"
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 98
+    title: "Harder, Better, Faster, Stronger"
+    artist: "Daft Punk"
+    year: 2001
+    album: "Discovery"
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 99
+    title: "The Rainbow Children"
+    artist: "Prince"
+    year: 2001
+    album: "The Rainbow Children"
+    genres:
+      - Funk
+      - Soul
+
+  - rank: 100
+    title: "M²"
+    artist: "Marcus Miller"
+    year: 2001
+    album: "M²"
+    genres:
+      - Funk
+      - Jazz

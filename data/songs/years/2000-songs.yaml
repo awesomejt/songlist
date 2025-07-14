@@ -1,0 +1,899 @@
+songs:
+  - rank: 1
+    title: "Breathe"
+    artist: "Faith Hill"
+    year: 2000
+    album: "Breathe"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Number-one on Billboard Hot 100 year-end
+
+  - rank: 2
+    title: "Smooth"
+    artist: "Santana featuring Rob Thomas"
+    year: 2000
+    album: "Supernatural"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Grammy Record of the Year
+
+  - rank: 3
+    title: "Maria Maria"
+    artist: "Santana featuring The Product G&B"
+    year: 2000
+    album: "Supernatural"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 4
+    title: "I Wanna Know"
+    artist: "Joe"
+    year: 2000
+    album: "My Name Is Joe"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 5
+    title: "Everything You Want"
+    artist: "Vertical Horizon"
+    year: 2000
+    album: "Everything You Want"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 6
+    title: "Say My Name"
+    artist: "Destiny's Child"
+    year: 2000
+    album: "The Writing's on the Wall"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 7
+    title: "I Knew I Loved You"
+    artist: "Savage Garden"
+    year: 2000
+    album: "Affirmation"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 8
+    title: "Amazed"
+    artist: "Lonestar"
+    year: 2000
+    album: "Lonely Grill"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 9
+    title: "Bent"
+    artist: "Matchbox Twenty"
+    year: 2000
+    album: "Mad Season"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 10
+    title: "He Wasn't Man Enough"
+    artist: "Toni Braxton"
+    year: 2000
+    album: "The Heat"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 11
+    title: "Higher"
+    artist: "Creed"
+    year: 2000
+    album: "Human Clay"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 12
+    title: "Try Again"
+    artist: "Aaliyah"
+    year: 2000
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From Romeo Must Die
+
+  - rank: 13
+    title: "Jumpin', Jumpin'"
+    artist: "Destiny's Child"
+    year: 2000
+    album: "The Writing's on the Wall"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 14
+    title: "Kryptonite"
+    artist: "3 Doors Down"
+    year: 2000
+    album: "The Better Life"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 15
+    title: "There You Go"
+    artist: "Pink"
+    year: 2000
+    album: "Can't Take Me Home"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 16
+    title: "Music"
+    artist: "Madonna"
+    year: 2000
+    album: "Music"
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 17
+    title: "Doesn't Really Matter"
+    artist: "Janet Jackson"
+    year: 2000
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From Nutty Professor II: The Klumps
+
+  - rank: 18
+    title: "Back At One"
+    artist: "Brian McKnight"
+    year: 2000
+    album: "Back at One"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 19
+    title: "Bye Bye Bye"
+    artist: "NSYNC"
+    year: 2000
+    album: "No Strings Attached"
+    genres:
+      - Pop
+
+  - rank: 20
+    title: "You Sang To Me"
+    artist: "Marc Anthony"
+    year: 2000
+    album: "Marc Anthony"
+    genres:
+      - Pop
+
+  - rank: 21
+    title: "I Need To Know"
+    artist: "Marc Anthony"
+    year: 2000
+    album: "Marc Anthony"
+    genres:
+      - Pop
+
+  - rank: 22
+    title: "Thong Song"
+    artist: "Sisqó"
+    year: 2000
+    album: "Unleash the Dragon"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 23
+    title: "With Arms Wide Open"
+    artist: "Creed"
+    year: 2000
+    album: "Human Clay"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 24
+    title: "Be With You"
+    artist: "Enrique Iglesias"
+    year: 2000
+    album: "Enrique"
+    genres:
+      - Pop
+
+  - rank: 25
+    title: "Come On Over Baby (All I Want Is You)"
+    artist: "Christina Aguilera"
+    year: 2000
+    album: "Christina Aguilera"
+    genres:
+      - Pop
+
+  - rank: 26
+    title: "No More"
+    artist: "Ruff Endz"
+    year: 2000
+    album: "Love Crimes"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 27
+    title: "All the Small Things"
+    artist: "Blink-182"
+    year: 2000
+    album: "Enema of the State"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 28
+    title: "Let's Get Married"
+    artist: "Jagged Edge"
+    year: 2000
+    album: "J.E. Heartbreak"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 29
+    title: "I Try"
+    artist: "Macy Gray"
+    year: 2000
+    album: "On How Life Is"
+    genres:
+      - Soul
+      - Rhythm and Blues
+
+  - rank: 30
+    title: "It Feels So Good"
+    artist: "Sonique"
+    year: 2000
+    album: "Hear My Cry"
+    solo-hit: true
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 31
+    title: "Absolutely (Story of a Girl)"
+    artist: "Nine Days"
+    year: 2000
+    album: "The Madding Crowd"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 32
+    title: "Who Let the Dogs Out?"
+    artist: "Baha Men"
+    year: 2000
+    album: "Who Let the Dogs Out"
+    solo-hit: true
+    genres:
+      - Pop
+
+  - rank: 33
+    title: "Blue (Da Ba Dee)"
+    artist: "Eiffel 65"
+    year: 2000
+    album: "Europop"
+    solo-hit: true
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 34
+    title: "Last Resort"
+    artist: "Papa Roach"
+    year: 2000
+    album: "Infest"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 35
+    title: "Otherside"
+    artist: "Red Hot Chili Peppers"
+    year: 2000
+    album: "Californication"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 36
+    title: "Californication"
+    artist: "Red Hot Chili Peppers"
+    year: 2000
+    album: "Californication"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 37
+    title: "Hemorrhage (In My Hands)"
+    artist: "Fuel"
+    year: 2000
+    album: "Something Like Human"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 38
+    title: "Loser"
+    artist: "3 Doors Down"
+    year: 2000
+    album: "The Better Life"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 39
+    title: "Change (In the House of Flies)"
+    artist: "Deftones"
+    year: 2000
+    album: "White Pony"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 40
+    title: "Pardon Me"
+    artist: "Incubus"
+    year: 2000
+    album: "Make Yourself"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 41
+    title: "Yellow"
+    artist: "Coldplay"
+    year: 2000
+    album: "Parachutes"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 42
+    title: "Wonderful"
+    artist: "Everclear"
+    year: 2000
+    album: "Songs from an American Movie Vol. One"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 43
+    title: "Stellar"
+    artist: "Incubus"
+    year: 2000
+    album: "Make Yourself"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 44
+    title: "Sour Girl"
+    artist: "Stone Temple Pilots"
+    year: 2000
+    album: "No. 4"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 45
+    title: "Voodoo"
+    artist: "Godsmack"
+    year: 2000
+    album: "Godsmack"
+    genres:
+      - Hard Rock
+
+  - rank: 46
+    title: "Awake"
+    artist: "Godsmack"
+    year: 2000
+    album: "Awake"
+    genres:
+      - Hard Rock
+
+  - rank: 47
+    title: "I Disappear"
+    artist: "Metallica"
+    year: 2000
+    single: true
+    soundtrack: true
+    genres:
+      - Hard Rock
+    tags:
+      - From Mission: Impossible 2
+
+  - rank: 48
+    title: "Independent Women Part I"
+    artist: "Destiny's Child"
+    year: 2000
+    album: "Survivor"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - From Charlie's Angels
+
+  - rank: 49
+    title: "Things Have Changed"
+    artist: "Bob Dylan"
+    year: 2000
+    soundtrack: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+      - From Wonder Boys
+      - Academy Award winner
+
+  - rank: 50
+    title: "American Pie"
+    artist: "Madonna"
+    year: 2000
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - From The Next Best Thing
+      - Original artist: Don McLean
+
+  - rank: 51
+    title: "Hot Boyz"
+    artist: "Missy Elliott featuring Nas, Eve & Q-Tip"
+    year: 2000
+    album: "Da Real World"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 52
+    title: "U Know What's Up"
+    artist: "Donell Jones"
+    year: 2000
+    album: "Where I Wanna Be"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 53
+    title: "Incomplete"
+    artist: "Sisqó"
+    year: 2000
+    album: "Unleash the Dragon"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 54
+    title: "Bag Lady"
+    artist: "Erykah Badu"
+    year: 2000
+    album: "Mama's Gun"
+    genres:
+      - Soul
+      - Rhythm and Blues
+
+  - rank: 55
+    title: "Untitled (How Does It Feel)"
+    artist: "D'Angelo"
+    year: 2000
+    album: "Voodoo"
+    genres:
+      - Soul
+      - Rhythm and Blues
+
+  - rank: 56
+    title: "Wifey"
+    artist: "Next"
+    year: 2000
+    album: "Welcome II Nextasy"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 57
+    title: "Where I Wanna Be"
+    artist: "Donell Jones"
+    year: 2000
+    album: "Where I Wanna Be"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 58
+    title: "Get It On Tonite"
+    artist: "Montell Jordan"
+    year: 2000
+    album: "Get It On...Tonite"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 59
+    title: "My Love Is Your Love"
+    artist: "Whitney Houston"
+    year: 2000
+    album: "My Love Is Your Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 60
+    title: "Shake Ya Ass"
+    artist: "Mystikal"
+    year: 2000
+    album: "Let's Get Ready"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 61
+    title: "Rose Rouge"
+    artist: "St. Germain"
+    year: 2000
+    album: "Tourist"
+    genres:
+      - Jazz
+      - Funk
+
+  - rank: 62
+    title: "Sure Do"
+    artist: "St. Germain"
+    year: 2000
+    album: "Tourist"
+    genres:
+      - Jazz
+
+  - rank: 63
+    title: "Dusk"
+    artist: "Andrew Hill"
+    year: 2000
+    album: "Dusk"
+    genres:
+      - Jazz
+
+  - rank: 64
+    title: "So What"
+    artist: "St. Germain"
+    year: 2000
+    album: "Tourist"
+    genres:
+      - Jazz
+
+  - rank: 65
+    title: "Chills & Thrills"
+    artist: "Bernard Allison"
+    year: 2000
+    album: "Chills & Thrills"
+    genres:
+      - Blues
+
+  - rank: 66
+    title: "Cuttin' Heads"
+    artist: "Lurrie Bell"
+    year: 2000
+    album: "Cuttin' Heads"
+    genres:
+      - Blues
+
+  - rank: 67
+    title: "If It Wasn't 4 Da Blues"
+    artist: "Big James"
+    year: 2000
+    album: "If It Wasn't 4 Da Blues"
+    genres:
+      - Blues
+
+  - rank: 68
+    title: "Didn't It Rain"
+    artist: "Songs: Ohia"
+    year: 2000
+    album: "Didn't It Rain"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 69
+    title: "Ghost Tropic"
+    artist: "Songs: Ohia"
+    year: 2000
+    album: "Ghost Tropic"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 70
+    title: "The Body Has a Head"
+    artist: "Songs: Ohia"
+    year: 2000
+    album: "Ghost Tropic"
+    genres:
+      - Folk
+
+  - rank: 71
+    title: "Astrakan Café"
+    artist: "Anouar Brahem"
+    year: 2000
+    album: "Astrakan Café"
+    genres:
+      - Jazz
+      - Folk
+
+  - rank: 72
+    title: "Deep Song"
+    artist: "Kurt Rosenwinkel"
+    year: 2000
+    album: "Deep Song"
+    genres:
+      - Jazz
+
+  - rank: 73
+    title: "Stolen Car"
+    artist: "Beth Orton"
+    year: 2000
+    album: "Central Reservation"
+    genres:
+      - Folk
+      - Pop
+
+  - rank: 74
+    title: "The Golden Age"
+    artist: "Beck"
+    year: 2000
+    album: "Sea Change"
+    genres:
+      - Rock
+      - Folk
+
+  - rank: 75
+    title: "End of the Day"
+    artist: "Beck"
+    year: 2000
+    album: "Sea Change"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 76
+    title: "Factory"
+    artist: "Band of Horses"
+    year: 2000
+    album: "Infinite Arms"
+    genres:
+      - Rock
+      - Folk
+
+  - rank: 77
+    title: "Stolen Town"
+    artist: "Holly Golightly & Dan Melchior"
+    year: 2000
+    album: "Desperate Little Town"
+    genres:
+      - Blues
+      - Folk
+
+  - rank: 78
+    title: "How'd A White Boy Get The Blues?"
+    artist: "Popa Chubby"
+    year: 2000
+    album: "How'd A White Boy Get The Blues?"
+    genres:
+      - Blues
+      - Rock
+
+  - rank: 79
+    title: "Incinerator"
+    artist: "Giles Robson"
+    year: 2000
+    genres:
+      - Blues
+
+  - rank: 80
+    title: "I Wish"
+    artist: "Carl Thomas"
+    year: 2000
+    album: "Emotional"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 81
+    title: "Separated"
+    artist: "Avant"
+    year: 2000
+    album: "My Thoughts"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 82
+    title: "Dance Tonight"
+    artist: "Lucy Pearl"
+    year: 2000
+    album: "Lucy Pearl"
+    genres:
+      - Rhythm and Blues
+      - Funk
+
+  - rank: 83
+    title: "The Way I Am"
+    artist: "Eminem"
+    year: 2000
+    album: "The Marshall Mathers LP"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit with mass appeal
+
+  - rank: 84
+    title: "Oops!... I Did It Again"
+    artist: "Britney Spears"
+    year: 2000
+    album: "Oops!... I Did It Again"
+    genres:
+      - Pop
+
+  - rank: 85
+    title: "It's Gonna Be Me"
+    artist: "NSYNC"
+    year: 2000
+    album: "No Strings Attached"
+    genres:
+      - Pop
+
+  - rank: 86
+    title: "Shape of My Heart"
+    artist: "Backstreet Boys"
+    year: 2000
+    album: "Black & Blue"
+    genres:
+      - Pop
+
+  - rank: 87
+    title: "Graduation (Friends Forever)"
+    artist: "Vitamin C"
+    year: 2000
+    album: "Vitamin C"
+    solo-hit: true
+    genres:
+      - Pop
+
+  - rank: 88
+    title: "Gotta Tell You"
+    artist: "Samantha Mumba"
+    year: 2000
+    album: "Gotta Tell You"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 89
+    title: "The Bad Touch"
+    artist: "Bloodhound Gang"
+    year: 2000
+    album: "Hooray for Boobies"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 90
+    title: "Rollin'"
+    artist: "Limp Bizkit"
+    year: 2000
+    album: "Chocolate Starfish and the Hot Dog Flavored Water"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 91
+    title: "One Step Closer"
+    artist: "Linkin Park"
+    year: 2000
+    album: "Hybrid Theory"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 92
+    title: "Butterfly"
+    artist: "Crazy Town"
+    year: 2000
+    album: "The Gift of Game"
+    solo-hit: true
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 93
+    title: "South Side"
+    artist: "Moby featuring Gwen Stefani"
+    year: 2000
+    album: "Play"
+    genres:
+      - Pop
+      - Alternative
+
+  - rank: 94
+    title: "The Real Slim Shady"
+    artist: "Eminem"
+    year: 2000
+    album: "The Marshall Mathers LP"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit with mass appeal
+
+  - rank: 95
+    title: "Stan"
+    artist: "Eminem featuring Dido"
+    year: 2000
+    album: "The Marshall Mathers LP"
+    genres:
+      - Pop
+    tags:
+      - Cultural phenomenon
+
+  - rank: 96
+    title: "Don't Know Why"
+    artist: "Norah Jones"
+    year: 2000
+    album: "Come Away with Me"
+    cover: true
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Original artist: Jesse Harris
+
+  - rank: 97
+    title: "The Look of Love"
+    artist: "Diana Krall"
+    year: 2000
+    album: "The Look of Love"
+    cover: true
+    genres:
+      - Jazz
+      - Standards
+    tags:
+      - Original artist: Dusty Springfield
+
+  - rank: 98
+    title: "It Never Entered My Mind"
+    artist: "Mulgrew Miller"
+    year: 2000
+    album: "Wingspan"
+    genres:
+      - Jazz
+
+  - rank: 99
+    title: "Fools Rush In"
+    artist: "Teddy Wilson"
+    year: 2000
+    genres:
+      - Jazz
+      - Swing
+
+  - rank: 100
+    title: "Bubble Bath"
+    artist: "Joseph Boone"
+    year: 2000
+    genres:
+      - Jazz

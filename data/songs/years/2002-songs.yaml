@@ -1,0 +1,880 @@
+songs:
+  - rank: 1
+    title: "How You Remind Me"
+    artist: "Nickelback"
+    year: 2002
+    album: "Silver Side Up"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Number-one on Billboard Hot 100 year-end
+
+  - rank: 2
+    title: "Foolish"
+    artist: "Ashanti"
+    year: 2002
+    album: "Ashanti"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 3
+    title: "Hot in Herre"
+    artist: "Nelly"
+    year: 2002
+    album: "Nellyville"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Crossover hit
+
+  - rank: 4
+    title: "Dilemma"
+    artist: "Nelly featuring Kelly Rowland"
+    year: 2002
+    album: "Nellyville"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 5
+    title: "Wherever You Will Go"
+    artist: "The Calling"
+    year: 2002
+    album: "Camino Palmero"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 6
+    title: "A Thousand Miles"
+    artist: "Vanessa Carlton"
+    year: 2002
+    album: "Be Not Nobody"
+    genres:
+      - Pop
+
+  - rank: 7
+    title: "In the End"
+    artist: "Linkin Park"
+    year: 2002
+    album: "Hybrid Theory"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+
+  - rank: 8
+    title: "What's Luv?"
+    artist: "Fat Joe featuring Ashanti"
+    year: 2002
+    album: "Jealous Ones Still Envy (J.O.S.E.)"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 9
+    title: "U Got It Bad"
+    artist: "Usher"
+    year: 2002
+    album: "8701"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 10
+    title: "Blurry"
+    artist: "Puddle of Mudd"
+    year: 2002
+    album: "Come Clean"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 11
+    title: "Complicated"
+    artist: "Avril Lavigne"
+    year: 2002
+    album: "Let Go"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 12
+    title: "Always on Time"
+    artist: "Ja Rule featuring Ashanti"
+    year: 2002
+    album: "Pain Is Love"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 13
+    title: "Ain't It Funny"
+    artist: "Jennifer Lopez featuring Ja Rule"
+    year: 2002
+    album: "J to tha L-O! The Remixes"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 14
+    title: "The Middle"
+    artist: "Jimmy Eat World"
+    year: 2002
+    album: "Bleed American"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 15
+    title: "I Need a Girl (Part One)"
+    artist: "P. Diddy featuring Usher & Loon"
+    year: 2002
+    album: "We Invented the Remix"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 16
+    title: "Without Me"
+    artist: "Eminem"
+    year: 2002
+    album: "The Eminem Show"
+    genres:
+      - Pop
+    tags:
+      - Crossover hit
+
+  - rank: 17
+    title: "Hero"
+    artist: "Enrique Iglesias"
+    year: 2002
+    album: "Escape"
+    genres:
+      - Pop
+
+  - rank: 18
+    title: "All You Wanted"
+    artist: "Michelle Branch"
+    year: 2002
+    album: "The Spirit Room"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 19
+    title: "Get the Party Started"
+    artist: "Pink"
+    year: 2002
+    album: "Missundaztood"
+    genres:
+      - Pop
+
+  - rank: 20
+    title: "Hero"
+    artist: "Chad Kroeger featuring Josey Scott"
+    year: 2002
+    soundtrack: true
+    genres:
+      - Rock
+    tags:
+      - From Spider-Man
+
+  - rank: 21
+    title: "Lose Yourself"
+    artist: "Eminem"
+    year: 2002
+    album: "8 Mile Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - From 8 Mile
+      - Cultural phenomenon
+
+  - rank: 22
+    title: "By the Way"
+    artist: "Red Hot Chili Peppers"
+    year: 2002
+    album: "By the Way"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 23
+    title: "Aerials"
+    artist: "System of a Down"
+    year: 2002
+    album: "Toxicity"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 24
+    title: "No One Knows"
+    artist: "Queens of the Stone Age"
+    year: 2002
+    album: "Songs for the Deaf"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 25
+    title: "All My Life"
+    artist: "Foo Fighters"
+    year: 2002
+    album: "One by One"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 26
+    title: "She Loves Me Not"
+    artist: "Papa Roach"
+    year: 2002
+    album: "Lovehatetragedy"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 27
+    title: "For You"
+    artist: "Staind"
+    year: 2002
+    album: "Break the Cycle"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 28
+    title: "Running Away"
+    artist: "Hoobastank"
+    year: 2002
+    album: "Hoobastank"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 29
+    title: "Amber"
+    artist: "311"
+    year: 2002
+    album: "From Chaos"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 30
+    title: "Drift & Die"
+    artist: "Puddle of Mudd"
+    year: 2002
+    album: "Come Clean"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 31
+    title: "Youth of the Nation"
+    artist: "P.O.D."
+    year: 2002
+    album: "Satellite"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 32
+    title: "Fell In Love With a Girl"
+    artist: "The White Stripes"
+    year: 2002
+    album: "White Blood Cells"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 33
+    title: "Last Nite"
+    artist: "The Strokes"
+    year: 2002
+    album: "Is This It"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 34
+    title: "Work It"
+    artist: "Missy Elliott"
+    year: 2002
+    album: "Under Construction"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 35
+    title: "Oh Boy"
+    artist: "Cam'ron featuring Juelz Santana"
+    year: 2002
+    album: "Come Home with Me"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 36
+    title: "Lights, Camera, Action!"
+    artist: "Mr. Cheeks"
+    year: 2002
+    album: "John P. Kelly"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 37
+    title: "Luv U Better"
+    artist: "LL Cool J"
+    year: 2002
+    album: "10"
+    genres:
+      - Rhythm and Blues
+
+  - rank: 38
+    title: "Don't Know Why"
+    artist: "Norah Jones"
+    year: 2002
+    album: "Come Away with Me"
+    genres:
+      - Jazz
+      - Pop
+
+  - rank: 39
+    title: "Come Away with Me"
+    artist: "Norah Jones"
+    year: 2002
+    album: "Come Away with Me"
+    genres:
+      - Jazz
+      - Pop
+
+  - rank: 40
+    title: "Uninvisible"
+    artist: "Medeski, Martin & Wood"
+    year: 2002
+    album: "Uninvisible"
+    genres:
+      - Jazz
+
+  - rank: 41
+    title: "Night Creeper"
+    artist: "Arthur Blythe"
+    year: 2002
+    album: "Focus"
+    genres:
+      - Jazz
+
+  - rank: 42
+    title: "What Goes Around"
+    artist: "Dave Holland"
+    year: 2002
+    album: "What Goes Around"
+    genres:
+      - Jazz
+
+  - rank: 43
+    title: "Live in Paris"
+    artist: "Diana Krall"
+    year: 2002
+    album: "Live in Paris"
+    genres:
+      - Jazz
+      - Standards
+
+  - rank: 44
+    title: "Sweet Tea"
+    artist: "Buddy Guy"
+    year: 2002
+    album: "Sweet Tea"
+    genres:
+      - Blues
+
+  - rank: 45
+    title: "Down by the Sea"
+    artist: "Buddy Guy"
+    year: 2002
+    album: "Sweet Tea"
+    genres:
+      - Blues
+
+  - rank: 46
+    title: "Presumed Innocent"
+    artist: "Marcia Ball"
+    year: 2002
+    album: "Presumed Innocent"
+    genres:
+      - Blues
+
+  - rank: 47
+    title: "I Am Trying to Break Your Heart"
+    artist: "Wilco"
+    year: 2002
+    album: "Yankee Hotel Foxtrot"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 48
+    title: "The Littlest Birds"
+    artist: "The Be Good Tanyas"
+    year: 2002
+    album: "Blue Horse"
+    genres:
+      - Folk
+
+  - rank: 49
+    title: "Lost in Space"
+    artist: "Aimee Mann"
+    year: 2002
+    album: "Lost in Space"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 50
+    title: "Clocks"
+    artist: "Coldplay"
+    year: 2002
+    album: "A Rush of Blood to the Head"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 51
+    title: "In My Place"
+    artist: "Coldplay"
+    year: 2002
+    album: "A Rush of Blood to the Head"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 52
+    title: "Losing My Edge"
+    artist: "LCD Soundsystem"
+    year: 2002
+    single: true
+    genres:
+      - Alternative
+      - New Wave
+
+  - rank: 53
+    title: "House of Jealous Lovers"
+    artist: "The Rapture"
+    year: 2002
+    album: "Echoes"
+    genres:
+      - Alternative
+      - New Wave
+
+  - rank: 54
+    title: "Starry Eyed Surprise"
+    artist: "Paul Oakenfold featuring Shifty Shellshock"
+    year: 2002
+    album: "Bunkka"
+    genres:
+      - Pop
+      - Dance
+
+  - rank: 55
+    title: "Still Fly"
+    artist: "Big Tymers"
+    year: 2002
+    album: "Hood Rich"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 56
+    title: "Beautiful"
+    artist: "Christina Aguilera"
+    year: 2002
+    album: "Stripped"
+    genres:
+      - Pop
+
+  - rank: 57
+    title: "Sk8er Boi"
+    artist: "Avril Lavigne"
+    year: 2002
+    album: "Let Go"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 58
+    title: "Ignition (Remix)"
+    artist: "R. Kelly"
+    year: 2002
+    album: "Chocolate Factory"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 59
+    title: "Cry Me a River"
+    artist: "Justin Timberlake"
+    year: 2002
+    album: "Justified"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 60
+    title: "NYC"
+    artist: "Interpol"
+    year: 2002
+    album: "Turn on the Bright Lights"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 61
+    title: "Time for Heroes"
+    artist: "The Libertines"
+    year: 2002
+    album: "Up the Bracket"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 62
+    title: "Chop Suey!"
+    artist: "System of a Down"
+    year: 2002
+    album: "Toxicity"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 63
+    title: "Clint Eastwood"
+    artist: "Gorillaz"
+    year: 2002
+    album: "Gorillaz"
+    genres:
+      - Alternative
+      - Pop
+
+  - rank: 64
+    title: "Sweetness"
+    artist: "Jimmy Eat World"
+    year: 2002
+    album: "Bleed American"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 65
+    title: "Disease"
+    artist: "Matchbox Twenty"
+    year: 2002
+    album: "More Than You Think You Are"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 66
+    title: "Heaven"
+    artist: "DJ Sammy featuring Yanou & Do"
+    year: 2002
+    album: "Heaven"
+    cover: true
+    genres:
+      - Pop
+      - Dance
+    tags:
+      - Original artist: Bryan Adams
+
+  - rank: 67
+    title: "Love of My Life (An Ode to Hip-Hop)"
+    artist: "Erykah Badu featuring Common"
+    year: 2002
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - From Brown Sugar
+
+  - rank: 68
+    title: "Just Like a Pill"
+    artist: "Pink"
+    year: 2002
+    album: "Missundaztood"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 69
+    title: "Cherry Lips (Go Baby Go!)"
+    artist: "Garbage"
+    year: 2002
+    album: "Beautiful Garbage"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 70
+    title: "I-E-A-I-A-I-O"
+    artist: "System of a Down"
+    year: 2002
+    album: "Steal This Album!"
+    genres:
+      - Hard Rock
+      - Alternative
+
+  - rank: 71
+    title: "Boom Boom"
+    artist: "John Lee Hooker"
+    year: 2002
+    genres:
+      - Blues
+    tags:
+      - Fan favorite
+
+  - rank: 72
+    title: "Hoochie Coochie Man"
+    artist: "Muddy Waters"
+    year: 2002
+    genres:
+      - Blues
+
+  - rank: 73
+    title: "Still Got the Blues"
+    artist: "Gary Moore"
+    year: 2002
+    genres:
+      - Blues
+      - Rock
+
+  - rank: 74
+    title: "Story of the Blues"
+    artist: "Gary Moore"
+    year: 2002
+    genres:
+      - Blues
+
+  - rank: 75
+    title: "All Your Love"
+    artist: "Gary Moore"
+    year: 2002
+    genres:
+      - Blues
+
+  - rank: 76
+    title: "Back of a Cab"
+    artist: "Spaceways Inc."
+    year: 2002
+    album: "Version Soul"
+    genres:
+      - Jazz
+
+  - rank: 77
+    title: "Willisau Concert: Pt. 2"
+    artist: "Cecil Taylor"
+    year: 2002
+    album: "Willisau Concert"
+    genres:
+      - Jazz
+
+  - rank: 78
+    title: "Hap Sap"
+    artist: "Matthew Shipp"
+    year: 2002
+    album: "Nu Bop"
+    genres:
+      - Jazz
+
+  - rank: 79
+    title: "Planet Rock Postscript"
+    artist: "Matthew Shipp"
+    year: 2002
+    album: "Nu Bop"
+    genres:
+      - Jazz
+
+  - rank: 80
+    title: "The Razor's Edge"
+    artist: "Joe McPhee"
+    year: 2002
+    album: "No Boundaries"
+    genres:
+      - Jazz
+
+  - rank: 81
+    title: "Always Got Tonight"
+    artist: "Chris Isaak"
+    year: 2002
+    album: "Always Got Tonight"
+    genres:
+      - Rock
+      - Folk
+
+  - rank: 82
+    title: "Mulholland Drive"
+    artist: "Angelo Badalamenti & David Lynch"
+    year: 2002
+    soundtrack: true
+    genres:
+      - Jazz
+      - Folk
+    tags:
+      - From Mulholland Drive
+
+  - rank: 83
+    title: "The Next Plateau"
+    artist: "Bad Plus"
+    year: 2002
+    album: "These Are the Vistas"
+    genres:
+      - Jazz
+
+  - rank: 84
+    title: "Messenger"
+    artist: "Wynton Marsalis"
+    year: 2002
+    album: "All Rise"
+    genres:
+      - Jazz
+
+  - rank: 85
+    title: "Deity in the Silence"
+    artist: "Susie Ibarra"
+    year: 2002
+    album: "Songbird Suite"
+    genres:
+      - Jazz
+
+  - rank: 86
+    title: "The Ring"
+    artist: "Susie Ibarra"
+    year: 2002
+    album: "Songbird Suite"
+    genres:
+      - Jazz
+
+  - rank: 87
+    title: "White Owl"
+    artist: "Josh Roseman Unit"
+    year: 2002
+    album: "Treats for the Nightwalker"
+    genres:
+      - Jazz
+
+  - rank: 88
+    title: "Precious Time"
+    artist: "Ray Brown"
+    year: 2002
+    album: "Some of My Best Friends Are Guitarists"
+    genres:
+      - Jazz
+
+  - rank: 89
+    title: "Make It Happen"
+    artist: "Ray Brown"
+    year: 2002
+    album: "Some of My Best Friends Are Guitarists"
+    genres:
+      - Jazz
+
+  - rank: 90
+    title: "Prism"
+    artist: "Keith Jarrett"
+    year: 2002
+    album: "Inside Out"
+    genres:
+      - Jazz
+
+  - rank: 91
+    title: "You Know You're Right"
+    artist: "Nirvana"
+    year: 2002
+    album: "Nirvana"
+    genres:
+      - Rock
+      - Grunge
+
+  - rank: 92
+    title: "Sea Change"
+    artist: "Beck"
+    year: 2002
+    album: "Sea Change"
+    genres:
+      - Folk
+      - Alternative
+
+  - rank: 93
+    title: "Electric Sweat"
+    artist: "The Mooney Suzuki"
+    year: 2002
+    album: "Electric Sweat"
+    genres:
+      - Rock
+      - Alternative
+
+  - rank: 94
+    title: "Busted Stuff"
+    artist: "Dave Matthews Band"
+    year: 2002
+    album: "Busted Stuff"
+    genres:
+      - Rock
+      - Folk
+
+  - rank: 95
+    title: "England, Half-English"
+    artist: "Billy Bragg & The Blokes"
+    year: 2002
+    album: "England, Half-English"
+    genres:
+      - Folk
+      - Rock
+
+  - rank: 96
+    title: "Star Guitar"
+    artist: "The Chemical Brothers"
+    year: 2002
+    album: "Come with Us"
+    genres:
+      - Alternative
+      - Funk
+
+  - rank: 97
+    title: "Ave María"
+    artist: "David Bisbal"
+    year: 2002
+    album: "Corazón Latino"
+    genres:
+      - Pop
+
+  - rank: 98
+    title: "Digital Love"
+    artist: "Daft Punk"
+    year: 2002
+    album: "Discovery"
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 99
+    title: "Harder, Better, Faster, Stronger"
+    artist: "Daft Punk"
+    year: 2002
+    album: "Discovery"
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 100
+    title: "The Rainbow Children"
+    artist: "Prince"
+    year: 2002
+    album: "The Rainbow Children"
+    genres:
+      - Funk
+      - Soul

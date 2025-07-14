@@ -1,0 +1,627 @@
+songs:
+  - rank: 1
+    title: "Gangsta's Paradise"
+    artist: "Coolio featuring L.V."
+    year: 1995
+    album: "Gangsta's Paradise"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 Year-End #1
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: "Waterfalls"
+    artist: "TLC"
+    year: 1995
+    album: "CrazySexyCool"
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 3
+    title: "Creep"
+    artist: "TLC"
+    year: 1995
+    album: "CrazySexyCool"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: "Kiss from a Rose"
+    artist: "Seal"
+    year: 1995
+    album: "Seal"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: "On Bended Knee"
+    artist: "Boyz II Men"
+    year: 1995
+    album: "II"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: "Another Night"
+    artist: "Real McCoy"
+    year: 1995
+    album: "Another Night"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 7
+    title: "Fantasy"
+    artist: "Mariah Carey"
+    year: 1995
+    album: "Daydream"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: "Take a Bow"
+    artist: "Madonna"
+    year: 1995
+    album: "Bedtime Stories"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 9
+    title: "This Is How We Do It"
+    artist: "Montell Jordan"
+    year: 1995
+    album: "This Is How We Do It"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: "I Know"
+    artist: "Dionne Farris"
+    year: 1995
+    album: "Wild Seed – Wild Flower"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 11
+    title: "Water Runs Dry"
+    artist: "Boyz II Men"
+    year: 1995
+    album: "II"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 12
+    title: "Freak Like Me"
+    artist: "Adina Howard"
+    year: 1995
+    album: "Do You Wanna Ride?"
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 13
+    title: "Run-Around"
+    artist: "Blues Traveler"
+    year: 1995
+    album: "Four"
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 14
+    title: "Candy Rain"
+    artist: "Soul for Real"
+    year: 1995
+    album: "Candy Rain"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 15
+    title: "You Gotta Be"
+    artist: "Des'ree"
+    year: 1995
+    album: "I Ain't Movin'"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 16
+    title: "I Believe"
+    artist: "Blessid Union of Souls"
+    year: 1995
+    album: "Home"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 17
+    title: "Red Light Special"
+    artist: "TLC"
+    year: 1995
+    album: "CrazySexyCool"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 18
+    title: "Strong Enough"
+    artist: "Sheryl Crow"
+    year: 1995
+    album: "Tuesday Night Music Club"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 19
+    title: "Colors of the Wind"
+    artist: "Vanessa Williams"
+    year: 1995
+    album: "Pocahontas Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 20
+    title: "Someone to Love"
+    artist: "Jon B. featuring Babyface"
+    year: 1995
+    album: "Bonafide"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 21
+    title: "Only Wanna Be with You"
+    artist: "Hootie & the Blowfish"
+    year: 1995
+    album: "Cracked Rear View"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 22
+    title: "Total Eclipse of the Heart"
+    artist: "Nicki French"
+    year: 1995
+    album: "Secrets"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Original artist: Bonnie Tyler
+  - rank: 23
+    title: "You Used to Love Me"
+    artist: "Faith Evans"
+    year: 1995
+    album: "Faith"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #24
+  - rank: 24
+    title: "Boombastic"
+    artist: "Shaggy"
+    year: 1995
+    album: "Boombastic"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 25
+    title: "One More Chance"
+    artist: "The Notorious B.I.G."
+    year: 1995
+    album: "Ready to Die"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 26
+    title: "Here Comes the Hotstepper"
+    artist: "Ini Kamoze"
+    year: 1995
+    album: "Here Comes the Hotstepper"
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: "Good"
+    artist: "Better Than Ezra"
+    year: 1995
+    album: "Deluxe"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Hot 100 #30
+  - rank: 28
+    title: "Brown Sugar"
+    artist: "D'Angelo"
+    year: 1995
+    album: "Brown Sugar"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #27
+  - rank: 29
+    title: "Keep Their Heads Ringin'"
+    artist: "Dr. Dre"
+    year: 1995
+    album: "Friday Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 30
+    title: "1st of tha Month"
+    artist: "Bone Thugs-n-Harmony"
+    year: 1995
+    album: "E. 1999 Eternal"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 31
+    title: "Lightning Crashes"
+    artist: "Live"
+    year: 1995
+    album: "Throwing Copper"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Billboard Mainstream Rock #12
+  - rank: 32
+    title: "Better Man"
+    artist: "Pearl Jam"
+    year: 1995
+    album: "Vitalogy"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Mainstream Rock #1
+  - rank: 33
+    title: "When I Come Around"
+    artist: "Green Day"
+    year: 1995
+    album: "Dookie"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 34
+    title: "Hold My Hand"
+    artist: "Hootie & the Blowfish"
+    year: 1995
+    album: "Cracked Rear View"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 35
+    title: "December"
+    artist: "Collective Soul"
+    year: 1995
+    album: "Collective Soul"
+    genres:
+      - Rock
+      - Alternative
+    tags:
+      - Billboard Hot 100 #20
+  - rank: 36
+    title: "Let Her Cry"
+    artist: "Hootie & the Blowfish"
+    year: 1995
+    album: "Cracked Rear View"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #9
+  - rank: 37
+    title: "Hand in My Pocket"
+    artist: "Alanis Morissette"
+    year: 1995
+    album: "Jagged Little Pill"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 38
+    title: "Name"
+    artist: "Goo Goo Dolls"
+    year: 1995
+    album: "A Boy Named Goo"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Hot 100 #24
+  - rank: 39
+    title: "Carnival"
+    artist: "Natalie Merchant"
+    year: 1995
+    album: "Tigerlily"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 40
+    title: "Wonderwall"
+    artist: "Oasis"
+    year: 1995
+    album: "(What's the Story) Morning Glory?"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 41
+    title: "You Oughta Know"
+    artist: "Alanis Morissette"
+    year: 1995
+    album: "Jagged Little Pill"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+      - Culturally important
+  - rank: 42
+    title: "Tomorrow"
+    artist: "Silverchair"
+    year: 1995
+    album: "Frogstomp"
+    genres:
+      - Grunge
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 43
+    title: "Bullet with Butterfly Wings"
+    artist: "The Smashing Pumpkins"
+    year: 1995
+    album: "Mellon Collie and the Infinite Sadness"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 44
+    title: "My Friends"
+    artist: "Red Hot Chili Peppers"
+    year: 1995
+    album: "One Hot Minute"
+    genres:
+      - Alternative
+      - Funk
+    tags:
+      - Billboard Alternative #1
+  - rank: 45
+    title: "Good"
+    artist: "Better Than Ezra"
+    year: 1995
+    album: "Deluxe"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 46
+    title: "Comedown"
+    artist: "Bush"
+    year: 1995
+    album: "Sixteen Stone"
+    genres:
+      - Alternative
+      - Grunge
+    tags:
+      - Billboard Alternative #1
+  - rank: 47
+    title: "Glycerine"
+    artist: "Bush"
+    year: 1995
+    album: "Sixteen Stone"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #1
+  - rank: 48
+    title: "All Over You"
+    artist: "Live"
+    year: 1995
+    album: "Throwing Copper"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #2
+  - rank: 49
+    title: "Geek Stink Breath"
+    artist: "Green Day"
+    year: 1995
+    album: "Insomniac"
+    genres:
+      - Alternative
+    tags:
+      - Billboard Alternative #3
+  - rank: 50
+    title: "Down by the Water"
+    artist: "PJ Harvey"
+    year: 1995
+    album: "To Bring You My Love"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 51
+    title: "One Sweet Day"
+    artist: "Mariah Carey and Boyz II Men"
+    year: 1995
+    album: "Daydream"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 52
+    title: "Exhale (Shoop Shoop)"
+    artist: "Whitney Houston"
+    year: 1995
+    album: "Waiting to Exhale Soundtrack"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 53
+    title: "You Are Not Alone"
+    artist: "Michael Jackson"
+    year: 1995
+    album: "HIStory: Past, Present and Future, Book I"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 54
+    title: "Missing"
+    artist: "Everything but the Girl"
+    year: 1995
+    album: "Amplified Heart"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 55
+    title: "Who Can I Run To"
+    artist: "Xscape"
+    year: 1995
+    album: "Off the Hook"
+    cover: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #8
+      - Original artist: The Jones Girls
+  - rank: 56
+    title: "Before You Walk Out of My Life"
+    artist: "Monica"
+    year: 1995
+    album: "Miss Thang"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 57
+    title: "Like This and Like That"
+    artist: "Monica"
+    year: 1995
+    album: "Miss Thang"
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 58
+    title: "From the Cradle"
+    artist: "Eric Clapton"
+    year: 1995
+    album: "From the Cradle"
+    genres:
+      - Blues
+    tags:
+      - Title track
+  - rank: 59
+    title: "I'm Gonna Marry My Mother-In-Law"
+    artist: "Artie 'Blues Boy' White"
+    year: 1995
+    genres:
+      - Blues
+    tags:
+      - Best Blues Song of 1994 (award in 1995)
+  - rank: 60
+    title: "Double Rainbow"
+    artist: "Joe Henderson"
+    year: 1995
+    album: "Double Rainbow: The Music of Antonio Carlos Jobim"
+    genres:
+      - Jazz
+    tags:
+      - Title track
+  - rank: 61
+    title: "How Long Has This Been Going On"
+    artist: "Keith Jarrett"
+    year: 1995
+    album: "At the Blue Note"
+    genres:
+      - Jazz
+    tags:
+      - Notable track
+  - rank: 62
+    title: "1979"
+    artist: "The Smashing Pumpkins"
+    year: 1995
+    album: "Mellon Collie and the Infinite Sadness"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 63
+    title: "Stupid Girl"
+    artist: "Garbage"
+    year: 1995
+    album: "Garbage"
+    genres:
+      - Alternative
+    tags:
+      - Culturally important
+  - rank: 64
+    title: "Army of Me"
+    artist: "Björk"
+    year: 1995
+    album: "Post"
+    genres:
+      - Alternative
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 65
+    title: "Misery Business"
+    artist: "Foo Fighters"
+    year: 1995
+    album: "Foo Fighters"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Wait, wrong song, actually "This Is a Call" or "I'll Stick Around"
+      - Culturally important

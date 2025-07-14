@@ -1,0 +1,907 @@
+songs:
+  - rank: 1
+    title: "Look Away"
+    artist: "Chicago"
+    year: 1989
+    album: "Chicago 19"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 2
+    title: "My Prerogative"
+    artist: "Bobby Brown"
+    year: 1989
+    album: "Don't Be Cruel"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 3
+    title: "Every Rose Has Its Thorn"
+    artist: "Poison"
+    year: 1989
+    album: "Open Up and Say... Ahh!"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 4
+    title: "Straight Up"
+    artist: "Paula Abdul"
+    year: 1989
+    album: "Forever Your Girl"
+    genres:
+      - Pop
+
+  - rank: 5
+    title: "Miss You Much"
+    artist: "Janet Jackson"
+    year: 1989
+    album: "Janet Jackson's Rhythm Nation 1814"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 6
+    title: "Cold Hearted"
+    artist: "Paula Abdul"
+    year: 1989
+    album: "Forever Your Girl"
+    genres:
+      - Pop
+
+  - rank: 7
+    title: "Wind Beneath My Wings"
+    artist: "Bette Midler"
+    year: 1989
+    album: "Beaches (soundtrack)"
+    soundtrack: true
+    cover: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Original artist: Roger Whittaker
+      - Academy Award winner
+
+  - rank: 8
+    title: "Girl You Know It's True"
+    artist: "Milli Vanilli"
+    year: 1989
+    album: "Girl You Know It's True"
+    genres:
+      - Pop
+
+  - rank: 9
+    title: "Baby, I Love Your Way/Freebird Medley"
+    artist: "Will to Power"
+    year: 1989
+    album: "Will to Power"
+    solo-hit: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Peter Frampton / Lynyrd Skynyrd
+
+  - rank: 10
+    title: "Giving You the Best That I Got"
+    artist: "Anita Baker"
+    year: 1989
+    album: "Giving You the Best That I Got"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 11
+    title: "Right Here Waiting"
+    artist: "Richard Marx"
+    year: 1989
+    album: "Repeat Offender"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 12
+    title: "Waiting for a Star to Fall"
+    artist: "Boy Meets Girl"
+    year: 1989
+    album: "Reel Life"
+    solo-hit: true
+    genres:
+      - Pop
+
+  - rank: 13
+    title: "Lost in Your Eyes"
+    artist: "Debbie Gibson"
+    year: 1989
+    album: "Electric Youth"
+    genres:
+      - Pop
+
+  - rank: 14
+    title: "Don't Wanna Lose You"
+    artist: "Gloria Estefan"
+    year: 1989
+    album: "Cuts Both Ways"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 15
+    title: "Heaven"
+    artist: "Warrant"
+    year: 1989
+    album: "Dirty Rotten Filthy Stinking Rich"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 16
+    title: "Girl I'm Gonna Miss You"
+    artist: "Milli Vanilli"
+    year: 1989
+    album: "Girl You Know It's True"
+    genres:
+      - Pop
+
+  - rank: 17
+    title: "The Look"
+    artist: "Roxette"
+    year: 1989
+    album: "Look Sharp!"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 18
+    title: "She Drives Me Crazy"
+    artist: "Fine Young Cannibals"
+    year: 1989
+    album: "The Raw & the Cooked"
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 19
+    title: "On Our Own"
+    artist: "Bobby Brown"
+    year: 1989
+    album: "Ghostbusters II (soundtrack)"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 20
+    title: "Two Hearts"
+    artist: "Phil Collins"
+    year: 1989
+    album: "Buster (soundtrack)"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 21
+    title: "Blame It on the Rain"
+    artist: "Milli Vanilli"
+    year: 1989
+    album: "Girl You Know It's True"
+    genres:
+      - Pop
+
+  - rank: 22
+    title: "Listen to Your Heart"
+    artist: "Roxette"
+    year: 1989
+    album: "Look Sharp!"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 23
+    title: "I'll Be There for You"
+    artist: "Bon Jovi"
+    year: 1989
+    album: "New Jersey"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 24
+    title: "If You Don't Know Me by Now"
+    artist: "Simply Red"
+    year: 1989
+    album: "A New Flame"
+    cover: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Original artist: Harold Melvin & the Blue Notes
+
+  - rank: 25
+    title: "Like a Prayer"
+    artist: "Madonna"
+    year: 1989
+    album: "Like a Prayer"
+    genres:
+      - Pop
+    tags:
+      - Culturally important song
+
+  - rank: 26
+    title: "I'll Be Loving You (Forever)"
+    artist: "New Kids on the Block"
+    year: 1989
+    album: "Hangin' Tough"
+    genres:
+      - Pop
+
+  - rank: 27
+    title: "How Can I Fall?"
+    artist: "Breathe"
+    year: 1989
+    album: "All That Jazz"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 28
+    title: "Baby Don't Forget My Number"
+    artist: "Milli Vanilli"
+    year: 1989
+    album: "Girl You Know It's True"
+    genres:
+      - Pop
+
+  - rank: 29
+    title: "Toy Soldiers"
+    artist: "Martika"
+    year: 1989
+    album: "Martika"
+    genres:
+      - Pop
+
+  - rank: 30
+    title: "Forever Your Girl"
+    artist: "Paula Abdul"
+    year: 1989
+    album: "Forever Your Girl"
+    genres:
+      - Pop
+
+  - rank: 31
+    title: "The Living Years"
+    artist: "Mike + The Mechanics"
+    year: 1989
+    album: "Living Years"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 32
+    title: "Eternal Flame"
+    artist: "The Bangles"
+    year: 1989
+    album: "Everything"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 33
+    title: "Wild Thing"
+    artist: "Tone Loc"
+    year: 1989
+    album: "Loc-ed After Dark"
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 34
+    title: "When I See You Smile"
+    artist: "Bad English"
+    year: 1989
+    album: "Bad English"
+    genres:
+      - Rock
+      - Soft Rock
+
+  - rank: 35
+    title: "If I Could Turn Back Time"
+    artist: "Cher"
+    year: 1989
+    album: "Heart of Stone"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 36
+    title: "Buffalo Stance"
+    artist: "Neneh Cherry"
+    year: 1989
+    album: "Raw Like Sushi"
+    genres:
+      - Pop
+      - Funk
+
+  - rank: 37
+    title: "When I'm with You"
+    artist: "Sheriff"
+    year: 1989
+    album: "Sheriff"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 38
+    title: "Don't Rush Me"
+    artist: "Taylor Dayne"
+    year: 1989
+    album: "Tell It to My Heart"
+    genres:
+      - Pop
+
+  - rank: 39
+    title: "Born to Be My Baby"
+    artist: "Bon Jovi"
+    year: 1989
+    album: "New Jersey"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 40
+    title: "Good Thing"
+    artist: "Fine Young Cannibals"
+    year: 1989
+    album: "The Raw & the Cooked"
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 41
+    title: "The Lover in Me"
+    artist: "Sheena Easton"
+    year: 1989
+    album: "The Lover in Me"
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 42
+    title: "Bust a Move"
+    artist: "Young MC"
+    year: 1989
+    album: "Stone Cold Rhymin'"
+    genres:
+      - Pop
+      - Funk
+
+  - rank: 43
+    title: "Once Bitten, Twice Shy"
+    artist: "Great White"
+    year: 1989
+    album: "...Twice Shy"
+    cover: true
+    genres:
+      - Hard Rock
+      - Rock
+    tags:
+      - Original artist: Ian Hunter
+
+  - rank: 44
+    title: "Batdance"
+    artist: "Prince"
+    year: 1989
+    album: "Batman (soundtrack)"
+    soundtrack: true
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 45
+    title: "Rock On"
+    artist: "Michael Damian"
+    year: 1989
+    album: "Where Do We Go from Here"
+    solo-hit: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: David Essex
+
+  - rank: 46
+    title: "Real Love"
+    artist: "Jody Watley"
+    year: 1989
+    album: "Larger Than Life"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 47
+    title: "Love Shack"
+    artist: "The B-52's"
+    year: 1989
+    album: "Cosmic Thing"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important song
+
+  - rank: 48
+    title: "Every Little Step"
+    artist: "Bobby Brown"
+    year: 1989
+    album: "Don't Be Cruel"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 49
+    title: "Hangin' Tough"
+    artist: "New Kids on the Block"
+    year: 1989
+    album: "Hangin' Tough"
+    genres:
+      - Pop
+
+  - rank: 50
+    title: "My Heart Can't Tell You No"
+    artist: "Rod Stewart"
+    year: 1989
+    album: "Out of Order"
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 51
+    title: "So Alive"
+    artist: "Love and Rockets"
+    year: 1989
+    album: "Love and Rockets"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 52
+    title: "You Got It (The Right Stuff)"
+    artist: "New Kids on the Block"
+    year: 1989
+    album: "Hangin' Tough"
+    genres:
+      - Pop
+
+  - rank: 53
+    title: "Armageddon It"
+    artist: "Def Leppard"
+    year: 1989
+    album: "Hysteria"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 54
+    title: "Satisfied"
+    artist: "Richard Marx"
+    year: 1989
+    album: "Repeat Offender"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 55
+    title: "Express Yourself"
+    artist: "Madonna"
+    year: 1989
+    album: "Like a Prayer"
+    genres:
+      - Pop
+
+  - rank: 56
+    title: "I Like It"
+    artist: "Dino"
+    year: 1989
+    album: "24/7"
+    genres:
+      - Pop
+
+  - rank: 57
+    title: "Soldier of Love"
+    artist: "Donny Osmond"
+    year: 1989
+    album: "Donny Osmond"
+    genres:
+      - Pop
+
+  - rank: 58
+    title: "Sowing the Seeds of Love"
+    artist: "Tears for Fears"
+    year: 1989
+    album: "The Seeds of Love"
+    genres:
+      - Pop
+      - New Wave
+
+  - rank: 59
+    title: "Cherish"
+    artist: "Madonna"
+    year: 1989
+    album: "Like a Prayer"
+    genres:
+      - Pop
+
+  - rank: 60
+    title: "When the Children Cry"
+    artist: "White Lion"
+    year: 1989
+    album: "Big Game"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 61
+    title: "18 and Life"
+    artist: "Skid Row"
+    year: 1989
+    album: "Skid Row"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 62
+    title: "I Don't Want Your Love"
+    artist: "Duran Duran"
+    year: 1989
+    album: "Big Thing"
+    genres:
+      - New Wave
+      - Pop
+
+  - rank: 63
+    title: "Second Chance"
+    artist: ".38 Special"
+    year: 1989
+    album: "Rock & Roll Strategy"
+    genres:
+      - Rock
+      - Soft Rock
+
+  - rank: 64
+    title: "The Way You Love Me"
+    artist: "Karyn White"
+    year: 1989
+    album: "Karyn White"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 65
+    title: "Funky Cold Medina"
+    artist: "Tone Loc"
+    year: 1989
+    album: "Loc-ed After Dark"
+    genres:
+      - Funk
+      - Pop
+
+  - rank: 66
+    title: "In Your Room"
+    artist: "The Bangles"
+    year: 1989
+    album: "Everything"
+    genres:
+      - Pop
+      - Rock
+
+  - rank: 67
+    title: "Miss You Like Crazy"
+    artist: "Natalie Cole"
+    year: 1989
+    album: "Good to Be Back"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 68
+    title: "Lovesong"
+    artist: "The Cure"
+    year: 1989
+    album: "Disintegration"
+    genres:
+      - Alternative
+      - New Wave
+
+  - rank: 69
+    title: "Secret Rendezvous"
+    artist: "Karyn White"
+    year: 1989
+    album: "Karyn White"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 70
+    title: "Angel Eyes"
+    artist: "The Jeff Healey Band"
+    year: 1989
+    album: "See the Light"
+    genres:
+      - Rock
+      - Blues
+
+  - rank: 71
+    title: "Patience"
+    artist: "Guns N' Roses"
+    year: 1989
+    album: "G N' R Lies"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 72
+    title: "Walk on Water"
+    artist: "Eddie Money"
+    year: 1989
+    album: "Nothing to Lose"
+    genres:
+      - Rock
+      - Pop
+
+  - rank: 73
+    title: "Cover Girl"
+    artist: "New Kids on the Block"
+    year: 1989
+    album: "Hangin' Tough"
+    genres:
+      - Pop
+
+  - rank: 74
+    title: "Welcome to the Jungle"
+    artist: "Guns N' Roses"
+    year: 1989
+    album: "Appetite for Destruction"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 75
+    title: "Shower Me With Your Love"
+    artist: "Surface"
+    year: 1989
+    album: "2nd Wave"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 76
+    title: "Stand"
+    artist: "R.E.M."
+    year: 1989
+    album: "Green"
+    genres:
+      - Alternative
+      - Rock
+
+  - rank: 77
+    title: "Close My Eyes Forever"
+    artist: "Lita Ford and Ozzy Osbourne"
+    year: 1989
+    album: "Lita"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 78
+    title: "All This Time"
+    artist: "Tiffany"
+    year: 1989
+    album: "Hold an Old Friend's Hand"
+    genres:
+      - Pop
+
+  - rank: 79
+    title: "After All"
+    artist: "Cher and Peter Cetera"
+    year: 1989
+    album: "Heart of Stone"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+
+  - rank: 80
+    title: "Roni"
+    artist: "Bobby Brown"
+    year: 1989
+    album: "Don't Be Cruel"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 81
+    title: "Love in an Elevator"
+    artist: "Aerosmith"
+    year: 1989
+    album: "Pump"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 82
+    title: "Lay Your Hands on Me"
+    artist: "Bon Jovi"
+    year: 1989
+    album: "New Jersey"
+    genres:
+      - Rock
+      - Hard Rock
+
+  - rank: 83
+    title: "The Promise"
+    artist: "When in Rome"
+    year: 1989
+    album: "When in Rome"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+
+  - rank: 84
+    title: "What I Am"
+    artist: "Edie Brickell & New Bohemians"
+    year: 1989
+    album: "Shooting Rubberbands at the Stars"
+    genres:
+      - Alternative
+      - Folk
+
+  - rank: 85
+    title: "I Remember Holding You"
+    artist: "Boys Club"
+    year: 1989
+    album: "Boys Club"
+    solo-hit: true
+    genres:
+      - Pop
+
+  - rank: 86
+    title: "Paradise City"
+    artist: "Guns N' Roses"
+    year: 1989
+    album: "Appetite for Destruction"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 87
+    title: "I Wanna Have Some Fun"
+    artist: "Samantha Fox"
+    year: 1989
+    album: "I Wanna Have Some Fun"
+    genres:
+      - Pop
+
+  - rank: 88
+    title: "She Wants to Dance with Me"
+    artist: "Rick Astley"
+    year: 1989
+    album: "Hold Me in Your Arms"
+    genres:
+      - Pop
+
+  - rank: 89
+    title: "Dreamin'"
+    artist: "Vanessa Williams"
+    year: 1989
+    album: "The Right Stuff"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 90
+    title: "It's No Crime"
+    artist: "Babyface"
+    year: 1989
+    album: "Tender Lover"
+    genres:
+      - Rhythm and Blues
+      - Soul
+
+  - rank: 91
+    title: "Poison"
+    artist: "Alice Cooper"
+    year: 1989
+    album: "Trash"
+    genres:
+      - Hard Rock
+      - Rock
+
+  - rank: 92
+    title: "This Time I Know It's for Real"
+    artist: "Donna Summer"
+    year: 1989
+    album: "Another Place and Time"
+    genres:
+      - Pop
+      - Disco
+
+  - rank: 93
+    title: "Smooth Criminal"
+    artist: "Michael Jackson"
+    year: 1989
+    album: "Bad"
+    genres:
+      - Pop
+      - Funk
+
+  - rank: 94
+    title: "Heaven Help Me"
+    artist: "Deon Estus"
+    year: 1989
+    album: "Spell"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+
+  - rank: 95
+    title: "Rock Wit'cha"
+    artist: "Bobby Brown"
+    year: 1989
+    album: "Don't Be Cruel"
+    genres:
+      - Rhythm and Blues
+      - Pop
+
+  - rank: 96
+    title: "Thinking of You"
+    artist: "Sa-Fire"
+    year: 1989
+    album: "Sa-Fire"
+    genres:
+      - Pop
+
+  - rank: 97
+    title: "What You Don't Know"
+    artist: "Exposé"
+    year: 1989
+    album: "What You Don't Know"
+    genres:
+      - Pop
+
+  - rank: 98
+    title: "Surrender to Me"
+    artist: "Ann Wilson and Robin Zander"
+    year: 1989
+    soundtrack: true
+    genres:
+      - Rock
+      - Soft Rock
+
+  - rank: 99
+    title: "The End of the Innocence"
+    artist: "Don Henley"
+    year: 1989
+    album: "The End of the Innocence"
+    genres:
+      - Rock
+      - Soft Rock
+
+  - rank: 100
+    title: "Keep on Movin'"
+    artist: "Soul II Soul"
+    year: 1989
+    album: "Keep On Movin'"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Fan favorite

@@ -1,0 +1,908 @@
+songs:
+  - rank: 1
+    title: "Every Breath You Take"
+    artist: "The Police"
+    year: 1983
+    album: "Synchronicity"
+    genres:
+      - Rock
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 8 weeks
+      - Grammy Song of the Year
+      - Culturally important
+  - rank: 2
+    title: "Billie Jean"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 #1 for 7 weeks
+      - Culturally important
+  - rank: 3
+    title: "Flashdance... What a Feeling"
+    artist: "Irene Cara"
+    year: 1983
+    album: "Flashdance"
+    soundtrack: true
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 #1 for 6 weeks
+      - Academy Award for Best Original Song
+  - rank: 4
+    title: "Down Under"
+    artist: "Men at Work"
+    year: 1983
+    album: "Business as Usual"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 #1 for 4 weeks
+  - rank: 5
+    title: "Beat It"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Rock
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+      - Grammy Record of the Year
+      - Culturally important
+  - rank: 6
+    title: "Total Eclipse of the Heart"
+    artist: "Bonnie Tyler"
+    year: 1983
+    album: "Faster Than the Speed of Night"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 #1 for 4 weeks
+  - rank: 7
+    title: "Maneater"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    album: "H2O"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 4 weeks
+  - rank: 8
+    title: "Baby, Come to Me"
+    artist: "Patti Austin and James Ingram"
+    year: 1983
+    album: "Every Home Should Have One"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Easy Listening
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 9
+    title: "Maniac"
+    artist: "Michael Sembello"
+    year: 1983
+    album: "Flashdance"
+    soundtrack: true
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+  - rank: 10
+    title: "Sweet Dreams (Are Made of This)"
+    artist: "Eurythmics"
+    year: 1983
+    album: "Sweet Dreams (Are Made of This)"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+      - Culturally important
+  - rank: 11
+    title: "Do You Really Want to Hurt Me"
+    artist: "Culture Club"
+    year: 1983
+    album: "Kissing to Be Clever"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 12
+    title: "You and I"
+    artist: "Eddie Rabbitt and Crystal Gayle"
+    year: 1983
+    album: "Radio Romance"
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Crossover hit
+  - rank: 13
+    title: "Come On Eileen"
+    artist: "Dexys Midnight Runners"
+    year: 1983
+    album: "Too-Rye-Ay"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+      - Folk
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+      - Fan favorite
+  - rank: 14
+    title: "Shame on the Moon"
+    artist: "Bob Seger & The Silver Bullet Band"
+    year: 1983
+    album: "The Distance"
+    genres:
+      - Rock
+      - Soft Rock
+  - rank: 15
+    title: "She Works Hard for the Money"
+    artist: "Donna Summer"
+    year: 1983
+    album: "She Works Hard for the Money"
+    genres:
+      - Disco
+      - Pop
+  - rank: 16
+    title: "Never Gonna Let You Go"
+    artist: "Sérgio Mendes"
+    year: 1983
+    album: "Sérgio Mendes"
+    genres:
+      - Pop
+      - Easy Listening
+  - rank: 17
+    title: "Hungry Like the Wolf"
+    artist: "Duran Duran"
+    year: 1983
+    album: "Rio"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 18
+    title: "Let's Dance"
+    artist: "David Bowie"
+    year: 1983
+    album: "Let's Dance"
+    genres:
+      - Pop
+      - Funk
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 19
+    title: "Twilight Zone"
+    artist: "Golden Earring"
+    year: 1983
+    album: "Cut"
+    genres:
+      - Rock
+  - rank: 20
+    title: "I Know There's Something Going On"
+    artist: "Frida"
+    year: 1983
+    album: "Something's Going On"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 21
+    title: "Jeopardy"
+    artist: "The Greg Kihn Band"
+    year: 1983
+    album: "Kihnspiracy"
+    genres:
+      - Rock
+      - Pop
+  - rank: 22
+    title: "Electric Avenue"
+    artist: "Eddy Grant"
+    year: 1983
+    album: "Killer on the Rampage"
+    solo-hit: true
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Fan favorite
+  - rank: 23
+    title: "She Blinded Me with Science"
+    artist: "Thomas Dolby"
+    year: 1983
+    album: "The Golden Age of Wireless"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+  - rank: 24
+    title: "Africa"
+    artist: "Toto"
+    year: 1983
+    album: "Toto IV"
+    genres:
+      - Soft Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+      - Fan favorite
+  - rank: 25
+    title: "Little Red Corvette"
+    artist: "Prince"
+    year: 1983
+    album: "1999"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Funk
+  - rank: 26
+    title: "Back on the Chain Gang"
+    artist: "The Pretenders"
+    year: 1983
+    album: "Learning to Crawl"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 27
+    title: "Up Where We Belong"
+    artist: "Joe Cocker and Jennifer Warnes"
+    year: 1983
+    album: "An Officer and a Gentleman"
+    soundtrack: true
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Billboard Hot 100 #1 for 3 weeks
+      - Academy Award for Best Original Song
+  - rank: 28
+    title: "Mr. Roboto"
+    artist: "Styx"
+    year: 1983
+    album: "Kilroy Was Here"
+    genres:
+      - Rock
+      - Pop
+  - rank: 29
+    title: "You Are"
+    artist: "Lionel Richie"
+    year: 1983
+    album: "Lionel Richie"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 30
+    title: "Der Kommissar"
+    artist: "After the Fire"
+    year: 1983
+    solo-hit: true
+    cover: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Original artist: Falco
+  - rank: 31
+    title: "Puttin' on the Ritz"
+    artist: "Taco"
+    year: 1983
+    solo-hit: true
+    cover: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Original artist: Harry Richman
+  - rank: 32
+    title: "Sexual Healing"
+    artist: "Marvin Gaye"
+    year: 1983
+    album: "Midnight Love"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #3
+      - Grammy Best Male R&B Vocal Performance
+      - Culturally important
+  - rank: 33
+    title: "(Keep Feeling) Fascination"
+    artist: "The Human League"
+    year: 1983
+    album: "Fascination!"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 34
+    title: "Time (Clock of the Heart)"
+    artist: "Culture Club"
+    year: 1983
+    album: "Kissing to Be Clever"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 35
+    title: "The Safety Dance"
+    artist: "Men Without Hats"
+    year: 1983
+    album: "Rhythm of Youth"
+    solo-hit: false  # Had another top 40
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Fan favorite
+  - rank: 36
+    title: "Mickey"
+    artist: "Toni Basil"
+    year: 1983
+    album: "Word of Mouth"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+  - rank: 37
+    title: "You Can't Hurry Love"
+    artist: "Phil Collins"
+    year: 1983
+    album: "Hello, I Must Be Going!"
+    cover: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: The Supremes
+  - rank: 38
+    title: "Separate Ways (Worlds Apart)"
+    artist: "Journey"
+    year: 1983
+    album: "Frontiers"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 39
+    title: "One on One"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    album: "H2O"
+    genres:
+      - Pop
+      - Rock
+  - rank: 40
+    title: "We've Got Tonight"
+    artist: "Kenny Rogers and Sheena Easton"
+    year: 1983
+    album: "We've Got Tonight"
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Crossover hit
+  - rank: 41
+    title: "1999"
+    artist: "Prince"
+    year: 1983
+    album: "1999"
+    genres:
+      - Funk
+      - Pop
+      - Rhythm and Blues
+  - rank: 42
+    title: "Stray Cat Strut"
+    artist: "Stray Cats"
+    year: 1983
+    album: "Built for Speed"
+    genres:
+      - Rockabilly
+      - Rock
+  - rank: 43
+    title: "Allentown"
+    artist: "Billy Joel"
+    year: 1983
+    album: "The Nylon Curtain"
+    genres:
+      - Pop
+      - Rock
+  - rank: 44
+    title: "Stand Back"
+    artist: "Stevie Nicks"
+    year: 1983
+    album: "The Wild Heart"
+    genres:
+      - Rock
+      - Pop
+  - rank: 45
+    title: "Tell Her About It"
+    artist: "Billy Joel"
+    year: 1983
+    album: "An Innocent Man"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1 for 1 week
+  - rank: 46
+    title: "Always Something There to Remind Me"
+    artist: "Naked Eyes"
+    year: 1983
+    album: "Naked Eyes"
+    cover: true
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Original artist: Lou Johnson
+  - rank: 47
+    title: "Truly"
+    artist: "Lionel Richie"
+    year: 1983
+    album: "Lionel Richie"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 48
+    title: "Dirty Laundry"
+    artist: "Don Henley"
+    year: 1983
+    album: "I Can't Stand Still"
+    genres:
+      - Rock
+      - Pop
+  - rank: 49
+    title: "The Girl Is Mine"
+    artist: "Michael Jackson and Paul McCartney"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 50
+    title: "Too Shy"
+    artist: "Kajagoogoo"
+    year: 1983
+    album: "White Feathers"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+  - rank: 51
+    title: "Goody Two-Shoes"
+    artist: "Adam Ant"
+    year: 1983
+    album: "Friend or Foe"
+    solo-hit: true
+    genres:
+      - New Wave
+      - Pop
+  - rank: 52
+    title: "Rock the Casbah"
+    artist: "The Clash"
+    year: 1983
+    album: "Combat Rock"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important
+  - rank: 53
+    title: "Our House"
+    artist: "Madness"
+    year: 1983
+    album: "Madness"
+    solo-hit: false
+    genres:
+      - New Wave
+      - Pop
+  - rank: 54
+    title: "Overkill"
+    artist: "Men at Work"
+    year: 1983
+    album: "Cargo"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 55
+    title: "Is There Something I Should Know?"
+    artist: "Duran Duran"
+    year: 1983
+    album: "Duran Duran"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 56
+    title: "Gloria"
+    artist: "Laura Branigan"
+    year: 1983
+    album: "Branigan"
+    cover: true
+    genres:
+      - Pop
+      - Disco
+    tags:
+      - Original artist: Umberto Tozzi
+  - rank: 57
+    title: "Affair of the Heart"
+    artist: "Rick Springfield"
+    year: 1983
+    album: "Living in Oz"
+    genres:
+      - Rock
+      - Pop
+  - rank: 58
+    title: "She's a Beauty"
+    artist: "The Tubes"
+    year: 1983
+    album: "Outside Inside"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 59
+    title: "Solitaire"
+    artist: "Laura Branigan"
+    year: 1983
+    album: "Branigan 2"
+    genres:
+      - Pop
+      - Disco
+  - rank: 60
+    title: "Don't Let It End"
+    artist: "Styx"
+    year: 1983
+    album: "Kilroy Was Here"
+    genres:
+      - Rock
+      - Pop
+  - rank: 61
+    title: "How Am I Supposed to Live Without You"
+    artist: "Laura Branigan"
+    year: 1983
+    album: "Branigan 2"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 62
+    title: "China Girl"
+    artist: "David Bowie"
+    year: 1983
+    album: "Let's Dance"
+    genres:
+      - Pop
+      - Rock
+  - rank: 63
+    title: "Come Dancing"
+    artist: "The Kinks"
+    year: 1983
+    album: "State of Confusion"
+    genres:
+      - Rock
+      - Pop
+  - rank: 64
+    title: "Promises, Promises"
+    artist: "Naked Eyes"
+    year: 1983
+    album: "Naked Eyes"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 65
+    title: "The Other Guy"
+    artist: "Little River Band"
+    year: 1983
+    album: "Greatest Hits"
+    genres:
+      - Rock
+      - Soft Rock
+  - rank: 66
+    title: "Making Love Out of Nothing at All"
+    artist: "Air Supply"
+    year: 1983
+    album: "Greatest Hits"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 67
+    title: "Family Man"
+    artist: "Daryl Hall & John Oates"
+    year: 1983
+    album: "H2O"
+    genres:
+      - Pop
+      - Rock
+  - rank: 68
+    title: "Wanna Be Startin' Somethin'"
+    artist: "Michael Jackson"
+    year: 1983
+    album: "Thriller"
+    genres:
+      - Pop
+      - Funk
+      - Rhythm and Blues
+  - rank: 69
+    title: "I Won't Hold You Back"
+    artist: "Toto"
+    year: 1983
+    album: "Toto IV"
+    genres:
+      - Soft Rock
+      - Pop
+  - rank: 70
+    title: "All Right"
+    artist: "Christopher Cross"
+    year: 1983
+    album: "Another Page"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 71
+    title: "Straight from the Heart"
+    artist: "Bryan Adams"
+    year: 1983
+    album: "Cuts Like a Knife"
+    genres:
+      - Rock
+      - Pop
+  - rank: 72
+    title: "Heart to Heart"
+    artist: "Kenny Loggins"
+    year: 1983
+    album: "High Adventure"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 73
+    title: "My Love"
+    artist: "Lionel Richie"
+    year: 1983
+    album: "Lionel Richie"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 74
+    title: "I'm Still Standing"
+    artist: "Elton John"
+    year: 1983
+    album: "Too Low for Zero"
+    genres:
+      - Pop
+      - Rock
+  - rank: 75
+    title: "Hot Girls in Love"
+    artist: "Loverboy"
+    year: 1983
+    album: "Keep It Up"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 76
+    title: "It's a Mistake"
+    artist: "Men at Work"
+    year: 1983
+    album: "Cargo"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 77
+    title: "I'll Tumble 4 Ya"
+    artist: "Culture Club"
+    year: 1983
+    album: "Kissing to Be Clever"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 78
+    title: "All Time High"
+    artist: "Rita Coolidge"
+    year: 1983
+    album: "Octopussy"
+    soundtrack: true
+    genres:
+      - Pop
+      - Easy Listening
+  - rank: 79
+    title: "Your Love Is Driving Me Crazy"
+    artist: "Sammy Hagar"
+    year: 1983
+    album: "Three Lock Box"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 80
+    title: "Heartbreaker"
+    artist: "Dionne Warwick"
+    year: 1983
+    album: "How Many Times Can We Say Goodbye"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 81
+    title: "Take Me to Heart"
+    artist: "Quarterflash"
+    year: 1983
+    album: "Take Another Picture"
+    genres:
+      - Rock
+      - Pop
+  - rank: 82
+    title: "Islands in the Stream"
+    artist: "Kenny Rogers and Dolly Parton"
+    year: 1983
+    album: "Eyes That See in the Dark"
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Billboard Hot 100 #1 for 2 weeks
+      - Crossover hit
+  - rank: 83
+    title: "Don't Cry"
+    artist: "Asia"
+    year: 1983
+    album: "Alpha"
+    genres:
+      - Rock
+  - rank: 84
+    title: "Breaking Us in Two"
+    artist: "Joe Jackson"
+    year: 1983
+    album: "Night and Day"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 85
+    title: "Fall in Love with Me"
+    artist: "Earth, Wind & Fire"
+    year: 1983
+    album: "Powerlight"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Soul
+  - rank: 86
+    title: "Heartlight"
+    artist: "Neil Diamond"
+    year: 1983
+    album: "Heartlight"
+    genres:
+      - Pop
+      - Easy Listening
+  - rank: 87
+    title: "Heart and Soul"
+    artist: "Huey Lewis and the News"
+    year: 1983
+    album: "Sports"
+    genres:
+      - Rock
+      - Pop
+  - rank: 88
+    title: "Far from Over"
+    artist: "Frank Stallone"
+    year: 1983
+    album: "Staying Alive"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 89
+    title: "It Might Be You"
+    artist: "Stephen Bishop"
+    year: 1983
+    album: "Tootsie"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 90
+    title: "Tonight, I Celebrate My Love"
+    artist: "Peabo Bryson and Roberta Flack"
+    year: 1983
+    album: "Born to Love"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Easy Listening
+  - rank: 91
+    title: "You Got Lucky"
+    artist: "Tom Petty and the Heartbreakers"
+    year: 1983
+    album: "Long After Dark"
+    genres:
+      - Rock
+  - rank: 92
+    title: "Steppin' Out"
+    artist: "Joe Jackson"
+    year: 1983
+    album: "Night and Day"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: "One Thing Leads to Another"
+    artist: "The Fixx"
+    year: 1983
+    album: "Reach the Beach"
+    genres:
+      - New Wave
+      - Pop
+  - rank: 94
+    title: "Human Touch"
+    artist: "Rick Springfield"
+    year: 1983
+    album: "Living in Oz"
+    genres:
+      - Rock
+      - Pop
+  - rank: 95
+    title: "She's a Devil"
+    artist: "Stevie Nicks"
+    year: 1983
+    album: "The Wild Heart"
+    genres:
+      - Rock
+      - Pop
+  - rank: 96
+    title: "Photograph"
+    artist: "Def Leppard"
+    year: 1983
+    album: "Pyromania"
+    genres:
+      - Hard Rock
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 97
+    title: "Burning Down the House"
+    artist: "Talking Heads"
+    year: 1983
+    album: "Speaking in Tongues"
+    genres:
+      - New Wave
+      - Funk
+      - Rock
+    tags:
+      - Culturally important
+  - rank: 98
+    title: "Pride and Joy"
+    artist: "Stevie Ray Vaughan"
+    year: 1983
+    album: "Texas Flood"
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Fan favorite
+      - Culturally important
+  - rank: 99
+    title: "Juicy Fruit"
+    artist: "Mtume"
+    year: 1983
+    album: "Juicy Fruit"
+    genres:
+      - Funk
+      - Rhythm and Blues
+      - Soul
+  - rank: 100
+    title: "Lady Love Me (One More Time)"
+    artist: "George Benson"
+    year: 1983
+    album: "In Your Eyes"
+    genres:
+      - Jazz
+      - Rhythm and Blues
+      - Pop

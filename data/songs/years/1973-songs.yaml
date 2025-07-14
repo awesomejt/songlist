@@ -1,0 +1,908 @@
+songs:
+  - rank: 1
+    title: "Tie a Yellow Ribbon Round the Ole Oak Tree"
+    artist: "Tony Orlando and Dawn"
+    year: 1973
+    album: "Tuneweaving"
+    genres:
+      - Pop
+  - rank: 2
+    title: "Bad, Bad Leroy Brown"
+    artist: "Jim Croce"
+    year: 1973
+    album: "Life and Times"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+  - rank: 3
+    title: "Killing Me Softly with His Song"
+    artist: "Roberta Flack"
+    year: 1973
+    album: "Killing Me Softly"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Grammy Record of the Year
+  - rank: 4
+    title: "Let's Get It On"
+    artist: "Marvin Gaye"
+    year: 1973
+    album: "Let's Get It On"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 5
+    title: "My Love"
+    artist: "Paul McCartney & Wings"
+    year: 1973
+    album: "Red Rose Speedway"
+    genres:
+      - Rock
+      - Pop
+  - rank: 6
+    title: "Why Me"
+    artist: "Kris Kristofferson"
+    year: 1973
+    album: "Jesus Was a Capricorn"
+    genres:
+      - Folk
+      - Pop
+  - rank: 7
+    title: "Crocodile Rock"
+    artist: "Elton John"
+    year: 1973
+    album: "Don't Shoot Me I'm Only the Piano Player"
+    genres:
+      - Rock
+      - Pop
+  - rank: 8
+    title: "Will It Go Round in Circles"
+    artist: "Billy Preston"
+    year: 1973
+    album: "Music Is My Life"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+  - rank: 9
+    title: "You're So Vain"
+    artist: "Carly Simon"
+    year: 1973
+    album: "No Secrets"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 10
+    title: "Touch Me in the Morning"
+    artist: "Diana Ross"
+    year: 1973
+    album: "Touch Me in the Morning"
+    genres:
+      - Soul
+      - Pop
+      - Rhythm and Blues
+  - rank: 11
+    title: "The Night the Lights Went Out in Georgia"
+    artist: "Vicki Lawrence"
+    year: 1973
+    album: "The Night the Lights Went Out in Georgia"
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+  - rank: 12
+    title: "Playground in My Mind"
+    artist: "Clint Holmes"
+    year: 1973
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 13
+    title: "Brother Louie"
+    artist: "Stories"
+    year: 1973
+    album: "About Us"
+    cover: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+      - Soul
+    tags:
+      - Original artist: Hot Chocolate
+  - rank: 14
+    title: "Delta Dawn"
+    artist: "Helen Reddy"
+    year: 1973
+    album: "Long Hard Climb"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Tanya Tucker
+  - rank: 15
+    title: "Me and Mrs. Jones"
+    artist: "Billy Paul"
+    year: 1973
+    album: "360 Degrees of Billy Paul"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Grammy Best Male R&B Vocal Performance
+  - rank: 16
+    title: "Frankenstein"
+    artist: "The Edgar Winter Group"
+    year: 1973
+    album: "They Only Come Out at Night"
+    genres:
+      - Rock
+  - rank: 17
+    title: "Drift Away"
+    artist: "Dobie Gray"
+    year: 1973
+    album: "Drift Away"
+    genres:
+      - Soul
+      - Rock
+      - Pop
+  - rank: 18
+    title: "Little Willy"
+    artist: "Sweet"
+    year: 1973
+    album: "The Sweet"
+    genres:
+      - Rock
+      - Pop
+  - rank: 19
+    title: "You Are the Sunshine of My Life"
+    artist: "Stevie Wonder"
+    year: 1973
+    album: "Talking Book"
+    genres:
+      - Soul
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Grammy Best Male Pop Vocal Performance
+  - rank: 20
+    title: "Half-Breed"
+    artist: "Cher"
+    year: 1973
+    album: "Half-Breed"
+    genres:
+      - Pop
+      - Rock
+  - rank: 21
+    title: "That Lady"
+    artist: "The Isley Brothers"
+    year: 1973
+    album: "3 + 3"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+  - rank: 22
+    title: "Pillow Talk"
+    artist: "Sylvia"
+    year: 1973
+    album: "Pillow Talk"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 23
+    title: "We're an American Band"
+    artist: "Grand Funk Railroad"
+    year: 1973
+    album: "We're an American Band"
+    genres:
+      - Rock
+  - rank: 24
+    title: "Right Place Wrong Time"
+    artist: "Dr. John"
+    year: 1973
+    album: "In the Right Place"
+    genres:
+      - Funk
+      - Rhythm and Blues
+      - Rock
+  - rank: 25
+    title: "Wildflower"
+    artist: "Skylark"
+    year: 1973
+    album: "Skylark"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soul
+  - rank: 26
+    title: "Superstition"
+    artist: "Stevie Wonder"
+    year: 1973
+    album: "Talking Book"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 27
+    title: "Loves Me Like a Rock"
+    artist: "Paul Simon"
+    year: 1973
+    album: "There Goes Rhymin' Simon"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+  - rank: 28
+    title: "The Morning After"
+    artist: "Maureen McGovern"
+    year: 1973
+    album: "The Morning After"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - From The Poseidon Adventure
+      - Academy Award for Best Original Song
+  - rank: 29
+    title: "Rocky Mountain High"
+    artist: "John Denver"
+    year: 1973
+    album: "Rocky Mountain High"
+    genres:
+      - Folk
+      - Pop
+  - rank: 30
+    title: "Stuck in the Middle with You"
+    artist: "Stealers Wheel"
+    year: 1973
+    album: "Stealers Wheel"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+      - Folk
+  - rank: 31
+    title: "Shambala"
+    artist: "Three Dog Night"
+    year: 1973
+    album: "Cyan"
+    genres:
+      - Rock
+      - Pop
+  - rank: 32
+    title: "Love Train"
+    artist: "The O'Jays"
+    year: 1973
+    album: "Back Stabbers"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 33
+    title: "I'm Gonna Love You Just a Little More Baby"
+    artist: "Barry White"
+    year: 1973
+    album: "I've Got So Much to Give"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+  - rank: 34
+    title: "Say, Has Anybody Seen My Sweet Gypsy Rose"
+    artist: "Tony Orlando and Dawn"
+    year: 1973
+    album: "Dawn's New Ragtime Follies"
+    genres:
+      - Pop
+  - rank: 35
+    title: "Keep on Truckin'"
+    artist: "Eddie Kendricks"
+    year: 1973
+    album: "Eddie Kendricks"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+  - rank: 36
+    title: "Danny's Song"
+    artist: "Anne Murray"
+    year: 1973
+    album: "Danny's Song"
+    genres:
+      - Pop
+      - Folk
+  - rank: 37
+    title: "Dancing in the Moonlight"
+    artist: "King Harvest"
+    year: 1973
+    album: "Dancing in the Moonlight"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 38
+    title: "Monster Mash"
+    artist: "Bobby 'Boris' Pickett"
+    year: 1973
+    album: "The Original Monster Mash"
+    genres:
+      - Rock
+      - Pop
+  - rank: 39
+    title: "Natural High"
+    artist: "Bloodstone"
+    year: 1973
+    album: "Natural High"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 40
+    title: "Diamond Girl"
+    artist: "Seals and Crofts"
+    year: 1973
+    album: "Diamond Girl"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+  - rank: 41
+    title: "Long Train Runnin'"
+    artist: "The Doobie Brothers"
+    year: 1973
+    album: "The Captain and Me"
+    genres:
+      - Rock
+      - Funk
+  - rank: 42
+    title: "Give Me Love (Give Me Peace on Earth)"
+    artist: "George Harrison"
+    year: 1973
+    album: "Living in the Material World"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+  - rank: 43
+    title: "If You Want Me to Stay"
+    artist: "Sly & the Family Stone"
+    year: 1973
+    album: "Fresh"
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+  - rank: 44
+    title: "Daddy's Home"
+    artist: "Jermaine Jackson"
+    year: 1973
+    album: "Come into My Life"
+    cover: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Original artist: Shep and the Limelites
+  - rank: 45
+    title: "Neither One of Us (Wants to Be the First to Say Goodbye)"
+    artist: "Gladys Knight & the Pips"
+    year: 1973
+    album: "Neither One of Us"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Grammy Best Pop Vocal Performance by a Duo or Group
+  - rank: 46
+    title: "I'm Doin' Fine Now"
+    artist: "New York City"
+    year: 1973
+    album: "I'm Doin' Fine Now"
+    solo-hit: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 47
+    title: "Could It Be I'm Falling in Love"
+    artist: "The Spinners"
+    year: 1973
+    album: "Spinners"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 48
+    title: "Daniel"
+    artist: "Elton John"
+    year: 1973
+    album: "Don't Shoot Me I'm Only the Piano Player"
+    genres:
+      - Pop
+      - Rock
+  - rank: 49
+    title: "Midnight Train to Georgia"
+    artist: "Gladys Knight & the Pips"
+    year: 1973
+    album: "Imagination"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Rolling Stone 500 Greatest Songs
+      - Grammy Best R&B Vocal Performance by a Duo or Group
+  - rank: 50
+    title: "Smoke on the Water"
+    artist: "Deep Purple"
+    year: 1973
+    album: "Machine Head"
+    genres:
+      - Rock
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 51
+    title: "The Cover of 'Rolling Stone'"
+    artist: "Dr. Hook & the Medicine Show"
+    year: 1973
+    album: "Sloppy Seconds"
+    genres:
+      - Rock
+      - Pop
+  - rank: 52
+    title: "Behind Closed Doors"
+    artist: "Charlie Rich"
+    year: 1973
+    album: "Behind Closed Doors"
+    genres:
+      - Pop
+  - rank: 53
+    title: "Your Mama Don't Dance"
+    artist: "Loggins and Messina"
+    year: 1973
+    album: "Loggins and Messina"
+    genres:
+      - Rock
+      - Pop
+      - Folk
+  - rank: 54
+    title: "Feelin' Stronger Every Day"
+    artist: "Chicago"
+    year: 1973
+    album: "Chicago VI"
+    genres:
+      - Rock
+      - Pop
+  - rank: 55
+    title: "The Cisco Kid"
+    artist: "War"
+    year: 1973
+    album: "The World Is a Ghetto"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+  - rank: 56
+    title: "Live and Let Die"
+    artist: "Paul McCartney & Wings"
+    year: 1973
+    single: true
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - From Live and Let Die film
+  - rank: 57
+    title: "Oh, Babe, What Would You Say?"
+    artist: "Hurricane Smith"
+    year: 1973
+    album: "Hurricane Smith"
+    solo-hit: true
+    genres:
+      - Pop
+      - Standards
+  - rank: 58
+    title: "I Believe in You (You Believe in Me)"
+    artist: "Johnnie Taylor"
+    year: 1973
+    album: "Taylored in Silk"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 59
+    title: "Sing"
+    artist: "The Carpenters"
+    year: 1973
+    album: "Now & Then"
+    genres:
+      - Pop
+  - rank: 60
+    title: "Ain't No Woman (Like the One I've Got)"
+    artist: "The Four Tops"
+    year: 1973
+    album: "Keeper of the Castle"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 61
+    title: "Dueling Banjos"
+    artist: "Eric Weissberg & Steve Mandell"
+    year: 1973
+    album: "Dueling Banjos"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Folk
+      - Blues
+    tags:
+      - From Deliverance film
+  - rank: 62
+    title: "Higher Ground"
+    artist: "Stevie Wonder"
+    year: 1973
+    album: "Innervisions"
+    genres:
+      - Funk
+      - Soul
+      - Rock
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 63
+    title: "Here I Am (Come and Take Me)"
+    artist: "Al Green"
+    year: 1973
+    album: "Call Me"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 64
+    title: "My Maria"
+    artist: "B.W. Stevenson"
+    year: 1973
+    album: "My Maria"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+      - Folk
+  - rank: 65
+    title: "Superfly"
+    artist: "Curtis Mayfield"
+    year: 1973
+    album: "Super Fly"
+    soundtrack: true
+    genres:
+      - Funk
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - From Super Fly film
+  - rank: 66
+    title: "Last Song"
+    artist: "Edward Bear"
+    year: 1973
+    album: "Edward Bear"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rock
+  - rank: 67
+    title: "Get Down"
+    artist: "Gilbert O'Sullivan"
+    year: 1973
+    album: "I'm a Writer, Not a Fighter"
+    genres:
+      - Pop
+  - rank: 68
+    title: "Reelin' in the Years"
+    artist: "Steely Dan"
+    year: 1973
+    album: "Can't Buy a Thrill"
+    genres:
+      - Rock
+      - Jazz
+  - rank: 69
+    title: "Hocus Pocus"
+    artist: "Focus"
+    year: 1973
+    album: "Focus II"
+    solo-hit: true
+    genres:
+      - Rock
+  - rank: 70
+    title: "Yesterday Once More"
+    artist: "The Carpenters"
+    year: 1973
+    album: "Now & Then"
+    genres:
+      - Pop
+  - rank: 71
+    title: "Boogie Woogie Bugle Boy"
+    artist: "Bette Midler"
+    year: 1973
+    album: "Bette Midler"
+    cover: true
+    genres:
+      - Pop
+      - Standards
+      - Swing
+    tags:
+      - Original artist: The Andrews Sisters
+  - rank: 72
+    title: "Clair"
+    artist: "Gilbert O'Sullivan"
+    year: 1973
+    album: "Back to Front"
+    genres:
+      - Pop
+  - rank: 73
+    title: "Do It Again"
+    artist: "Steely Dan"
+    year: 1973
+    album: "Can't Buy a Thrill"
+    genres:
+      - Rock
+      - Jazz
+  - rank: 74
+    title: "Kodachrome"
+    artist: "Paul Simon"
+    year: 1973
+    album: "There Goes Rhymin' Simon"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+  - rank: 75
+    title: "Why Can't We Live Together"
+    artist: "Timmy Thomas"
+    year: 1973
+    album: "Why Can't We Live Together"
+    solo-hit: true
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+  - rank: 76
+    title: "So Very Hard to Go"
+    artist: "Tower of Power"
+    year: 1973
+    album: "Tower of Power"
+    solo-hit: true
+    genres:
+      - Funk
+      - Soul
+  - rank: 77
+    title: "Do You Want to Dance"
+    artist: "Bette Midler"
+    year: 1973
+    album: "The Divine Miss M"
+    cover: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Original artist: Bobby Freeman
+  - rank: 78
+    title: "Rockin' Pneumonia and the Boogie Woogie Flu"
+    artist: "Johnny Rivers"
+    year: 1973
+    album: "L.A. Reggae"
+    cover: true
+    genres:
+      - Rock
+      - Blues
+    tags:
+      - Original artist: Huey 'Piano' Smith
+  - rank: 79
+    title: "Ramblin' Man"
+    artist: "The Allman Brothers Band"
+    year: 1973
+    album: "Brothers and Sisters"
+    genres:
+      - Rock
+      - Blues
+      - Folk
+  - rank: 80
+    title: "Masterpiece"
+    artist: "The Temptations"
+    year: 1973
+    album: "Masterpiece"
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Funk
+  - rank: 81
+    title: "Peaceful"
+    artist: "Helen Reddy"
+    year: 1973
+    album: "I Am Woman"
+    genres:
+      - Pop
+  - rank: 82
+    title: "One Less Set of Footsteps"
+    artist: "Jim Croce"
+    year: 1973
+    album: "Life and Times"
+    genres:
+      - Folk
+      - Rock
+      - Pop
+  - rank: 83
+    title: "The Twelfth of Never"
+    artist: "Donny Osmond"
+    year: 1973
+    album: "Alone Together"
+    cover: true
+    genres:
+      - Pop
+      - Standards
+    tags:
+      - Original artist: Johnny Mathis
+  - rank: 84
+    title: "Funny Face"
+    artist: "Donna Fargo"
+    year: 1973
+    album: "The Happiest Girl in the Whole U.S.A."
+    genres:
+      - Pop
+  - rank: 85
+    title: "Funky Worm"
+    artist: "Ohio Players"
+    year: 1973
+    album: "Pleasure"
+    solo-hit: true
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 86
+    title: "Angie"
+    artist: "The Rolling Stones"
+    year: 1973
+    album: "Goats Head Soup"
+    genres:
+      - Rock
+      - Pop
+  - rank: 87
+    title: "Jambalaya (On the Bayou)"
+    artist: "Blue Ridge Rangers"
+    year: 1973
+    album: "The Blue Ridge Rangers"
+    cover: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Original artist: Hank Williams
+  - rank: 88
+    title: "Evil"
+    artist: "Earth, Wind & Fire"
+    year: 1973
+    album: "Head to the Sky"
+    genres:
+      - Funk
+      - Soul
+      - Jazz
+  - rank: 89
+    title: "Trying to Live My Life Without You"
+    artist: "Otis Clay"
+    year: 1973
+    single: true
+    genres:
+      - Soul
+      - Rhythm and Blues
+      - Blues
+  - rank: 90
+    title: "Don't Expect Me to Be Your Friend"
+    artist: "Lobo"
+    year: 1973
+    album: "Of a Simple Man"
+    genres:
+      - Pop
+      - Rock
+      - Folk
+  - rank: 91
+    title: "Break Up to Make Up"
+    artist: "The Stylistics"
+    year: 1973
+    album: "Round 2"
+    genres:
+      - Soul
+      - Rhythm and Blues
+  - rank: 92
+    title: "Daisy a Day"
+    artist: "Jud Strunk"
+    year: 1973
+    album: "Daisy a Day"
+    solo-hit: true
+    genres:
+      - Pop
+      - Folk
+  - rank: 93
+    title: "Also Sprach Zarathustra (2001)"
+    artist: "Deodato"
+    year: 1973
+    album: "Prelude"
+    genres:
+      - Jazz
+      - Funk
+  - rank: 94
+    title: "Stir It Up"
+    artist: "Johnny Nash"
+    year: 1973
+    album: "I Can See Clearly Now"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Bob Marley & the Wailers
+  - rank: 95
+    title: "Money"
+    artist: "Pink Floyd"
+    year: 1973
+    album: "The Dark Side of the Moon"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 96
+    title: "Hi, Hi, Hi"
+    artist: "Wings"
+    year: 1973
+    single: true
+    genres:
+      - Rock
+      - Pop
+  - rank: 97
+    title: "Bitter Bad"
+    artist: "Melanie"
+    year: 1973
+    album: "Melanie at Carnegie Hall"
+    genres:
+      - Folk
+      - Pop
+  - rank: 98
+    title: "If You Don't Know Me by Now"
+    artist: "Harold Melvin & the Blue Notes"
+    year: 1973
+    album: "Harold Melvin & the Blue Notes"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Rolling Stone 500 Greatest Songs
+  - rank: 99
+    title: "Papa Was a Rollin' Stone"
+    artist: "The Temptations"
+    year: 1973
+    album: "All Directions"
+    genres:
+      - Soul
+      - Funk
+      - Rhythm and Blues
+    tags:
+      - Rolling Stone 500 Greatest Songs
+      - Grammy Best R&B Vocal Performance by a Group
+  - rank: 100
+    title: "Summer (The First Time)"
+    artist: "Bobby Goldsboro"
+    year: 1973
+    album: "Summer (The First Time)"
+    genres:
+      - Pop
+      - Folk

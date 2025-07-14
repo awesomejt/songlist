@@ -1,0 +1,1003 @@
+songs:
+  - rank: 1
+    title: "Physical"
+    artist: "Olivia Newton-John"
+    year: 1982
+    album: "Physical"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - Longest running number 1 of the decade
+  - rank: 2
+    title: "Eye of the Tiger"
+    artist: "Survivor"
+    year: 1982
+    album: "Eye of the Tiger"
+    soundtrack: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - From Rocky III
+      - Culturally important
+  - rank: 3
+    title: "I Love Rock 'n Roll"
+    artist: "Joan Jett & The Blackhearts"
+    year: 1982
+    album: "I Love Rock 'n Roll"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important rock anthem
+  - rank: 4
+    title: "Ebony and Ivory"
+    artist: "Paul McCartney & Stevie Wonder"
+    year: 1982
+    album: "Tug of War"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 5
+    title: "Centerfold"
+    artist: "The J. Geils Band"
+    year: 1982
+    album: "Freeze-Frame"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 6
+    title: "Don't You Want Me"
+    artist: "The Human League"
+    year: 1982
+    album: "Dare"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Culturally important synth-pop
+  - rank: 7
+    title: "Jack & Diane"
+    artist: "John Cougar"
+    year: 1982
+    album: "American Fool"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 8
+    title: "Hurts So Good"
+    artist: "John Cougar"
+    year: 1982
+    album: "American Fool"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 9
+    title: "Abracadabra"
+    artist: "Steve Miller Band"
+    year: 1982
+    album: "Abracadabra"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 10
+    title: "Hard to Say I'm Sorry"
+    artist: "Chicago"
+    year: 1982
+    album: "Chicago 16"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 11
+    title: "Tainted Love"
+    artist: "Soft Cell"
+    year: 1982
+    album: "Non-Stop Erotic Cabaret"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 8
+      - Culturally important
+  - rank: 12
+    title: "Chariots of Fire"
+    artist: "Vangelis"
+    year: 1982
+    album: "Chariots of Fire"
+    soundtrack: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 1
+      - Instrumental
+  - rank: 13
+    title: "Harden My Heart"
+    artist: "Quarterflash"
+    year: 1982
+    album: "Quarterflash"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 14
+    title: "Rosanna"
+    artist: "Toto"
+    year: 1982
+    album: "Toto IV"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 15
+    title: "I Can't Go for That (No Can Do)"
+    artist: "Daryl Hall & John Oates"
+    year: 1982
+    album: "Private Eyes"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 16
+    title: "867-5309/Jenny"
+    artist: "Tommy Tutone"
+    year: 1982
+    album: "Tommy Tutone 2"
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 17
+    title: "Key Largo"
+    artist: "Bertie Higgins"
+    year: 1982
+    album: "Just Another Day in Paradise"
+    solo-hit: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 18
+    title: "You Should Hear How She Talks About You"
+    artist: "Melissa Manchester"
+    year: 1982
+    album: "Hey Ricky"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 19
+    title: "Waiting for a Girl Like You"
+    artist: "Foreigner"
+    year: 1982
+    album: "4"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 20
+    title: "Don't Talk to Strangers"
+    artist: "Rick Springfield"
+    year: 1982
+    album: "Success Hasn't Spoiled Me Yet"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 21
+    title: "The Sweetest Thing (I've Ever Known)"
+    artist: "Juice Newton"
+    year: 1982
+    album: "Quiet Lies"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 22
+    title: "Always on My Mind"
+    artist: "Willie Nelson"
+    year: 1982
+    album: "Always on My Mind"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Elvis Presley
+      - Billboard Hot 100 number 5
+      - Crossover hit
+  - rank: 23
+    title: "Shake It Up"
+    artist: "The Cars"
+    year: 1982
+    album: "Shake It Up"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 24
+    title: "Let It Whip"
+    artist: "Dazz Band"
+    year: 1982
+    album: "Keep It Live"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 25
+    title: "We Got the Beat"
+    artist: "The Go-Go's"
+    year: 1982
+    album: "Beauty and the Beat"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 26
+    title: "The Other Woman"
+    artist: "Ray Parker Jr."
+    year: 1982
+    album: "The Other Woman"
+    genres:
+      - Rhythm and Blues
+      - Funk
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 27
+    title: "Turn Your Love Around"
+    artist: "George Benson"
+    year: 1982
+    album: "The George Benson Collection"
+    genres:
+      - Jazz
+      - Soul
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 28
+    title: "Sweet Dreams"
+    artist: "Air Supply"
+    year: 1982
+    album: "The One That You Love"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 29
+    title: "Only the Lonely"
+    artist: "The Motels"
+    year: 1982
+    album: "All Four One"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 30
+    title: "Who Can It Be Now?"
+    artist: "Men at Work"
+    year: 1982
+    album: "Business as Usual"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 31
+    title: "Hold Me"
+    artist: "Fleetwood Mac"
+    year: 1982
+    album: "Mirage"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 32
+    title: "Eye in the Sky"
+    artist: "The Alan Parsons Project"
+    year: 1982
+    album: "Eye in the Sky"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 33
+    title: "Let's Groove"
+    artist: "Earth, Wind & Fire"
+    year: 1982
+    album: "Raise!"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 34
+    title: "Open Arms"
+    artist: "Journey"
+    year: 1982
+    album: "Escape"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 35
+    title: "Leader of the Band"
+    artist: "Dan Fogelberg"
+    year: 1982
+    album: "The Innocent Age"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 36
+    title: "Leather and Lace"
+    artist: "Stevie Nicks & Don Henley"
+    year: 1982
+    album: "Bella Donna"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 37
+    title: "Even the Nights Are Better"
+    artist: "Air Supply"
+    year: 1982
+    album: "Now and Forever"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 38
+    title: "I've Never Been to Me"
+    artist: "Charlene"
+    year: 1982
+    album: "I've Never Been to Me"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 39
+    title: "'65 Love Affair"
+    artist: "Paul Davis"
+    year: 1982
+    album: "Cool Night"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 6
+  - rank: 40
+    title: "Heat of the Moment"
+    artist: "Asia"
+    year: 1982
+    album: "Asia"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 41
+    title: "Take It Easy on Me"
+    artist: "Little River Band"
+    year: 1982
+    album: "Time Exposure"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 42
+    title: "Pac-Man Fever"
+    artist: "Buckner & Garcia"
+    year: 1982
+    album: "Pac-Man Fever"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 43
+    title: "That Girl"
+    artist: "Stevie Wonder"
+    year: 1982
+    album: "Stevie Wonder's Original Musiquarium I"
+    genres:
+      - Soul
+      - Funk
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 44
+    title: "Private Eyes"
+    artist: "Daryl Hall & John Oates"
+    year: 1982
+    album: "Private Eyes"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 45
+    title: "Trouble"
+    artist: "Lindsey Buckingham"
+    year: 1982
+    album: "Law and Order"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 46
+    title: "Making Love"
+    artist: "Roberta Flack"
+    year: 1982
+    album: "I'm the One"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 47
+    title: "Love's Been a Little Bit Hard on Me"
+    artist: "Juice Newton"
+    year: 1982
+    album: "Quiet Lies"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 48
+    title: "Young Turks"
+    artist: "Rod Stewart"
+    year: 1982
+    album: "Tonight I'm Yours"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 49
+    title: "Freeze-Frame"
+    artist: "The J. Geils Band"
+    year: 1982
+    album: "Freeze-Frame"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 50
+    title: "Keep the Fire Burnin'"
+    artist: "REO Speedwagon"
+    year: 1982
+    album: "Good Trouble"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 51
+    title: "Do You Believe in Love"
+    artist: "Huey Lewis & the News"
+    year: 1982
+    album: "Picture This"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 52
+    title: "Cool Night"
+    artist: "Paul Davis"
+    year: 1982
+    album: "Cool Night"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 53
+    title: "Caught Up in You"
+    artist: "38 Special"
+    year: 1982
+    album: "Special Forces"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 54
+    title: "Why Do Fools Fall in Love"
+    artist: "Diana Ross"
+    year: 1982
+    album: "Why Do Fools Fall in Love"
+    cover: true
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Original artist: Frankie Lymon & the Teenagers
+      - Billboard Hot 100 number 7
+  - rank: 55
+    title: "Love in the First Degree"
+    artist: "Alabama"
+    year: 1982
+    album: "Feels So Right"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 15
+      - Crossover hit
+  - rank: 56
+    title: "Hooked on Classics"
+    artist: "Royal Philharmonic Orchestra"
+    year: 1982
+    album: "Hooked on Classics"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 10
+      - Instrumental medley
+  - rank: 57
+    title: "Wasted on the Way"
+    artist: "Crosby, Stills & Nash"
+    year: 1982
+    album: "Daylight Again"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 58
+    title: "Think I'm in Love"
+    artist: "Eddie Money"
+    year: 1982
+    album: "No Control"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 16
+  - rank: 59
+    title: "Love Is in Control (Finger on the Trigger)"
+    artist: "Donna Summer"
+    year: 1982
+    album: "Donna Summer"
+    genres:
+      - Soul
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 60
+    title: "Personally"
+    artist: "Karla Bonoff"
+    year: 1982
+    album: "Wild Heart of the Young"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 19
+  - rank: 61
+    title: "One Hundred Ways"
+    artist: "Quincy Jones feat. James Ingram"
+    year: 1982
+    album: "The Dude"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 number 14
+  - rank: 62
+    title: "Blue Eyes"
+    artist: "Elton John"
+    year: 1982
+    album: "Jump Up!"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 12
+  - rank: 63
+    title: "Our Lips Are Sealed"
+    artist: "The Go-Go's"
+    year: 1982
+    album: "Beauty and the Beat"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 20
+  - rank: 64
+    title: "You Could Have Been with Me"
+    artist: "Sheena Easton"
+    year: 1982
+    album: "You Could Have Been with Me"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 15
+  - rank: 65
+    title: "You Can Do Magic"
+    artist: "America"
+    year: 1982
+    album: "View from the Ground"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 66
+    title: "Did It in a Minute"
+    artist: "Daryl Hall & John Oates"
+    year: 1982
+    album: "Private Eyes"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 67
+    title: "I Ran (So Far Away)"
+    artist: "A Flock of Seagulls"
+    year: 1982
+    album: "A Flock of Seagulls"
+    genres:
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 9
+  - rank: 68
+    title: "Somebody's Baby"
+    artist: "Jackson Browne"
+    year: 1982
+    album: "Fast Times at Ridgemont High"
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 number 7
+  - rank: 69
+    title: "Oh No"
+    artist: "Commodores"
+    year: 1982
+    album: "In the Pocket"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 70
+    title: "Take It Away"
+    artist: "Paul McCartney"
+    year: 1982
+    album: "Tug of War"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 71
+    title: "It's Gonna Take a Miracle"
+    artist: "Deniece Williams"
+    year: 1982
+    album: "Niecy"
+    genres:
+      - Soul
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 72
+    title: "Love Will Turn You Around"
+    artist: "Kenny Rogers"
+    year: 1982
+    album: "Love Will Turn You Around"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 13
+      - Crossover hit
+  - rank: 73
+    title: "Don't Stop Believin'"
+    artist: "Journey"
+    year: 1982
+    album: "Escape"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 9
+      - Culturally important
+      - Fan favorite
+  - rank: 74
+    title: "Comin' In and Out of Your Life"
+    artist: "Barbra Streisand"
+    year: 1982
+    album: "Memories"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 75
+    title: "Gloria"
+    artist: "Laura Branigan"
+    year: 1982
+    album: "Branigan"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 2
+  - rank: 76
+    title: "Empty Garden (Hey Hey Johnny)"
+    artist: "Elton John"
+    year: 1982
+    album: "Jump Up!"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 77
+    title: "Yesterday's Songs"
+    artist: "Neil Diamond"
+    year: 1982
+    album: "On the Way to the Sky"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 11
+  - rank: 78
+    title: "Crimson and Clover"
+    artist: "Joan Jett & The Blackhearts"
+    year: 1982
+    album: "I Love Rock 'n Roll"
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Original artist: Tommy James & the Shondells
+      - Billboard Hot 100 number 7
+  - rank: 79
+    title: "Every Little Thing She Does Is Magic"
+    artist: "The Police"
+    year: 1982
+    album: "Ghost in the Machine"
+    genres:
+      - New Wave
+      - Rock
+    tags:
+      - Billboard Hot 100 number 3
+  - rank: 80
+    title: "Here I Am"
+    artist: "Air Supply"
+    year: 1982
+    album: "The One That You Love"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 81
+    title: "I Keep Forgettin' (Every Time You're Near)"
+    artist: "Michael McDonald"
+    year: 1982
+    album: "If That's What It Takes"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 4
+  - rank: 82
+    title: "Get Down on It"
+    artist: "Kool & the Gang"
+    year: 1982
+    album: "Something Special"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 10
+  - rank: 83
+    title: "Any Day Now"
+    artist: "Ronnie Milsap"
+    year: 1982
+    album: "Inside"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 14
+      - Crossover hit
+  - rank: 84
+    title: "Make a Move on Me"
+    artist: "Olivia Newton-John"
+    year: 1982
+    album: "Physical"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 5
+  - rank: 85
+    title: "Take My Heart (You Can Have It if You Want It)"
+    artist: "Kool & the Gang"
+    year: 1982
+    album: "Something Special"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 17
+  - rank: 86
+    title: "Mirror Mirror"
+    artist: "Diana Ross"
+    year: 1982
+    album: "Why Do Fools Fall in Love"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 87
+    title: "Vacation"
+    artist: "The Go-Go's"
+    year: 1982
+    album: "Vacation"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 8
+  - rank: 88
+    title: "(Oh) Pretty Woman"
+    artist: "Van Halen"
+    year: 1982
+    album: "Diver Down"
+    cover: true
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Original artist: Roy Orbison
+      - Billboard Hot 100 number 12
+  - rank: 89
+    title: "Should I Do It"
+    artist: "The Pointer Sisters"
+    year: 1982
+    album: "Black & White"
+    genres:
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 90
+    title: "Hot in the City"
+    artist: "Billy Idol"
+    year: 1982
+    album: "Billy Idol"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Billboard Hot 100 number 23
+  - rank: 91
+    title: "Kids in America"
+    artist: "Kim Wilde"
+    year: 1982
+    album: "Kim Wilde"
+    genres:
+      - New Wave
+      - Pop
+    tags:
+      - Billboard Hot 100 number 25
+  - rank: 92
+    title: "Man on Your Mind"
+    artist: "Little River Band"
+    year: 1982
+    album: "Time Exposure"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 number 14
+  - rank: 93
+    title: "What's Forever For"
+    artist: "Michael Martin Murphey"
+    year: 1982
+    album: "Michael Martin Murphey"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 19
+      - Crossover hit
+  - rank: 94
+    title: "Waiting on a Friend"
+    artist: "The Rolling Stones"
+    year: 1982
+    album: "Tattoo You"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 95
+    title: "Do I Do"
+    artist: "Stevie Wonder"
+    year: 1982
+    album: "Stevie Wonder's Original Musiquarium I"
+    genres:
+      - Funk
+      - Soul
+    tags:
+      - Billboard Hot 100 number 13
+  - rank: 96
+    title: "Working for the Weekend"
+    artist: "Loverboy"
+    year: 1982
+    album: "Get Lucky"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 29
+      - Fan favorite
+  - rank: 97
+    title: "Goin' Down"
+    artist: "Greg Guidry"
+    year: 1982
+    album: "Over the Line"
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 17
+  - rank: 98
+    title: "Arthur's Theme (Best That You Can Do)"
+    artist: "Christopher Cross"
+    year: 1982
+    album: "Arthur - The Album"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100 number 1
+  - rank: 99
+    title: "Through the Years"
+    artist: "Kenny Rogers"
+    year: 1982
+    album: "Share Your Love"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 number 13
+      - Crossover hit
+  - rank: 100
+    title: "Edge of Seventeen"
+    artist: "Stevie Nicks"
+    year: 1982
+    album: "Bella Donna"
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 number 11
+      - Fan favorite

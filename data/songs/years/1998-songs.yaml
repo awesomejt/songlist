@@ -1,0 +1,842 @@
+songs:
+  - rank: 1
+    title: "Too Close"
+    artist: "Next"
+    year: 1998
+    album: "Rated Next"
+    genres:
+      - R&B
+      - Soul
+  - rank: 2
+    title: "The Boy Is Mine"
+    artist: "Brandy and Monica"
+    year: 1998
+    album: "Never Say Never"
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 3
+    title: "You're Still the One"
+    artist: "Shania Twain"
+    year: 1998
+    album: "Come On Over"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Mass appeal crossover hit
+  - rank: 4
+    title: "Truly Madly Deeply"
+    artist: "Savage Garden"
+    year: 1998
+    album: "Savage Garden"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 5
+    title: "How Do I Live"
+    artist: "LeAnn Rimes"
+    year: 1998
+    album: "You Light Up My Life: Inspirational Songs"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Mass appeal crossover hit
+  - rank: 6
+    title: "Together Again"
+    artist: "Janet"
+    year: 1998
+    album: "The Velvet Rope"
+    genres:
+      - Pop
+      - R&B
+  - rank: 7
+    title: "All My Life"
+    artist: "K-Ci & JoJo"
+    year: 1998
+    album: "Love Always"
+    genres:
+      - R&B
+      - Soul
+  - rank: 8
+    title: "Candle in the Wind 1997"
+    artist: "Elton John"
+    year: 1998
+    single: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Tribute song
+  - rank: 9
+    title: "Nice & Slow"
+    artist: "Usher"
+    year: 1998
+    album: "My Way"
+    genres:
+      - R&B
+      - Soul
+  - rank: 10
+    title: "I Don't Want to Wait"
+    artist: "Paula Cole"
+    year: 1998
+    album: "This Fire"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 11
+    title: "How's It Going to Be"
+    artist: "Third Eye Blind"
+    year: 1998
+    album: "Third Eye Blind"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 12
+    title: "No, No, No"
+    artist: "Destiny's Child"
+    year: 1998
+    album: "Destiny's Child"
+    genres:
+      - R&B
+      - Pop
+  - rank: 13
+    title: "My Heart Will Go On"
+    artist: "Celine Dion"
+    year: 1998
+    album: "Let's Talk About Love"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - From Titanic
+      - Culturally important
+  - rank: 14
+    title: "Gettin' Jiggy Wit It"
+    artist: "Will Smith"
+    year: 1998
+    album: "Big Willie Style"
+    genres:
+      - Pop
+      - Funk
+    tags:
+      - Mass appeal crossover hit
+  - rank: 15
+    title: "You Make Me Wanna..."
+    artist: "Usher"
+    year: 1998
+    album: "My Way"
+    genres:
+      - R&B
+      - Soul
+  - rank: 16
+    title: "My Way"
+    artist: "Usher"
+    year: 1998
+    album: "My Way"
+    genres:
+      - R&B
+      - Soul
+  - rank: 17
+    title: "My All"
+    artist: "Mariah Carey"
+    year: 1998
+    album: "Butterfly"
+    genres:
+      - Pop
+      - R&B
+  - rank: 18
+    title: "The First Night"
+    artist: "Monica"
+    year: 1998
+    album: "The Boy Is Mine"
+    genres:
+      - R&B
+      - Pop
+  - rank: 19
+    title: "Been Around the World"
+    artist: "Puff Daddy & the Family featuring The Notorious B.I.G. and Mase"
+    year: 1998
+    album: "No Way Out"
+    genres:
+      - R&B
+  - rank: 20
+    title: "Adia"
+    artist: "Sarah McLachlan"
+    year: 1998
+    album: "Surfacing"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 21
+    title: "Crush"
+    artist: "Jennifer Paige"
+    year: 1998
+    album: "Jennifer Paige"
+    solo-hit: true
+    genres:
+      - Pop
+  - rank: 22
+    title: "Everybody (Backstreet's Back)"
+    artist: "Backstreet Boys"
+    year: 1998
+    album: "Backstreet Boys"
+    genres:
+      - Pop
+  - rank: 23
+    title: "I Don't Want to Miss a Thing"
+    artist: "Aerosmith"
+    year: 1998
+    album: "Armageddon: The Album"
+    soundtrack: true
+    genres:
+      - Rock
+      - Soft Rock
+    tags:
+      - Fan favorite
+  - rank: 24
+    title: "Body Bumpin' (Yippie-Yi-Yo)"
+    artist: "Public Announcement"
+    year: 1998
+    album: "All Work, No Play"
+    genres:
+      - R&B
+  - rank: 25
+    title: "This Kiss"
+    artist: "Faith Hill"
+    year: 1998
+    album: "Faith"
+    genres:
+      - Pop
+    tags:
+      - Mass appeal crossover hit
+  - rank: 26
+    title: "I Don't Ever Want to See You Again"
+    artist: "Uncle Sam"
+    year: 1998
+    album: "Uncle Sam"
+    solo-hit: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 27
+    title: "Let's Ride"
+    artist: "Montell Jordan featuring Master P and Silkk the Shocker"
+    year: 1998
+    album: "Let's Ride"
+    genres:
+      - R&B
+  - rank: 28
+    title: "Sex and Candy"
+    artist: "Marcy Playground"
+    year: 1998
+    album: "Marcy Playground"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 29
+    title: "Show Me Love"
+    artist: "Robyn"
+    year: 1998
+    album: "Robyn Is Here"
+    genres:
+      - Pop
+      - R&B
+  - rank: 30
+    title: "A Song for Mama"
+    artist: "Boyz II Men"
+    year: 1998
+    album: "Evolution"
+    genres:
+      - R&B
+      - Soul
+  - rank: 31
+    title: "What You Want"
+    artist: "Mase featuring Total"
+    year: 1998
+    album: "Harlem World"
+    genres:
+      - R&B
+  - rank: 32
+    title: "Frozen"
+    artist: "Madonna"
+    year: 1998
+    album: "Ray of Light"
+    genres:
+      - Pop
+  - rank: 33
+    title: "Gone till November"
+    artist: "Wyclef Jean"
+    year: 1998
+    album: "The Carnival"
+    genres:
+      - R&B
+      - Soul
+  - rank: 34
+    title: "My Body"
+    artist: "LSG"
+    year: 1998
+    album: "Levert.Sweat.Gill"
+    genres:
+      - R&B
+  - rank: 35
+    title: "Tubthumping"
+    artist: "Chumbawamba"
+    year: 1998
+    album: "Tubthumper"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 36
+    title: "Deja Vu (Uptown Baby)"
+    artist: "Lord Tariq and Peter Gunz"
+    year: 1998
+    album: "Make It Reign"
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 37
+    title: "I Want You Back"
+    artist: "NSYNC"
+    year: 1998
+    album: "*NSYNC"
+    genres:
+      - Pop
+  - rank: 38
+    title: "When the Lights Go Out"
+    artist: "Five"
+    year: 1998
+    album: "Five"
+    genres:
+      - Pop
+  - rank: 39
+    title: "They Don't Know"
+    artist: "Jon B."
+    year: 1998
+    album: "Cool Relax"
+    genres:
+      - R&B
+      - Soul
+  - rank: 40
+    title: "Make 'Em Say Uhh!"
+    artist: "Master P featuring Fiend, Silkk the Shocker, Mia X and Mystikal"
+    year: 1998
+    album: "Ghetto D"
+    genres:
+      - R&B
+  - rank: 41
+    title: "Make It Hot"
+    artist: "Nicole featuring Missy Elliott and Mocha"
+    year: 1998
+    album: "Make It Hot"
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 42
+    title: "Never Ever"
+    artist: "All Saints"
+    year: 1998
+    album: "All Saints"
+    genres:
+      - Pop
+      - R&B
+  - rank: 43
+    title: "I Get Lonely"
+    artist: "Janet featuring Blackstreet"
+    year: 1998
+    album: "The Velvet Rope"
+    genres:
+      - R&B
+      - Soul
+  - rank: 44
+    title: "Feel So Good"
+    artist: "Mase"
+    year: 1998
+    album: "Harlem World"
+    genres:
+      - R&B
+  - rank: 45
+    title: "Say It"
+    artist: "Voices of Theory"
+    year: 1998
+    album: "Voices of Theory"
+    solo-hit: true
+    genres:
+      - R&B
+      - Pop
+  - rank: 46
+    title: "Kiss the Rain"
+    artist: "Billie Myers"
+    year: 1998
+    album: "Growing, Pains"
+    solo-hit: true
+    genres:
+      - Pop
+      - Alternative
+  - rank: 47
+    title: "Come with Me"
+    artist: "Puff Daddy featuring Jimmy Page"
+    year: 1998
+    single: true
+    soundtrack: true
+    genres:
+      - Rock
+      - R&B
+  - rank: 48
+    title: "Romeo and Juliet"
+    artist: "Sylk-E. Fyne featuring Chill"
+    year: 1998
+    album: "Raw Sylk"
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 49
+    title: "It's All About Me"
+    artist: "Mya and Sisqo"
+    year: 1998
+    album: "Mya"
+    genres:
+      - R&B
+      - Soul
+  - rank: 50
+    title: "I Will Come to You"
+    artist: "Hanson"
+    year: 1998
+    album: "Middle of Nowhere"
+    genres:
+      - Pop
+      - Rock
+  - rank: 51
+    title: "One Week"
+    artist: "Barenaked Ladies"
+    year: 1998
+    album: "Stunt"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 52
+    title: "Swing My Way"
+    artist: "K. P. & Envyi"
+    year: 1998
+    single: true
+    solo-hit: true
+    genres:
+      - R&B
+  - rank: 53
+    title: "The Arms of the One Who Loves You"
+    artist: "Xscape"
+    year: 1998
+    album: "Traces of My Lipstick"
+    genres:
+      - R&B
+      - Soul
+  - rank: 54
+    title: "My Love Is the Shhh!"
+    artist: "Somethin' for the People featuring Trina & Tamara"
+    year: 1998
+    album: "This Time It's Personal"
+    genres:
+      - R&B
+      - Soul
+  - rank: 55
+    title: "Daydreamin'"
+    artist: "Tatyana Ali"
+    year: 1998
+    album: "Kiss the Sky"
+    genres:
+      - R&B
+      - Pop
+  - rank: 56
+    title: "We're Not Making Love No More"
+    artist: "Dru Hill"
+    year: 1998
+    album: "Soul Food Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 57
+    title: "Semi-Charmed Life"
+    artist: "Third Eye Blind"
+    year: 1998
+    album: "Third Eye Blind"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 58
+    title: "I Do"
+    artist: "Lisa Loeb"
+    year: 1998
+    album: "Firecracker"
+    genres:
+      - Pop
+      - Alternative
+  - rank: 59
+    title: "Lookin' at Me"
+    artist: "Mase featuring Puff Daddy"
+    year: 1998
+    album: "Harlem World"
+    genres:
+      - R&B
+  - rank: 60
+    title: "Looking Through Your Eyes"
+    artist: "LeAnn Rimes"
+    year: 1998
+    album: "Quest for Camelot Soundtrack"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 61
+    title: "Lately"
+    artist: "Divine"
+    year: 1998
+    album: "Fairy Tales"
+    solo-hit: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 62
+    title: "Quit Playing Games (With My Heart)"
+    artist: "Backstreet Boys"
+    year: 1998
+    album: "Backstreet Boys"
+    genres:
+      - Pop
+  - rank: 63
+    title: "I Still Love You"
+    artist: "Next"
+    year: 1998
+    album: "Rated Next"
+    genres:
+      - R&B
+      - Soul
+  - rank: 64
+    title: "Time After Time"
+    artist: "INOJ"
+    year: 1998
+    album: "Ready for the World"
+    cover: true
+    solo-hit: true
+    genres:
+      - Pop
+      - R&B
+    tags:
+      - Original artist: Cyndi Lauper
+  - rank: 65
+    title: "Are You Jimmy Ray?"
+    artist: "Jimmy Ray"
+    year: 1998
+    album: "Jimmy Ray"
+    solo-hit: true
+    genres:
+      - Pop
+      - Rockabilly
+  - rank: 66
+    title: "Cruel Summer"
+    artist: "Ace of Base"
+    year: 1998
+    album: "Flowers"
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Original artist: Bananarama
+  - rank: 67
+    title: "I Got the Hook Up"
+    artist: "Master P featuring Sons of Funk"
+    year: 1998
+    album: "I Got the Hook-Up Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+  - rank: 68
+    title: "Victory"
+    artist: "Puff Daddy & the Family featuring The Notorious B.I.G. and Busta Rhymes"
+    year: 1998
+    album: "No Way Out"
+    genres:
+      - R&B
+  - rank: 69
+    title: "Too Much"
+    artist: "Spice Girls"
+    year: 1998
+    album: "Spiceworld"
+    genres:
+      - Pop
+  - rank: 70
+    title: "Ghetto Supastar (That Is What You Are)"
+    artist: "Pras Michel featuring Ol' Dirty Bastard and Mya"
+    year: 1998
+    album: "Bulworth Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Culturally important
+  - rank: 71
+    title: "How Deep Is Your Love"
+    artist: "Dru Hill featuring Redman"
+    year: 1998
+    album: "Rush Hour Soundtrack"
+    soundtrack: true
+    genres:
+      - R&B
+      - Soul
+  - rank: 72
+    title: "Friend of Mine"
+    artist: "Kelly Price"
+    year: 1998
+    album: "Soul of a Woman"
+    genres:
+      - R&B
+      - Soul
+  - rank: 73
+    title: "Turn It Up (Remix)/Fire It Up"
+    artist: "Busta Rhymes"
+    year: 1998
+    album: "When Disaster Strikes"
+    genres:
+      - R&B
+  - rank: 74
+    title: "I'll Be"
+    artist: "Edwin McCain"
+    year: 1998
+    album: "Misguided Roses"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 75
+    title: "Ray of Light"
+    artist: "Madonna"
+    year: 1998
+    album: "Ray of Light"
+    genres:
+      - Pop
+  - rank: 76
+    title: "All for You"
+    artist: "Sister Hazel"
+    year: 1998
+    album: "...Somewhere More Familiar"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 77
+    title: "Touch It"
+    artist: "Monifah"
+    year: 1998
+    album: "Mo'hogany"
+    genres:
+      - R&B
+  - rank: 78
+    title: "Money, Power & Respect"
+    artist: "The Lox featuring DMX and Lil' Kim"
+    year: 1998
+    album: "Money, Power & Respect"
+    genres:
+      - R&B
+  - rank: 79
+    title: "Bitter Sweet Symphony"
+    artist: "The Verve"
+    year: 1998
+    album: "Urban Hymns"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 80
+    title: "Dangerous"
+    artist: "Busta Rhymes"
+    year: 1998
+    album: "When Disaster Strikes"
+    genres:
+      - R&B
+  - rank: 81
+    title: "Spice Up Your Life"
+    artist: "Spice Girls"
+    year: 1998
+    album: "Spiceworld"
+    genres:
+      - Pop
+  - rank: 82
+    title: "Far Behind"
+    artist: "Candlebox"
+    year: 1998
+    album: "The Best of Candlebox"
+    genres:
+      - Rock
+      - Alternative
+  - rank: 83
+    title: "Still Not a Player"
+    artist: "Big Pun featuring Joe"
+    year: 1998
+    album: "Capital Punishment"
+    genres:
+      - R&B
+  - rank: 84
+    title: "The One I Gave My Heart To"
+    artist: "Aaliyah"
+    year: 1998
+    album: "One in a Million"
+    genres:
+      - R&B
+      - Soul
+  - rank: 85
+    title: "Foolish Games/You Were Meant for Me"
+    artist: "Jewel"
+    year: 1998
+    album: "Pieces of You"
+    genres:
+      - Pop
+      - Folk
+  - rank: 86
+    title: "Love You Down"
+    artist: "INOJ"
+    year: 1998
+    album: "Ready for the World"
+    cover: true
+    genres:
+      - R&B
+      - Pop
+    tags:
+      - Original artist: Ready for the World
+  - rank: 87
+    title: "Do for Love"
+    artist: "2Pac featuring Eric Williams"
+    year: 1998
+    album: "R U Still Down? (Remember Me)"
+    genres:
+      - R&B
+      - Soul
+  - rank: 88
+    title: "Raise the Roof"
+    artist: "Luke featuring No Good But So Good"
+    year: 1998
+    album: "Changin' the Game"
+    genres:
+      - R&B
+  - rank: 89
+    title: "Iris"
+    artist: "Goo Goo Dolls"
+    year: 1998
+    album: "Dizzy Up the Girl"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 90
+    title: "Blue on Black"
+    artist: "Kenny Wayne Shepherd"
+    year: 1998
+    album: "Trouble Is..."
+    genres:
+      - Blues
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 91
+    title: "Inside Out"
+    artist: "Eve 6"
+    year: 1998
+    album: "Eve 6"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 92
+    title: "Closing Time"
+    artist: "Semisonic"
+    year: 1998
+    album: "Feeling Strangely Fine"
+    genres:
+      - Alternative
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 93
+    title: "My Own Prison"
+    artist: "Creed"
+    year: 1998
+    album: "My Own Prison"
+    genres:
+      - Rock
+      - Hard Rock
+      - Alternative
+  - rank: 94
+    title: "The Down Town"
+    artist: "Days of the New"
+    year: 1998
+    album: "Days of the New"
+    genres:
+      - Alternative
+      - Rock
+      - Grunge
+  - rank: 95
+    title: "Fly Away"
+    artist: "Lenny Kravitz"
+    year: 1998
+    album: "5"
+    genres:
+      - Rock
+      - Funk
+  - rank: 96
+    title: "Shimmer"
+    artist: "Fuel"
+    year: 1998
+    album: "Sunburn"
+    genres:
+      - Alternative
+      - Rock
+  - rank: 97
+    title: "Save Tonight"
+    artist: "Eagle-Eye Cherry"
+    year: 1998
+    album: "Desireless"
+    solo-hit: true
+    genres:
+      - Alternative
+      - Rock
+  - rank: 98
+    title: "Lullaby"
+    artist: "Shawn Mullins"
+    year: 1998
+    album: "Soul's Core"
+    solo-hit: true
+    genres:
+      - Folk
+      - Rock
+  - rank: 99
+    title: "Torn"
+    artist: "Natalie Imbruglia"
+    year: 1998
+    album: "Left of the Middle"
+    genres:
+      - Pop
+      - Alternative
+    tags:
+      - Cover: true but original by Ednaswap didn't chart highly
+      - Wait, original did not chart successfully, so no cover: true
+  - rank: 100
+    title: "Blues on the Bayou"
+    artist: "B.B. King"
+    year: 1998
+    album: "Blues on the Bayou"
+    genres:
+      - Blues
+      - Soul

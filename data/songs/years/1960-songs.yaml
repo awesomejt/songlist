@@ -1,0 +1,987 @@
+songs:
+  - rank: 1
+    title: Theme from A Summer Place
+    artist: Percy Faith
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #1
+  - rank: 2
+    title: He'll Have to Go
+    artist: Jim Reeves
+    year: 1960
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Crossover hit
+      - Billboard Hot 100 #2
+  - rank: 3
+    title: Cathy's Clown
+    artist: The Everly Brothers
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: Running Bear
+    artist: Johnny Preston
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 5
+    title: Teen Angel
+    artist: Mark Dinning
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: I'm Sorry
+    artist: Brenda Lee
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 7
+    title: It's Now or Never
+    artist: Elvis Presley
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: Handy Man
+    artist: Jimmy Jones
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 9
+    title: Stuck on You
+    artist: Elvis Presley
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: The Twist
+    artist: Chubby Checker
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Dance hit
+  - rank: 11
+    title: Everybody's Somebody's Fool
+    artist: Connie Francis
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 12
+    title: Wild One
+    artist: Bobby Rydell
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 13
+    title: Greenfields
+    artist: The Brothers Four
+    year: 1960
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 14
+    title: What in the World's Come Over You
+    artist: Jack Scott
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 15
+    title: El Paso
+    artist: Marty Robbins
+    year: 1960
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Crossover hit
+  - rank: 16
+    title: Alley Oop
+    artist: The Hollywood Argyles
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 17
+    title: My Heart Has a Mind of Its Own
+    artist: Connie Francis
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 18
+    title: Sweet Nothin's
+    artist: Brenda Lee
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 19
+    title: Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
+    artist: Brian Hyland
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 20
+    title: Only the Lonely
+    artist: Roy Orbison
+    year: 1960
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 21
+    title: Where or When
+    artist: The Belmonts
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 22
+    title: Sixteen Reasons
+    artist: Connie Stevens
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 23
+    title: Puppy Love
+    artist: Paul Anka
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 24
+    title: Why
+    artist: Frankie Avalon
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 25
+    title: Walk, Don't Run
+    artist: The Ventures
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #2
+  - rank: 26
+    title: Save the Last Dance for Me
+    artist: The Drifters
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 27
+    title: Baby (You've Got What It Takes)
+    artist: Dinah Washington and Brook Benton
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 28
+    title: Sink the Bismarck
+    artist: Johnny Horton
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Crossover hit
+      - Billboard Hot 100 #3
+  - rank: 29
+    title: Chain Gang
+    artist: Sam Cooke
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 30
+    title: Let It Be Me
+    artist: The Everly Brothers
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 31
+    title: Good Timin'
+    artist: Jimmy Jones
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 32
+    title: Harbor Lights
+    artist: The Platters
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 33
+    title: Let the Little Girl Dance
+    artist: Billy Bland
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 34
+    title: He'll Have to Stay
+    artist: Jeanne Black
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 35
+    title: Georgia on My Mind
+    artist: Ray Charles
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Jazz
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 36
+    title: Night
+    artist: Jackie Wilson
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 37
+    title: My Little Town
+    artist: Art Lund
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #13
+  - rank: 38
+    title: Lonely Blue Boy
+    artist: Conway Twitty
+    year: 1960
+    single: true
+    genres:
+      - Country
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 39
+    title: Stay
+    artist: Maurice Williams and the Zodiacs
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 40
+    title: Lonely Weekends
+    artist: Charlie Rich
+    year: 1960
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard Hot 100 #22
+  - rank: 41
+    title: Doggin' Around
+    artist: Jackie Wilson
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 42
+    title: Kiddio
+    artist: Brook Benton
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 43
+    title: Poetry in Motion
+    artist: Johnny Tillotson
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 44
+    title: O Dio Mio
+    artist: Annette Funicello
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 45
+    title: Paper Roses
+    artist: Anita Bryant
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 46
+    title: He Will Break Your Heart
+    artist: Jerry Butler
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 47
+    title: Walking to New Orleans
+    artist: Fats Domino
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 48
+    title: Mule Skinner Blues
+    artist: The Fendermen
+    year: 1960
+    single: true
+    solo-hit: true
+    cover: true
+    genres:
+      - Rock
+      - Country
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 49
+    title: Burning Bridges
+    artist: Jack Scott
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 50
+    title: The Apartment
+    artist: Ferrante & Teicher
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #10
+  - rank: 51
+    title: A Million to One
+    artist: Jimmy Charles
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 52
+    title: The Old Lamp-Lighter
+    artist: The Browns
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 53
+    title: Devil or Angel
+    artist: Bobby Vee
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 54
+    title: Rubber Ball
+    artist: Bobby Vee
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 55
+    title: Last Date
+    artist: Floyd Cramer
+    year: 1960
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #2
+  - rank: 56
+    title: Poetry In Motion
+    artist: Johnny Tillotson
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 57
+    title: I Want to Be Wanted
+    artist: Brenda Lee
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 58
+    title: Mule Skinner Blues
+    artist: The Fendermen
+    year: 1960
+    single: true
+    solo-hit: true
+    cover: true
+    genres:
+      - Rock
+  - rank: 59
+    title: (Welcome) New Lovers
+    artist: Pat Boone
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #18
+  - rank: 60
+    title: Tracy's Theme
+    artist: Spencer Ross
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #13
+  - rank: 61
+    title: Lady Luck
+    artist: Lloyd Price
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #14
+  - rank: 62
+    title: Step by Step
+    artist: The Crests
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #14
+  - rank: 63
+    title: Happy-Go-Lucky Me
+    artist: Paul Evans
+    year: 1960
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #10
+  - rank: 64
+    title: Beatnik Fly
+    artist: Johnny and the Hurricanes
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Rock
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #15
+  - rank: 65
+    title: Look for a Star
+    artist: Garry Miles
+    year: 1960
+    single: true
+    solo-hit: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #16
+  - rank: 66
+    title: When Will I Be Loved
+    artist: The Everly Brothers
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 67
+    title: Let's Think About Living
+    artist: Bob Luman
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Country
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 68
+    title: Heartaches by the Number
+    artist: Guy Mitchell
+    year: 1960
+    single: true
+    cover: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 69
+    title: Finger Poppin' Time
+    artist: Hank Ballard and The Midnighters
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 70
+    title: Love You So
+    artist: Ron Holden
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 71
+    title: Alley Oop
+    artist: The Hollywood Argyles
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 72
+    title: Doggin' Around
+    artist: Jackie Wilson
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 73
+    title: The Big Hurt
+    artist: Toni Fisher
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 74
+    title: Because They're Young
+    artist: Duane Eddy
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Rock
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #4
+  - rank: 75
+    title: Fame and Fortune
+    artist: Elvis Presley
+    year: 1960
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #17
+  - rank: 76
+    title: A Rockin' Good Way
+    artist: Dinah Washington and Brook Benton
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 77
+    title: Won't Find Better Than Me
+    artist: The Newbeats
+    year: 1960
+    single: true
+    genres:
+      - Pop
+  - rank: 78
+    title: Exodus
+    artist: Ferrante & Teicher
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Instrumental
+      - Billboard Hot 100 #2
+  - rank: 79
+    title: Sandy
+    artist: Larry Hall
+    year: 1960
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #15
+  - rank: 80
+    title: Because They're Young
+    artist: James Darren
+    year: 1960
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 81
+    title: Baby (You've Got What It Takes)
+    artist: Dinah Washington & Brook Benton
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 82
+    title: Kiddio
+    artist: Brook Benton
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 83
+    title: He Will Break Your Heart
+    artist: Jerry Butler
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - R&B hit
+  - rank: 84
+    title: Smokie Part 2
+    artist: Bill Black's Combo
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 85
+    title: White Silver Sands
+    artist: Bill Black's Combo
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 86
+    title: Doggin' Around
+    artist: Jackie Wilson
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 87
+    title: A Woman, a Lover, a Friend
+    artist: Jackie Wilson
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 88
+    title: A Fool in Love
+    artist: Ike & Tina Turner
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 89
+    title: Think
+    artist: James Brown
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - R&B hit
+  - rank: 90
+    title: I Want to Know
+    artist: Sugar Pie DeSanto
+    year: 1960
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 91
+    title: Giant Steps
+    artist: John Coltrane
+    year: 1960
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 92
+    title: Naima
+    artist: John Coltrane
+    year: 1960
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 93
+    title: Killer Joe
+    artist: Quincy Jones
+    year: 1960
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 94
+    title: Work Song
+    artist: Nat Adderley
+    year: 1960
+    genres:
+      - Jazz
+    tags:
+      - Jazz standard
+  - rank: 95
+    title: Got My Mojo Working
+    artist: Muddy Waters
+    year: 1960
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 96
+    title: Spoonful
+    artist: Howlin' Wolf
+    year: 1960
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 97
+    title: Wang Dang Doodle
+    artist: Howlin' Wolf
+    year: 1960
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Blues hit
+  - rank: 98
+    title: Baby What You Want Me to Do
+    artist: Jimmy Reed
+    year: 1960
+    single: true
+    genres:
+      - Blues
+      - Rhythm and Blues
+    tags:
+      - Blues hit
+  - rank: 99
+    title: Found Love
+    artist: Jimmy Reed
+    year: 1960
+    single: true
+    genres:
+      - Blues
+      - Rhythm and Blues
+    tags:
+      - Blues hit
+  - rank: 100
+    title: Big Boss Man
+    artist: Jimmy Reed
+    year: 1960
+    single: true
+    genres:
+      - Blues
+      - Rhythm and Blues
+    tags:
+      - Blues hit

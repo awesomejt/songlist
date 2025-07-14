@@ -1,0 +1,1037 @@
+songs:
+  - rank: 1
+    title: (I Can't Get No) Satisfaction
+    artist: The Rolling Stones
+    year: 1965
+    single: true
+    genres:
+      - Rock
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+        - Fan favorite
+  - rank: 2
+    title: Wooly Bully
+    artist: Sam The Sham and The Pharaohs
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+  - rank: 3
+    title: I Can't Help Myself (Sugar Pie Honey Bunch)
+    artist: Four Tops
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #1
+        - Billboard R&B #1
+        - Crossover hit
+  - rank: 4
+    title: You've Lost That Lovin' Feelin'
+    artist: The Righteous Brothers
+    year: 1965
+    single: true
+    genres:
+      - Pop
+      - Soul
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+  - rank: 5
+    title: My Girl
+    artist: The Temptations
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #1
+        - Billboard R&B #1
+        - Culturally important
+        - Fan favorite
+  - rank: 6
+    title: Help!
+    artist: The Beatles
+    year: 1965
+    single: true
+    soundtrack: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+        - Fan favorite
+  - rank: 7
+    title: Yesterday
+    artist: The Beatles
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+        - Fan favorite
+  - rank: 8
+    title: Get Off of My Cloud
+    artist: The Rolling Stones
+    year: 1965
+    single: true
+    genres:
+      - Rock
+    tags:
+        - Billboard Hot 100 #1
+        - Fan favorite
+  - rank: 9
+    title: I Got You Babe
+    artist: Sonny & Cher
+    year: 1965
+    single: true
+    genres:
+      - Pop
+      - Rock
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+  - rank: 10
+    title: Mr. Tambourine Man
+    artist: The Byrds
+    year: 1965
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+  - rank: 11
+    title: Like a Rolling Stone
+    artist: Bob Dylan
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+        - Billboard Hot 100 #2
+        - Culturally important
+        - Fan favorite
+  - rank: 12
+    title: Turn! Turn! Turn! (To Everything There Is a Season)
+    artist: The Byrds
+    year: 1965
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Folk
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+  - rank: 13
+    title: Mrs. Brown You've Got a Lovely Daughter
+    artist: Herman's Hermits
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+  - rank: 14
+    title: Stop! In The Name Of Love
+    artist: The Supremes
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Billboard R&B #2
+        - Culturally important
+  - rank: 15
+    title: Hang On Sloopy
+    artist: The McCoys
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+  - rank: 16
+    title: Ticket To Ride
+    artist: The Beatles
+    year: 1965
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Fan favorite
+  - rank: 17
+    title: King Of The Road
+    artist: Roger Miller
+    year: 1965
+    single: true
+    genres:
+      - Pop
+      - Country
+    tags:
+        - Billboard Hot 100 #4
+        - Crossover hit
+  - rank: 18
+    title: The Name Game
+    artist: Shirley Ellis
+    year: 1965
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+        - Billboard Hot 100 #3
+        - Billboard R&B #4
+  - rank: 19
+    title: Back In My Arms Again
+    artist: The Supremes
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Billboard R&B #1
+  - rank: 20
+    title: Papa's Got A Brand New Bag
+    artist: James Brown
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+        - Billboard Hot 100 #8
+        - Billboard R&B #1
+        - Culturally important
+        - Fan favorite
+  - rank: 21
+    title: I Got You (I Feel Good)
+    artist: James Brown
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Funk
+    tags:
+        - Billboard Hot 100 #3
+        - Billboard R&B #1
+        - Culturally important
+        - Fan favorite
+  - rank: 22
+    title: Shotgun
+    artist: Jr. Walker & The All Stars
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #4
+        - Billboard R&B #1
+  - rank: 23
+    title: Ain't That Peculiar
+    artist: Marvin Gaye
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #8
+        - Billboard R&B #1
+  - rank: 24
+    title: Rescue Me
+    artist: Fontella Bass
+    year: 1965
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #4
+        - Billboard R&B #1
+        - Culturally important
+  - rank: 25
+    title: In The Midnight Hour
+    artist: Wilson Pickett
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #21
+        - Billboard R&B #1
+        - Culturally important
+        - Fan favorite
+  - rank: 26
+    title: Ooo Baby Baby
+    artist: The Miracles
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #16
+        - Billboard R&B #4
+        - Fan favorite
+  - rank: 27
+    title: The Tracks Of My Tears
+    artist: The Miracles
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #16
+        - Billboard R&B #2
+        - Culturally important
+  - rank: 28
+    title: Got To Get You Off My Mind
+    artist: Solomon Burke
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #22
+        - Billboard R&B #1
+  - rank: 29
+    title: Yes, I'm Ready
+    artist: Barbara Mason
+    year: 1965
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #5
+        - Billboard R&B #2
+  - rank: 30
+    title: The 'In' Crowd
+    artist: Ramsey Lewis Trio
+    year: 1965
+    single: true
+    genres:
+      - Jazz
+      - Soul
+    tags:
+        - Billboard Hot 100 #5
+        - Billboard R&B #2
+        - Instrumental
+  - rank: 31
+    title: We're Gonna Make It
+    artist: Little Milton
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #25
+        - Billboard R&B #1
+  - rank: 32
+    title: Nowhere To Run
+    artist: Martha and The Vandellas
+    year: 1965
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #8
+        - Billboard R&B #5
+        - Fan favorite
+  - rank: 33
+    title: Twine Time
+    artist: Alvin Cash & The Crawlers
+    year: 1965
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard Hot 100 #14
+        - Billboard R&B #4
+  - rank: 34
+    title: A Change Is Gonna Come
+    artist: Otis Redding
+    year: 1965
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+        - Billboard R&B #11
+        - Culturally important
+        - Fan favorite
+  - rank: 35
+    title: The Boy From New York City
+    artist: The Ad Libs
+    year: 1965
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+        - Billboard Hot 100 #8
+        - Billboard R&B #6
+  - rank: 36
+    title: My Generation
+    artist: The Who
+    year: 1965
+    single: true
+    genres:
+      - Rock
+    tags:
+        - Billboard Hot 100 #74
+        - Culturally important
+        - Fan favorite
+  - rank: 37
+    title: California Dreamin'
+    artist: The Mamas & The Papas
+    year: 1965
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+        - Billboard Hot 100 #4
+        - Culturally important
+        - Fan favorite
+  - rank: 38
+    title: The Sound of Silence
+    artist: Simon & Garfunkel
+    year: 1965
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+        - Fan favorite
+  - rank: 39
+    title: Eve of Destruction
+    artist: Barry McGuire
+    year: 1965
+    single: true
+    solo-hit: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+        - Billboard Hot 100 #1
+        - Culturally important
+  - rank: 40
+    title: Subterranean Homesick Blues
+    artist: Bob Dylan
+    year: 1965
+    single: true
+    genres:
+      - Folk
+      - Rock
+    tags:
+        - Billboard Hot 100 #39
+        - Culturally important
+        - Fan favorite
+  - rank: 41
+    title: Masters of War
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+        - Fan favorite
+  - rank: 42
+    title: A Hard Rain's a-Gonna Fall
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+        - Fan favorite
+  - rank: 43
+    title: The Times They Are a-Changin'
+    artist: Bob Dylan
+    year: 1965
+    album: The Times They Are a-Changin'
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+        - Fan favorite
+  - rank: 44
+    title: Blowin' in the Wind
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+        - Fan favorite
+  - rank: 45
+    title: A Love Supreme, Pt. 1: Acknowledgement
+    artist: John Coltrane
+    year: 1965
+    album: A Love Supreme
+    genres:
+      - Jazz
+    tags:
+        - Culturally important
+        - Fan favorite
+  - rank: 46
+    title: Maiden Voyage
+    artist: Herbie Hancock
+    year: 1965
+    album: Maiden Voyage
+    genres:
+      - Jazz
+    tags:
+        - Culturally important
+  - rank: 47
+    title: The Dolphin
+    artist: Herbie Hancock
+    year: 1965
+    album: Maiden Voyage
+    genres:
+      - Jazz
+    tags:
+        - Fan favorite
+  - rank: 48
+    title: Out to Lunch
+    artist: Eric Dolphy
+    year: 1965
+    album: Out to Lunch!
+    genres:
+      - Jazz
+    tags:
+        - Culturally important
+  - rank: 49
+    title: Hat and Beard
+    artist: Eric Dolphy
+    year: 1965
+    album: Out to Lunch!
+    genres:
+      - Jazz
+    tags:
+        - Fan favorite
+  - rank: 50
+    title: The Girl from Ipanema
+    artist: Stan Getz & João Gilberto
+    year: 1965
+    album: Getz/Gilberto
+    genres:
+      - Jazz
+    tags:
+        - Billboard Hot 100 #5
+        - Culturally important
+        - Fan favorite
+  - rank: 51
+    title: Desafinado
+    artist: Stan Getz & João Gilberto
+    year: 1965
+    album: Getz/Gilberto
+    genres:
+      - Jazz
+    tags:
+        - Fan favorite
+  - rank: 52
+    title: Song For My Father
+    artist: Horace Silver
+    year: 1965
+    album: Song for My Father
+    genres:
+      - Jazz
+    tags:
+        - Culturally important
+  - rank: 53
+    title: Que Pasa
+    artist: Horace Silver
+    year: 1965
+    album: Song for My Father
+    genres:
+      - Jazz
+    tags:
+        - Fan favorite
+  - rank: 54
+    title: The Sidewinder
+    artist: Lee Morgan
+    year: 1965
+    album: The Sidewinder
+    genres:
+      - Jazz
+    tags:
+        - Culturally important
+  - rank: 55
+    title: Totem Pole
+    artist: Lee Morgan
+    year: 1965
+    album: The Sidewinder
+    genres:
+      - Jazz
+    tags:
+        - Fan favorite
+  - rank: 56
+    title: Born Under a Bad Sign
+    artist: Albert King
+    year: 1965
+    album: Born Under a Bad Sign
+    genres:
+      - Blues
+    tags:
+        - Culturally important
+        - Fan favorite
+  - rank: 57
+    title: Hoodoo Man Blues
+    artist: Junior Wells
+    year: 1965
+    album: Hoodoo Man Blues
+    genres:
+      - Blues
+    tags:
+        - Culturally important
+  - rank: 58
+    title: Snatch It Back and Hold It
+    artist: Junior Wells
+    year: 1965
+    album: Hoodoo Man Blues
+    genres:
+      - Blues
+    tags:
+        - Fan favorite
+  - rank: 59
+    title: Live at the Regal
+    artist: B.B. King
+    year: 1965
+    album: Live at the Regal
+    genres:
+      - Blues
+    tags:
+        - Culturally important
+  - rank: 60
+    title: How Many More Years
+    artist: B.B. King
+    year: 1965
+    album: Live at the Regal
+    genres:
+      - Blues
+    tags:
+        - Fan favorite
+  - rank: 61
+    title: Father of Folk Blues
+    artist: Son House
+    year: 1965
+    album: Father of Folk Blues
+    genres:
+      - Blues
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 62
+    title: Death Letter
+    artist: Son House
+    year: 1965
+    album: Father of Folk Blues
+    genres:
+      - Blues
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 63
+    title: The Sound Of 65
+    artist: Graham Bond Organization
+    year: 1965
+    album: The Sound Of 65
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Culturally important
+  - rank: 64
+    title: Train Time
+    artist: Graham Bond Organization
+    year: 1965
+    album: The Sound Of 65
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Fan favorite
+  - rank: 65
+    title: Mann Made
+    artist: Manfred Mann
+    year: 1965
+    album: Mann Made
+    genres:
+      - Rock
+      - Blues
+    tags:
+        - Culturally important
+  - rank: 66
+    title: Stormy Monday Blues
+    artist: Manfred Mann
+    year: 1965
+    album: Mann Made
+    genres:
+      - Rock
+      - Blues
+    tags:
+        - Fan favorite
+  - rank: 67
+    title: The Paul Butterfield Blues Band
+    artist: Paul Butterfield Blues Band
+    year: 1965
+    album: The Paul Butterfield Blues Band
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Culturally important
+  - rank: 68
+    title: Born In Chicago
+    artist: Paul Butterfield Blues Band
+    year: 1965
+    album: The Paul Butterfield Blues Band
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Fan favorite
+  - rank: 69
+    title: Joan Baez/5
+    artist: Joan Baez
+    year: 1965
+    album: Joan Baez/5
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 70
+    title: There But For Fortune
+    artist: Joan Baez
+    year: 1965
+    album: Joan Baez/5
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 71
+    title: Farewell, Angelina
+    artist: Joan Baez
+    year: 1965
+    album: Farewell, Angelina
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 72
+    title: Farewell Angelina
+    artist: Joan Baez
+    year: 1965
+    album: Farewell, Angelina
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 73
+    title: The Freewheelin' Bob Dylan
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 74
+    title: Don't Think Twice, It's All Right
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 75
+    title: In Concert
+    artist: Joan Baez
+    year: 1965
+    album: In Concert
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 76
+    title: Kumbaya
+    artist: Joan Baez
+    year: 1965
+    album: In Concert
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 77
+    title: Four Strong Winds
+    artist: Ian & Sylvia
+    year: 1965
+    album: Four Strong Winds
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 78
+    title: Four Strong Winds
+    artist: Ian & Sylvia
+    year: 1965
+    album: Four Strong Winds
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 79
+    title: The Times They Are a-Changin'
+    artist: Bob Dylan
+    year: 1965
+    album: The Times They Are a-Changin'
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 80
+    title: With God On Our Side
+    artist: Bob Dylan
+    year: 1965
+    album: The Times They Are a-Changin'
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 81
+    title: Live at the Regal
+    artist: B.B. King
+    year: 1965
+    album: Live at the Regal
+    genres:
+      - Blues
+    tags:
+        - Culturally important
+  - rank: 82
+    title: Every Day I Have the Blues
+    artist: B.B. King
+    year: 1965
+    album: Live at the Regal
+    genres:
+      - Blues
+    tags:
+        - Fan favorite
+  - rank: 83
+    title: Father of Folk Blues
+    artist: Son House
+    year: 1965
+    album: Father of Folk Blues
+    genres:
+      - Blues
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 84
+    title: Empire Blues
+    artist: Son House
+    year: 1965
+    album: Father of Folk Blues
+    genres:
+      - Blues
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 85
+    title: The Sound Of 65
+    artist: Graham Bond Organization
+    year: 1965
+    album: The Sound Of 65
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Culturally important
+  - rank: 86
+    title: Spanish Grease
+    artist: Graham Bond Organization
+    year: 1965
+    album: The Sound Of 65
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Fan favorite
+  - rank: 87
+    title: Mann Made
+    artist: Manfred Mann
+    year: 1965
+    album: Mann Made
+    genres:
+      - Rock
+      - Blues
+    tags:
+        - Culturally important
+  - rank: 88
+    title: Still Got the Blues
+    artist: Manfred Mann
+    year: 1965
+    album: Mann Made
+    genres:
+      - Rock
+      - Blues
+    tags:
+        - Fan favorite
+  - rank: 89
+    title: Hoodoo Man Blues
+    artist: Junior Wells
+    year: 1965
+    album: Hoodoo Man Blues
+    genres:
+      - Blues
+    tags:
+        - Culturally important
+  - rank: 90
+    title: Messin' With the Kid
+    artist: Junior Wells
+    year: 1965
+    album: Hoodoo Man Blues
+    genres:
+      - Blues
+    tags:
+        - Fan favorite
+  - rank: 91
+    title: The Paul Butterfield Blues Band
+    artist: Paul Butterfield Blues Band
+    year: 1965
+    album: The Paul Butterfield Blues Band
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Culturally important
+  - rank: 92
+    title: Mellow Down Easy
+    artist: Paul Butterfield Blues Band
+    year: 1965
+    album: The Paul Butterfield Blues Band
+    genres:
+      - Blues
+      - Rock
+    tags:
+        - Fan favorite
+  - rank: 93
+    title: The Freewheelin' Bob Dylan
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 94
+    title: Girl From the North Country
+    artist: Bob Dylan
+    year: 1965
+    album: The Freewheelin' Bob Dylan
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 95
+    title: In Concert
+    artist: Joan Baez
+    year: 1965
+    album: In Concert
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 96
+    title: Black Is the Colour
+    artist: Joan Baez
+    year: 1965
+    album: In Concert
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 97
+    title: Four Strong Winds
+    artist: Ian & Sylvia
+    year: 1965
+    album: Four Strong Winds
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 98
+    title: V'la L'Bon Vent
+    artist: Ian & Sylvia
+    year: 1965
+    album: Four Strong Winds
+    genres:
+      - Folk
+    tags:
+        - Fan favorite
+  - rank: 99
+    title: The Times They Are a-Changin'
+    artist: Bob Dylan
+    year: 1965
+    album: The Times They Are a-Changin'
+    genres:
+      - Folk
+    tags:
+        - Culturally important
+  - rank: 100
+    title: Ballad in Plain D
+    artist: Bob Dylan
+    year: 1965
+    album: The Times They Are a-Changin'
+    genres:
+      - Folk
+    tags:
+      - Fan favorite

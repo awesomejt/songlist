@@ -1,0 +1,1018 @@
+songs:
+  - rank: 1
+    title: Tossin' and Turnin'
+    artist: Bobby Lewis
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 2
+    title: I Fall to Pieces
+    artist: Patsy Cline
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #12
+      - Crossover hit
+      - Culturally important
+  - rank: 3
+    title: Michael
+    artist: The Highwaymen
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 4
+    title: Crying
+    artist: Roy Orbison
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Culturally important
+  - rank: 5
+    title: Runaway
+    artist: Del Shannon
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 6
+    title: Pony Time
+    artist: Chubby Checker
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 7
+    title: Surrender
+    artist: Elvis Presley
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 8
+    title: Blue Moon
+    artist: The Marcels
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 9
+    title: Travelin' Man
+    artist: Ricky Nelson
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 10
+    title: Quarter to Three
+    artist: Gary U.S. Bonds
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 11
+    title: Stand by Me
+    artist: Ben E. King
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 12
+    title: Hit the Road Jack
+    artist: Ray Charles
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+      - Culturally important
+  - rank: 13
+    title: Mother-in-Law
+    artist: Ernie K-Doe
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 14
+    title: Please Mr. Postman
+    artist: The Marvelettes
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #1
+  - rank: 15
+    title: Shop Around
+    artist: The Miracles
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #1
+      - Billboard Hot 100 #2
+  - rank: 16
+    title: He Will Break Your Heart
+    artist: Jerry Butler
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #1
+      - Billboard Hot 100 #7
+  - rank: 17
+    title: Last Night
+    artist: The Mar-Keys
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard R&B #1
+      - Billboard Hot 100 #3
+      - Instrumental
+  - rank: 18
+    title: I Pity the Fool
+    artist: Bobby Bland
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Blues
+      - Soul
+    tags:
+      - Billboard R&B #1
+  - rank: 19
+    title: Don't Cry No More
+    artist: Bobby Bland
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Blues
+      - Soul
+    tags:
+      - Billboard R&B #2
+  - rank: 20
+    title: It's Gonna Work Out Fine
+    artist: Ike & Tina Turner
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #14
+      - Billboard R&B #2
+  - rank: 21
+    title: Hide Away
+    artist: Freddy King
+    year: 1961
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard Hot 100 #29
+      - Billboard R&B #5
+      - Instrumental
+      - Culturally important
+  - rank: 22
+    title: Turn On Your Love Light
+    artist: Bobby Bland
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Blues
+    tags:
+      - Billboard R&B #2
+      - Billboard Hot 100 #28
+  - rank: 23
+    title: Ya Ya
+    artist: Lee Dorsey
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+      - Billboard R&B #1
+  - rank: 24
+    title: Every Beat of My Heart
+    artist: The Pips
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #6
+      - Billboard R&B #1
+  - rank: 25
+    title: Let the Four Winds Blow
+    artist: Fats Domino
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Rock
+    tags:
+      - Billboard Hot 100 #15
+      - Billboard R&B #2
+  - rank: 26
+    title: My True Story
+    artist: The Jive Five
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #1
+  - rank: 27
+    title: Rainin' in My Heart
+    artist: Buddy Holly
+    year: 1961
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #88
+      - Culturally important
+  - rank: 28
+    title: Crazy
+    artist: Patsy Cline
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #9
+      - Culturally important
+  - rank: 29
+    title: Runaround Sue
+    artist: Dion
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 30
+    title: The Lion Sleeps Tonight
+    artist: The Tokens
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Culturally important
+  - rank: 31
+    title: Will You Love Me Tomorrow
+    artist: The Shirelles
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Billboard R&B #2
+      - Culturally important
+  - rank: 32
+    title: Calcutta
+    artist: Lawrence Welk
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Instrumental
+  - rank: 33
+    title: Take Good Care of My Baby
+    artist: Bobby Vee
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 34
+    title: Big Bad John
+    artist: Jimmy Dean
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 35
+    title: Wonderland by Night
+    artist: Bert Kaempfert
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+      - Instrumental
+  - rank: 36
+    title: Exodus
+    artist: Ferrante & Teicher
+    year: 1961
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Instrumental
+  - rank: 37
+    title: Goodbye Cruel World
+    artist: James Darren
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 38
+    title: Bristol Stomp
+    artist: The Dovells
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 39
+    title: A Hundred Pounds of Clay
+    artist: Gene McDaniels
+    year: 1961
+    single: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 40
+    title: The Fly
+    artist: Chubby Checker
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #7
+  - rank: 41
+    title: Don't Worry
+    artist: Marty Robbins
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 42
+    title: Fool #1
+    artist: Brenda Lee
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 43
+    title: One Mint Julep
+    artist: Ray Charles
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100 #8
+      - Billboard R&B #1
+      - Instrumental
+  - rank: 44
+    title: Apache
+    artist: Jørgen Ingmann
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #2
+      - Instrumental
+  - rank: 45
+    title: Wheels
+    artist: The String-A-Longs
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Instrumental
+  - rank: 46
+    title: But I Do
+    artist: Clarence "Frogman" Henry
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 47
+    title: Missing You
+    artist: Ray Peterson
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #29
+  - rank: 48
+    title: Dedicated to the One I Love
+    artist: The Shirelles
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #3
+      - Billboard R&B #2
+  - rank: 49
+    title: On the Rebound
+    artist: Floyd Cramer
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+      - Instrumental
+  - rank: 50
+    title: This Time
+    artist: Troy Shondell
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #6
+  - rank: 51
+    title: Angel Baby
+    artist: Rosie & The Originals
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 52
+    title: Daddy's Home
+    artist: Shep & The Limelites
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 53
+    title: My True Story
+    artist: The Jive Five
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+  - rank: 54
+    title: Raindrops
+    artist: Dee Clark
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #2
+  - rank: 55
+    title: Wooden Heart
+    artist: Joe Dowell
+    year: 1961
+    single: true
+    cover: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #1
+  - rank: 56
+    title: Hurt
+    artist: Timi Yuro
+    year: 1961
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 57
+    title: Little Sister
+    artist: Elvis Presley
+    year: 1961
+    single: true
+    genres:
+      - Rock
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 58
+    title: Let's Get Together
+    artist: Hayley Mills
+    year: 1961
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #8
+  - rank: 59
+    title: Hats Off to Larry
+    artist: Del Shannon
+    year: 1961
+    single: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 60
+    title: Last Night
+    artist: The Mar-Keys
+    year: 1961
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100 #3
+      - Instrumental
+  - rank: 61
+    title: Dum Dum
+    artist: Brenda Lee
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #4
+  - rank: 62
+    title: Sea of Heartbreak
+    artist: Don Gibson
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #21
+  - rank: 63
+    title: You Must Have Been a Beautiful Baby
+    artist: Bobby Darin
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #5
+  - rank: 64
+    title: More Money for You and Me
+    artist: The Four Preps
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #17
+  - rank: 65
+    title: My Kind of Girl
+    artist: Matt Monro
+    year: 1961
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100 #18
+  - rank: 66
+    title: Take Five
+    artist: The Dave Brubeck Quartet
+    year: 1961
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Billboard Hot 100 #25
+      - Instrumental
+      - Culturally important
+  - rank: 67
+    title: Africa
+    artist: John Coltrane
+    year: 1961
+    album: Africa/Brass
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 68
+    title: My Favorite Things
+    artist: John Coltrane
+    year: 1961
+    album: My Favorite Things
+    cover: true
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+      - Jazz standard
+  - rank: 69
+    title: Waltz for Debby
+    artist: Bill Evans Trio
+    year: 1961
+    album: Waltz for Debby
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 70
+    title: Sunday at the Village Vanguard
+    artist: Bill Evans Trio
+    year: 1961
+    album: Sunday at the Village Vanguard
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 71
+    title: Out There
+    artist: Eric Dolphy
+    year: 1961
+    album: Out There
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 72
+    title: Straight Ahead
+    artist: Abbey Lincoln
+    year: 1961
+    album: Straight Ahead
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 73
+    title: The Blues and the Abstract Truth
+    artist: Oliver Nelson
+    year: 1961
+    album: The Blues and the Abstract Truth
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 74
+    title: Free Jazz
+    artist: Ornette Coleman Double Quartet
+    year: 1961
+    album: Free Jazz
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 75
+    title: Out of the Cool
+    artist: Gil Evans Orchestra
+    year: 1961
+    album: Out of the Cool
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 76
+    title: Boom Boom
+    artist: John Lee Hooker
+    year: 1961
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 77
+    title: Driving Wheel
+    artist: Junior Parker
+    year: 1961
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Billboard R&B #5
+  - rank: 78
+    title: Bright Lights, Big City
+    artist: Jimmy Reed
+    year: 1961
+    single: true
+    genres:
+      - Blues
+      - Rhythm and Blues
+    tags:
+      - Billboard R&B #3
+  - rank: 79
+    title: I'm a King Bee
+    artist: Slim Harpo
+    year: 1961
+    single: true
+    genres:
+      - Blues
+    tags:
+      - Culturally important
+  - rank: 80
+    title: Two Steps from the Blues
+    artist: Bobby Bland
+    year: 1961
+    album: Two Steps from the Blues
+    genres:
+      - Blues
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 81
+    title: Joan Baez, Vol. 2
+    artist: Joan Baez
+    year: 1961
+    album: Joan Baez, Vol. 2
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 82
+    title: A Maid of Constant Sorrow
+    artist: Judy Collins
+    year: 1961
+    album: A Maid of Constant Sorrow
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 83
+    title: The Journeymen
+    artist: The Journeymen
+    year: 1961
+    album: The Journeymen
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 84
+    title: Kumbaya
+    artist: The Weavers
+    year: 1961
+    single: true
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 85
+    title: Where Have All the Flowers Gone?
+    artist: Pete Seeger
+    year: 1961
+    single: true
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 86
+    title: Lemon Tree
+    artist: Peter, Paul and Mary
+    year: 1961
+    single: true
+    genres:
+      - Folk
+      - Pop
+    tags:
+      - Billboard Hot 100 #35
+  - rank: 87
+    title: If I Had a Hammer
+    artist: Peter, Paul and Mary
+    year: 1961
+    single: true
+    cover: true
+    genres:
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 88
+    title: King of the Delta Blues Singers
+    artist: Robert Johnson
+    year: 1961
+    album: King of the Delta Blues Singers
+    genres:
+      - Blues
+    tags:
+      - Compilation
+      - Culturally important
+  - rank: 89
+    title: Steamin' with the Miles Davis Quintet
+    artist: The Miles Davis Quintet
+    year: 1961
+    album: Steamin' with the Miles Davis Quintet
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 90
+    title: Point of Departure
+    artist: Andrew Hill
+    year: 1961
+    album: Point of Departure
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 91
+    title: Mosaic
+    artist: Art Blakey & The Jazz Messengers
+    year: 1961
+    album: Mosaic
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 92
+    title: Basie at Birdland
+    artist: Count Basie Orchestra
+    year: 1961
+    album: Basie at Birdland
+    genres:
+      - Jazz
+      - Big Band
+    tags:
+      - Culturally important
+  - rank: 93
+    title: A Jazz Hour with Art Blakey's Jazz Messengers: Blues March
+    artist: Art Blakey
+    year: 1961
+    album: A Jazz Hour with Art Blakey's Jazz Messengers: Blues March
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 94
+    title: The Great Reunion
+    artist: Louis Armstrong & Duke Ellington
+    year: 1961
+    album: The Great Reunion
+    genres:
+      - Jazz
+      - Big Band
+    tags:
+      - Culturally important
+  - rank: 95
+    title: Genius + Soul = Jazz
+    artist: Ray Charles
+    year: 1961
+    album: Genius + Soul = Jazz
+    genres:
+      - Jazz
+      - Soul
+    tags:
+      - Culturally important
+  - rank: 96
+    title: Someday My Prince Will Come
+    artist: Miles Davis
+    year: 1961
+    album: Someday My Prince Will Come
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 97
+    title: New Orleans Suite
+    artist: Duke Ellington
+    year: 1961
+    album: New Orleans Suite
+    genres:
+      - Jazz
+      - Big Band
+    tags:
+      - Culturally important
+  - rank: 98
+    title: Explores the Music of Henry Mancini
+    artist: Quincy Jones
+    year: 1961
+    album: Explores the Music of Henry Mancini
+    genres:
+      - Jazz
+    tags:
+      - Culturally important
+  - rank: 99
+    title: The Blues
+    artist: John Lee Hooker
+    year: 1961
+    album: The Blues
+    genres:
+      - Blues
+    tags:
+      - Compilation
+      - Culturally important
+  - rank: 100
+    title: Sings the Blues
+    artist: Ray Charles
+    year: 1961
+    album: The Genius Sings the Blues
+    genres:
+      - Blues
+      - Soul
+    tags:
+      - Culturally important

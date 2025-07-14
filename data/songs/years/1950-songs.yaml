@@ -1,0 +1,612 @@
+songs:
+  - rank: 1
+    title: Goodnight Irene
+    artist: Gordon Jenkins & The Weavers
+    year: 1950
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard hit
+  - rank: 2
+    title: Mona Lisa
+    artist: Nat King Cole
+    year: 1950
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard hit
+  - rank: 3
+    title: Third Man Theme
+    artist: Anton Karas
+    year: 1950
+    single: true
+    solo-hit: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 4
+    title: Sam's Song
+    artist: Gary & Bing Crosby
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 5
+    title: Harbor Lights
+    artist: Sammy Kaye
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 6
+    title: It Isn't Fair
+    artist: Sammy Kaye & Don Cornell
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 7
+    title: My Foolish Heart
+    artist: Billy Eckstine
+    year: 1950
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+      - Jazz
+    tags:
+      - Billboard hit
+  - rank: 8
+    title: Rag Mop
+    artist: Ames Brothers
+    year: 1950
+    single: true
+    cover: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 9
+    title: Sentimental Me
+    artist: Ames Brothers
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 10
+    title: Tennessee Waltz
+    artist: Patti Page
+    year: 1950
+    single: true
+    cover: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Billboard hit
+      - Crossover hit
+  - rank: 11
+    title: Chattanoogie Shoe Shine Boy
+    artist: Red Foley
+    year: 1950
+    single: true
+    genres:
+      - Country
+      - Pop
+    tags:
+      - Billboard hit
+      - Crossover hit
+  - rank: 12
+    title: The Thing
+    artist: Phil Harris
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 13
+    title: If I Knew You Were Comin' I'd've Baked a Cake
+    artist: Eileen Barton
+    year: 1950
+    single: true
+    solo-hit: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 14
+    title: Bonaparte's Retreat
+    artist: Kay Starr
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 15
+    title: Tzena, Tzena, Tzena
+    artist: Gordon Jenkins & The Weavers
+    year: 1950
+    single: true
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Billboard hit
+  - rank: 16
+    title: There's No Tomorrow
+    artist: Tony Martin
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 17
+    title: I Wanna Be Loved
+    artist: Andrews Sisters & Gordon Jenkins
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 18
+    title: I Can Dream, Can't I
+    artist: Andrews Sisters & Gordon Jenkins
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 19
+    title: I'll Never Be Free
+    artist: Kay Starr & Tennessee Ernie Ford
+    year: 1950
+    single: true
+    genres:
+      - Pop
+      - Country
+    tags:
+      - Billboard hit
+      - Crossover hit
+  - rank: 20
+    title: All My Love
+    artist: Patti Page
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 21
+    title: My Foolish Heart
+    artist: Gordon Jenkins
+    year: 1950
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 22
+    title: Bewitched
+    artist: Bill Snyder
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 23
+    title: Hoop-Dee-Doo
+    artist: Perry Como & The Fontane Sisters
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 24
+    title: Bewitched
+    artist: Gordon Jenkins
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 25
+    title: Can Anyone Explain?
+    artist: Ames Brothers
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 26
+    title: Dear Hearts and Gentle People
+    artist: Bing Crosby
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 27
+    title: The Cry of the Wild Goose
+    artist: Frankie Laine
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 28
+    title: Third Man Theme
+    artist: Guy Lombardo
+    year: 1950
+    single: true
+    soundtrack: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 29
+    title: Play a Simple Melody
+    artist: Gary & Bing Crosby
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 30
+    title: Music, Music, Music
+    artist: Teresa Brewer
+    year: 1950
+    single: true
+    genres:
+      - Pop
+    tags:
+      - Billboard hit
+  - rank: 31
+    title: Teardrops from My Eyes
+    artist: Ruth Brown
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 32
+    title: Pink Champagne
+    artist: Joe Liggins and His Honeydrippers
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 33
+    title: Double Crossing Blues
+    artist: Johnny Otis
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 34
+    title: Mistrustin' Blues
+    artist: Esther Phillips
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 35
+    title: Blue Light Boogie (Parts 1 & 2)
+    artist: Louis Jordan & His Tympany Five
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 36
+    title: Please Send Me Someone to Love
+    artist: Percy Mayfield
+    year: 1950
+    single: true
+    solo-hit: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 37
+    title: Blue Shadows
+    artist: Lowell Fulson
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 38
+    title: Hard Luck Blues
+    artist: Roy Brown
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 39
+    title: I Need You So
+    artist: Ivory Joe Hunter
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 40
+    title: Anytime, Any Place, Anywhere
+    artist: Joe Morris and His Orchestra
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 41
+    title: Cupid Boogie
+    artist: Johnny Otis
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 42
+    title: I'll Get Along Somehow (Part One and Two)
+    artist: Larry Darnell
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 43
+    title: Why Do Things Happen to Me
+    artist: Roy Hawkins
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 44
+    title: Well Oh Well
+    artist: Tiny Bradshaw
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 45
+    title: Bad, Bad Whiskey
+    artist: Amos Milburn
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 46
+    title: Love Don't Love Nobody
+    artist: Roy Brown
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 47
+    title: The Fat Man
+    artist: Fats Domino
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 48
+    title: Information Blues
+    artist: Roy Milton and His Solid Senders
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 49
+    title: Rockin' Blues
+    artist: Johnny Otis
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 50
+    title: Everyday I Have the Blues
+    artist: Lowell Fulson
+    year: 1950
+    single: true
+    genres:
+      - Rhythm and Blues
+    tags:
+      - R&B hit
+  - rank: 51
+    title: I'm Movin' On
+    artist: Hank Snow
+    year: 1950
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 52
+    title: Why Don't You Love Me (Like You Used to Do)?
+    artist: Hank Williams
+    year: 1950
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 53
+    title: Long Gone Lonesome Blues
+    artist: Hank Williams
+    year: 1950
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 54
+    title: I'll Sail My Ship Alone
+    artist: Moon Mullican
+    year: 1950
+    single: true
+    solo-hit: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 55
+    title: Birmingham Bounce
+    artist: Red Foley
+    year: 1950
+    single: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 56
+    title: Rag Mop
+    artist: Johnnie Lee Wills
+    year: 1950
+    single: true
+    cover: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 57
+    title: (Remember Me) I'm The One Who Loves You
+    artist: Stuart Hamblen
+    year: 1950
+    single: true
+    solo-hit: true
+    genres:
+      - Country
+    tags:
+      - Country hit
+  - rank: 58
+    title: Tenderly
+    artist: Lynn Hope Quintet
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+      - Rhythm and Blues
+    tags:
+      - Jazz hit
+      - R&B hit
+  - rank: 59
+    title: Subconscious Lee
+    artist: Lee Konitz
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Jazz hit
+  - rank: 60
+    title: Bouncing with Bud
+    artist: Bud Powell
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Jazz hit
+  - rank: 61
+    title: My Funny Valentine
+    artist: Gerry Mulligan with Chet Baker
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Jazz hit
+  - rank: 62
+    title: So Long It's Been Good to Know You
+    artist: The Weavers
+    year: 1950
+    single: true
+    genres:
+      - Folk
+    tags:
+      - Folk hit
+  - rank: 63
+    title: If I Were a Bell
+    artist: Frank Loesser (various artists)
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+      - Pop
+    tags:
+      - Jazz standard
+  - rank: 64
+    title: Au Privave
+    artist: Charlie Parker
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Jazz hit
+  - rank: 65
+    title: Blues for Alice
+    artist: Charlie Parker
+    year: 1950
+    single: true
+    genres:
+      - Jazz
+    tags:
+      - Jazz hit

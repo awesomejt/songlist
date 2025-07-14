@@ -1,0 +1,770 @@
+songs:
+  - rank: 1
+    title: "That's What Friends Are For"
+    artist: "Dionne and Friends"
+    year: 1986
+    album: "Friends"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Easy Listening
+    tags:
+      - Billboard Hot 100
+      - Charity single for AIDS research
+  - rank: 2
+    title: "Say You, Say Me"
+    artist: "Lionel Richie"
+    year: 1986
+    album: "Dancing on the Ceiling"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soft Rock
+    tags:
+      - Billboard Hot 100
+      - Oscar for Best Original Song
+  - rank: 3
+    title: "I Miss You"
+    artist: "Klymaxx"
+    year: 1986
+    album: "Meeting in the Ladies Room"
+    genres:
+      - Rhythm and Blues
+      - Pop
+  - rank: 4
+    title: "On My Own"
+    artist: "Patti LaBelle and Michael McDonald"
+    year: 1986
+    album: "Winner in You"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100
+  - rank: 5
+    title: "Broken Wings"
+    artist: "Mr. Mister"
+    year: 1986
+    album: "Welcome to the Real World"
+    genres:
+      - Pop
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 6
+    title: "How Will I Know"
+    artist: "Whitney Houston"
+    year: 1986
+    album: "Whitney Houston"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Dance
+    tags:
+      - Billboard Hot 100
+  - rank: 7
+    title: "Party All the Time"
+    artist: "Eddie Murphy"
+    year: 1986
+    album: "How Could It Be"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Pop
+  - rank: 8
+    title: "Burning Heart"
+    artist: "Survivor"
+    year: 1986
+    album: "Rocky IV Soundtrack"
+    soundtrack: true
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 9
+    title: "Kyrie"
+    artist: "Mr. Mister"
+    year: 1986
+    album: "Welcome to the Real World"
+    genres:
+      - Pop
+      - Rock
+      - Soft Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 10
+    title: "Addicted to Love"
+    artist: "Robert Palmer"
+    year: 1986
+    album: "Riptide"
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Billboard Hot 100
+  - rank: 11
+    title: "Greatest Love of All"
+    artist: "Whitney Houston"
+    year: 1986
+    album: "Whitney Houston"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100
+  - rank: 12
+    title: "Secret Lovers"
+    artist: "Atlantic Starr"
+    year: 1986
+    album: "As the Band Turns"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Soul
+  - rank: 13
+    title: "Friends and Lovers"
+    artist: "Gloria Loring and Carl Anderson"
+    year: 1986
+    single: true
+    genres:
+      - Pop
+      - Easy Listening
+  - rank: 14
+    title: "Glory of Love"
+    artist: "Peter Cetera"
+    year: 1986
+    album: "Solitude/Solitaire"
+    soundtrack: true
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 15
+    title: "West End Girls"
+    artist: "Pet Shop Boys"
+    year: 1986
+    album: "Please"
+    genres:
+      - Pop
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Billboard Hot 100
+  - rank: 16
+    title: "There'll Be Sad Songs (To Make You Cry)"
+    artist: "Billy Ocean"
+    year: 1986
+    album: "Love Zone"
+    genres:
+      - Pop
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100
+  - rank: 17
+    title: "Alive and Kicking"
+    artist: "Simple Minds"
+    year: 1986
+    album: "Once Upon a Time"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 18
+    title: "Never"
+    artist: "Heart"
+    year: 1986
+    album: "Heart"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 19
+    title: "Kiss"
+    artist: "Prince and The Revolution"
+    year: 1986
+    album: "Parade"
+    genres:
+      - Funk
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100
+  - rank: 20
+    title: "Higher Love"
+    artist: "Steve Winwood"
+    year: 1986
+    album: "Back in the High Life"
+    genres:
+      - Pop
+      - Rock
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100
+  - rank: 21
+    title: "Stuck with You"
+    artist: "Huey Lewis and the News"
+    year: 1986
+    album: "Fore!"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 22
+    title: "Holding Back the Years"
+    artist: "Simply Red"
+    year: 1986
+    album: "Picture Book"
+    genres:
+      - Pop
+      - Soul
+    tags:
+      - Billboard Hot 100
+  - rank: 23
+    title: "Sledgehammer"
+    artist: "Peter Gabriel"
+    year: 1986
+    album: "So"
+    genres:
+      - Rock
+      - Pop
+      - Funk
+    tags:
+      - Billboard Hot 100
+  - rank: 24
+    title: "Sara"
+    artist: "Starship"
+    year: 1986
+    album: "Knee Deep in the Hoopla"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 25
+    title: "Human"
+    artist: "The Human League"
+    year: 1986
+    album: "Crash"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100
+  - rank: 26
+    title: "I Can't Wait"
+    artist: "Nu Shooz"
+    year: 1986
+    album: "Poolside"
+    genres:
+      - Pop
+      - Funk
+      - Dance
+  - rank: 27
+    title: "Take My Breath Away"
+    artist: "Berlin"
+    year: 1986
+    album: "Count Three & Pray"
+    soundtrack: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100
+      - Oscar for Best Original Song
+  - rank: 28
+    title: "Rock Me Amadeus"
+    artist: "Falco"
+    year: 1986
+    album: "Falco 3"
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100
+  - rank: 29
+    title: "Papa Don't Preach"
+    artist: "Madonna"
+    year: 1986
+    album: "True Blue"
+    genres:
+      - Pop
+    tags:
+      - Billboard Hot 100
+  - rank: 30
+    title: "You Give Love a Bad Name"
+    artist: "Bon Jovi"
+    year: 1986
+    album: "Slippery When Wet"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 31
+    title: "When the Going Gets Tough, the Tough Get Going"
+    artist: "Billy Ocean"
+    year: 1986
+    album: "Love Zone"
+    soundtrack: true
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - rank: 32
+    title: "When I Think of You"
+    artist: "Janet Jackson"
+    year: 1986
+    album: "Control"
+    genres:
+      - Pop
+      - Rhythm and Blues
+    tags:
+      - Billboard Hot 100
+  - rank: 33
+    title: "These Dreams"
+    artist: "Heart"
+    year: 1986
+    album: "Heart"
+    genres:
+      - Rock
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 34
+    title: "Don't Forget Me (When I'm Gone)"
+    artist: "Glass Tiger"
+    year: 1986
+    album: "The Thin Red Line"
+    genres:
+      - Pop
+      - Rock
+  - rank: 35
+    title: "Live to Tell"
+    artist: "Madonna"
+    year: "1986"
+    album: "True Blue"
+    soundtrack: true
+    genres:
+      - Pop
+      - Easy Listening
+    tags:
+      - Billboard Hot 100
+  - rank: 36
+    title: "Mad About You"
+    artist: "Belinda Carlisle"
+    year: 1986
+    album: "Belinda"
+    genres:
+      - Pop
+      - Rock
+  - rank: 37
+    title: "Something About You"
+    artist: "Level 42"
+    year: 1986
+    album: "World Machine"
+    genres:
+      - Pop
+      - Funk
+      - Jazz
+  - rank: 38
+    title: "Venus"
+    artist: "Bananarama"
+    year: 1986
+    album: "True Confessions"
+    cover: true
+    genres:
+      - Pop
+      - New Wave
+    tags:
+      - Billboard Hot 100
+      - Original artist: Shocking Blue
+  - rank: 39
+    title: "Dancing on the Ceiling"
+    artist: "Lionel Richie"
+    year: 1986
+    album: "Dancing on the Ceiling"
+    genres:
+      - Pop
+      - Rhythm and Blues
+  - Funk
+  - rank: 40
+    title: "Conga"
+    artist: "Miami Sound Machine"
+    year: "1986"
+    album: "Primitive Love"
+    genres:
+      - Pop
+      - Latin Pop
+  - rank: 41
+    title: "True Colors"
+    artist: "Cyndi Lauper"
+    year: 1986
+    album: "True Colors"
+    genres:
+      - Pop
+      - Soft Rock
+    tags:
+      - Billboard Hot 100
+  - rank: 42"
+    title: "Danger Zone"
+    artist: "Kenny Loggins
+    year: 1986
+    album: "Top Gun Soundtrack"
+    soundtrack: true
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 43
+    title: "What Have You Done For Me Lately"
+    artist: "Janet Jackson"
+    year: 1986
+    album: "Control"
+    genres:
+      - Rhythm and Blues
+      - Pop
+      - Funk
+  - rank: 44
+    title: "No One Is to Blame"
+    artist: "Howard Jones"
+    year: 1986
+    album: "Action Replay"
+    genres:
+      - Pop
+      - New Wave
+  - rank: 45
+    title: "Let's Go All the Way"
+    artist: "Sly Fox"
+    year: 1986
+    album: "Let's Go All the Way"
+    solo-hit: true
+    genres:
+      - Pop
+      - New Wave
+  - rank: 46
+    title: "I Didn't Mean to Turn You On"
+    artist: "Robert Palmer"
+    year: 1986
+    album: "Riptide"
+    cover: true
+    genres:
+      - Rock
+      - Pop
+    tags:
+      - Original artist: Cherrelle
+  - rank: 47
+    title: "Words Get in the Way"
+    artist: "Miami Sound Machine"
+    year: 1986
+    album: "Primitive Love"
+    genres:
+      - Pop
+      - Soft Rock
+  - rank: 48
+    title: "Manic Monday"
+    artist: "The Bangles"
+    year: 1986
+    album: "Different Light"
+    genres:
+      - Pop
+      - Rock
+  - rank: 49
+    title: "Walk of Life"
+    artist: "Dire Straits"
+    year: 1986
+    album: "Brothers in Arms"
+    genres:
+      - Rock
+      - Folk
+  - rank: 50
+    title: "Amanda"
+    artist: "Boston"
+    year: 1986
+    album: "Third Stage"
+    genres:
+      - Rock
+      - Hard Rock
+  - rank: 51
+    title: "Master of Puppets"
+    artist: "Metallica"
+    year: 1986
+    album: "Master of Puppets"
+    genres:
+      - Hard Rock
+    tags:
+      - Culturally important
+      - Fan favorite
+  - rank: 52
+    title: "The Final Countdown"
+    artist: "Europe"
+    year: 1986
+    album: "The Final Countdown"
+    genres:
+      - Hard Rock
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 53
+    title: "Ship of Fools"
+    artist: "World Party"
+    year: 1986
+    album: "Private Revolution"
+    genres:
+      - Rock
+      - Folk
+    tags:
+      - Fan favorite
+  - rank: 54
+    title: "Wanted Dead or Alive"
+    artist: "Bon Jovi"
+    year: 1986
+    album: "Slippery When Wet"
+    genres:
+      - Rock
+      - Hard Rock
+    tags:
+      - Fan favorite
+  - rank: 55
+    title: "Saturday Love"
+    artist: "Cherrelle with Alexander O'Neal"
+    year: 1986
+    album: "High Priority"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 56
+    title: "Tasty Love"
+    artist: "Freddie Jackson"
+    year: 1986
+    album: "Just Like the First Time"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 57
+    title: "Shake You Down"
+    artist: "Gregory Abbott"
+    year: 1986
+    album: "Shake You Down"
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Billboard Hot 100
+  - rank: 58
+    title: "Computer Love"
+    artist: "Zapp"
+    year: 1986
+    album: "The New Zapp IV U"
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 59
+    title: "Don't Get Me Wrong"
+    artist: "The Pretenders"
+    year: 1986
+    album: "Get Close"
+    genres:
+      - Rock
+      - New Wave
+  - rank: 60
+    title: "Shoulder Pads 1#"
+    artist: "The Fall"
+    year: 1986
+    album: "Bend Sinister"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Fan favorite
+  - rank: 61
+    title: "Smoking Gun"
+    artist: "The Robert Cray Band"
+    year: 1986
+    album: "Strong Persuader"
+    genres:
+      - Blues
+    tags:
+      - Culturally important in blues
+  - rank: 62
+    title: "Give Me the Reason"
+    artist: "Luther Vandross"
+    year: 1986
+    album: "Give Me the Reason"
+    soundtrack: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 63
+    title: "You Can Call Me Al"
+    artist: "Paul Simon"
+    year: 1986
+    album: "Graceland"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 64
+    title: "The Boy in the Bubble"
+    artist: "Paul Simon"
+    year: 1986
+    album: "Graceland"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 65
+    title: "Songbird"
+    artist: "Kenny G"
+    year: 1986
+    album: "Duotones"
+    genres:
+      - Jazz
+    tags:
+      - Fan favorite
+  - rank: 66
+    title: "Back in the High Life Again"
+    artist: "Steve Winwood"
+    year: 1986
+    album: "Back in the High Life"
+    genres:
+      - Pop
+      - Rock
+      - Blues
+  - rank: 67
+    title: "Midas Touch"
+    artist: "Midnight Star"
+    year: 1986
+    album: "Headlines"
+    genres:
+      - Funk
+      - Rhythm and Blues
+  - rank: 68
+    title: "Do Me, Baby"
+    artist: "Meli'sa Morgan"
+    year: 1986
+    album: "Do Me Baby"
+    cover: true
+    genres:
+      - Rhythm and Blues
+      - Soul
+    tags:
+      - Original artist: Prince
+  - rank: 69
+    title: "Love You Down"
+    artist: "Ready for the World"
+    year: 1986
+    album: "Long Time Coming"
+    genres:
+      - Rhythm and Blues
+      - Soul
+  - rank: 70
+    title: "Ain't Nothing Goin' On But the Rent"
+    artist: "Gwen Guthrie"
+    year: 1986
+    album: "Good to Go Lover"
+    genres:
+      - Rhythm and Blues
+      - Funk
+      - Disco
+  - rank: 71
+    title: "Point of No Return"
+    artist: "Nu Shooz"
+    year: 1986
+    album: "Poolside"
+    genres:
+      - Pop
+      - Funk
+  - rank: 72
+    title: "Don't Dream It's Over"
+    artist: "Crowded House"
+    year: 1986
+    album: "Crowded House"
+    genres:
+      - Pop
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 73
+    title: "Black Celebration"
+    artist: "Depeche Mode"
+    year: 1986
+    album: "Black Celebration"
+    genres:
+      - New Wave
+      - Synth-Pop
+    tags:
+      - Fan favorite
+  - rank: 74
+    title: "Candy Apple Grey"
+    artist: "Husker Du"
+    year: 1986
+    album: "Candy Apple Grey"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+  - rank: 75
+    title: "Live in New York City"
+    artist: "John Lennon"
+    year: 1986
+    album: "Live in New York City"
+    genres:
+      - Rock
+    tags:
+      - Fan favorite
+      - Compilation
+  - rank: 76
+    title: "Somewhere in Time"
+    artist: "Iron Maiden"
+    year: 1986
+    album: "Somewhere in Time"
+    genres:
+      - Hard Rock
+    tags:
+      - Fan favorite
+  - rank: 77
+    title: "Epicus Doomicus Metallicus"
+    artist: "Candlemass"
+    year: 1986
+    album: "Epicus Doomicus Metallicus"
+    genres:
+      - Hard Rock
+    tags:
+      - Culturally important in metal
+  - rank: 78
+    title: "The Queen is Dead"
+    artist: "The Smiths"
+    year: 1986
+    album: "The Queen is Dead"
+    genres:
+      - Rock
+      - New Wave
+    tags:
+      - Culturally important
+  - rank: 79
+    title: "Graceland"
+    artist: "Paul Simon"
+    year: 1986
+    album: "Graceland"
+    genres:
+      - Pop
+      - Folk
+    tags:
+      - Culturally important
+  - rank: 80
+    title: "Rapture"
+    artist: "Anita Baker"
+    year: 1986
+    album: "Rapture"
+    genres:
+      - Rhythm and Blues
+      - Soul
+      - Jazz
+    tags:
+      - Culturally important
+      - Grammy winner
